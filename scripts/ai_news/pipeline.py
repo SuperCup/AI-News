@@ -464,13 +464,20 @@ def extract_json_block(value: str) -> Any:
     return json.loads(cleaned)
 
 
+def llm_client():
+    from openai import OpenAI
+
+    base_url = os.getenv("OPENAI_BASE_URL")
+    if base_url:
+        return OpenAI(base_url=base_url.rstrip("/"))
+    return OpenAI()
+
+
 def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]] | None:
     if not os.getenv("OPENAI_API_KEY"):
         return None
     try:
-        from openai import OpenAI
-
-        client = OpenAI()
+        client = llm_client()
         max_items = int(rules["max_daily_items"])
         payload = [item.as_prompt_dict() for item in candidates[:70]]
         prompt = {
@@ -693,9 +700,7 @@ def llm_weekly_items(candidates: list[dict[str, Any]], rules: dict[str, Any]) ->
     if not os.getenv("OPENAI_API_KEY"):
         return None
     try:
-        from openai import OpenAI
-
-        client = OpenAI()
+        client = llm_client()
         limit = int(rules["weekly_impact_items"])
         compact = [
             {

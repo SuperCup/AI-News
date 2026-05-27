@@ -64,6 +64,7 @@ jobs:
         if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 1 * * *' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'daily' || inputs.mode == 'all') }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
           BING_SEARCH_API_KEY: ${{ secrets.BING_SEARCH_API_KEY }}
@@ -75,6 +76,7 @@ jobs:
         if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 12 * * 0' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'weekly' || inputs.mode == 'all') }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://supercup.github.io/AI-News' }}
         run: python scripts/run_weekly.py

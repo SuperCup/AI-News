@@ -16,9 +16,17 @@ Daily and weekly AI news collection, static publishing, and WeCom push delivery.
 Set these repository secrets before enabling the workflow:
 
 - `WECHAT_WEBHOOK_URL`: required for Enterprise WeChat pushes.
-- `OPENAI_API_KEY`: recommended for Chinese summarization, ranking, and weekly impact extraction.
+- `OPENAI_API_KEY`: recommended for Chinese summarization, ranking, and weekly impact extraction. If you use an OpenAI-compatible provider, put that provider's API key here.
 - `SERPER_API_KEY`: optional Google search/news enrichment.
 - `BING_SEARCH_API_KEY`: optional Bing News Search enrichment.
+
+## GitHub Variables
+
+Optional repository variables:
+
+- `OPENAI_MODEL`: defaults to `gpt-5-mini`. For DeepSeek, use `deepseek-chat`.
+- `OPENAI_BASE_URL`: optional OpenAI-compatible endpoint. For DeepSeek, use `https://api.deepseek.com`.
+- `SITE_BASE_URL`: defaults to `https://supercup.github.io/AI-News`.
 
 The pipeline still runs with RSS fallback if search API keys are missing, but coverage and summary quality are better with the keys above.
 
