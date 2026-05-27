@@ -612,11 +612,10 @@ def fallback_summary_parts(item: Candidate, source_text: str) -> list[str]:
 
     topic_text = "、".join(topic_label(topic) for topic in (item.topics or [])[:4]) or "AI"
     company_text = "、".join(item.companies or []) or "相关公司/机构"
-    region_text = region_label(item.country_focus)
     return [
-        f"{item.source} 报道了「{item.title}」相关进展，地区归类为{region_text}。",
+        f"{item.source} 报道了「{item.title}」相关进展。",
         f"该消息涉及{topic_text}方向，关联主体包括{company_text}。",
-        "原始信息来自非中文或机器可读摘要；概览已翻译/转写为中文，完整背景、数据和引用请以原文为准。",
+        "相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
     ]
 
 
@@ -630,10 +629,10 @@ def fallback_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> 
             summary_parts = [f"该消息围绕 {item.title}。"]
         if len(summary_parts) < 3:
             summary_parts.append(
-                "自动化已根据标题、来源摘要、公司和主题标签判断其与今日 AI 动态相关。"
+                "该事件与今日 AI 技术、产品或产业动态相关。"
             )
         if len(summary_parts) < 3:
-            summary_parts.append("建议打开原文查看完整背景、数据和引用。")
+            summary_parts.append("更多背景、数据和引用可查看原文。")
         topics = item.topics or []
         companies = item.companies or []
         details = item.article_excerpt[:900] if item.article_excerpt else item.snippet[:900]
@@ -875,7 +874,7 @@ def build_weekly(end_date: str | None = None, root: Path | None = None) -> dict[
             item = normalize_weekly_item(row)
             item["impact_reason"] = (
                 item.get("impact_reason")
-                or "该消息在本周候选集中综合重要性较高，关联技术演进、产业竞争或监管环境变化。"
+                or "该消息关联技术演进、产业竞争或监管环境变化。"
             )
             weekly_items.append(item)
 
@@ -952,13 +951,28 @@ def draw_lines(
     return y
 
 
+def display_text(value: str | None) -> str:
+    text = clean_text(value)
+    replacements = [
+        "自动化已根据标题、来源摘要、公司和主题标签判断其与今日 AI 动态相关。",
+        "建议打开原文查看完整背景、数据和引用。",
+        "原始信息来自非中文或机器可读摘要；",
+        "该消息在本周候选集中综合重要性较高，",
+    ]
+    for old in replacements:
+        text = text.replace(old, "")
+    text = text.replace("概览已翻译/转写为中文，", "")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
 def render_overview_image(
     title: str,
-    subtitle: str,
-    note: str,
     items: list[dict[str, Any]],
     out_path: Path,
     kind: str = "daily",
+    subtitle: str = "",
+    note: str = "",
 ) -> Path:
     width = 1240
     margin = 58
@@ -975,10 +989,13 @@ def render_overview_image(
     probe = Image.new("RGB", (width, 200), "#F7F7F3")
     draw = ImageDraw.Draw(probe)
     cards: list[dict[str, Any]] = []
-    total_h = 212
+    header_h = 188 if subtitle or note else 156
+    card_start_y = header_h + 32
+    total_h = card_start_y
     for idx, item in enumerate(items, start=1):
         title_lines = wrap_text(draw, item.get("title", ""), item_title_font, content_w - card_pad * 2 - 58, 2)
         body = item.get("impact_reason") if kind == "weekly" else item.get("summary")
+        body = display_text(body)
         body_lines = wrap_text(draw, body or "", body_font, content_w - card_pad * 2, 3)
         meta = f"{item.get('source', '未标明')}｜{item.get('published_at', '未标明')}"
         if item.get("companies"):
@@ -990,13 +1007,15 @@ def render_overview_image(
     height = total_h + 58
     image = Image.new("RGB", (width, height), "#F7F7F3")
     draw = ImageDraw.Draw(image)
-    draw.rectangle((0, 0, width, 188), fill="#1E5B4F")
+    draw.rectangle((0, 0, width, header_h), fill="#1E5B4F")
     draw.text((margin, 40), title, font=title_font, fill="#FFFFFF")
-    draw.text((margin, 104), subtitle, font=sub_font, fill="#FFFFFF")
-    draw.text((margin, 138), note, font=sub_font, fill="#FFFFFF")
+    if subtitle:
+        draw.text((margin, 104), subtitle, font=sub_font, fill="#FFFFFF")
+    if note:
+        draw.text((margin, 138), note, font=sub_font, fill="#FFFFFF")
 
     palette = ["#C4554D", "#2B6CB0", "#1E7A5F", "#B56B24"]
-    y = 220
+    y = card_start_y
     for idx, (item, card) in enumerate(zip(items, cards), start=1):
         card_box = (margin, y, margin + content_w, y + card["height"])
         draw.rounded_rectangle(card_box, radius=14, fill="#FFFFFF")
@@ -1038,19 +1057,15 @@ def rel_from_page(target: str, depth: int) -> str:
 
 def item_card(item: dict[str, Any]) -> str:
     companies = "、".join(item.get("companies", [])[:4])
-    topics = "、".join(item.get("topics", [])[:5])
     meta_bits = [item.get("source", "未标明"), item.get("published_at", "未标明")]
     if companies:
         meta_bits.insert(0, companies)
-    meta_bits.insert(0, region_label(item.get("country_focus")))
-    if topics:
-        meta_bits.append(topics)
     return f"""
     <article class="news-card">
       <div class="meta">{html.escape("｜".join(meta_bits))}</div>
       <h2>{html.escape(item.get("title", ""))}</h2>
-      <p class="summary">{html.escape(item.get("summary", ""))}</p>
-      <p>{html.escape(item.get("details", ""))}</p>
+      <p class="summary">{html.escape(display_text(item.get("summary", "")))}</p>
+      <p>{html.escape(display_text(item.get("details", "")))}</p>
       <a class="source-link" href="{html.escape(item.get("url", ""))}" target="_blank" rel="noopener">打开原文</a>
     </article>
     """
@@ -1100,8 +1115,6 @@ def render_daily_page(daily: dict[str, Any], docs: Path) -> None:
     image_path = docs / daily["image_path"]
     render_overview_image(
         title=f"AI 新闻日报 · {date_value}",
-        subtitle=f"共 {stats['total']} 条｜中国 {stats['china_count']} 条｜美国 {stats['us_count']} 条｜其他 {stats['other_count']} 条",
-        note="中、美、其他地区按约三分之一配比；中美头部公司优先，兼顾其他地区重要动态。",
         items=daily["items"],
         out_path=image_path,
         kind="daily",
@@ -1112,7 +1125,6 @@ def render_daily_page(daily: dict[str, Any], docs: Path) -> None:
     <section class="hero">
       <p class="eyebrow">Daily Collection</p>
       <h1>AI 新闻日报 · {html.escape(date_value)}</h1>
-      <p>按重要性、时效性与区域配比筛选：每日 20 条目标为中国 7 条、美国 7 条、其他地区 6 条。</p>
       <a class="primary-link" href="{html.escape(daily['site_url'])}">当前页面链接</a>
     </section>
     <section class="list">{cards}</section>
@@ -1128,8 +1140,6 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
     image_path = docs / weekly["image_path"]
     render_overview_image(
         title=f"AI 影响力周报 · {week}",
-        subtitle=f"{weekly['date_range']}｜影响最大的 {weekly['stats']['total']} 条",
-        note="从上周日报集合中抽取，对世界或行业影响优先。",
         items=weekly["items"],
         out_path=image_path,
         kind="weekly",
@@ -1140,7 +1150,6 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
     <section class="hero">
       <p class="eyebrow">Weekly Impact Digest</p>
       <h1>AI 影响力周报 · {html.escape(week)}</h1>
-      <p>{html.escape(weekly['date_range'])}，从日报集合中抽出对世界或行业影响最大的 10 条。</p>
       <a class="primary-link" href="{html.escape(weekly['site_url'])}">当前页面链接</a>
     </section>
     <section class="list">{cards}</section>
@@ -1153,11 +1162,11 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
 
 def render_index(dailies: list[dict[str, Any]], weeklies: list[dict[str, Any]], docs: Path) -> None:
     daily_links = "\n".join(
-        f'<a class="archive-link" href="daily/{html.escape(row["date"])}/"><strong>{html.escape(row["date"])}</strong><span>{row["stats"]["total"]} 条｜中 {row["stats"].get("china_count", 0)}｜美 {row["stats"].get("us_count", 0)}｜其他 {row["stats"].get("other_count", 0)}</span></a>'
+        f'<a class="archive-link" href="daily/{html.escape(row["date"])}/"><strong>{html.escape(row["date"])}</strong></a>'
         for row in reversed(dailies[-30:])
     )
     weekly_links = "\n".join(
-        f'<a class="archive-link" href="weekly/{html.escape(row["week"])}/"><strong>{html.escape(row["week"])}</strong><span>{html.escape(row["date_range"])}｜{row["stats"]["total"]} 条</span></a>'
+        f'<a class="archive-link" href="weekly/{html.escape(row["week"])}/"><strong>{html.escape(row["week"])}</strong><span>{html.escape(row["date_range"])}</span></a>'
         for row in reversed(weeklies[-12:])
     )
     body = f"""
@@ -1165,7 +1174,6 @@ def render_index(dailies: list[dict[str, Any]], weeklies: list[dict[str, Any]], 
     <section class="hero">
       <p class="eyebrow">AI News Archive</p>
       <h1>AI 新闻集合</h1>
-      <p>每日跟踪全球 AI 技术、产品、公司、监管、安全和商业动态；每周抽取影响最大的 10 条。</p>
     </section>
     <section class="archive-grid">
       <div>
@@ -1356,12 +1364,10 @@ def send_daily(daily: dict[str, Any], root: Path | None = None) -> None:
         return
     image_path = root / "docs" / daily["image_path"]
     send_wecom_image(webhook, image_path)
-    stats = daily["stats"]
     content = textwrap.dedent(
         f"""
         **AI 新闻日报｜{daily['date']}**
-        > 共 {stats['total']} 条；中国 {stats.get('china_count', 0)} 条；美国 {stats.get('us_count', 0)} 条；其他 {stats.get('other_count', 0)} 条。
-        > [点击查看网页版]({daily['site_url']})
+        [查看网页版]({daily['site_url']})
         """
     ).strip()
     send_wecom_markdown(webhook, content)
@@ -1378,8 +1384,7 @@ def send_weekly(weekly: dict[str, Any], root: Path | None = None) -> None:
     content = textwrap.dedent(
         f"""
         **AI 影响力周报｜{weekly['week']}**
-        > {weekly['date_range']}，抽取影响最大的 {weekly['stats']['total']} 条。
-        > [点击查看网页版]({weekly['site_url']})
+        [查看网页版]({weekly['site_url']})
         """
     ).strip()
     send_wecom_markdown(webhook, content)
