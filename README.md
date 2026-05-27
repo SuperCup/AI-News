@@ -70,4 +70,12 @@ python scripts/run_weekly.py
 
 ## GitHub Pages
 
-The workflow deploys the `docs/` directory with GitHub Pages. If this is the first deployment for the repository, enable Pages with GitHub Actions as the source in repository settings if GitHub asks for it.
+The workflow writes the static site to `docs/`. If `https://supercup.github.io/AI-News/` returns 404 after the first push, enable GitHub Pages once:
+
+1. Open repository `Settings`.
+2. Go to `Pages`.
+3. Set source to `Deploy from a branch`.
+4. Select branch `main` and folder `/docs`.
+5. Save.
+
+After that, daily and weekly workflow runs will keep the hosted site updated.
