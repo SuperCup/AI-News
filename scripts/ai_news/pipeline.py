@@ -44,7 +44,7 @@ class Candidate:
     company_hint: str | None = None
     article_excerpt: str = ""
     companies: list[str] | None = None
-    country_focus: str = "GLOBAL"
+    country_focus: str = "OTHER"
     topics: list[str] | None = None
     importance: float = 0.0
 
@@ -168,7 +168,7 @@ def detect_companies(text: str, companies: list[dict[str, Any]]) -> tuple[list[s
                 break
     found.sort()
     names = []
-    country = "GLOBAL"
+    country = "OTHER"
     countries = {row[1] for row in found}
     for _, _, name in found:
         if name not in names:
@@ -187,6 +187,43 @@ def detect_topics(text: str, hints: list[str]) -> list[str]:
         if any(word.lower() in low for word in words):
             topics.add(topic)
     return sorted(topics)
+
+
+def normalize_region(value: str | None) -> str:
+    value = (value or "OTHER").upper()
+    if value in {"CN", "CHINA"}:
+        return "CN"
+    if value in {"US", "USA", "UNITED STATES"}:
+        return "US"
+    return "OTHER"
+
+
+def region_label(value: str | None) -> str:
+    region = normalize_region(value)
+    return {"CN": "中国", "US": "美国", "OTHER": "其他"}.get(region, "其他")
+
+
+def region_targets(rules: dict[str, Any], total: int | None = None) -> dict[str, int]:
+    configured = rules.get("region_target_counts") or {}
+    max_items = total or int(rules["max_daily_items"])
+    targets = {
+        "CN": int(configured.get("CN", math.ceil(max_items / 3))),
+        "US": int(configured.get("US", math.ceil(max_items / 3))),
+        "OTHER": int(configured.get("OTHER", max_items // 3)),
+    }
+    delta = max_items - sum(targets.values())
+    order = ["OTHER", "US", "CN"]
+    idx = 0
+    while delta != 0:
+        key = order[idx % len(order)]
+        if delta > 0:
+            targets[key] += 1
+            delta -= 1
+        elif targets[key] > 0:
+            targets[key] -= 1
+            delta += 1
+        idx += 1
+    return targets
 
 
 def build_query_specs(rules: dict[str, Any]) -> list[dict[str, Any]]:
@@ -402,8 +439,9 @@ def score_candidates(candidates: list[Candidate], rules: dict[str, Any]) -> list
             found_companies.insert(0, item.company_hint)
         item.companies = found_companies[:4]
         item.country_focus = item.country_hint or detected_country
-        if item.country_focus == "GLOBAL" and has_cjk(text):
+        if normalize_region(item.country_focus) == "OTHER" and has_cjk(text):
             item.country_focus = "CN"
+        item.country_focus = normalize_region(item.country_focus)
         item.topics = detect_topics(text, item.topic_hints)
 
         score = item.query_weight
@@ -412,6 +450,10 @@ def score_candidates(candidates: list[Candidate], rules: dict[str, Any]) -> list
             score += 24
             if item.country_focus == "CN":
                 score += 4
+            elif item.country_focus == "US":
+                score += 4
+        elif item.country_focus == "OTHER":
+            score += 3
         if any(name in item.source.lower() for name in trusted_sources):
             score += 7
 
@@ -473,37 +515,65 @@ def llm_client():
     return OpenAI()
 
 
+def llm_text(system_prompt: str, user_prompt: str) -> str:
+    client = llm_client()
+    model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
+    if os.getenv("OPENAI_BASE_URL"):
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        return response.choices[0].message.content or ""
+
+    try:
+        response = client.responses.create(
+            model=model,
+            input=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        return response.output_text
+    except Exception:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        return response.choices[0].message.content or ""
+
+
 def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]] | None:
     if not os.getenv("OPENAI_API_KEY"):
         return None
     try:
-        client = llm_client()
         max_items = int(rules["max_daily_items"])
         payload = [item.as_prompt_dict() for item in candidates[:70]]
         prompt = {
             "task": "从候选新闻中选出今日 AI 日报，生成中文内容。",
             "rules": [
-                f"最多 {max_items} 条。",
-                "优先中美头部 AI 公司相关消息；如果候选池足够，中国公司或中国 AI 产业相关消息不少于三分之一。",
+                f"必须尽量选满 {max_items} 条；候选不足时才少于该数量。",
+                "区域配比按中国、美国、其他地区各约三分之一执行；20 条时目标为中国 7 条、美国 7 条、其他地区 6 条。候选不足时用剩余高重要性新闻补齐。",
+                "优先中美头部 AI 公司相关消息，同时保留欧洲、日本、韩国、英国、加拿大、新加坡等其他地区的重要 AI 动态。",
                 "覆盖大模型、AI Agent、机器人、芯片、开源模型、论文、AI 产品、企业应用、监管政策、安全事件、融资并购等商业活动。",
                 "只使用候选中给出的事实、来源、日期和链接；不要编造链接、时间、公司或细节。",
-                "每条包含 title、summary、details、url、source、published_at、companies、country_focus、topics、importance。",
+                "每条包含 title、summary、details、url、source、published_at、companies、country_focus、topics、importance；country_focus 只能是 CN、US 或 OTHER。",
                 "summary 用 3-5 句中文概览；details 说明事件细节或注明只能从摘要判断。",
+                "如果候选标题、摘要或正文是英文或其他非中文语言，summary 和 details 中的事实性描述必须翻译成中文；公司名、模型名、产品名、论文名可保留原文。",
                 "保留英文模型名、公司名、产品名，不强行翻译。",
             ],
             "candidates": payload,
         }
-        response = client.responses.create(
-            model=os.getenv("OPENAI_MODEL", "gpt-5-mini"),
-            input=[
-                {
-                    "role": "system",
-                    "content": "你是严谨的 AI 产业新闻编辑。输出必须是 JSON 数组，不要输出解释。",
-                },
-                {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
-            ],
+        output_text = llm_text(
+            "你是严谨的 AI 产业新闻编辑。输出必须是 JSON 数组，不要输出解释。",
+            json.dumps(prompt, ensure_ascii=False),
         )
-        data = extract_json_block(response.output_text)
+        data = extract_json_block(output_text)
         if not isinstance(data, list):
             return None
         return normalize_items(data, candidates, rules)
@@ -517,13 +587,45 @@ def split_sentences(text: str) -> list[str]:
     return [part for part in parts if part]
 
 
+def topic_label(topic: str) -> str:
+    labels = {
+        "large_model": "大模型",
+        "ai_agent": "AI Agent",
+        "robotics": "机器人",
+        "chips": "AI 芯片",
+        "open_source_model": "开源模型",
+        "research_paper": "论文/评测",
+        "ai_product": "AI 产品",
+        "enterprise_ai": "企业应用",
+        "regulation": "监管政策",
+        "safety_security": "安全事件",
+        "commercial": "商业活动",
+    }
+    return labels.get(topic, topic)
+
+
+def fallback_summary_parts(item: Candidate, source_text: str) -> list[str]:
+    if has_cjk(source_text):
+        parts = split_sentences(source_text)[:3]
+        if parts:
+            return parts
+
+    topic_text = "、".join(topic_label(topic) for topic in (item.topics or [])[:4]) or "AI"
+    company_text = "、".join(item.companies or []) or "相关公司/机构"
+    region_text = region_label(item.country_focus)
+    return [
+        f"{item.source} 报道了「{item.title}」相关进展，地区归类为{region_text}。",
+        f"该消息涉及{topic_text}方向，关联主体包括{company_text}。",
+        "原始信息来自非中文或机器可读摘要；概览已翻译/转写为中文，完整背景、数据和引用请以原文为准。",
+    ]
+
+
 def fallback_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]]:
     selected = balanced_select(candidates, rules)
     items: list[dict[str, Any]] = []
     for item in selected:
         source_text = item.article_excerpt or item.snippet
-        sentences = split_sentences(source_text)
-        summary_parts = sentences[:3]
+        summary_parts = fallback_summary_parts(item, source_text)
         if not summary_parts:
             summary_parts = [f"该消息围绕 {item.title}。"]
         if len(summary_parts) < 3:
@@ -576,7 +678,7 @@ def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rul
                 "source": clean_text(raw.get("source")) or (candidate.source if candidate else "未标明"),
                 "published_at": clean_text(raw.get("published_at")) or (candidate.published_at if candidate else "未标明"),
                 "companies": raw.get("companies") or (candidate.companies if candidate else []),
-                "country_focus": raw.get("country_focus") or (candidate.country_focus if candidate else "GLOBAL"),
+                "country_focus": normalize_region(raw.get("country_focus") or (candidate.country_focus if candidate else "OTHER")),
                 "topics": raw.get("topics") or (candidate.topics if candidate else []),
                 "importance": float(raw.get("importance") or (candidate.importance if candidate else 0)),
             }
@@ -586,64 +688,51 @@ def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rul
 
 def balanced_select(candidates: list[Candidate], rules: dict[str, Any]) -> list[Candidate]:
     max_items = int(rules["max_daily_items"])
-    selected = candidates[:max_items]
-    if not selected:
-        return []
+    selected: list[Candidate] = []
+    selected_ids: set[int] = set()
+    targets = region_targets(rules, max_items)
 
-    target_cn = math.ceil(len(selected) * float(rules["min_china_ratio"]))
-    cn_pool = [row for row in candidates if row.country_focus == "CN" and row not in selected]
-    while sum(1 for row in selected if row.country_focus == "CN") < target_cn and cn_pool:
-        replacement = cn_pool.pop(0)
-        non_cn_indices = [idx for idx, row in enumerate(selected) if row.country_focus != "CN"]
-        if not non_cn_indices:
+    for region in ("CN", "US", "OTHER"):
+        pool = [row for row in candidates if normalize_region(row.country_focus) == region]
+        for row in pool:
+            if len([item for item in selected if normalize_region(item.country_focus) == region]) >= targets[region]:
+                break
+            if id(row) not in selected_ids:
+                selected.append(row)
+                selected_ids.add(id(row))
+
+    for row in candidates:
+        if len(selected) >= max_items:
             break
-        replace_idx = min(non_cn_indices, key=lambda idx: selected[idx].importance)
-        selected[replace_idx] = replacement
+        if id(row) not in selected_ids:
+            selected.append(row)
+            selected_ids.add(id(row))
 
-    max_cn = math.floor(len(selected) * float(rules.get("max_china_ratio", 1)))
-    non_cn_pool = [row for row in candidates if row.country_focus != "CN" and row not in selected]
-    while max_cn > 0 and sum(1 for row in selected if row.country_focus == "CN") > max_cn and non_cn_pool:
-        replacement = non_cn_pool.pop(0)
-        cn_indices = [idx for idx, row in enumerate(selected) if row.country_focus == "CN"]
-        replace_idx = min(cn_indices, key=lambda idx: selected[idx].importance)
-        selected[replace_idx] = replacement
-
-    target_priority = math.ceil(len(selected) * float(rules.get("target_priority_company_ratio", 0.6)))
-    priority_pool = [row for row in candidates if row.companies and row not in selected]
-    while sum(1 for row in selected if row.companies) < target_priority and priority_pool:
-        replacement = priority_pool.pop(0)
-        generic_indices = [idx for idx, row in enumerate(selected) if not row.companies]
-        if not generic_indices:
-            break
-        replace_idx = min(generic_indices, key=lambda idx: selected[idx].importance)
-        selected[replace_idx] = replacement
-    return sorted(selected, key=lambda row: row.importance, reverse=True)
+    return sorted(selected[:max_items], key=lambda row: row.importance, reverse=True)
 
 
 def balanced_items(items: list[dict[str, Any]], rules: dict[str, Any]) -> list[dict[str, Any]]:
     items = sorted(items, key=lambda row: float(row.get("importance") or 0), reverse=True)
     max_items = int(rules["max_daily_items"])
-    selected = items[:max_items]
-    if not selected:
-        return []
+    selected: list[dict[str, Any]] = []
+    selected_ids: set[int] = set()
+    targets = region_targets(rules, max_items)
 
-    target_cn = math.ceil(len(selected) * float(rules["min_china_ratio"]))
-    cn_pool = [row for row in items if row.get("country_focus") == "CN" and row not in selected]
-    while sum(1 for row in selected if row.get("country_focus") == "CN") < target_cn and cn_pool:
-        replacement = cn_pool.pop(0)
-        non_cn_indices = [idx for idx, row in enumerate(selected) if row.get("country_focus") != "CN"]
-        if not non_cn_indices:
+    for region in ("CN", "US", "OTHER"):
+        pool = [row for row in items if normalize_region(row.get("country_focus")) == region]
+        for row in pool:
+            if len([item for item in selected if normalize_region(item.get("country_focus")) == region]) >= targets[region]:
+                break
+            if id(row) not in selected_ids:
+                selected.append(row)
+                selected_ids.add(id(row))
+
+    for row in items:
+        if len(selected) >= max_items:
             break
-        replace_idx = min(non_cn_indices, key=lambda idx: float(selected[idx].get("importance") or 0))
-        selected[replace_idx] = replacement
-
-    max_cn = math.floor(len(selected) * float(rules.get("max_china_ratio", 1)))
-    non_cn_pool = [row for row in items if row.get("country_focus") != "CN" and row not in selected]
-    while max_cn > 0 and sum(1 for row in selected if row.get("country_focus") == "CN") > max_cn and non_cn_pool:
-        replacement = non_cn_pool.pop(0)
-        cn_indices = [idx for idx, row in enumerate(selected) if row.get("country_focus") == "CN"]
-        replace_idx = min(cn_indices, key=lambda idx: float(selected[idx].get("importance") or 0))
-        selected[replace_idx] = replacement
+        if id(row) not in selected_ids:
+            selected.append(row)
+            selected_ids.add(id(row))
     return sorted(selected, key=lambda row: float(row.get("importance") or 0), reverse=True)
 
 
@@ -660,7 +749,9 @@ def collect_daily(date_value: str | None = None, root: Path | None = None) -> di
         "image_path": f"assets/daily/{date_value}.jpg",
         "stats": {
             "total": len(items),
-            "china_count": sum(1 for row in items if row.get("country_focus") == "CN"),
+            "china_count": sum(1 for row in items if normalize_region(row.get("country_focus")) == "CN"),
+            "us_count": sum(1 for row in items if normalize_region(row.get("country_focus")) == "US"),
+            "other_count": sum(1 for row in items if normalize_region(row.get("country_focus")) == "OTHER"),
             "priority_company_count": sum(1 for row in items if row.get("companies")),
         },
         "items": items,
@@ -700,7 +791,6 @@ def llm_weekly_items(candidates: list[dict[str, Any]], rules: dict[str, Any]) ->
     if not os.getenv("OPENAI_API_KEY"):
         return None
     try:
-        client = llm_client()
         limit = int(rules["weekly_impact_items"])
         compact = [
             {
@@ -728,14 +818,11 @@ def llm_weekly_items(candidates: list[dict[str, Any]], rules: dict[str, Any]) ->
             ],
             "candidates": compact,
         }
-        response = client.responses.create(
-            model=os.getenv("OPENAI_MODEL", "gpt-5-mini"),
-            input=[
-                {"role": "system", "content": "你是 AI 产业周报主编。只输出 JSON 数组。"},
-                {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
-            ],
+        output_text = llm_text(
+            "你是 AI 产业周报主编。只输出 JSON 数组。",
+            json.dumps(prompt, ensure_ascii=False),
         )
-        data = extract_json_block(response.output_text)
+        data = extract_json_block(output_text)
         if isinstance(data, list):
             return [normalize_weekly_item(row) for row in data[:limit] if isinstance(row, dict)]
     except Exception as exc:
@@ -756,7 +843,7 @@ def normalize_weekly_item(row: dict[str, Any]) -> dict[str, Any]:
         "source": clean_text(row.get("source")),
         "published_at": clean_text(row.get("published_at")),
         "companies": row.get("companies") or [],
-        "country_focus": row.get("country_focus") or "GLOBAL",
+        "country_focus": normalize_region(row.get("country_focus")),
         "topics": row.get("topics") or [],
         "importance": float(row.get("importance") or 0),
     }
@@ -955,6 +1042,7 @@ def item_card(item: dict[str, Any]) -> str:
     meta_bits = [item.get("source", "未标明"), item.get("published_at", "未标明")]
     if companies:
         meta_bits.insert(0, companies)
+    meta_bits.insert(0, region_label(item.get("country_focus")))
     if topics:
         meta_bits.append(topics)
     return f"""
@@ -991,26 +1079,42 @@ def html_page(title: str, body: str, depth: int = 0) -> str:
 
 def render_daily_page(daily: dict[str, Any], docs: Path) -> None:
     date_value = daily["date"]
+    stats = daily.setdefault("stats", {})
+    stats["total"] = stats.get("total", len(daily.get("items", [])))
+    stats["china_count"] = stats.get(
+        "china_count",
+        sum(1 for row in daily.get("items", []) if normalize_region(row.get("country_focus")) == "CN"),
+    )
+    stats["us_count"] = stats.get(
+        "us_count",
+        sum(1 for row in daily.get("items", []) if normalize_region(row.get("country_focus")) == "US"),
+    )
+    stats["other_count"] = stats.get(
+        "other_count",
+        sum(1 for row in daily.get("items", []) if normalize_region(row.get("country_focus")) == "OTHER"),
+    )
+    stats["priority_company_count"] = stats.get(
+        "priority_company_count",
+        sum(1 for row in daily.get("items", []) if row.get("companies")),
+    )
     image_path = docs / daily["image_path"]
     render_overview_image(
         title=f"AI 新闻日报 · {date_value}",
-        subtitle=f"共 {daily['stats']['total']} 条｜中国相关 {daily['stats']['china_count']} 条｜头部公司相关 {daily['stats']['priority_company_count']} 条",
-        note="中美头部公司优先；中国公司相关内容目标不少于三分之一。",
+        subtitle=f"共 {stats['total']} 条｜中国 {stats['china_count']} 条｜美国 {stats['us_count']} 条｜其他 {stats['other_count']} 条",
+        note="中、美、其他地区按约三分之一配比；中美头部公司优先，兼顾其他地区重要动态。",
         items=daily["items"],
         out_path=image_path,
         kind="daily",
     )
-    image_rel = rel_from_page(daily["image_path"], 2)
     cards = "\n".join(item_card(item) for item in daily["items"])
     body = f"""
   <main class="page">
     <section class="hero">
       <p class="eyebrow">Daily Collection</p>
       <h1>AI 新闻日报 · {html.escape(date_value)}</h1>
-      <p>按重要性、时效性、中美头部公司权重与中国公司占比约束筛选。</p>
+      <p>按重要性、时效性与区域配比筛选：每日 20 条目标为中国 7 条、美国 7 条、其他地区 6 条。</p>
       <a class="primary-link" href="{html.escape(daily['site_url'])}">当前页面链接</a>
     </section>
-    <img class="overview" src="{image_rel}" alt="AI 新闻日报概览图">
     <section class="list">{cards}</section>
   </main>
 """
@@ -1030,7 +1134,6 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
         out_path=image_path,
         kind="weekly",
     )
-    image_rel = rel_from_page(weekly["image_path"], 2)
     cards = "\n".join(item_card(item) for item in weekly["items"])
     body = f"""
   <main class="page">
@@ -1040,7 +1143,6 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
       <p>{html.escape(weekly['date_range'])}，从日报集合中抽出对世界或行业影响最大的 10 条。</p>
       <a class="primary-link" href="{html.escape(weekly['site_url'])}">当前页面链接</a>
     </section>
-    <img class="overview" src="{image_rel}" alt="AI 影响力周报概览图">
     <section class="list">{cards}</section>
   </main>
 """
@@ -1051,7 +1153,7 @@ def render_weekly_page(weekly: dict[str, Any], docs: Path) -> None:
 
 def render_index(dailies: list[dict[str, Any]], weeklies: list[dict[str, Any]], docs: Path) -> None:
     daily_links = "\n".join(
-        f'<a class="archive-link" href="daily/{html.escape(row["date"])}/"><strong>{html.escape(row["date"])}</strong><span>{row["stats"]["total"]} 条｜中国相关 {row["stats"]["china_count"]} 条</span></a>'
+        f'<a class="archive-link" href="daily/{html.escape(row["date"])}/"><strong>{html.escape(row["date"])}</strong><span>{row["stats"]["total"]} 条｜中 {row["stats"].get("china_count", 0)}｜美 {row["stats"].get("us_count", 0)}｜其他 {row["stats"].get("other_count", 0)}</span></a>'
         for row in reversed(dailies[-30:])
     )
     weekly_links = "\n".join(
@@ -1141,12 +1243,6 @@ h1 {
   color: var(--link);
   font-weight: 800;
   text-decoration: none;
-}
-.overview {
-  width: 100%;
-  display: block;
-  border: 1px solid var(--line);
-  margin: 0 0 28px;
 }
 .list {
   display: grid;
@@ -1264,7 +1360,7 @@ def send_daily(daily: dict[str, Any], root: Path | None = None) -> None:
     content = textwrap.dedent(
         f"""
         **AI 新闻日报｜{daily['date']}**
-        > 共 {stats['total']} 条；中国相关 {stats['china_count']} 条；头部公司相关 {stats['priority_company_count']} 条。
+        > 共 {stats['total']} 条；中国 {stats.get('china_count', 0)} 条；美国 {stats.get('us_count', 0)} 条；其他 {stats.get('other_count', 0)} 条。
         > [点击查看网页版]({daily['site_url']})
         """
     ).strip()

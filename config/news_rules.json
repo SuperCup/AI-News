@@ -2,8 +2,11 @@
   "site_base_url": "https://supercup.github.io/AI-News",
   "max_daily_items": 20,
   "weekly_impact_items": 10,
-  "min_china_ratio": 0.333,
-  "max_china_ratio": 0.55,
+  "region_target_counts": {
+    "CN": 7,
+    "US": 7,
+    "OTHER": 6
+  },
   "target_priority_company_ratio": 0.6,
   "default_lookback_hours": 36,
   "topic_weights": {
@@ -77,6 +80,9 @@
     {"query": "AI regulation policy law safety standard", "topics": ["regulation"], "weight": 12},
     {"query": "AI safety security incident vulnerability prompt injection", "topics": ["safety_security"], "weight": 14},
     {"query": "AI startup funding acquisition merger IPO partnership", "topics": ["commercial"], "weight": 10},
+    {"query": "Europe AI model startup regulation robotics chip funding", "topics": ["large_model", "regulation", "commercial"], "weight": 13},
+    {"query": "Japan South Korea Singapore AI robotics chip model startup", "topics": ["robotics", "chips", "commercial"], "weight": 13},
+    {"query": "Mistral Stability AI Aleph Alpha Helsing Poolside AI news", "topics": ["large_model", "open_source_model", "commercial"], "weight": 13},
     {"query": "人工智能 大模型 智能体 芯片 开源 模型 发布", "topics": ["large_model", "ai_agent", "chips", "open_source_model"], "weight": 18},
     {"query": "中国 AI 公司 融资 并购 大模型 机器人 芯片", "topics": ["commercial", "large_model", "robotics", "chips"], "weight": 16},
     {"query": "人工智能 监管 安全 风险 政策", "topics": ["regulation", "safety_security"], "weight": 12}

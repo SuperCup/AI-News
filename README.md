@@ -6,9 +6,10 @@ Daily and weekly AI news collection, static publishing, and WeCom push delivery.
 
 - Runs a daily AI news collection at 09:00 Asia/Shanghai.
 - Gives extra weight to top US and China AI companies.
-- Keeps China-company-related items at no less than one third of the daily list when enough qualified items are available.
+- Balances the 20-item daily list across China, US, and other regions at roughly one third each.
 - Publishes a static site grouped by day and week.
 - Sends a WeCom push with an overview image plus a clickable news page URL.
+- Keeps the web pages card-first, without embedding the overview image in the page body.
 - Builds a weekly top-10 impact digest every Sunday evening.
 
 ## GitHub Secrets
