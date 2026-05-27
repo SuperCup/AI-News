@@ -119,11 +119,11 @@ jobs:
             create_body=$(printf "%s" "$create_response" | sed '$d')
             if [ "$create_code" != "201" ] && [ "$create_code" != "200" ] && [ "$create_code" != "409" ]; then
               printf "%s\n" "$create_body"
-              exit 1
+              echo "::warning::GitHub Pages site could not be created automatically. Enable Pages from Settings > Pages using main /docs."
             fi
           elif [ "$code" != "200" ]; then
             cat /tmp/pages.json
-            exit 1
+            echo "::warning::GitHub Pages status could not be verified. Enable Pages from Settings > Pages using main /docs if the site is not live."
           fi
 
       - name: Send daily WeCom push
