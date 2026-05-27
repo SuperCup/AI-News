@@ -1,0 +1,73 @@
+# AI News
+
+Daily and weekly AI news collection, static publishing, and WeCom push delivery.
+
+## What It Does
+
+- Runs a daily AI news collection at 09:00 Asia/Shanghai.
+- Gives extra weight to top US and China AI companies.
+- Keeps China-company-related items at no less than one third of the daily list when enough qualified items are available.
+- Publishes a static site grouped by day and week.
+- Sends a WeCom push with an overview image plus a clickable news page URL.
+- Builds a weekly top-10 impact digest every Sunday evening.
+
+## GitHub Secrets
+
+Set these repository secrets before enabling the workflow:
+
+- `WECHAT_WEBHOOK_URL`: required for Enterprise WeChat pushes.
+- `OPENAI_API_KEY`: recommended for Chinese summarization, ranking, and weekly impact extraction.
+- `SERPER_API_KEY`: optional Google search/news enrichment.
+- `BING_SEARCH_API_KEY`: optional Bing News Search enrichment.
+
+The pipeline still runs with RSS fallback if search API keys are missing, but coverage and summary quality are better with the keys above.
+
+## Static Site
+
+The generated site is designed for GitHub Pages:
+
+`https://supercup.github.io/AI-News/`
+
+Daily pages are published under:
+
+`https://supercup.github.io/AI-News/daily/YYYY-MM-DD/`
+
+Weekly pages are published under:
+
+`https://supercup.github.io/AI-News/weekly/YYYY-Www/`
+
+## Local Commands
+
+Install dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Run a daily collection without sending:
+
+```bash
+python scripts/run_daily.py
+```
+
+Run a daily collection and send to WeCom:
+
+```bash
+WECHAT_WEBHOOK_URL="https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=..." python scripts/run_daily.py --send
+```
+
+Render the site from existing data:
+
+```bash
+python scripts/render_site.py
+```
+
+Build a weekly digest:
+
+```bash
+python scripts/run_weekly.py
+```
+
+## GitHub Pages
+
+The workflow deploys the `docs/` directory with GitHub Pages. If this is the first deployment for the repository, enable Pages with GitHub Actions as the source in repository settings if GitHub asks for it.
