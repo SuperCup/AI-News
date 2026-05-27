@@ -1,6 +1,9 @@
 name: AI News
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 09:00 Asia/Shanghai
     - cron: "0 1 * * *"
