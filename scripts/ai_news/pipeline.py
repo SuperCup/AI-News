@@ -722,6 +722,7 @@ def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[
                 "优先选择已经发布、上线、开放测试、开始客户部署或明显影响产品/应用形态的消息。",
                 "覆盖大模型、AI Agent、机器人、芯片、开源模型、论文、AI 产品、企业应用、监管政策、安全事件等。",
                 "融资、并购、股价、财报、战略合作等纯商业消息只在确有行业影响或直接关联产品、算力、模型、落地应用时入选。",
+                "country_focus 按新闻事件主体或相关公司所在地判断，不按媒体所在地判断；例如中国公司被美国媒体报道仍应归为 CN。",
                 "只使用候选中给出的事实、来源、日期和链接；不要编造链接、时间、公司或细节。",
                 "每条包含 title、summary、details、url、source、published_at、companies、country_focus、topics、importance；country_focus 只能是 CN、US 或 OTHER。",
                 "summary 用 3-5 句中文概览；details 说明事件细节或注明只能从摘要判断。",
@@ -780,41 +781,77 @@ def fallback_summary_parts(item: Candidate, source_text: str) -> list[str]:
     ]
 
 
+def daily_item_from_candidate(item: Candidate) -> dict[str, Any]:
+    source_text = item.article_excerpt or item.snippet
+    summary_parts = fallback_summary_parts(item, source_text)
+    if not summary_parts:
+        summary_parts = [f"该消息围绕 {item.title}。"]
+    if len(summary_parts) < 3:
+        summary_parts.append("该事件与今日 AI 技术、产品或产业动态相关。")
+    if len(summary_parts) < 3:
+        summary_parts.append("更多背景、数据和引用可查看原文。")
+    details = item.article_excerpt[:900] if item.article_excerpt else item.snippet[:900]
+    if not details:
+        details = "未抓取到足够正文，详情以原文链接为准。"
+    return {
+        "id": stable_id(item.title, item.url),
+        "title": item.title,
+        "summary": " ".join(summary_parts[:5]),
+        "details": details,
+        "url": item.url,
+        "source": item.source,
+        "published_at": item.published_at,
+        "companies": item.companies or [],
+        "country_focus": item.country_focus,
+        "topics": item.topics or [],
+        "importance": round(item.importance, 2),
+    }
+
+
 def fallback_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]]:
     selected = balanced_select(candidates, rules)
-    items: list[dict[str, Any]] = []
-    for item in selected:
-        source_text = item.article_excerpt or item.snippet
-        summary_parts = fallback_summary_parts(item, source_text)
-        if not summary_parts:
-            summary_parts = [f"该消息围绕 {item.title}。"]
-        if len(summary_parts) < 3:
-            summary_parts.append(
-                "该事件与今日 AI 技术、产品或产业动态相关。"
-            )
-        if len(summary_parts) < 3:
-            summary_parts.append("更多背景、数据和引用可查看原文。")
-        topics = item.topics or []
-        companies = item.companies or []
-        details = item.article_excerpt[:900] if item.article_excerpt else item.snippet[:900]
-        if not details:
-            details = "未抓取到足够正文，详情以原文链接为准。"
-        items.append(
-            {
-                "id": stable_id(item.title, item.url),
-                "title": item.title,
-                "summary": " ".join(summary_parts[:5]),
-                "details": details,
-                "url": item.url,
-                "source": item.source,
-                "published_at": item.published_at,
-                "companies": companies,
-                "country_focus": item.country_focus,
-                "topics": topics,
-                "importance": round(item.importance, 2),
-            }
-        )
-    return items
+    return [daily_item_from_candidate(item) for item in selected]
+
+
+def preferred_country_focus(raw_value: str | None, candidate: Candidate | None) -> str:
+    if candidate and candidate.companies and normalize_region(candidate.country_focus) != "OTHER":
+        return normalize_region(candidate.country_focus)
+    if raw_value:
+        return normalize_region(raw_value)
+    return normalize_region(candidate.country_focus if candidate else "OTHER")
+
+
+def ensure_daily_balance(
+    items: list[dict[str, Any]], candidates: list[Candidate], rules: dict[str, Any]
+) -> list[dict[str, Any]]:
+    max_items = int(rules["max_daily_items"])
+    targets = region_targets(rules, max_items)
+    selected = balanced_items(items, rules)
+    seen_urls = {row.get("url") for row in selected if row.get("url")}
+
+    def region_count(region: str) -> int:
+        return sum(1 for row in selected if normalize_region(row.get("country_focus")) == region)
+
+    for region in ("CN", "US", "OTHER"):
+        for candidate in candidates:
+            if region_count(region) >= targets[region]:
+                break
+            if candidate.url in seen_urls or normalize_region(candidate.country_focus) != region:
+                continue
+            selected.append(daily_item_from_candidate(candidate))
+            seen_urls.add(candidate.url)
+
+    selected = balanced_items(selected, rules)
+    seen_urls = {row.get("url") for row in selected if row.get("url")}
+    for candidate in candidates:
+        if len(selected) >= max_items:
+            break
+        if candidate.url in seen_urls:
+            continue
+        selected.append(daily_item_from_candidate(candidate))
+        seen_urls.add(candidate.url)
+
+    return balanced_items(selected, rules)[:max_items]
 
 
 def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]]:
@@ -838,12 +875,12 @@ def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rul
                 "source": clean_text(raw.get("source")) or (candidate.source if candidate else "未标明"),
                 "published_at": clean_text(raw.get("published_at")) or (candidate.published_at if candidate else "未标明"),
                 "companies": raw.get("companies") or (candidate.companies if candidate else []),
-                "country_focus": normalize_region(raw.get("country_focus") or (candidate.country_focus if candidate else "OTHER")),
+                "country_focus": preferred_country_focus(raw.get("country_focus"), candidate),
                 "topics": raw.get("topics") or (candidate.topics if candidate else []),
                 "importance": float(raw.get("importance") or (candidate.importance if candidate else 0)),
             }
         )
-    return balanced_items(rows, rules)[: int(rules["max_daily_items"])]
+    return ensure_daily_balance(rows, candidates, rules)
 
 
 def balanced_select(candidates: list[Candidate], rules: dict[str, Any]) -> list[Candidate]:
