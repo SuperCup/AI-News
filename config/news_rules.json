@@ -1,26 +1,26 @@
 {
   "site_base_url": "https://supercup.github.io/AI-News",
-  "max_daily_items": 20,
+  "max_daily_items": 15,
   "weekly_impact_items": 10,
   "region_target_counts": {
-    "CN": 7,
-    "US": 7,
-    "OTHER": 6
+    "CN": 5,
+    "US": 5,
+    "OTHER": 5
   },
   "target_priority_company_ratio": 0.6,
   "default_lookback_hours": 36,
   "topic_weights": {
     "large_model": 18,
-    "ai_agent": 18,
-    "robotics": 16,
+    "ai_agent": 21,
+    "robotics": 17,
     "chips": 16,
-    "open_source_model": 14,
+    "open_source_model": 15,
     "research_paper": 12,
-    "ai_product": 14,
-    "enterprise_ai": 13,
+    "ai_product": 24,
+    "enterprise_ai": 22,
     "regulation": 12,
     "safety_security": 14,
-    "commercial": 10
+    "commercial": 3
   },
   "priority_companies": {
     "US": [
@@ -69,22 +69,23 @@
     ]
   },
   "topic_queries": [
-    {"query": "large language model OR LLM AI model release", "topics": ["large_model"], "weight": 18},
-    {"query": "AI agent autonomous agent enterprise agent", "topics": ["ai_agent", "enterprise_ai"], "weight": 18},
-    {"query": "humanoid robot robotics foundation model AI", "topics": ["robotics"], "weight": 16},
-    {"query": "AI chip GPU accelerator inference training", "topics": ["chips"], "weight": 16},
-    {"query": "open source AI model release weights", "topics": ["open_source_model"], "weight": 14},
+    {"query": "AI product launch application assistant copilot workflow automation release", "topics": ["ai_product", "enterprise_ai"], "weight": 24},
+    {"query": "enterprise AI deployment customer production workflow automation case study", "topics": ["enterprise_ai", "ai_product"], "weight": 22},
+    {"query": "AI agent autonomous agent enterprise agent workflow product", "topics": ["ai_agent", "enterprise_ai", "ai_product"], "weight": 22},
+    {"query": "large language model OR LLM AI model release product", "topics": ["large_model", "ai_product"], "weight": 18},
+    {"query": "humanoid robot robotics foundation model AI product deployment", "topics": ["robotics", "ai_product"], "weight": 17},
+    {"query": "AI chip GPU accelerator inference training product launch", "topics": ["chips", "ai_product"], "weight": 16},
+    {"query": "open source AI model release weights developer product", "topics": ["open_source_model", "large_model"], "weight": 15},
     {"query": "AI research paper benchmark arxiv LLM agents robotics", "topics": ["research_paper"], "weight": 12},
-    {"query": "AI product launch app assistant copilot", "topics": ["ai_product"], "weight": 14},
-    {"query": "enterprise AI deployment customer production", "topics": ["enterprise_ai"], "weight": 13},
     {"query": "AI regulation policy law safety standard", "topics": ["regulation"], "weight": 12},
     {"query": "AI safety security incident vulnerability prompt injection", "topics": ["safety_security"], "weight": 14},
-    {"query": "AI startup funding acquisition merger IPO partnership", "topics": ["commercial"], "weight": 10},
-    {"query": "Europe AI model startup regulation robotics chip funding", "topics": ["large_model", "regulation", "commercial"], "weight": 13},
-    {"query": "Japan South Korea Singapore AI robotics chip model startup", "topics": ["robotics", "chips", "commercial"], "weight": 13},
-    {"query": "Mistral Stability AI Aleph Alpha Helsing Poolside AI news", "topics": ["large_model", "open_source_model", "commercial"], "weight": 13},
-    {"query": "人工智能 大模型 智能体 芯片 开源 模型 发布", "topics": ["large_model", "ai_agent", "chips", "open_source_model"], "weight": 18},
-    {"query": "中国 AI 公司 融资 并购 大模型 机器人 芯片", "topics": ["commercial", "large_model", "robotics", "chips"], "weight": 16},
+    {"query": "AI startup funding acquisition merger IPO partnership product strategy", "topics": ["commercial"], "weight": 5},
+    {"query": "Europe AI model product enterprise deployment robotics chip regulation", "topics": ["large_model", "ai_product", "enterprise_ai", "regulation"], "weight": 15},
+    {"query": "Japan South Korea Singapore AI robotics chip model product deployment", "topics": ["robotics", "chips", "ai_product"], "weight": 15},
+    {"query": "Mistral Stability AI Aleph Alpha Helsing Poolside AI product model news", "topics": ["large_model", "open_source_model", "ai_product"], "weight": 15},
+    {"query": "人工智能 产品 发布 上线 应用 助手 智能体 工作流 落地", "topics": ["ai_product", "enterprise_ai", "ai_agent"], "weight": 24},
+    {"query": "中国 AI 公司 产品 应用 大模型 机器人 芯片 部署 开源", "topics": ["ai_product", "enterprise_ai", "large_model", "robotics", "chips"], "weight": 22},
+    {"query": "中国 AI 公司 融资 并购 合作 产品战略", "topics": ["commercial"], "weight": 5},
     {"query": "人工智能 监管 安全 风险 政策", "topics": ["regulation", "safety_security"], "weight": 12}
   ]
 }

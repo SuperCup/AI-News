@@ -158,6 +158,85 @@ def topic_keywords() -> dict[str, list[str]]:
     }
 
 
+def product_application_keywords() -> list[str]:
+    return [
+        "product",
+        "launch",
+        "release",
+        "released",
+        "rollout",
+        "available",
+        "app",
+        "assistant",
+        "copilot",
+        "agent",
+        "workflow",
+        "automation",
+        "deployment",
+        "customer",
+        "production",
+        "api",
+        "sdk",
+        "plugin",
+        "产品",
+        "应用",
+        "发布",
+        "上线",
+        "推出",
+        "接入",
+        "部署",
+        "落地",
+        "客户",
+        "场景",
+        "工作流",
+        "助手",
+        "智能体",
+        "工具",
+    ]
+
+
+def commercial_only_keywords() -> list[str]:
+    return [
+        "funding",
+        "financing",
+        "raised",
+        "valuation",
+        "acquisition",
+        "merger",
+        "ipo",
+        "stock",
+        "shares",
+        "revenue",
+        "earnings",
+        "investment",
+        "partnership",
+        "融资",
+        "估值",
+        "收购",
+        "并购",
+        "IPO",
+        "股价",
+        "财报",
+        "营收",
+        "投资",
+        "合作",
+    ]
+
+
+def has_product_application_signal(text: str, topics: list[str]) -> bool:
+    low = text.lower()
+    if {"ai_product", "enterprise_ai", "ai_agent"} & set(topics):
+        return True
+    return any(keyword.lower() in low for keyword in product_application_keywords())
+
+
+def has_commercial_signal(text: str, topics: list[str]) -> bool:
+    low = text.lower()
+    if "commercial" in topics:
+        return True
+    return any(keyword.lower() in low for keyword in commercial_only_keywords())
+
+
 def detect_companies(text: str, companies: list[dict[str, Any]]) -> tuple[list[str], str]:
     low = text.lower()
     found: list[tuple[int, str, str]] = []
@@ -236,6 +315,7 @@ def build_query_specs(rules: dict[str, Any]) -> list[dict[str, Any]]:
                 "weight": row.get("weight", 10),
                 "country_hint": None,
                 "company_hint": None,
+                "kind": "topic",
             }
         )
 
@@ -244,9 +324,17 @@ def build_query_specs(rules: dict[str, Any]) -> list[dict[str, Any]]:
             aliases = row["aliases"][:3]
             quoted_aliases = " OR ".join(f'"{alias}"' for alias in aliases)
             if country == "CN":
-                query = f"({quoted_aliases}) AI OR 人工智能 OR 大模型 OR 智能体"
+                query = (
+                    f"({quoted_aliases}) "
+                    "(AI OR 人工智能 OR 大模型 OR 智能体) "
+                    "(产品 OR 应用 OR 发布 OR 上线 OR 开源 OR 模型 OR 机器人 OR 芯片 OR 部署 OR 合作)"
+                )
             else:
-                query = f"({quoted_aliases}) AI OR artificial intelligence OR agent OR model"
+                query = (
+                    f"({quoted_aliases}) "
+                    "(AI OR artificial intelligence OR agent OR model) "
+                    "(product OR launch OR release OR deployment OR app OR customer OR open source OR chip OR robot)"
+                )
             specs.append(
                 {
                     "query": query,
@@ -254,6 +342,7 @@ def build_query_specs(rules: dict[str, Any]) -> list[dict[str, Any]]:
                     "weight": 22,
                     "country_hint": country,
                     "company_hint": row["name"],
+                    "kind": "company",
                 }
             )
     return specs
@@ -265,6 +354,11 @@ def google_news_rss_url(query: str, lookback_hours: int, locale: str = "en-US") 
     if locale == "zh-CN" or has_cjk(query):
         return f"https://news.google.com/rss/search?q={q}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+
+def source_from_url(url: str, fallback: str = "News") -> str:
+    host = urlparse(url).netloc.lower().removeprefix("www.")
+    return host or fallback
 
 
 def fetch_google_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8) -> list[Candidate]:
@@ -325,6 +419,57 @@ def fetch_serper_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8)
     return candidates
 
 
+def fetch_tavily_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8) -> list[Candidate]:
+    key = os.getenv("SEARCH_TAVILY") or os.getenv("TAVILY_API_KEY")
+    if not key:
+        return []
+
+    company_search_enabled = os.getenv("TAVILY_COMPANY_SEARCH", "").lower() in {"1", "true", "yes", "all"}
+    if spec.get("kind") == "company" and not company_search_enabled:
+        return []
+
+    time_range = "day" if lookback_hours <= 48 else "week"
+    start_date = (now_cn() - timedelta(hours=lookback_hours)).date().isoformat()
+    end_date = now_cn().date().isoformat()
+    payload = {
+        "query": spec["query"],
+        "topic": "news",
+        "search_depth": os.getenv("TAVILY_SEARCH_DEPTH", "basic"),
+        "max_results": min(limit, 20),
+        "time_range": time_range,
+        "start_date": start_date,
+        "end_date": end_date,
+        "include_answer": False,
+        "include_raw_content": False,
+    }
+    resp = requests.post(
+        "https://api.tavily.com/search",
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "User-Agent": USER_AGENT},
+        json=payload,
+        timeout=25,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    candidates: list[Candidate] = []
+    for row in data.get("results", [])[:limit]:
+        url = clean_text(row.get("url"))
+        candidates.append(
+            Candidate(
+                title=clean_text(row.get("title")),
+                url=url,
+                source=clean_text(row.get("source")) or source_from_url(url, "Tavily"),
+                published_at=iso_or_raw_date(row.get("published_date") or row.get("published_at") or row.get("date")),
+                snippet=clean_text(row.get("content") or row.get("raw_content")),
+                query=spec["query"],
+                topic_hints=spec["topics"],
+                query_weight=float(spec["weight"]) + 3,
+                country_hint=spec["country_hint"],
+                company_hint=spec["company_hint"],
+            )
+        )
+    return candidates
+
+
 def fetch_bing_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8) -> list[Candidate]:
     key = os.getenv("BING_SEARCH_API_KEY")
     if not key:
@@ -361,7 +506,7 @@ def fetch_bing_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8) -
 
 def fetch_for_spec(spec: dict[str, Any], lookback_hours: int) -> list[Candidate]:
     rows: list[Candidate] = []
-    for fetcher in (fetch_serper_news, fetch_bing_news, fetch_google_news):
+    for fetcher in (fetch_tavily_news, fetch_serper_news, fetch_bing_news, fetch_google_news):
         try:
             rows.extend(fetcher(spec, lookback_hours))
         except Exception as exc:
@@ -443,9 +588,23 @@ def score_candidates(candidates: list[Candidate], rules: dict[str, Any]) -> list
             item.country_focus = "CN"
         item.country_focus = normalize_region(item.country_focus)
         item.topics = detect_topics(text, item.topic_hints)
+        application_signal = has_product_application_signal(text, item.topics)
+        commercial_signal = has_commercial_signal(text, item.topics)
 
         score = item.query_weight
         score += sum(topic_weights.get(topic, 0) for topic in item.topics) / 2
+        if "ai_product" in item.topics:
+            score += 8
+        if "enterprise_ai" in item.topics:
+            score += 7
+        if application_signal:
+            score += 8
+        if commercial_signal and not application_signal:
+            score -= 18
+            if set(item.topics).issubset({"commercial"}):
+                score -= 6
+        elif commercial_signal:
+            score -= 4
         if item.companies:
             score += 24
             if item.country_focus == "CN":
@@ -558,9 +717,11 @@ def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[
             "task": "从候选新闻中选出今日 AI 日报，生成中文内容。",
             "rules": [
                 f"必须尽量选满 {max_items} 条；候选不足时才少于该数量。",
-                "区域配比按中国、美国、其他地区各约三分之一执行；20 条时目标为中国 7 条、美国 7 条、其他地区 6 条。候选不足时用剩余高重要性新闻补齐。",
+                "区域配比按中国、美国、其他地区各约三分之一执行；15 条时目标为中国 5 条、美国 5 条、其他地区 5 条。候选不足时用剩余高重要性新闻补齐。",
                 "优先中美头部 AI 公司相关消息，同时保留欧洲、日本、韩国、英国、加拿大、新加坡等其他地区的重要 AI 动态。",
-                "覆盖大模型、AI Agent、机器人、芯片、开源模型、论文、AI 产品、企业应用、监管政策、安全事件、融资并购等商业活动。",
+                "优先选择已经发布、上线、开放测试、开始客户部署或明显影响产品/应用形态的消息。",
+                "覆盖大模型、AI Agent、机器人、芯片、开源模型、论文、AI 产品、企业应用、监管政策、安全事件等。",
+                "融资、并购、股价、财报、战略合作等纯商业消息只在确有行业影响或直接关联产品、算力、模型、落地应用时入选。",
                 "只使用候选中给出的事实、来源、日期和链接；不要编造链接、时间、公司或细节。",
                 "每条包含 title、summary、details、url、source、published_at、companies、country_focus、topics、importance；country_focus 只能是 CN、US 或 OTHER。",
                 "summary 用 3-5 句中文概览；details 说明事件细节或注明只能从摘要判断。",

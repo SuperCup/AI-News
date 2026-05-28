@@ -4,9 +4,9 @@ Daily and weekly AI news collection, static publishing, and WeCom push delivery.
 
 ## What It Does
 
-- Runs a daily AI news collection at 09:00 Asia/Shanghai.
-- Gives extra weight to top US and China AI companies.
-- Balances the 20-item daily list across China, US, and other regions at roughly one third each.
+- Runs a daily AI news collection at 09:17 Asia/Shanghai.
+- Gives extra weight to top US and China AI companies, with stronger weighting for product launches and real-world applications.
+- Balances the 15-item daily list across China, US, and other regions at roughly one third each.
 - Publishes a static site grouped by day and week.
 - Sends a WeCom push with an overview image plus a clickable news page URL.
 - Keeps the web pages card-first, without embedding the overview image in the page body.
@@ -18,6 +18,7 @@ Set these repository secrets before enabling the workflow:
 
 - `WECHAT_WEBHOOK_URL`: required for Enterprise WeChat pushes.
 - `OPENAI_API_KEY`: recommended for Chinese summarization, ranking, and weekly impact extraction. If you use an OpenAI-compatible provider, put that provider's API key here.
+- `SEARCH_TAVILY`: optional Tavily search/news enrichment. `TAVILY_API_KEY` is also supported as an alias.
 - `SERPER_API_KEY`: optional Google search/news enrichment.
 - `BING_SEARCH_API_KEY`: optional Bing News Search enrichment.
 
@@ -28,6 +29,7 @@ Optional repository variables:
 - `OPENAI_MODEL`: defaults to `gpt-5-mini`. For DeepSeek, use `deepseek-chat`.
 - `OPENAI_BASE_URL`: optional OpenAI-compatible endpoint. For DeepSeek, use `https://api.deepseek.com`.
 - `SITE_BASE_URL`: defaults to `https://supercup.github.io/AI-News`.
+- `TAVILY_COMPANY_SEARCH`: optional. Set to `true` only if you want Tavily to query every priority company as well as topic searches.
 
 The pipeline still runs with RSS fallback if search API keys are missing, but coverage and summary quality are better with the keys above.
 
@@ -59,6 +61,12 @@ Run a daily collection without sending:
 python scripts/run_daily.py
 ```
 
+Run a daily collection with Tavily locally, without sending:
+
+```bash
+SEARCH_TAVILY="tvly-..." python scripts/run_daily.py
+```
+
 Run a daily collection and send to WeCom:
 
 ```bash
@@ -76,6 +84,8 @@ Build a weekly digest:
 ```bash
 python scripts/run_weekly.py
 ```
+
+For GitHub push-triggered tests, `[run-daily]` or `[run-weekly]` runs collection without sending to WeCom. Add `[send]` to the commit message only when you intentionally want that push-triggered run to send.
 
 ## GitHub Pages
 
