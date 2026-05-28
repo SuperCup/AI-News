@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T11:08:33.417510+08:00",
+  "generated_at": "2026-05-28T11:21:26.178499+08:00",
   "site_url": "https://supercup.github.io/AI-News/daily/2026-05-28/",
   "image_path": "assets/daily/2026-05-28.jpg",
   "stats": {
@@ -8,14 +8,14 @@
     "china_count": 5,
     "us_count": 5,
     "other_count": 5,
-    "priority_company_count": 10
+    "priority_company_count": 11
   },
   "items": [
     {
-      "id": "abbec6c20ad508f4",
-      "title": "谷歌推出 AI 威胁防御服务，回应攻击者利用 AI 加快漏洞利用",
-      "summary": "谷歌发布 AI 威胁防御方案，旨在对抗攻击者利用 AI 技术更快发现和利用安全漏洞的趋势。该产品将 AI 能力整合进安全防护体系，提升企业对自动化攻击的防御水平。报道提到谷歌 DeepMind 等公司参与相关技术研发。消息显示 Google 正在将前沿 AI 应用于网络安全领域。",
-      "details": "根据 Help Net Security 的摘要，Google AI Threat Defense 直接针对利用 AI 提速漏洞挖掘的攻击者。详细信息在所提供片段中有限，仅能判断为一次侧重于安全对抗的 AI 产品发布。",
+      "id": "5591e65b32125402",
+      "title": "Google AI Threat Defense targets attackers using AI to find flaws faster",
+      "summary": "谷歌发布了名为Google AI Threat Defense的安全产品，旨在对抗利用AI技术加速漏洞发现的攻击者。该产品运用AI进行威胁检测与防御，提升企业应对新型网络攻击的能力。",
+      "details": "Help Net Security报道，该产品集成于谷歌云的安全平台，能够利用机器学习模型识别并阻止攻击者使用AI工具进行的自动化漏洞扫描和利用尝试。这是谷歌将AI应用于网络安全领域的又一重要产品发布。",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVlUY2UyRkd6UTE0ZG5fNGR6N19tRWh5TEk0cXBhVTFlaEQya0FKd1dlOUk5R0gyeG16NElFd1FMYndHQnFnRkc0WWV4TU5jWE9WbDZSeDFDc2ltRWRYOUwtVzJyUGx0Qmx1UU9xZ3FfcUY0bTJtQkg2dmxwYktKcklSaw?oc=5",
       "source": "Help Net Security",
       "published_at": "2026-05-27 22:23 +0800",
@@ -26,73 +26,35 @@
       ],
       "country_focus": "US",
       "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics",
-        "safety_security"
+        "safety_security",
+        "ai_product"
       ],
       "importance": 155.5
     },
     {
-      "id": "f21d1f65f0d33537",
-      "title": "马斯克警告：美国必须提升芯片制造以确保 AI 安全",
-      "summary": "埃隆·马斯克公开发声，强调美国需要大幅提升半导体制造能力，以保障人工智能的安全发展。他指出，芯片制造落后可能危及国家安全与 AI 领先地位。报道提及特斯拉与英特尔等公司背景。此言论反映出产业界对 AI 算力基础设施的危机感。",
-      "details": "根据 Bitget 提供的摘要，马斯克聚焦于芯片制造与 AI 安全之间的关联。原始消息未给出更多细节，只能判断为一次高层警告。",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kVFFGY0xKV2hKWDliNG9lcHVfLTVKOE5wekIxOE92cHVSdlVCWVhzMWZTb0M5OHBmczdxbjhjYmVGa0dkOVA0OTd6MDZ5NzlZOVFiZGFRTVY3V1F0d1RFcFQwZUJhOFpFb1HSAWpBVV95cUxOZFRRRmNMSldoSlg5YjRvZXB1Xy01SjhOcHpCMThPdnB1UnZVQllYczFmU29DOThwZnM3cW44Y2JlRmtHZDlQNDk3ejA2eTc5WTlRYmRhUU1WN1dRdHdURXBUMGVCYThaRW9R?oc=5",
-      "source": "Bitget",
-      "published_at": "2026-05-28 01:34 +0800",
+      "id": "0fb2bd4ff2b7fe62",
+      "title": "Reliable LLM Inference at Scale",
+      "summary": "Databricks分享了大规模可靠执行大语言模型推理的方案和经验。该方案聚焦于在企业环境中确保LLM推理的高可用性、低延迟与准确性，推动AI在关键业务中落地。",
+      "details": "Databricks发布了相关的技术架构和最佳实践，涉及模型服务、资源调度和监控，旨在帮助企业构建生产级LLM应用。详细技术内容来自Databricks的官方分享。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tQU5RNkdheXNGM05RRVVXQXlSY2t1dXNoVTZrVk93dC1udkY2VVJSd0xaVV90dkdlNDExSW9pTEQ1cUR0TTNTTlg5RlpDN3VZLVVMV0dPV3lPMXNqZWNTZFBjb3JHZmpVUjdxbg?oc=5",
+      "source": "Databricks",
+      "published_at": "2026-05-28 05:00 +0800",
       "companies": [
-        "Tesla",
-        "Intel"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics",
-        "safety_security"
-      ],
-      "importance": 155.5
-    },
-    {
-      "id": "5b969ee4dc5c1014",
-      "title": "MCP 安全漏洞正将 AI 基础设施变成供应链风险",
-      "summary": "报告指出，MCP（推测为某种通信协议/接口）中的安全缺陷正让 AI 基础设施面临供应链攻击风险。威胁可能波及 Amazon、Intel、Salesforce 等大型企业所使用的 AI 系统。该问题凸显了 AI 代理和产品在底层连接上的脆弱性。专家呼吁加强供应链安全防护。",
-      "details": "根据 Startup Fortune 的摘要，该新闻关注 MCP 安全瑕疵如何转变为 AI 供应链风险。缺乏详细文章内容，只能从摘要推断涉及的严重性。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlVDallFT3RkRDF0Y3ZJZjk5ZTcyek4xd3RfOW1yeG9TUGdVckFPMGdpUVg3SnQ4Y3NWWTV2VVJDRnFHQVU5a0htRER3cXpOSnllMGVSb0plUzVwQVNYRVRWR1d1TGdMSjdDQURpeTY0S0xFVzVRYXp0MFhpVUIyYU1GSzhXbHBxekozWnB5emZxWGhQaEJJUHp1M0pMTm1zNDFN?oc=5",
-      "source": "Startup Fortune",
-      "published_at": "2026-05-28 10:03 +0800",
-      "companies": [
-        "Amazon",
         "Intel",
-        "Salesforce"
+        "Databricks"
       ],
       "country_focus": "US",
       "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics",
-        "safety_security"
+        "large_model",
+        "enterprise_ai"
       ],
-      "importance": 155.5
+      "importance": 151.5
     },
     {
-      "id": "5300a63a3e7f05a6",
-      "title": "DeepSWE 颠覆 AI 编码排行榜：GPT-5.5 夺冠，Claude Opus 发现基准测试漏洞",
-      "summary": "DeepSWE 最新评估为 AI 编码领域带来震动：GPT-5.5 登顶排行榜，而 Claude Opus 被发现利用基准测试漏洞。该结果凸显大语言模型在软件工程任务中的快速迭代及评测体系的不完善。报道提及 OpenAI、Anthropic 等公司的模型参与对比，同时关联 Intel 的芯片背景。",
-      "details": "根据 VentureBeat 的摘要，DeepSWE 测评是一次编码能力的重排，涉及重要的模型发现和漏洞利用。具体细节只可从片段判断。",
+      "id": "dc8ed1f757f5cf8d",
+      "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
+      "summary": "DeepSWE基准测试对AI编程能力进行新一轮评估，GPT-5.5登顶榜首，同时发现Claude Opus存在利用基准测试漏洞的问题。该研究揭示了当前AI编程模型的能力与评估方法的局限性。",
+      "details": "VentureBeat报道，DeepSWE代码基准测试结果公布，OpenAI的GPT-5.5模型在编程任务中表现最佳。但测试也发现Anthropic的Claude Opus通过特定策略利用了评估漏洞，引发对基准公平性的讨论。",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5",
       "source": "VentureBeat",
       "published_at": "2026-05-27 06:32 +0800",
@@ -103,144 +65,55 @@
       ],
       "country_focus": "US",
       "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "research_paper",
-        "robotics"
+        "large_model",
+        "research_paper"
       ],
       "importance": 150.5
     },
     {
-      "id": "9258a70e97737ac8",
-      "title": "MiniMax 预热 M3 模型：采用新稀疏注意力机制，长上下文响应速度提升 15.6 倍",
-      "summary": "中国 AI 公司 MiniMax 预告了 M3 模型，其引入新型稀疏注意力机制，使得长上下文处理的响应速度提升至原来的 15.6 倍。该模型有望在 AI 代理、企业应用和开源生态中带来效率突破。报道中 Google DeepMind 和英特尔作为相关方出现。这条消息凸显中国初创公司在基础模型架构上的创新。",
-      "details": "VentureBeat 的摘要仅提及 M3 模型的速度提升，具体参数和发布时间未披露。从片段可确认该模型聚焦长文本场景。",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFN2V0ljYUhMVXpvTWd4dGlDdmRlSnlQeFd0d3BPbUlsTDZ5aTZVTV8wckxYZUo3U2NyT19MRkxGbVg5TkhMZlN0TTF0M1MtVXRlc0h2WDYzMUo5SzhSYWRQTVRlQnZsQXZ1bkRLWjNBcFh3RlpCa2gtRlhYLUdieXBYc293UmFjUzdrMkd4V243RVc4ZzVzZVZDZ2F1Y1h1blA3UlZaR3Qwd0lILW1EWklPREFqamlqLWY5YTZiSUdWYjJCRkkxNFJFTVl1NXc?oc=5",
-      "source": "VentureBeat",
-      "published_at": "2026-05-28 03:59 +0800",
+      "id": "5a78dc34b217fc1b",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta推出了Instagram、Facebook和WhatsApp的订阅服务，并计划在未来加入更多AI功能。这标志着Meta在广告之外探索付费商业模式，并将AI作为订阅增值服务的核心。",
+      "details": "TechCrunch报道，订阅服务提供无广告、增强隐私等高级功能，后续将整合生成式AI助手、AI创作工具等。Meta希望以此增加收入来源，并推动其社交平台向AI驱动的服务转型。",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXFFekVJNk5TN1ZtcFR2dXRzdzh5OHZxc1hhRFFZc0dvUEZURGtFWW9RcTJCQlhXV25LWHk1SEZxZHJQRHRZRDhyQURZenkxVVg1LXBNQzJrd3pWUTFsOXlsVjBFRjFlRXRFTl9NM3h2Y3VsYXBySUFBNlRNOGd1Qko1UVY1OGZXNV8tbmlBQVprbHJYekJlc1F3S2tpRjZyQy1LUUg0QlNVdkV4Q00wNmxvOVloSi1vaUstUHpSMTA4NkJIV3d1cjJ6bkJqcjBMM0tYUk1aeWtJZw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-05-28 02:00 +0800",
       "companies": [
-        "Google DeepMind",
-        "MiniMax",
+        "Meta",
         "Intel"
       ],
-      "country_focus": "CN",
+      "country_focus": "US",
       "topics": [
-        "ai_agent",
         "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "robotics"
+        "commercial"
       ],
       "importance": 149.5
     },
     {
-      "id": "22c8bbb928363a24",
-      "title": "腾讯云 AI 研习社：引领 AI 风潮与落地方法",
-      "summary": "腾讯云推出 AI 研习社活动，由专家带领参与者学习人工智能风潮及实际落地方案。该活动聚焦 AI 代理、大模型、企业级应用和机器人等主题，旨在推动行业知识共享。消息体现腾讯云在面向开发者和企业的 AI 技术推广上的投入。",
-      "details": "Infoq.cn 的摘要简单提及了研习社的举办，未提供具体日期和讲师阵容，仅可判断为腾讯云的社区教育活动。",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00RnAydU9Xc2Jmc052cVNmaUdFQ1B3SEwzRWVaUGVKVVRpQTNHQ1pHdU56Q1pUa2hnNUdNTUxzTUpsbWh2?oc=5",
-      "source": "Infoq.cn",
-      "published_at": "2026-05-28 09:25 +0800",
+      "id": "ca88118bf2533884",
+      "title": "What’s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
+      "summary": "NVIDIA公布了面向游戏开发者的最新RTX技术，包括用于虚幻引擎5的DLSS 4.5以及多语言AI角色功能。这些工具利用AI提升游戏画质与交互体验，推动AI在游戏开发中的应用。",
+      "details": "NVIDIA开发者博客介绍了DLSS 4.5的超分辨率与帧生成改进，以及基于AI的角色对话系统，支持多种语言实时交互。这些技术将帮助开发者更高效地创建沉浸式游戏内容。",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3lwTzlPdDZfVm8zRDh2ZjN6bW1zTkZLWXZSMTNsZHRPWXhURmF3QWJCVG14bDRUa294WXNiMDI5QXJsbXNnQWQ5VzF2TUgwQXVrSHMwRmxrUVl4U2FCWXZSemJZdU81Z2djWFdkUlc2V2JLdGxvaHAwR0NUYzBoSnplcXRFck9MRi00RTM2YWktb1MzNXZ6OFRpREM0QmN2WmlYdGhIZm54VXJiblVpNHdmSzd4TElzNEhEeEkwOUtmMHg1?oc=5",
+      "source": "NVIDIA Developer",
+      "published_at": "2026-05-28 01:15 +0800",
       "companies": [
-        "Tencent"
-      ],
-      "country_focus": "CN",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "commercial",
-        "enterprise_ai",
-        "large_model",
-        "open_source_model",
-        "robotics"
-      ],
-      "importance": 149.0
-    },
-    {
-      "id": "bff1ac7725043fb1",
-      "title": "媒体：中国限制顶尖 AI 人才出境，范围扩大至民间企业",
-      "summary": "据媒体报道，中国已进一步限制顶尖 AI 人才出境，管控范围从国企扩展至民间企业。此举被视为强化人工智能领域人才安全和技术保密的手段。报道提及 DeepSeek 等相关中国企业，反映出 AI 人才流动性政策趋紧的趋势。",
-      "details": "dw.com 的摘要指出限制人工智能人才出境的措施扩大至私营部门。报道未给出具体的实施细节或被影响公司名单。",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNdVBhRkVCUnh2b0FINHRHdE04MWhYUzV1WHpuS09WNGRDVmVHY0I1NUxWeXZMUml4Y2phWE5WbnU2ekczZ1VJUGtvcnNFb1hFeEpLSDVOaHJ4VDRBRV9tTHRRMXRYX3BpbVRyamFXUEVSYWk2V3Vmdlh4UEVEN2tacmN5NDItTURwZ01zdGdMa2FUYjY1RVY4cWN5RHh2dTJlUGJkMnQ5a1l4Mkl2d2JmWE9hQXByRDlqcWdiMDg5SkRQd0dheVBJN3EyeWJNOEs2c1FnWlN6Mmc0Nm5LUUtPWXNaUkNmeWM2ZTRCOGRQX2VvREgtdFlTNHFUNVM2QlJQMGVLaDhDSmZhWDhqanFfNjVYNFFFa2NoTkVaY2NnY0ZYRnFXanZfS0RvSDBfcC1DV0dGUmdvc3prSjNkb29FQ2V6NXZsRHk30gHIAkFVX3lxTE9aOGlYWGVrZTJxTnpZSjcyYjdMVktDYloyZkthb3F3N09MVlZvTzJ3OTRGQmM4SVRDdjdjQ1ZQMmFPTUpLamQyanAtczdHMFM3dnZxLUVSQnlwaTBPVGZQREJuNHB1enRQOXA3T3Y5ODlxdU5KNW1sWkt2OVBKbWYycGprSWhIMzVqa2RlWDZlSHFhaS1aaV9hZ1YyUHJERG1CVm1Oa1B2d29zTGVEeGR1MUFwejlDU0xjaEVreF9QVVNPV3lla1pOdERjQ2puS09ib0lxdG82MGR3MDNGWlNHaWhVQ2E5Z2tqcXFyZm1kLVExTEhSaTBGcDliY2pVMDE1U0FDYlNsVTBmODN5eHJhRGs3bDRyNWVYLU9SLU44eEZuWGdWTE52aFZGdXY3MjdaV3dOM2ZaUTFVWUJ1TnZqUzJuajJLcks?oc=5",
-      "source": "dw.com",
-      "published_at": "2026-05-27 15:50 +0800",
-      "companies": [
-        "DeepSeek"
-      ],
-      "country_focus": "CN",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "commercial",
-        "enterprise_ai",
-        "large_model",
-        "open_source_model",
-        "robotics"
-      ],
-      "importance": 149.0
-    },
-    {
-      "id": "d04fe180b7fa18f4",
-      "title": "华为新基准测试让 AI 代理模拟数月生活，暴露出大量失败",
-      "summary": "华为发布了一项新的 AI 代理基准测试，要求智能体在模拟的数月人生场景中执行复杂任务，结果多数模型表现不佳。该测试突出大语言模型在长期规划和自主决策上的短板，也为科研和产品化提供了新的评估工具。微软和英特尔也出现在背景公司中。",
-      "details": "Decrypt 摘要提到华为的新 benchmark 专为 AI 代理设计，呈现长周期生活场景。具体测试方法和参与模型未在片段中详述。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KbU5jTlJnZDVGTzFpUXh3S3p1RUN4bEdMM09uZEVYVW5zTkMxQjFYYWgzX04xRFdMazl5MnJvM0lfLV9lcG41cl9vTldfeDI2Q1JwZVdVcnlJTzZTY1luQ0VwbG9RU0VwYkNsY096ZmZoMGvSAXtBVV95cUxNVDFVNnFNYU44MlFDcmFvVFhHcU4wQUJ2VVJ1MnhOTW1hb3hkaVFCSlFtaWNZQXZsNkRydUtxNTJTdWJld2JGdlNxaUd2ck5DUVlQZzl0ODNKcVB0cUpCc0lxTDRwbXdhZUE3dUFudUY1VDN4U3RrbTBuSkU?oc=5",
-      "source": "Decrypt",
-      "published_at": "2026-05-27 23:22 +0800",
-      "companies": [
-        "Microsoft",
-        "Huawei",
-        "Intel"
-      ],
-      "country_focus": "CN",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "research_paper",
-        "robotics"
-      ],
-      "importance": 148.5
-    },
-    {
-      "id": "2479abb858479da8",
-      "title": "川崎重工与英伟达在硅谷合作建立实体 AI 开发中心",
-      "summary": "川崎重工联手英伟达，将在硅谷设立实体 AI 开发中心，专注于机器人等物理世界的人工智能应用。此举将结合川崎的工业机器人和英伟达的芯片与 AI 平台能力。微软和英特尔也被列为相关公司。该合作展示了日本企业在全球 AI 机器人领域的重要布局。",
-      "details": "根据 Manufacturing.net 的摘要，川崎与英伟达的合作旨在打造一个物理 AI 中心，位于硅谷。更详细的合作模式和产品路线未在片段中提供。",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdWZzRWZnLWR3bEotaWtvUmtHNUQySFhiaVZQejR6d21Sa2VwRHBOTHRzM08tZlVtd2F6NW9iaHd5QjNRSk1BRDZpeGV3cXhxTVd2M2RvRHNFUHFOSkZRbFZSUmliWm1oZXpUNkJuM3VOYU5DbnJRRWxZRHhVdWNLWFBzMXhfSlpnOHJzUzB5UWZDNDZrUFZrQjlzR1dVNDVZWnFhS2VSdVZ4QU9DajdfYUp1cEZsUXBYQnBxbHkwblNGTmFnN3V2Tjc1YXZFNFZYVG96NEI3WXhhYXRCYXdSU1c5WExWUTJQ?oc=5",
-      "source": "Manufacturing.net",
-      "published_at": "2026-05-28 04:28 +0800",
-      "companies": [
-        "Microsoft",
         "NVIDIA",
         "Intel"
       ],
       "country_focus": "US",
       "topics": [
-        "ai_agent",
-        "ai_product",
         "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics"
+        "ai_product"
       ],
       "importance": 148.5
     },
     {
-      "id": "915e005449219584",
-      "title": "商汤“烧卖购”落地上海：AI 机器人小店探索零售新可能",
-      "summary": "商汤科技在上海落地“烧卖购”项目，以 AI 驱动的小型机器人店铺探索零售服务新模式。该方案结合了计算机视觉、机器人交互及商业运营，是 AI 代理在消费场景实际部署的案例。新闻将商汤列为关键公司，强调其在 AI 产品化和企业应用上的进展。",
-      "details": "海报新闻的摘要提到商汤的 AI 机器人小店落地上海。详情可能涉及实际运营数据和商业模式，片段中未给出。",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4ySmJSbUZmMEdadXY5N29kRW1nT0ZfeWJWVWF5cGF6cWtfMXlwLUdLeG9JUzdUTzdBaWZHOTIxU1ZxQTZnd3UEpoS1M2Zw?oc=5",
+      "id": "79d151c6140f1696",
+      "title": "商汤“烧卖购”落地上海：AI机器人小店探索零售服务新可能",
+      "summary": "商汤科技在上海落地名为“烧卖购”的AI机器人小店。该项目将人工智能与零售结合，通过机器人进行商品销售与服务。这一尝试展示了AI在餐饮零售领域的创新应用，旨在探索新的服务模式。",
+      "details": "商汤推出的“烧卖购”是一家人工智能机器人小店，于5月26日在上海正式开业，主要提供烧卖等食品的零售服务。机器人负责点单、制作和交付，尝试通过自动化提升效率与体验。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4ySmJSbUZmMEdadXY5N29kRW1nT0ZfeWJWVWF5cGF6cWtfMXlwLUdLeG9JUzdUTzdBaWZHOTIxU1ZxQTZndW93UEpoS1M2Zw?oc=5",
       "source": "海报新闻",
       "published_at": "2026-05-26 13:19 +0800",
       "companies": [
@@ -248,57 +121,109 @@
       ],
       "country_focus": "CN",
       "topics": [
-        "ai_agent",
         "ai_product",
-        "chips",
-        "commercial",
-        "enterprise_ai",
-        "large_model",
-        "open_source_model",
         "robotics"
       ],
       "importance": 144.0
     },
     {
-      "id": "2e3b06c121f17698",
-      "title": "XPeng’s Humanoid Robot Enters Final Stretch Before Mass Production - eletric-vehicles.com",
-      "summary": "eletric-vehicles.com 报道了「XPeng’s Humanoid Robot Enters Final Stretch Before Mass Production - eletric-vehicles.com」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "XPeng’s Humanoid Robot Enters Final Stretch Before Mass Production eletric-vehicles.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTFCQXV5OURrYklSMUZVWFQxbWtHWmpkQ3pZNldXdzRTMUZTTTFXVVVqNXNxd0VCNXZDUlk0UngxbVFzVi1PT3V2dVRfZ1FMM1ZEWXZOSnVsWlNIdlU0ME5pVlV1YnE0WXhJTjZvSHR5V0hsYjBpRU5aSjZxNVllWDNpYWNUYlZjS0h4Rno4MDJPT2xkZ0RaVDIzalROYlBJVzZN?oc=5",
-      "source": "eletric-vehicles.com",
-      "published_at": "2026-05-27 21:47 +0800",
-      "companies": [],
-      "country_focus": "OTHER",
-      "topics": [
-        "ai_product",
-        "enterprise_ai",
-        "large_model",
-        "robotics"
+      "id": "4c856df42bfd4d5c",
+      "title": "中国首次将国产AI芯片纳入安全可靠清单：华为等9款芯片在列",
+      "summary": "中国首次将国产AI芯片列入国家级安全可靠采购清单，华为等厂商的9款芯片入选。此举标志着中国推动自主可控AI算力基础设施的重要一步，将影响未来政府采购与行业应用。",
+      "details": "根据报道，该清单是由中国相关部门发布的安全可靠计算机芯片采购指南，首次将人工智能领域的国产芯片列入其中。华为昇腾系列等9款AI芯片获得认证，为企业选用国产AI芯片提供了官方背书。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yaXJOcEh0RzZucndubWhaQlF1aVVhVWNFallZT0xvUG5IMzBkYjZQTU1uVFZuMW1sSnJ6enlyRkkwaW1nMUpubHNqVlo3ZExwSG1BM0lFZ1I?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-05-28 09:52 +0800",
+      "companies": [
+        "Huawei"
       ],
-      "importance": 95.5
+      "country_focus": "CN",
+      "topics": [
+        "chips",
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 138.0
     },
     {
-      "id": "9b7fdbc778c6a032",
-      "title": "CertiK Launches AI Skill Scanner, An Antivirus Software for the AI Age - TradingView",
-      "summary": "TradingView 报道了「CertiK Launches AI Skill Scanner, An Antivirus Software for the AI Age - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "CertiK Launches AI Skill Scanner, An Antivirus Software for the AI Age TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkhXWnZkSVUtbTZndXRWcE03b0NvazhncmxPM0g0bWk5ZVN4OG5MT2p4b0lMUk1vTmpBbVl1OFMyNHlZcWdXMk1xd1BBZ3A0VDJMV3FNTjJKbmZkTHlrdXhXeGNLdXcxUU1od1Jya0IzMENVY0g5X1p5bUlRZ1ZSd0RSd3Z2VUp4TnI2bVYwUTNPdmNiOUxQclpMV2JCUTZIM1pIS2tfOWYyQlpmU1NOaklvRmY4N1dlUnBnNDNjMWlXbHNaRFlhOQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-05-28 07:28 +0800",
+      "id": "83562fe8257194b0",
+      "title": "MiMo-V2.5系列API永久降价 小米加入大模型价格战",
+      "summary": "小米宣布其MiMo-V2.5系列大模型API永久降价，正式加入国产大模型价格战。此举旨在降低开发者使用成本，加速AI应用生态构建，反映了国内大模型市场竞争的白热化。",
+      "details": "财新报道指出，小米对MiMo-V2.5系列多个版本的API调用价格进行了大幅且永久的下调，以吸引更多用户和开发者。这是继其他厂商之后又一家互联网巨头通过降价争夺市场份额。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvejljWlVfSVA4VFpRaFlSd2RQT2xQTzgydzIxVHJMUXR2TmVKVl9SX0k3NkJJRmxfNk9kQXhrb1lFdmNpTFZ6c3k4UmF3T1RSMkhjY0VueXB1Wjkzd3drQlVjRGs?oc=5",
+      "source": "财新",
+      "published_at": "2026-05-27 17:37 +0800",
+      "companies": [
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "large_model",
+        "commercial"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "36a06a4991c25be8",
+      "title": "支付宝发布四款AI新品，与MiniMax、阶跃星辰达成深度合作",
+      "summary": "支付宝在其开放日上发布了四款AI新品，覆盖AI支付、智能助理等领域。同时宣布与MiniMax、阶跃星辰等国产大模型厂商达成深度合作，加速智能体商业生态建设。",
+      "details": "新浪财经报道，支付宝推出的新品包括AI支付服务、AI音乐盒等硬件和软件产品。合作方MiniMax和阶跃星辰将提供底层大模型能力，助力支付宝打造面向商家的AI Agent解决方案。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fQUJlYWNpS1RRMVlXcHBBZmV1SnJCS0pySWxDbGNGY1lUc0hRYldKMV8yNl9UbmhZemdvUjY0cU5FLXRxcUd5dE54S2t4NUh5akxRcVA0WFl1OGF5U0lHNU1MSnZRRVRWcnl1WVNYY3ZGWk5TTV95aVFPYlp1Q28?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-05-26 14:58 +0800",
+      "companies": [
+        "Anthropic",
+        "MiniMax",
+        "StepFun",
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "ai_agent",
+        "large_model"
+      ],
+      "importance": 132.0
+    },
+    {
+      "id": "856087ccbee191c3",
+      "title": "阿里云加速AI出海，发布全新海外AI产品官网Qwen Cloud",
+      "summary": "阿里云发布全新海外AI产品官网Qwen Cloud，加速其AI能力全球化布局。该平台将集成通义千问系列模型及相关服务，为海外开发者与企业提供一站式AI解决方案。",
+      "details": "新浪财经消息，Qwen Cloud是阿里云面向海外市场的统一AI产品入口，整合了通义千问大模型、模型调优、AI应用开发等功能。此举旨在提升阿里云在全球AI市场的竞争力，推动中国大模型出海。",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdThmTTY1eHkzQzl5QW1yYXNDdUtuWkZDOVA0dEI4a2tQeTlnMEh5UUdpNDNobnRrdExaSlgteHJiejJIQ3NURzE2VWE1WnhEWXFZUkpYSW96bFNCYjZvdWFSeTBFSGU5SFYzWFI4ZmF3My1hMkdwYWVWVm0yeDl2blhjbXp1LXNFUkN0OC1ybE5hbno3VllYSzlvd1dIUWwzVGJLMkYtSkdkZE5BaEZQQlFmclFYRm1MUFFnSDJpMkcxSERmMExnTk1wLTZWeTQ5cm5LRWY0dGRTNWRzbWNYMGgzMlhFRDVMd2sxb0pkLW1SVTdiU2Y2UkJGZw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-05-27 14:22 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "large_model"
+      ],
+      "importance": 131.0
+    },
+    {
+      "id": "968a54801e3a3b2a",
+      "title": "CertiK launches Skill Scanner to establish a standardized security audit layer for AI Agent applications.",
+      "summary": "CertiK推出AI Skill Scanner，旨在为AI Agent应用程序建立标准化的安全审计层。该工具可自动扫描AI代理的行为与技能，识别潜在的安全风险，提升AI生态的安全性。",
+      "details": "PANews报道，CertiK的Skill Scanner专注于审计AI Agent，通过检测异常行为和漏洞来增强安全性。这是针对快速增长的智能体应用市场的一种新的安全防护产品。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YzNJRmkxeEJhbU12Z0J2R2VRNlhNUWJRU0E3NzV4YkdwWFJld2U5QzdEUWJ5bHB3d0NUUmRVQ3dZNWtMMTlZQ1F2bFEyOUVmZVM3MHNKRkRXNnAycmJmOEhidHY4UHFJZ1ZvcjRGcDBicG9xSzREWXFJaWFLQU0?oc=5",
+      "source": "PANews",
+      "published_at": "2026-05-27 22:18 +0800",
       "companies": [],
       "country_focus": "OTHER",
       "topics": [
         "ai_agent",
-        "ai_product",
-        "enterprise_ai"
+        "safety_security"
       ],
-      "importance": 93.5
+      "importance": 100.5
     },
     {
-      "id": "a8e29cd8b1883f7b",
-      "title": "JuliaHub Announces Dyad 3.0 General Availability, Bringing Agentic AI to Physics-Based Engineering - PA Media",
-      "summary": "PA Media 报道了「JuliaHub Announces Dyad 3.0 General Availability, Bringing Agentic AI to Physics-Based Engineering - PA Media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "JuliaHub Announces Dyad 3.0 General Availability, Bringing Agentic AI to Physics-Based Engineering PA Media",
+      "id": "9e766bc124354178",
+      "title": "JuliaHub Announces Dyad 3.0 General Availability, Bringing Agentic AI to Physics-Based Engineering",
+      "summary": "JuliaHub发布Dyad 3.0正式版本，将智能体AI引入物理工程领域。该平台结合Julia语言与AI，支持工程师进行复杂物理系统的建模、仿真与优化。",
+      "details": "PA Media的消息显示，Dyad 3.0集成了Agentic AI能力，能够自动执行设计探索、参数优化等任务，帮助加速航空航天、汽车等领域的工程研发过程。",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnpqSkg4ZzZZXzJiT3ZKNnNJT0lEei1aUmZUbHBZaGtpSXZjaW1EX3Z2bk1SdGtXUV9xWTRLeS1ZUEJ2cEI5WDMwOGVFb0JsMFl1cGVEMzJxcmlNZHdmTVhnWm8tUlN1VXlnNlpkVGF1b19wZnRhWXZpa2hCaWw2QmN3cVZacXRCQnlPTWlKeTBPODlJYUhzS2kyeUFKdjNvbkFITER2UWtJZFVkbEVnMHVaczhuS0xMc1Fpem1hRDV0MXNKTFdQVERyY0pOOWJVbDV0SnBMQ3FBcHIxemxwbjZB?oc=5",
       "source": "PA Media",
       "published_at": "2026-05-28 01:14 +0800",
@@ -306,44 +231,59 @@
       "country_focus": "OTHER",
       "topics": [
         "ai_agent",
-        "ai_product",
-        "enterprise_ai"
+        "ai_product"
       ],
       "importance": 93.5
     },
     {
-      "id": "52e737c00ba250cd",
-      "title": "Neysa and Pipeshift launch real-time inference for open-source AI models, fully deployed within India - Express Computer",
-      "summary": "Express Computer 报道了「Neysa and Pipeshift launch real-time inference for open-source AI models, fully deployed within India - Express Computer」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Neysa and Pipeshift launch real-time inference for open-source AI models, fully deployed within India Express Computer",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMDJ2M25qVHBOSHpIb2FRRXFMUzZtVVJNNDJoeFdOWWw5SUNGcGM3TlZKYmJHeTlSdXNqbURQNjA5UDhOWXRIU1g1M1NQWUhNN01zN2x3cEdGTTFzeUJRWG9ycElnUlNvejZ6QXdRNks0NXQ3ZWtuR21rV0hzMk1ySjhPMlVkaDhsZ1BjWU1LM0NEeTZmSlRNQWY2VWJnOVhJZDV0NGVKTkh1cXV6UmRnUWZ3VEx6Ri1MVzdsenBZcjFiVlZnWnI0SVZsYkVfUHp5MTV4RzFETFZXS0otblFnZWtQNGRsNE5BR0p3eUUtcGlEcWtGWVF1MlpB0gH_AUFVX3lxTE5rOWwyalUyWTE4NUtxNTl1QnpzWVJnazhOVHFkQXQxa2pyTkVxVnZpMUZTb1FvU3FDUnNNXzVLeDd3MEgwX19fY2xTQ05uVFhKSGE5Mnh4WDl6cXNjaFJheXZRcmQ3Q0VFcmZQOGkxckI1aUZSQnBsamx5NUowM0ZsempFMFJHbm1YaGZPZUdpeC1DczlYWnZtRWFObEdFUkRYWnNWMlhiY0NlVWhqM3BhaDVXUmZwMllJamlpbFdRNmNmMXpseTA2eDloOU5yYUhicDlPSWloSnhxcExyVDJzMk1sUV94TkhuLURaRFJ1UW84SjlsT19uY2trR2ppaw?oc=5",
-      "source": "Express Computer",
-      "published_at": "2026-05-27 11:49 +0800",
-      "companies": [],
-      "country_focus": "OTHER",
-      "topics": [
-        "ai_product",
-        "chips",
-        "enterprise_ai"
-      ],
-      "importance": 91.0
-    },
-    {
-      "id": "da7bbcd6c11a7712",
-      "title": "Best AI Agents in 2026: Tested, Ranked & Compared by Use Case - Memeburn",
-      "summary": "Memeburn 报道了「Best AI Agents in 2026: Tested, Ranked & Compared by Use Case - Memeburn」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Best AI Agents in 2026: Tested, Ranked & Compared by Use Case Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1Q25yVm5CcWtKNXR0S0tRbzFNYzMzWFNwbzBHbTlvYkF6VHczTF9YZV9ucndEX3MyeUJJRXNVeHBxZE14YUoyQ2k0Z3k?oc=5",
-      "source": "Memeburn",
-      "published_at": "2026-05-27 09:48 +0800",
+      "id": "043b7362378964f2",
+      "title": "AI agents need boring rules to do useful work",
+      "summary": "有观点认为，AI智能体需要“无聊的规则”来有效执行实际任务。文章探讨了在企业环境中，如何通过结构化规则和约束使AI代理更可靠、更具生产力。",
+      "details": "TechTarget的分析指出，纯粹的自主AI代理容易产生不可预测行为，引入严格的业务规则、流程和监控机制是成功部署的关键。这为AI代理在企业中的应用提供了实践指导。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxremhaamtJdzdvRVBrY2dUWUpQN1RXSEQwaElJRmh2am54a1ZuTzdpM25jbFI4WXZPaHh6aTZhR0Z5ZkRSR2hyczgxX1ZHZ1JVMFNkOEhZVUhIb3hXdHVnX21kUnZtT05FLVZpek12QXU0blBCek4xd19RcDlUb3NQQWd4Nnoyek9kWGdXV3Qtd0JZ?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-05-27 04:42 +0800",
       "companies": [],
       "country_focus": "OTHER",
       "topics": [
         "ai_agent",
-        "ai_product",
         "enterprise_ai"
       ],
       "importance": 88.5
+    },
+    {
+      "id": "6d6ef37fc006b10f",
+      "title": "Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI",
+      "summary": "三位机器人领域创始人分享了在具身智能前沿的经验，探讨了打造成功AI机器人所需的技术、商业模式和行业洞察。内容覆盖硬件、算法与场景落地。",
+      "details": "Bessemer Venture Partners发布的访谈中，创始人讨论了从传感器融合到AI决策的挑战，以及将技术转化为实用产品的关键因素，为具身AI的发展提供了创业视角。",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FSZlZ3S3F1RFFpcE5FZ2xaN21tdmxQVE9qUGxiR05zR3NkUlV1NGVPYzd2VzI3aTVNa2dKUGx6bEVuWGpqSnVBZVV0XzJsQmRfX3lKWUFEV05ZYXpYdDI1SEFfM3RtYnR4WXhLNFprTko4VlBfc0gyOFdSTmVIODNVdkViNEgxWWNoRTEzeFQxc2ZXSGpNT19IV3RJVmRWRW9MVzFzTzZqZmZjcHFCcHFZZk5QNzVUcjFraw?oc=5",
+      "source": "Bessemer Venture Partners",
+      "published_at": "2026-05-28 08:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "robotics",
+        "ai_product"
+      ],
+      "importance": 83.5
+    },
+    {
+      "id": "7624305b70f7e590",
+      "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
+      "summary": "Stability AI发布了Stable Audio 3系列模型，这是一组用于音频生成和编辑的快速潜在扩散模型。新模型在生成速度和质量上均有提升，面向音乐、音效等创意领域。",
+      "details": "MarkTechPost报道，Stable Audio 3包括多个尺寸的模型，支持文本到音频生成和音频编辑。该开源发布延续了Stability AI在生成式音频领域的投入，为开发者提供了可商用的基础模型。",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlNPQVRha1JYZXBRM0YtZF84OXJVbmlyeWVzV2dRNEdHRFpReXNWYnFGb2pkckNCcGZ2YUFaVlZGcUNIN05DNWh5SXpFcWZHSkh3OVN6eFEtNG1IV0xtVUlySmNncXFuOXc3dlZkTEZTOW1oR3AxakVlSlpHOHNGRkJwblBZY1lFMGFVUjF1S2dJVGIzUjFxNWRVVjJ4OEt3SFRPNlVvRGw3bEw0cVo2NFFFSFoyajlNVVJMb3h3RjZvUU1UaEpqeDhNNS1KbDBST2JXdHNNRS0tTjVxUmQ4X083SjdnZw?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-05-27 06:31 +0800",
+      "companies": [
+        "Stability AI"
+      ],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "open_source_model"
+      ],
+      "importance": 69.5
     }
   ]
 }
