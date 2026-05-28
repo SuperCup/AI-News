@@ -361,6 +361,51 @@ def source_from_url(url: str, fallback: str = "News") -> str:
     return host or fallback
 
 
+def has_ai_signal_text(value: str) -> bool:
+    low = value.lower()
+    signals = [
+        "ai",
+        "artificial intelligence",
+        "llm",
+        "large language model",
+        "agent",
+        "robot",
+        "gpu",
+        "chip",
+        "model",
+        "copilot",
+        "人工智能",
+        "大模型",
+        "智能体",
+        "机器人",
+        "芯片",
+        "模型",
+        "算力",
+        "开源",
+    ]
+    return any(signal in low for signal in signals)
+
+
+def is_low_value_candidate(item: Candidate) -> bool:
+    title = clean_text(item.title)
+    low = title.lower()
+    if len(norm_title(title)) < 8:
+        return True
+    host = source_from_url(item.url, "").lower()
+    source_norm = norm_title(item.source)
+    title_norm = norm_title(title)
+    host_norm = norm_title(host)
+    if title_norm and title_norm in {source_norm, host_norm}:
+        return True
+    if re.search(r"\s+-\s+[a-z0-9.-]+\.[a-z]{2,}\s*$", low) and not has_ai_signal_text(title):
+        return True
+    if re.search(r"\b(the\s+)?\d+\s+best\b|\bbest\s+.+\bworth using\b|\bultimate guide\b|\bhow to\b", low):
+        return True
+    if "what changes in 2026" in low and not any(word in low for word in ["launch", "announces", "released"]):
+        return True
+    return False
+
+
 def fetch_google_news(spec: dict[str, Any], lookback_hours: int, limit: int = 8) -> list[Candidate]:
     url = google_news_rss_url(spec["query"], lookback_hours)
     feed = feedparser.parse(url)
@@ -511,7 +556,7 @@ def fetch_for_spec(spec: dict[str, Any], lookback_hours: int) -> list[Candidate]
             rows.extend(fetcher(spec, lookback_hours))
         except Exception as exc:
             print(f"[warn] fetch failed for {spec['query'][:80]} via {fetcher.__name__}: {exc}")
-    return [row for row in rows if row.title and row.url]
+    return [row for row in rows if row.title and row.url and not is_low_value_candidate(row)]
 
 
 def dedupe_candidates(candidates: list[Candidate]) -> list[Candidate]:
@@ -856,6 +901,7 @@ def ensure_daily_balance(
 
 def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]]:
     candidate_by_url = {row.url: row for row in candidates}
+    companies = company_index(rules)
     rows: list[dict[str, Any]] = []
     for raw in data:
         if not isinstance(raw, dict):
@@ -865,17 +911,30 @@ def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rul
         if not title or not url:
             continue
         candidate = candidate_by_url.get(url)
+        summary = clean_text(raw.get("summary"))
+        details = clean_text(raw.get("details"))
+        raw_companies = [clean_text(value) for value in (raw.get("companies") or []) if clean_text(value)]
+        detected_companies, detected_country = detect_companies(
+            " ".join([title, summary, details, " ".join(raw_companies)]), companies
+        )
+        merged_companies: list[str] = []
+        for name in [*(candidate.companies if candidate else []), *detected_companies, *raw_companies]:
+            if name and name not in merged_companies:
+                merged_companies.append(name)
+        country_focus = preferred_country_focus(raw.get("country_focus"), candidate)
+        if detected_country != "OTHER":
+            country_focus = detected_country
         rows.append(
             {
                 "id": stable_id(title, url),
                 "title": title,
-                "summary": clean_text(raw.get("summary")),
-                "details": clean_text(raw.get("details")),
+                "summary": summary,
+                "details": details,
                 "url": url,
                 "source": clean_text(raw.get("source")) or (candidate.source if candidate else "未标明"),
                 "published_at": clean_text(raw.get("published_at")) or (candidate.published_at if candidate else "未标明"),
-                "companies": raw.get("companies") or (candidate.companies if candidate else []),
-                "country_focus": preferred_country_focus(raw.get("country_focus"), candidate),
+                "companies": merged_companies[:4],
+                "country_focus": country_focus,
                 "topics": raw.get("topics") or (candidate.topics if candidate else []),
                 "importance": float(raw.get("importance") or (candidate.importance if candidate else 0)),
             }
