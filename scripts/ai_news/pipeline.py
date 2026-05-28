@@ -399,7 +399,10 @@ def is_low_value_candidate(item: Candidate) -> bool:
         return True
     if re.search(r"\s+-\s+[a-z0-9.-]+\.[a-z]{2,}\s*$", low) and not has_ai_signal_text(title):
         return True
-    if re.search(r"\b(the\s+)?\d+\s+best\b|\bbest\s+.+\bworth using\b|\bultimate guide\b|\bhow to\b", low):
+    if re.search(
+        r"\b(the\s+)?\d+\s+best\b|\bbest\s+.+\bworth using\b|\bbest\s+ai agents\b|\branked\b|\bcompared\b|\bultimate guide\b|\bhow to\b",
+        low,
+    ):
         return True
     if "what changes in 2026" in low and not any(word in low for word in ["launch", "announces", "released"]):
         return True
@@ -700,6 +703,27 @@ def discover_candidates(rules: dict[str, Any]) -> list[Candidate]:
     return score_candidates(rows, rules)
 
 
+def balanced_candidate_pool(candidates: list[Candidate], rules: dict[str, Any], limit: int = 90) -> list[Candidate]:
+    selected: list[Candidate] = []
+    selected_ids: set[int] = set()
+    per_region = max(12, math.ceil(limit / 3))
+
+    for region in ("CN", "US", "OTHER"):
+        region_rows = [row for row in candidates if normalize_region(row.country_focus) == region]
+        for row in region_rows[:per_region]:
+            selected.append(row)
+            selected_ids.add(id(row))
+
+    for row in candidates:
+        if len(selected) >= limit:
+            break
+        if id(row) not in selected_ids:
+            selected.append(row)
+            selected_ids.add(id(row))
+
+    return selected[:limit]
+
+
 def extract_json_block(value: str) -> Any:
     cleaned = value.strip()
     fenced = re.search(r"```(?:json)?\s*(.*?)```", cleaned, flags=re.S)
@@ -757,7 +781,7 @@ def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[
         return None
     try:
         max_items = int(rules["max_daily_items"])
-        payload = [item.as_prompt_dict() for item in candidates[:70]]
+        payload = [item.as_prompt_dict() for item in balanced_candidate_pool(candidates, rules)]
         prompt = {
             "task": "从候选新闻中选出今日 AI 日报，生成中文内容。",
             "rules": [

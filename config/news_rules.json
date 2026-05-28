@@ -62,7 +62,7 @@
       {"name": "Baichuan", "aliases": ["Baichuan", "百川智能"]},
       {"name": "Ant Group", "aliases": ["Ant Group", "蚂蚁集团", "百灵"]},
       {"name": "Meituan", "aliases": ["Meituan", "美团"]},
-      {"name": "JD", "aliases": ["JD", "京东", "言犀"]},
+      {"name": "XPeng", "aliases": ["XPeng", "Xpeng", "小鹏", "小鹏汽车", "Iron robot"]},
       {"name": "Xiaomi", "aliases": ["Xiaomi", "小米", "MiMo"]},
       {"name": "Unitree Robotics", "aliases": ["Unitree", "宇树科技", "宇树机器人"]},
       {"name": "Cambricon", "aliases": ["Cambricon", "寒武纪"]}
