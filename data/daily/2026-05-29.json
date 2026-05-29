@@ -1,0 +1,344 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T13:44:37.632124+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-05-29/",
+  "image_path": "assets/daily/2026-05-29.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "1ec9c3fa7008f6ff",
+      "title": "Chrome Enterprise adds AI agents for security management",
+      "summary": "谷歌旗下Chrome Enterprise浏览器新增AI安全代理功能，帮助企业监控和管理安全威胁。这些AI Agent能够分析安全事件并协助管理员快速响应，将AI原生安全能力直接嵌入企业浏览器。",
+      "details": "Let's Data Science报道显示，Chrome Enterprise新增的安全管理AI代理可实现安全事件检测与自动化响应，具体技术实现细节未在摘要中展开。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2JDSEVrekhLS0VHUGdiaHJnSmI4R2Vhd0c3c0hnSzBnRWhrWkYtMHJuT2doamNVZVYtWEVMVlA2Vl8wOV9MWm5Sdkl6d1dpRGhINzZHRWRXSnVvZk40VlkyTjZ1aU9CVTNVU3N5aUhIbE1DTnh5Z3ZwRHhObk52TXphcmFXMTdaZF9UNUxTUlRaSW9KTXVPeGdvUFVZUG8?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-05-29 00:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "50f36b9939d4e7b4",
+      "title": "Why Tesla’s AI trainers don’t trust its self-driving tech – or its safety stats",
+      "summary": "路透社调查发现，特斯拉内部负责AI训练的员工对其自动驾驶技术的可靠性和官方公布的安全数据缺乏信任。报道指出数据统计方法可能掩盖了技术局限，引发了外界对AI系统在安全关键应用中透明度与可信度的担忧。",
+      "details": "路透社基于对特斯拉前员工和内部文件的调查，指出训练数据标注和安全指标计算方式存在争议，特斯拉未对此做出具体回应。",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazNhNXZBel83QzMtdXhOcE40QTlmUWZUX2tjbmlvXzNRODJVOHhqWFUxdHc4UzBsUkNXNUVfdURHWUVvOEJOWUFhWXFjQ3AwalBtQjVrVGpuZHVHTENhQkVXR2ltdFNGUmQzM056U19mMTJXbWlSTWZaT0Z3NGVtTGFtN09aS2V6TVNHZkNhQ2JWX1V4aXFvcXNwUm51VlljUk1taWtITm9oY0pRUVRUcnZBT2FjNzdHOFEwS1N6Q3gyYk8z?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-28 18:27 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "4ebb3116603a8a96",
+      "title": "Stepfun Open-Sources Step 3.7 Flash LLM Optimized for Agent Era",
+      "summary": "阶跃星辰（StepFun）开源了专为智能体时代优化的Step 3.7 Flash大语言模型，强调低延迟与高效推理，适合在AI Agent工作流中运行。模型已在Hugging Face等平台发布，旨在推动开源生态在Agent领域的发展。",
+      "details": "Pandaily报道，StepFun发布的开源LLM Step 3.7 Flash针对Agent任务进行了优化，但具体性能基准和参数规模未在摘要中详细列出。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNWm1yMDhFczREc1RHaXhabjJPWEc4NXFxblUtTU1vNTNRU1hmZmhhX3BWVFE3YnJMVXU3TTJxV01Ma19fQVVwQVRTRlg4M1JDSE1TUDNpNHIyQXRkTzE0M1h6aTUxbXkxeERNRU8zU1F5LW5yRUtJd0JOMTVXZw?oc=5",
+      "source": "Pandaily",
+      "published_at": "2026-05-29 11:15 +0800",
+      "companies": [
+        "Intel",
+        "StepFun",
+        "Hugging Face"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "c130bded7523d5f0",
+      "title": "Microsoft to Release New Coding Model Next Week in Comeback Attempt",
+      "summary": "微软计划在下周发布一款全新的代码生成模型，力图在AI编程辅助领域重新占据领先地位。该模型预计将具备高阶代码理解和生成能力，直接对标市场上的主流代码模型。此举反映出微软在开发者工具赛道上的持续投入。",
+      "details": "据The Information报道，微软的新编码模型将在下周亮相，旨在应对来自其他AI编程工具的竞争压力，模型名称及具体性能指标暂时未公布。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnYwdFliUHZQWnMxTHQ5TnA1QVBFd2VCMHRQNUFEWGtra1h1eEsxdWVadDB1Z2dHdDJ6eERhd3lVT3Z1czJaOHYzbVIyN1JFUFc3TDl0cFBtQzFoY3VzdklCM2dLOC12cUF4dXlleDBtS3pob1YyMVNvS3RBQUY0a3dlQ01fMGJMYnpsUWlnblhObEtWU0s2TVRkc0daa1dRSUpsdEZKZHNJbFlUTHo4cTZLcXE?oc=5",
+      "source": "The Information",
+      "published_at": "2026-05-28 22:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9bb54b46f3dd0c9b",
+      "title": "Apple to Overhaul iOS 27 Siri, AI Features: Here's a First Peek",
+      "summary": "苹果计划在iOS 27中对Siri及AI功能进行重大改造，旨在提升与ChatGPT等竞品的竞争力。预览显示新Siri将拥有更强的上下文理解和主动建议能力，并可能以独立应用形式出现，强调设备端AI处理与隐私保护。",
+      "details": "彭博社报道透露，iOS 27的Siri改造包含全新界面和深度系统整合，可能推出独立的Siri应用，具体发布日期尚不明确，一切基于媒体提前获得的预览信息。",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTFhUlhOTGVzeXhnTGdybnlPYXpLNFlEb3B0SW5fTzBDYl9DTXIxREEwazJTNkIzWW9CV3c3NVB6c1Z3U0k5Rm9qc3p2ZjBpVGJPemNrQnVaNUhxYmQyY080U0RDaGJ1Vl9YTHpPX0d2OVdscy1IYk8wLWdQSklsZHE4NUgtcERaNW1VQ1hDRWs5MEdVR2ZXSVR1ektKbk9xSlpMZ0daQjhjekNZWU9RTjQ4Z3YzcWVFQ0dDVzlsOHl1NlZPblE?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-05-28 20:10 +0800",
+      "companies": [
+        "Apple",
+        "Intel",
+        "OpenAI"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4b449ca409f9057f",
+      "title": "IBM, Red Hat Pledge $5 Billion for AI-Driven Open Source Security Initiative",
+      "summary": "IBM与Red Hat宣布启动50亿美元的Project Lightwell计划，为开源AI基础设施构建安全防护层。该计划利用AI驱动的安全工具，对开源模型和软件供应链进行安全扫描与加固，试图弥补开源生态中的关键安全缺口。",
+      "details": "据《华尔街日报》等多家媒体，Project Lightwell将提供安全扫描、风险评估等服务，主要面向企业和开发者，具体技术路线图和时间表尚未公布。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0pHQjd5QTg1Z0F0X0x2NlFrdmhCVFpfdFZuNHc1UzNnc3dsbzdDQWI2YmFRWUFDdkF1ZHljTXpyUTdIN3g5NlNRZ0FtYzdrR3l1UWQybmw5UG5ZVkFrOXJEcFp3M3FLbno1TE5WZTZVYW9tQk4wcllVOWNyeDQyOHUxX2o4X0YwbjhyeWVIdW00WW9yR2RMdTA0dHpncGQ5TnNWbDJwOW92TjFDejN6VQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-05-29 05:09 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel",
+        "IBM",
+        "Red Hat"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "99e05affb7efad30",
+      "title": "小鹏集团发布Q1财报，全力推进VLA 2.0模型、图灵AI芯片及机器人量产落地",
+      "summary": "小鹏汽车公布2026年第一季度财报，营收130亿元，并宣布将迎来高速增长。同时，公司正全力推进VLA 2.0大模型、自研图灵AI芯片、Robotaxi以及机器人物理AI应用的量产与全球扩张。这一布局显示小鹏将AI深度融入智能电动汽车和机器人业务。",
+      "details": "根据手机新浪网报道，小鹏CEO何小鹏表示随着4款全新车型交付和国际业务扩张，公司将进入高增长阶段，重点是VLA 2.0模型、图灵AI芯片以及机器人等产品的量产落地。细节仅来自标题与摘要。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50bHJBcW53Y3RQXzBncldLbkkySElRZUlCQ0hqTmhhdV8waWI2NDdjc2RMNmUzeHVJalRVbERGeG5HbENJeXJiNUNhQVpPUWFqY3JzbWZMOWxiTFBNOFRZNUlVbw?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-05-28 21:53 +0800",
+      "companies": [
+        "XPeng"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d71ed48fe95b3b15",
+      "title": "中国首次将国产AI芯片纳入安全可靠清单，华为、阿里平头哥等9款芯片在列",
+      "summary": "中国首次将国产AI芯片纳入国家安全可靠清单，华为昇腾、阿里平头哥等9款芯片通过测评。这标志着国产AI芯片在安全可靠性方面获得官方认可，为后续在关键信息基础设施中的应用铺平道路。该举措旨在推动国产芯片的自主可控和规模化部署。",
+      "details": "据搜狐网报道，国家安全可靠测评结果公布，华为、阿里平头哥等9款AI芯片上榜，涵盖训练和推理用途。报道未披露具体测评标准和流程细节，仅从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa041djFjSnRNLVJtWTBJOEFjd0JsczctNkJ3MkpQUFVOODlnb2ZEQTQ3YUNTZnZ6U1hseXMwSHloYVJpLVUzRWdXdV9NeFVsZnJTTHFQQm81QjEwbW1aQ19ZdDh4WnNoWGhuOFNyTVRSdDcyOGVsckkyaFBSSW11U09BeVFxR2Zz?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-05-29 13:31 +0800",
+      "companies": [
+        "Alibaba",
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "25dfcac2dbbf242e",
+      "title": "一条指令管好百家门店！美团发布首个即时零售商家专属AI解决方案“牵牛花Claw”",
+      "summary": "美团推出首个面向即时零售商家的AI解决方案“牵牛花Claw”，宣称通过一条指令即可管理上百家门店。该方案旨在帮助零售商户提升运营效率，标志着美团将AI能力大规模赋能线下商家。",
+      "details": "据新浪财经报道，牵牛花Claw是一款即时零售商家专属AI方案，能够实现多门店的简单指令化管理。新闻未公开具体技术架构和定价信息，只能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUt6X004UG1DTXZnbUF0YWV4UG1fX3FpYUduc0Y2bWUtWWd3MHpNbEp6dWZNWjdoSTJrOTRfbFRqNE1abjBzWE9Ccjk0YmNtVlpvN19BcDFpSTRQTllIY0JsLUdvb2pHdVRsSVllbGN0LUhyVW1FV1pzSlRQd1JRVA?oc=5",
+      "source": "Sina finance",
+      "published_at": "2026-05-29 13:25 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "f164e225bd6f7157",
+      "title": "阿里云Qoder上线全托管AI Agent平台Cloud Agents",
+      "summary": "阿里云旗下AI编程助手Qoder推出全托管的AI Agent平台Cloud Agents，帮助企业简化智能体的构建和部署。该平台支持多种主流大模型，让用户无需管理底层基础设施，即可快速实现自动化工作流。",
+      "details": "DoNews报道称，Cloud Agents是阿里云Qoder提供的全托管AI Agent平台，可直接调用模型并搭建智能体。由于仅依据摘要，具体功能模块和计费方式未披露。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peTl5QU13NlpyOTFwSGlXSzUtR0wySllVRFJfcnpXWVc1SmlISkZMSGNWZmxPbmtqaERZNks2clBQZnQxWHRMUFBTVS1ZcG5sNlhJcW5RdFJMSkdaUHc?oc=5",
+      "source": "DoNews",
+      "published_at": "2026-05-28 14:56 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 131.0
+    },
+    {
+      "id": "3c3693e177863591",
+      "title": "New infosec products of the month: May 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the month: May 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the month: May 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXhlbE5UMVpacHhtZEM5bVFMX0ZVanl6Y2RTaElDMTBWZk9vRG02V1hYM3VoalVQM1lFTktUalVqZEkxNmtCMFlKQk01R1o1RmJuV2N1ckcxeGREeE5mMVB1Y1NHVnlWLTJVeW9Rbk1FN2U1VWpaTEZDZlI1aVAzMWxybnBvV2Vwd29RWENORQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-05-29 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "a6ff83dc42edd9d6",
+      "title": "Fynix AI Shop Launches to Automate Merchant Workflows - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Fynix AI Shop Launches to Automate Merchant Workflows - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Fynix AI Shop Launches to Automate Merchant Workflows Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkFsOWNoSGNPSTQtS2ZFRndzNHBPalVjZnpuSzhyT0xVYk9kVlpfdUNBXzRlaVhaQjc1QU9udWloTEZuVWhkRl9iU0N3NWlOUFNyQ0Etck0xRFJXTl9RNElneXJNb2NDQnRHNmh0amRONm5OZTQ5QW9yejU0M1dlRFducC00dEhhWVhWUV9UOU9ralBtdWc0dEwzcw?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-05-29 12:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "809b3949d691ac5c",
+      "title": "Integrated Quantum Technologies Debuts MASQ(TM), an AI Agent Governance and Security Architecture, Initiates Patent Process, and Announces Strategic Market Awareness Initiatives - TradingView",
+      "summary": "TradingView 报道了「Integrated Quantum Technologies Debuts MASQ(TM), an AI Agent Governance and Security Architecture, Initiates Patent Process, and Announces Strategic Market Awareness Initiatives - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Integrated Quantum Technologies Debuts MASQ(TM), an AI Agent Governance and Security Architecture, Initiates Patent Process, and Announces Strategic Market Awareness Initiatives TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPNWloTGpxN0dHZThUeFhxelNXNGJoeDZ1cEFFcGk0QnN1aE82U3FEM0twSEpxR1hjajZIbS1JU2dCZDFFTmVBYXVtelg5cEptNzNBdDFNZ2tFSElQV3R3TDFDZ3BGVHhFeE5zYlNXd2tYM1Qybm1VX2x3NkJrQktlZEdOc1ZrRWtNQ25HT1BKRGtCTWlqQWlKQXZ4Z2k0ZjZFdVEwTTFKY19HcklFMXRrZmdOZDl5WWxHMWZHLTZCdDVYM3lPUzZncFRFQzFMcUZqM0Rsb2N3ZzlXV045U3FoUFMwVWhvV3R4NFpNVHlxRE03cXczdFBRWkZQajc2RnFyZkxYc1dCQ3B1d0dlb05vMElyeEp2SEJOamwwblRHVG9ucUZLS2JMVHNkQkEwRGF1Z1JoWTA0UUt4M2xFZXpJREJJeFpTQnRuX3NaVFNZS2dQanlpbVFv?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-05-28 20:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "eb2270a1fdb05ec9",
+      "title": "Big Tech Goldilocks AI Strategies: Large, Medium, Small & 'Just Right'",
+      "summary": "一篇分析文章探讨了大型科技公司在AI模型尺寸上采取的“金发姑娘”策略，即在大型、中型和小型模型之间寻找适配不同应用场景的最佳平衡点。这种趋势反映出行业对计算效率和成本优化的日益重视。",
+      "details": "来自AI: Reset to Zero的通讯摘要，该文为观点分析，仅提及科技巨头在模型规模选择上的多样化策略，具体案例未在摘要中列出。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XUHhyVVdkOUVyOXlEdXBwVXF3TjJZMFpDNTl3bzYzSWxhX1pEVEd1RUJpVW1xckp3ZENOT1RkZVMxQ3R5NmdzVE1uWnp1UDZQak5IUzd0YVhpTVBsRllrQzR6a2tPZDZ5UFdwZjVjYzMtRzFXMmwwSFVn?oc=5",
+      "source": "AI: Reset to Zero",
+      "published_at": "2026-05-29 08:02 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model"
+      ],
+      "importance": 70.0
+    },
+    {
+      "id": "51b2ab96f3d5caa2",
+      "title": "Papers with Code is Back! The Revival Every ML Engineer and Researcher Has Been Waiting For",
+      "summary": "重要的机器学习资源平台Papers with Code重新上线，恢复了论文与代码关联数据库。这一回归为研究者提供了便捷地追踪最新AI论文及其复现代码的渠道，受到学术和工程社区的广泛欢迎。",
+      "details": "quasa.io报道确认Papers with Code网站已恢复运行，但未说明此前停运原因。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdno1SnNXSERZakdiWHR5R2JMYmh0MVN3RFJOM193elBad0pocDE0ZEZSZGVJV2lyVi1oSGN3SzJKNjBLXzBIZzZDYlc3S1czS2x1Z0QwbnZ3dDZaNFpub3N5RFhQTzJWeTJkTkFfX1lWa21yQV9CRmVnWWx5NFlST0dLSld2SVdXRmU4WUJzdjVjSE5EazBXYlZxWnRHM0Z6WlRTYl9DUHVyUDVIWGJsNEdwVQ?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-05-27 17:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "large_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 64.0
+    }
+  ]
+}
