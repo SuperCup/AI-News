@@ -1,0 +1,355 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T14:24:34.039812+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-01/",
+  "image_path": "assets/daily/2026-06-01.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 13
+  },
+  "items": [
+    {
+      "id": "7e8f2df60c0ff06f",
+      "title": "Anthropic AI Vulnerability Scanner in Enterprise Beta: IBM Joins Glasswing After 10,000 Flaws Found - Tech Times",
+      "summary": "Anthropic推出AI漏洞扫描器，已进入企业Beta测试阶段。IBM加入Glasswing项目，该项目此前已发现超过1万个安全漏洞。该扫描器旨在提升AI系统安全性，帮助企业在部署前检测潜在风险。此举将AI安全工具从实验室扩展到关键企业应用。",
+      "details": "Tech Times报道，Anthropic的AI漏洞扫描器已面向企业测试，IBM成为Glasswing项目的合作伙伴。扫描器已发现10,000多个漏洞，目前处于测试阶段，具体应用效果等待进一步发布。",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUFoYmVTVHV5MmNFa3ZycHhULVBpVUI3WkRfWjl5Z2JrNGpkUl82MjdrbWZDWUZicnBkWkFRNG5aREdyUDFCRVh2RmhNZXRIVXRlMXVERkY0TWxDT1Z6Q0gxRlFRQ1dmeDUtMTVPazc0ZXhWOUdjeFpZVGY2Yi1oRTBuQ3hhQVRscFZEVVhzN2oyQmhSWjVKcU85QjNqN1BqbHA3T3JuUFNMQ1JzOVhNd3R3WXRDejMtQW1UU0h5ZlZhQ0UtWVkxZDFpd0p4aTBTNEt3OE9UZnBwUGRhWUtrLVpMaw?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-01 01:40 +0800",
+      "companies": [
+        "Anthropic",
+        "Amazon",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "94ca9d5f020e3d01",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - Finviz",
+      "summary": "NVIDIA发布Cosmos 3，一个面向物理AI的开放前沿基础模型。该模型支持工业场景下的推理、世界模型和行动模型训练。开发者可在Hugging Face上获取权重，推动物理AI的普及。Cosmos 3为机器人、自动驾驶等物理世界应用提供强大工具。",
+      "details": "Finviz报道，NVIDIA在2026年6月1日推出Cosmos 3，作为开源基础模型，重点支持物理AI开发。模型权重的开放意味着更多研究人员和企业可以参与改进。具体技术特性可参考NVIDIA开发者博客。",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWZQVUkzeUZMNTJqcXZyLUZhbTU3QWRnc0Q3VThuNDlvLVRhM3FQUnFJOFVMeFd0TEM3dTItTkFQRlJMY2stZmlkNndLc0FlUkU3RnFUOExCaS0waktNenRjOHozZnZUZUk3MXZNNG9jSl9Hd0hrUnZnVWhCSEMxOUpWX09lN3VDUW9tRXVPRkhNaW8yWXl4ZGhoZXpoN01FYlYzdFg2WGYzQQ?oc=5",
+      "source": "Finviz",
+      "published_at": "2026-06-01 12:51 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "4785dbbddd973916",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch",
+      "summary": "TechCrunch评测了Google的24/7 AI助手Gemini Spark，认为其实用性很高。该助手能够持续工作，处理日常任务，展现出良好的用户交互体验。Google在助手类产品中整合了最新的AI技术，提升了功能。这一产品标志着AI助手从演示走向日常使用。",
+      "details": "根据TechCrunch的体验报告，Gemini Spark已在2026年5月底开始提供服务，能够全天候辅助用户。具体功能和可用范围需参考Google公告。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmdyS3JaMl9ZRGFUTURBNUFNOUpESDlWcWxpdnM1Tl92bHZSWGMyV2ZmTU1vX2Z0UTE2Tk80S0tZcF9KNDctN09vbjAzWjlDdWl3MXlIOWtuTlI5cUFES3RtazhjdWlDdkxrbDhIODNnaExNWVBLWHVJa0Q0enN5SXJyREhTNTZ1VmtZRlJvdUFxdFFKbVgxcm5jVjNLR1BseGI2QzFxXzR0Qm5zZ3BpMmd3ejVnN2RodkE?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-05-30 23:30 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "e89bf4a2b7149ac7",
+      "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip - Bloomberg.com",
+      "summary": "Nvidia宣布其新一代Vera芯片已经吸引Anthropic、OpenAI等客户。该芯片专为AI推理和训练设计，旨在提升算力密度和能效。Vera芯片进入了Full-Scale Production阶段，将挑战英特尔在AI PC领域的地位。此举强化了Nvidia在AI芯片市场的主导地位。",
+      "details": "据彭博社报道，Nvidia Vera芯片已投入大规模生产，Anthropic和OpenAI成为首批用户。黄仁勋在演讲中强调该芯片面向AI代理等关键应用。具体性能数据尚未披露。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3ZmeXE5cy0zbU1fZ1dTMjhSZWoxZkVGZHVpbDd0NVAzejJ1Nk9teTZWWExPQ3dkTlNUd2xMQW94djRHOGVta3ByS3ZHMkVxeUZaemFJQmRJa2gxanpySFlxN2l6LWxsZHlacEZmdlZCNVR1RjBmZkx5S0N0OHZRNVA4YjFiWjU4V3dvZDNFbTM4dlRGd2N4YjYzYi1EZ0lGeE45YWgzWGJCWTlKQUdKWEh3?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-01 12:56 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ca6940cca9121fca",
+      "title": "IBM, Red Hat Launch Project Lightwell: $5B AI-Powered Open Source Security Initiative - The Fast Mode",
+      "summary": "IBM和Red Hat启动了名为Project Lightwell的AI安全计划，投资50亿美元。该项目聚焦于开源的AI驱动安全能力，目标是在未来五年提升全球开源生态的防护水平。计划涉及多家重要技术公司的协作，强化AI供应链的安全。",
+      "details": "The Fast Mode报道，IBM和Red Hat联合启动Project Lightwell，承诺投入50亿美元用于基于AI的开源安全项目。项目旨在发现和修复开源软件中的漏洞，涉及Anthropic和Intel等多方合作。",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb3RMSjEtaFpYNXpvYkJTYlB6Z0p2Q3ZTb25iazlwVEJVRkJzN2lTY0RLU0xfVWlGcnZ6dXRCWjFPV1VweWxnemNCVUdQbkNZdkRQTm9oSUs5VTZOckxXMmM3aldoSlhZcG12bHN3ZExEdlBmTEhOWXNDQUN4eGc0UUg0WmU5TVhHU3YxQ09SMU02UkJCWkk0U1RGd3ZaT3R1ZzkxaXVLMlcwS3dlWU1ZNHhNTkd2OGVvcWlUVVhXRHhVZ3RnbkxrMHhKQ3piQl9COWpj?oc=5",
+      "source": "The Fast Mode",
+      "published_at": "2026-06-01 08:08 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "04274c435d7e6475",
+      "title": "别光吹大模型，讯飞在天津干的才是真AI落地 - 凤凰网",
+      "summary": "科大讯飞在天津部署AI落地应用，强调从概念走向实际产品。报道指出讯飞结合本地产业需求，推动AI在行业中的具体应用。项目涉及多个领域，展示AI大规模商用潜力。讯飞通过将AI技术与实际业务结合，提供了可复制的落地模式。该实践体现了AI从大模型研发到产业赋能的转变。",
+      "details": "根据凤凰网报道，讯飞在天津的AI落地项目聚焦实际行业应用，具体部署细节未详细展开，但强调其与当地产业深度融合，区别于单纯吹捧大模型概念。优先级基于重要性和创新程度评估。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFVkUwUlJQNkxQcEZVSW1kVmZjQ0dTQ0VZUFowY3J1OG14MWFSZXRXZzNxby1BbmgwWnZfSjlfOTlHVEFEWGZUSg?oc=5",
+      "source": "凤凰网",
+      "published_at": "2026-05-31 22:01 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "339ae3be3b95ab0a",
+      "title": "重大利好！AI独角兽MiniMax启动A股科创板IPO辅导，距离港股上市仅四个多月，将布局A+H两地上市。 MiniMax是AI头部企业，2021年成立，自研全模态大模型，全球用户超2.36亿、业务遍布200多个国家；去年营收大涨，超七成收入来自海外，腾讯、阿里、高瓴等知名 - 新浪网",
+      "summary": "AI独角兽MiniMax启动A股科创板IPO辅导，计划在港交所上市后四个月左右实现A+H两地上市。MiniMax成立于2021年，专注于全模态大模型，全球用户已超2.36亿，业务覆盖200多个国家。该公司去年营收大幅增长，超过七成收入来自海外市场。腾讯、阿里巴巴和高瓴等知名机构是其重要投资者。此举显示出头部大模型公司加速进入资本市场。",
+      "details": "新浪网报道，MiniMax已启动科创板IPO辅导，准备在港股上市后进一步布局A股，形成A+H两地上市格局。公司凭借自研全模态大模型，用户规模和海外收入均表现强劲。具体上市时间及估值细节只能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BdU50ajZ0OG4wUkE2V2E3NURVXzRYbHBKTm0wVW1GYllrVHhCZTVlenlLU1BKYTRpR2JIS1c4Z3lYZGhONHhzbExXTzhJLTRtOXFCUW5LSThtMmVQaFcxdzBsdw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-05-30 21:10 +0800",
+      "companies": [
+        "Alibaba",
+        "Tencent",
+        "MiniMax",
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "2cee5399ce45cd2e",
+      "title": "阶跃开源Step 3.7 Flash：面向生产级Agent，走向企业真实环境|阶跃星辰|模型|工具|星辰|权重_手机新浪网 - 新浪财经",
+      "summary": "阶跃星辰开源了Step 3.7 Flash模型，定位为面向生产级AI Agent，旨在进入企业真实使用环境。该模型强调在复杂工业场景下的稳定性和性能。开发者可以在企业部署中直接使用开源权重。此举有助于推动AI Agent从实验室走向规模化应用。",
+      "details": "新浪财经报道，阶跃星辰发布的开源模型Step 3.7 Flash专为生产级Agent设计，目标是在企业实际环境中可靠运行。模型权重和工具已经开放，具体技术细节和性能指标仅能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1ZFbG0wSVlkWDR5cTZQYUdYS1ZaQUxieklWd1RjYk9sX0pSVm41YjBYaWk0dG0wTG9hcURHdV9ZMXhGVUZHekJOVDVvNDg0eDVReHlzOVVrWnB0bGtIanVEbFhWMWNqajNRcHBndnBsYzBvMXZwUmlIc2xjWjFCbGZ3LXc0OWRxNTc1b0Vvc3hsZzNyRnctVlRIbm9za1oyYU5sZEx5Zw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-05-30 18:30 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "3df4bbfa7535f282",
+      "title": "官方首次将国产AI芯片纳入安全可靠清单：华为等9款芯片在列 - 搜狐网",
+      "summary": "中国官方首次将国产AI芯片纳入安全可靠清单，华为等9款芯片入选。此举表明中国在AI芯片自主可控方面取得显著进展。清单旨在为关键基础设施采购提供推荐，推动国产芯片在重要领域的应用。这被视为政府对国产AI芯片性能和适配性的官方认可。",
+      "details": "搜狐网报道，官方发布的安全可靠清单首次包含9款国产AI芯片，其中华为芯片在列。具体芯片型号和应用领域未被披露，但该清单将直接影响政府和国企采购。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVXRMMG41UU9sdkVEWTdRR3dlTDRKREs5VlRCb3BrQ1BpTUZWOEh2bGpnbERiWDRYOVNvV1NrSU1zV2NJZUVIY2V0UnpSMEpPQnprVWg5N0NoeTJXS1FJRUFjeWtoRWRNM3EzaFBVdnI2WG9pclVJeExkVVo4VFNOcDZqdmNLcW9xenAybg?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-01 10:30 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "4e09fb0cf05b5a2f",
+      "title": "美团发布即时零售商家AI解决方案“牵牛花Claw” - MSN",
+      "summary": "美团发布了面向即时零售商家的AI解决方案“牵牛花Claw”。该产品帮助商家提升运营效率，集成AI能力优化订单处理和客户服务。产品基于美团在零售和配送领域的积累，针对中小商家进行定制。这标志着美团在AI落地商业场景上的进一步拓展。",
+      "details": "据MSN报道，美团发布的牵牛花Claw解决方案旨在为即时零售商家提供AI工具，具体功能包括智能订单管理、用户互动等功能，细节仅能从摘要判断。发布时间为2026年6月1日。",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNYzA2R2RUbHNzRUZRQjVHZHFKSTZ6YUNGbkxnVTFBd1FxZkVPLWFidDdidXJMRDRURmhYbUxrb0pONzhFREVwN3hpMGNfT3VmbThxamZzeTZFY0xjY2JQLWpYelc5Y2hCUjNfQmFFX3BGVHBpa2lqdDJSNk44TGw1M1N0ZlBkTGx0S2d6bDkwejlVOEZpRi15dFJLQzAyLXcxU1o2bmRuRGhxUzVZbmVYUVdVZEVUM2NiRXpPV2NRc3IzeEpnWlVKcFB1NUlrem1rdXZKWUdRSzVFM05HQlczRkp1alA0MkVKNVljb0JnblJPUXVBT2dhal9uZjc2c0t4UWwzd3VOTkp0c3NXMmdzOGh6NW0tRlVzRV9yZ1B6aFd6Ym40YUNpaWFNZ1ZKZXNSMk1V?oc=5",
+      "source": "MSN",
+      "published_at": "2026-06-01 10:25 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "6445ccc19d68032b",
+      "title": "Enterprise AI Agent Stack Takes Shape: Asana and Palo Alto Buy Execution and Security Layers - Tech Times",
+      "summary": "企业AI代理栈逐渐成形，Asana和Palo Alto分别收购了执行层和安全层能力。Asana强化了AI代理工作流执行，Palo Alto侧重AI安全层，两家公司共同推动企业级AI代理的部署。这一收购反映出企业AI代理生态正在整合关键组件。",
+      "details": "Tech Times报道，Asana和Palo Alto通过收购来完善其AI代理产品线，具体收购对象未披露。事件发生于2026年6月初，显示企业软件公司正积极布局AI代理的执行和安全。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1NqUHRxVVVfTmFIbnZoRERVdm5WNm8xekY3czV0QUZPaDkxbzZ1ODlFWVdUSl9CejA4REYtNHVjaDBHRGlaNWZHbFpMdWt1RUxQbjdIbmUzRmZjV285MVNlcFhHN2VYdVJ4aWFUeUZsY3d2eFZ0LTZ2bjNTNEZiMXRDNmlmXzFPUWowUW5BT0E1bVpFbHRHeEdqVHNEWVJxZEZqeVpqQXVaWExucDhXTFBzNldUQ01wSnh5U2NlRXlubHUwN1hTeDh3Z0syY0Vja3JVRQ?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-01 03:38 +0800",
+      "companies": [
+        "Asana",
+        "Palo Alto"
+      ],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "3b8ca1836a7323d0",
+      "title": "From Script to Screen in Minutes: The Evolution of AI Video Automation Systems - Techcircle",
+      "summary": "AI视频自动化系统从脚本到屏幕的生成时间已缩短至分钟级，标志着该技术的重大进步。新系统能够整合多模态能力，快速产出营销视频等内容。这一演变将显著降低视频制作门槛，推动视频AI在商业场景的广泛应用。",
+      "details": "Techcircle探讨了AI视频自动化的最新进展，指出相关系统能快速生成视频内容，但未披露具体产品名称和公司。细节只能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9QZzBDbnVXM21QLXliSGhJVFJWMTFndXFaWXA2ajZHTXFSc0N1aXlFNWptX1NpZ2lfX1JhYkVKbE1PamJheGdIUXlTQ0pUNE5fNEYwb29fdGZUd1d2aXFUSlhYelBlV01sTHVxSG9EYUlVdVdPSUJwdGVTTVJRUHI4dDc5UXlaLXFEUG5EVWRicWtablg4aG90dGx0cWxRRG5GNXlsTFRMUS0xLWpsV1Y5MEc?oc=5",
+      "source": "Techcircle",
+      "published_at": "2026-06-01 05:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 83.0
+    },
+    {
+      "id": "56dbedd26afd3d40",
+      "title": "Open-Weight AI Abliteration Strips Guardrails, Raising Global Security Alarms - streamlinefeed.co.ke",
+      "summary": "开源权重AI模型的“abliteration”技术可以剥离模型的安全护栏，引发全球安全警报。该方法可能使恶意用户去除模型的内容过滤，导致生成有害内容。该发现暴露了开放模型在安全部署中的脆弱性，促使业界重新审视开源策略。",
+      "details": "streamlinefeed.co.ke报道，研究人员展示了通过abliteration技术去除开源模型安全限制的方法，此举引起安全界广泛担忧。具体技术细节和影响范围有待进一步分析。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDFVNjRJNmxsWHZKWWNXTnBvbVFDZWt4X0RzVHduai1wcVNTcjBnbHZON2dheXlMQzhDd0Joam5oUTRhZkt2V1VTNVFqQjg3djA3aDVwbUNLeTdaVTZKU203N2RsQnlSN0c1bHRfTHJfQ2hXMDVwUlJfZTI5eEwxTWlOOHF6ZldoVzc0a2N0Ymt4YjNPbGtaZEhQWWpYRGI1aHhNQkdnc2VROEllLUNz?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "published_at": "2026-05-31 17:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "open_source_model",
+        "safety_security"
+      ],
+      "importance": 81.5
+    },
+    {
+      "id": "2f194808deeb8c52",
+      "title": "Samsung Electronics: Industry-First HBM4E Samples Shipped To Advance AI Memory Performance - Pulse 2.0",
+      "summary": "三星电子出货了业界首款HBM4E内存样品，旨在提升AI内存性能。该高带宽内存专为下一代AI芯片设计，提供更高的带宽和能效。样品出货标志着三星在AI存储技术上的领先地位，将加速高性能计算的发展。",
+      "details": "Pulse 2.0报道，三星已向客户发送HBM4E样品，具体客户名称未透露，该产品用于需要超大内存带宽的AI训练和推理场景。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQellBbTNLdXZCUWw5cGZETHRudkl1YkM4LXdJX2ZhS2pYWGFkeUVKMGhWUEs2Z0licUxNMEFSaF9ac2h1LXdOYXd6MmhGblNVWndzLTlrMEpCMGd1TFI4eTZvNkEyakxaeEg0dU1MSGVkUndhaElFOGRFMEtWV3ZPUTlQY0dlZzNvUHBvNHIyUzFvWXhFakhjV1daWnhXWmVqRUFudkhPUC1nWXFvMlHSAbMBQVVfeXFMTjlTZDlGNkJveTU5amN0OVBFdWVjYlJDVXZWME5PelBXZlZmZjQtYXBQclVkUVNWSXpzMkF3ejRpYnBUUE8wYjZhUXBjRjlGQkx3RlhYZEp2dFlJWFVWcmdWcUhlaEFHcGFpVVBRRE1WMVBrOVlOOUlIV3c1ejVhMFNydnI0eUtoZnZaRlY5TGozSUJIZ3RHam1hcDhKa3B4ZGdSaXlZRkRUSDJYTTFvc2VMWlk?oc=5",
+      "source": "Pulse 2.0",
+      "published_at": "2026-06-01 12:24 +0800",
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model"
+      ],
+      "importance": 70.0
+    },
+    {
+      "id": "561b57b545ca3c58",
+      "title": "Skymizer launches HTX301 decode-first accelerator to bring large-model inference on-premises - digitimes",
+      "summary": "Skymizer发布了HTX301“解码优先”加速器，旨在将大模型推理落地到本地部署环境。该加速器针对企业私有化推理需求进行优化，为边缘和本地AI应用提供算力支持。产品有望降低对云端推理的依赖，推动大模型在安全敏感场景的部署。",
+      "details": "digitimes报道，Skymizer推出的HTX301采用解码优先架构，具体性能指标未详述，但强调可将大模型推理迁移到本地服务器。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHNMdmRhRms2SzVRbVVlXzZHX005QkpJbmt5ak1VVTYwdWp6NjQ4d1lqRjBPTUlwU05sOThGMEdyNDBtNm95WG0yaEQ0REtCbER0S1BsdGpSSzZRQjNjOVNfQlItc20xdVNJQThaQzRfakJBT25HUFN5N1BYNVNjUWtjZFNfRUlsSEJ4cFZfWmw?oc=5",
+      "source": "digitimes",
+      "published_at": "2026-06-01 09:32 +0800",
+      "companies": [
+        "Skymizer"
+      ],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips"
+      ],
+      "importance": 67.0
+    }
+  ]
+}
