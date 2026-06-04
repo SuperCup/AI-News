@@ -131,13 +131,13 @@ jobs:
           fi
 
       - name: Send daily WeCom push
-        if: ${{ (github.event_name == 'schedule' && github.event.schedule == '17 1 * * *' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'daily' || inputs.mode == 'all') || github.event_name == 'push' && contains(github.event.head_commit.message, '[run-daily]')) && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' && inputs.send == true || github.event_name == 'push' && contains(github.event.head_commit.message, '[send]')) }}
+        if: ${{ (github.event_name == 'workflow_dispatch' && (inputs.mode == 'daily' || inputs.mode == 'all') && inputs.send == true) || (github.event_name == 'push' && contains(github.event.head_commit.message, '[run-daily]') && contains(github.event.head_commit.message, '[send]')) }}
         env:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
         run: python scripts/send_latest.py daily
 
       - name: Send weekly WeCom push
-        if: ${{ (github.event_name == 'schedule' && github.event.schedule == '17 12 * * 0' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'weekly' || inputs.mode == 'all') || github.event_name == 'push' && contains(github.event.head_commit.message, '[run-weekly]')) && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' && inputs.send == true || github.event_name == 'push' && contains(github.event.head_commit.message, '[send]')) }}
+        if: ${{ (github.event_name == 'workflow_dispatch' && (inputs.mode == 'weekly' || inputs.mode == 'all') && inputs.send == true) || (github.event_name == 'push' && contains(github.event.head_commit.message, '[run-weekly]') && contains(github.event.head_commit.message, '[send]')) }}
         env:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
         run: python scripts/send_latest.py weekly
