@@ -99,6 +99,9 @@ def has_cjk(value: str) -> bool:
 def parse_dt(value: str | None) -> datetime | None:
     if not value:
         return None
+    relative = parse_relative_dt(value)
+    if relative:
+        return relative
     try:
         dt = date_parser.parse(value)
     except (ValueError, TypeError, OverflowError):
@@ -113,6 +116,46 @@ def iso_or_raw_date(value: str | None) -> str:
     if dt:
         return dt.strftime("%Y-%m-%d %H:%M %z")
     return clean_text(value) or "未标明"
+
+
+def parse_relative_dt(value: str | None) -> datetime | None:
+    text = clean_text(value).lower()
+    if not text:
+        return None
+    now = now_cn()
+    if text in {"just now", "now", "刚刚"}:
+        return now
+    if "yesterday" in text or "昨天" in text:
+        return now - timedelta(days=1)
+
+    match = re.search(r"(\d+)\s*(minute|minutes|min|mins|hour|hours|day|days|week|weeks)\s+ago", text)
+    if match:
+        amount = int(match.group(1))
+        unit = match.group(2)
+        if unit.startswith(("minute", "min")):
+            return now - timedelta(minutes=amount)
+        if unit.startswith("hour"):
+            return now - timedelta(hours=amount)
+        if unit.startswith("day"):
+            return now - timedelta(days=amount)
+        if unit.startswith("week"):
+            return now - timedelta(weeks=amount)
+
+    match = re.search(r"(\d+)\s*(分钟|小时|天|日|周|星期|个月|月)前", text)
+    if match:
+        amount = int(match.group(1))
+        unit = match.group(2)
+        if unit == "分钟":
+            return now - timedelta(minutes=amount)
+        if unit == "小时":
+            return now - timedelta(hours=amount)
+        if unit in {"天", "日"}:
+            return now - timedelta(days=amount)
+        if unit in {"周", "星期"}:
+            return now - timedelta(weeks=amount)
+        if unit in {"个月", "月"}:
+            return now - timedelta(days=amount * 30)
+    return None
 
 
 def stable_id(*parts: str) -> str:
@@ -354,6 +397,41 @@ def google_news_rss_url(query: str, lookback_hours: int, locale: str = "en-US") 
     if locale == "zh-CN" or has_cjk(query):
         return f"https://news.google.com/rss/search?q={q}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+
+def max_candidate_age_hours(lookback_hours: int) -> int:
+    configured = os.getenv("NEWS_MAX_AGE_HOURS")
+    if configured:
+        try:
+            return max(1, int(configured))
+        except ValueError:
+            print(f"[warn] invalid NEWS_MAX_AGE_HOURS={configured!r}; using default freshness window.")
+    return max(48, lookback_hours + 12)
+
+
+def allow_undated_candidates() -> bool:
+    return os.getenv("NEWS_ALLOW_UNDATED_CANDIDATES", "").lower() in {"1", "true", "yes"}
+
+
+def is_recent_candidate(item: Candidate, max_age_hours: int, reference: datetime | None = None) -> bool:
+    dt = parse_dt(item.published_at)
+    if not dt:
+        return allow_undated_candidates()
+    reference = reference or now_cn()
+    age_hours = (reference - dt).total_seconds() / 3600
+    if age_hours < -6:
+        return False
+    return age_hours <= max_age_hours
+
+
+def filter_recent_candidates(candidates: list[Candidate], lookback_hours: int) -> list[Candidate]:
+    max_age = max_candidate_age_hours(lookback_hours)
+    reference = now_cn()
+    recent = [item for item in candidates if is_recent_candidate(item, max_age, reference)]
+    dropped = len(candidates) - len(recent)
+    if dropped:
+        print(f"[info] dropped {dropped} stale or undated candidates older than {max_age}h.")
+    return recent
 
 
 def source_from_url(url: str, fallback: str = "News") -> str:
@@ -698,7 +776,7 @@ def discover_candidates(rules: dict[str, Any]) -> list[Candidate]:
         futures = [pool.submit(fetch_for_spec, spec, lookback) for spec in specs]
         for future in concurrent.futures.as_completed(futures):
             all_rows.extend(future.result())
-    rows = score_candidates(dedupe_candidates(all_rows), rules)
+    rows = score_candidates(filter_recent_candidates(dedupe_candidates(all_rows), lookback), rules)
     enrich_top_candidates(rows)
     return score_candidates(rows, rules)
 
@@ -786,6 +864,7 @@ def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[
             "task": "从候选新闻中选出今日 AI 日报，生成中文内容。",
             "rules": [
                 f"必须尽量选满 {max_items} 条；候选不足时才少于该数量。",
+                "只能从 candidates 数组中选择新闻；不要自行补充数组外的新闻、链接或旧闻。",
                 "区域配比按中国、美国、其他地区各约三分之一执行；15 条时目标为中国 5 条、美国 5 条、其他地区 5 条。候选不足时用剩余高重要性新闻补齐。",
                 "优先中美头部 AI 公司相关消息，同时保留欧洲、日本、韩国、英国、加拿大、新加坡等其他地区的重要 AI 动态。",
                 "优先选择已经发布、上线、开放测试、开始客户部署或明显影响产品/应用形态的消息。",
@@ -935,6 +1014,8 @@ def normalize_items(data: list[dict[str, Any]], candidates: list[Candidate], rul
         if not title or not url:
             continue
         candidate = candidate_by_url.get(url)
+        if not candidate:
+            continue
         summary = clean_text(raw.get("summary"))
         details = clean_text(raw.get("details"))
         raw_companies = [clean_text(value) for value in (raw.get("companies") or []) if clean_text(value)]
