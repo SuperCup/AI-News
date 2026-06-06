@@ -1,0 +1,343 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T13:09:52.056081+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-06/",
+  "image_path": "assets/daily/2026-06-06.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "ddafa3804e723ef6",
+      "title": "刚刚！华为发布一系列Agentic AI新品 千卡集群每秒吞吐达500万Tokens - 财联社",
+      "summary": "华为对外发布一系列面向 Agentic AI 的新产品，包含大模型推理与训练基础设施。其千卡集群在推理场景下可实现每秒 500 万 Tokens 的超高吞吐量，彰显了华为在 AI 算力与集群调度领域的领先水平。新品的推出将加速 AI Agent 在企业与云场景的落地。",
+      "details": "根据财联社报道，华为发布的 Agentic AI 新品覆盖软硬件，核心亮点是千卡集群推理性能达到每秒 500 万 Tokens。报道未透露具体产品型号与架构细节，仅能从摘要判断其面向智能体应用的高效算力定位。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04NXFkaHZHX3VTYm1Vemd0bEs5RnM0ZTRsNi1ZZ19aeG1kVURfV09xMk1WWk84Rkc2bkZGZDhOUU9fNzJPUnpCdg?oc=5",
+      "source": "财联社",
+      "published_at": "2026-06-05 15:12 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "b3d8a115a104f954",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents - TechCrunch",
+      "summary": "Meta 借鉴特斯拉的临时建筑策略，以帐篷式结构快速搭建 AI 数据中心，大幅缩短建设周期并降低成本。这种灵活部署方式旨在应对算力需求的激增，尤其针对大模型训练与推理场景，展示出互联网巨头在基础设施上的激进创新。",
+      "details": "TechCrunch 报道，Meta 已在多个地点使用帐篷式数据中心，其灵感来自特斯拉快速建设的经验。报道指出此举与 AI 竞赛中对算力的迫切需求直接相关，但未披露具体的功率和 GPU 数量，仅从摘要可判断其核心是加速数据中心扩展。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSGlWX3lpWkNxbUl2dmlzM3RyMEs1OHpLcDRObDlQRk03MW9vNWFvSU50WDlnQW53ZndvUW5Gek05M1JEZEc4SVdFV3VjN1BwdHdYTGFXcnJRVzJzT3B6aGJrODlGWnk5V3haSjVJZ0dpc1AzWXZjQ29nVEE2ZF82ckZLel9mZm1iVDljVTA0Sjd3Nlh1YVEzZDloNkpycUdC?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-05 03:33 +0800",
+      "companies": [
+        "Meta",
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "6b7bbe51e305eebc",
+      "title": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
+      "summary": "Anthropic 公开呼吁全球 AI 实验室暂停开发超越当前技术水平的系统，警告人类可能面临失控风险。该公司特别强调 AI 的“自我改进”能力可能引发不可预测的连锁反应，需要业界共同设定安全边界。这是头部 AI 公司对前沿模型风险最强烈的公开预警之一。",
+      "details": "Al Jazeera 报道，Anthropic 在声明中指出，若不设定明确的暂停和监管机制，未来 AI 可能脱离人类控制。具体暂停时间、技术阈值等细节未被披露，报道仅基于公司声明摘要，未提供更多技术论证。",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-06 03:17 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "54ced0709cb2b1f1",
+      "title": "NVIDIA Launches RTX Spark Windows Laptops and PCs - Let's Data Science",
+      "summary": "NVIDIA 推出基于 RTX Spark 的 Windows 笔记本电脑与台式机，将高性能 AI 推理能力直接集成到消费级设备中。这一举措标志着 NVIDIA 在终端侧 AI 落地上的新布局，让个人用户可以在本地运行大模型，无需依赖云端。",
+      "details": "Let's Data Science 报道，RTX Spark 设备出厂即搭载优化过的 AI 推理引擎，但未透露具体 GPU 型号和性能指标。报道仅从发布摘要判断，其目标是为开发者与普通用户提供低延迟的本地 AI 体验，细节有待进一步公布。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbWZVb2lFMG5GbzVvTHRhdnlvOE50WEJaejVTNUoxVzZvYmtYQWpOOXQ3THp3NTNYaGdJdGVuamZfRG8xYjdhUHEybFJjb3ljV2wzdGtYWk1yMlBMZHFJcWYxZ2FTdTJKZVUwbkFWTmtDbG05OE5vYzlHRzVseXA2dEZnQWYwZDRrYXc2ajg2cDFHcllnc3c?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-06 10:25 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "38b4373ffa846c40",
+      "title": "美国企业重新给DeepSeek打钱！登顶美国企业新增采购榜 - 智东西",
+      "summary": "中国大模型公司 DeepSeek 在美国企业市场取得突破，其模型服务登顶美国企业新增采购排行榜。这表明在经历前期观望后，美国企业开始大规模采用 DeepSeek 的高性价比模型，反映出 DeepSeek 在海外企业级市场的商业吸引力正在加速释放。",
+      "details": "智东西报道，DeepSeek 近期在美国企业的新增采购量位居榜首，具体客户与合同金额未被披露。报道指出，这一趋势与 DeepSeek 在模型性能与成本上的综合优势直接相关，但细节仅能从标题与摘要推断。",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaVml2OURIWVpvNk5GYXhRTkN1NHg1c2JxUFhKQloxQ00xdENmOFRyNWFsc3h5UEFGcTdOVkRZVlBCSG95Mnc?oc=5",
+      "source": "智东西",
+      "published_at": "2026-06-06 02:00 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ff8a2a225262a2e9",
+      "title": "AI落地物理世界，美团如何成为这个“接口”？ - Sina finance",
+      "summary": "美团正在将 AI 能力深度融入本地生活与即时配送等物理世界场景，成为连接数字智能与真实世界的“接口”。其在智能调度、无人配送、商户数字化等领域持续投入，推动 AI 从虚拟助⾔走向实体经济的规模化应用。",
+      "details": "新浪财经报道，美团通过 AI 技术重构配送、选址、客户服务等环节，但未公布具体技术指标与项目细节。报道强调美团希望通过 AI 弥合线上智能与线下服务的鸿沟，相关细节仅能从摘要推断。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zTGxSZHdidEJfTV9aNF9TZ1hCRFZuMEFUbWRRUXFSSFYzdGg1aTh4bHF0aDVDV2NSMHdzS2hBZlRjTjM0Y0wzYldHZTBhdlpfMHhQeDljWW5mNTVuQ2Q0Q3BlUkxUd2tqUXYzTDl2N3c1d0NhaGtfdA?oc=5",
+      "source": "Sina finance",
+      "published_at": "2026-06-05 21:02 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5152a9e84c2529f5",
+      "title": "Exclusive: Nadella Rebukes Microsoft Executive’s Plan to Make Users “Addicted” to AI Agents - The Information",
+      "summary": "微软 CEO 纳德拉严厉批评了某高管提出的“让用户对 AI 代理上瘾”的内部策略，强调 AI 产品应赋能而非操控用户。这一内部争论暴露出科技巨头在 AI 代理商业化过程中面临的设计伦理与价值观冲突。",
+      "details": "The Information 独家报道，该高管曾设想通过行为设计使用户高度依赖微软的 AI 代理，但遭到纳德拉明确否决。报道未透露涉事高管的身份及具体计划细节，仅能从摘要判断事件凸显了负责任 AI 开发的内部博弈。",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZG1uNVRYLTIxNGo3VlR5ZFpGVlk2MEJkU0xVNy03S29MeGplNHl2OXE0aktNVHBRQWZ4OXJTOVhYc1ZLSV9rT3dBZFhuSURJQU9IRjhpOFc5NjgyNEVhN0diUFM3dGdUTWZwUFhNNHNYU2ZIeHJRMVYwNVU2RWNjbERnYUZVaEdGZHYtNW55dGdFRDdLZFJ4NkNxb3VVQkZUQTVraW9JX2VmNzl5blBaQXFnd1lpZnYwbldCZno5Zw?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-05 04:52 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "f98fbc481e01a1aa",
+      "title": "阿里巴巴全国首家数据产业基地落地临港！天猫精灵人工智能（威海）数据产业基地启用 - 威海新闻网",
+      "summary": "阿里巴巴全国第一家数据产业基地在上海临港落地，同时天猫精灵人工智能数据产业基地在威海正式启用。两大基地将承担 AI 数据标注、模型训练及生态孵化功能，标志着阿里在 AI 数据基础设施上的规模化布局。",
+      "details": "威海新闻网报道，临港基地为阿里巴巴全国首个此类设施，威海基地则专注于智能语音与 AI 数据服务。未来有望加速阿里云千问大模型及智能硬件的迭代。具体投资规模与产能数据未被披露，仅能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CZDh5bGlQci13WW1PN3MxY0R2N0MxV1NTLV9aVWtCaUVYa2I5eDFSWHRUSnd0M1ktWmZxSkp5eW80d0Z6TG5wMzR6RWtMWGN4Q09RTm5BSFllbGpyd29oVDRPWWk3azNNci03aGNB?oc=5",
+      "source": "威海新闻网",
+      "published_at": "2026-06-05 11:03 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "d9b6ba66a0126bad",
+      "title": "Critical Hugging Face Transformers flaw ran attacker code on a routine model load - SiliconANGLE",
+      "summary": "Hugging Face Transformers 库被发现一个严重漏洞，攻击者可在模型加载过程中执行恶意代码，严重威胁依赖该库的 AI 服务安全。该漏洞影响范围极广，因为 Transformers 几乎是 AI 模型推理的标配组件，再次为开源 AI 供应链安全敲响警钟。",
+      "details": "SiliconANGLE 报道，该漏洞允许通过特制模型配置文件在模型加载时实现远程代码执行，可能影响所有使用受影响版本 Transformers 的服务。报道未透露漏洞编号和具体版本，但确认该问题已于安全更新中修复，建议用户立即升级。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGFNLWdNYjdxU2NNS3JMTEVyRDk1SUJKSDRnMXlXLWFDVkFKYmZDcVNJX2l2QVJWTFptSDhTZUtxRjNpa3k5Tm9aODJ2MFdobUxiS0EwYm1ZOU8xSjJjN3h0QUtVVmhacHhtMmRUeXlWSHpRMlVGaUp1UjlCaGx0YTVaSWtBQzNJcXhnMi10Z3YxeUljY0VFaUswMTN1M2lsbWE2Q1F4ckhHeW1GWUdHUm04aw?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-06-04 20:00 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 143.5
+    },
+    {
+      "id": "286a1302a262a3d1",
+      "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线 - thepaper.cn",
+      "summary": "微信正在与华为、小米等手机厂商合作，将其智能体功能深度整合到系统层面，未来用户可通过手机原生入口直接使用微信 AI 服务。相关功能正在逐步上线，此举被视为微信从超级应用向系统级 AI 助手延伸的重要一步。",
+      "details": "澎湃新闻报道，微信客服确认与合作厂商共同推进智能体功能的系统集成，但未公布具体上线时间表与功能范围。目前可判断的细节仅限于合作涉及主流安卓手机品牌，预计将提升微信 AI 服务的触达能力。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAta3dSNjhKdjFSSzhVWWpaY3lxejYwdDI3eE83NUxnVmlwSFZTSkVzeG8wUWQtd01Dc29kYjFqTTFNWVNTaTdseVM2TXQ1UWFSQVdySU9hY0JGbUwtWEtINg?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-06-04 19:09 +0800",
+      "companies": [
+        "Huawei",
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 132.0
+    },
+    {
+      "id": "a559f6a57be97422",
+      "title": "Testlio launches AI agent testing for high-risk workflows - IT Brief New Zealand",
+      "summary": "测试服务商 Testlio 推出面向高风险工作流的 AI 代理测试方案，旨在确保金融、医疗等关键领域的 AI 代理在部署前达到安全与合规标准。该服务专为复杂自动化场景设计，能帮助企业在引入 Agentic AI 时控制风险。",
+      "details": "IT Brief New Zealand 报道，Testlio 的新平台可模拟高风险环境下的 AI 代理行为，并进行压力测试与安全审计。报道未透露具体测试框架与客户案例，仅从摘要推断其聚焦于受监管行业的可靠 AI 部署。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTNQUzk4aWdHSmh1NElCeEpfUFkyWUlYYWI0UHNkZ2hPNjI4dUVQampjMDVISWJuZHRnU0hjOHlMUWtjaUYxaXIxNlB0X0hxTXFXM1Vpd0ZuLVN6bUR5ZDd6SDUzV3NHYkxtYXZDRDFjUVBCVE5OMWhfOFZSYzNyWHAwYTVVOUkxdGZXOUpB?oc=5",
+      "source": "IT Brief New Zealand",
+      "published_at": "2026-06-06 06:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "936cdf161240fd69",
+      "title": "AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More - Solutions Review",
+      "summary": "Solutions Review 报道了「AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More - Solutions Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI News for the Week of June 5; Updates from Cisco, Pinecone, Snowflake & More Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmhlTHE0OC1sWFR0N1Y0OE1Lbkl3dXpocUhzaHpseDZWZFdHY2I2bzgwMm1nZG1zRTMyMlduSDc0UVZ0c2VBX1ByV2NCOXN5amh3dDJzX1lJVnJnVHJrRVpBa3hPYnc3dmM2alhQenEySlFuRmdZOHV1TXZTeGRnazhzQlV1czJaRVJDT2ZXY2U2Z1pJRzhRYmhxUElVdlVHY3BlVg?oc=5",
+      "source": "Solutions Review",
+      "published_at": "2026-06-06 05:21 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "fa1c37eb04bc706c",
+      "title": "Pudu Robotics Unveils PuduFM 1.0 and PuduAgent: Defining the Next Era of Humanoid and Embodied AI Systems - The Manila Times",
+      "summary": "普渡机器人发布 PuduFM 1.0 基础模型和 PuduAgent 框架，宣告其进入人形与具身智能领域。新品旨在为服务、物流等行业提供更智能、更自主的机器人大脑，推动具身 AI 从实验室走向商业应用。",
+      "details": "The Manila Times 报道，PuduFM 1.0 是多模态大模型，PuduAgent 为智能体框架，用于支撑新一代机器人的感知与决策。目前仅发布了研发方向和框架，具体产品上市时间及性能指标未披露，只能从摘要判断其战略方向。",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZk5kMTY2ZFN5anpxandPY3ZoYVZPQm9KTXJVa0xlYmUyNGJ5SXN4NVExcGNkZndyM1ljYWtwaTMwOVJ3RHl4T2dsRFZRQmFmZlF3T3BNeHdlSGtBZzBPNWxLbWZTR19NbHhtRFcyRjNESS1NZWotbjRVNjhYOFRNRHVhNkpGSTZITXJHOG9sdlFoNG54Vy1Na1hlVUxRcVZaZHplbV8wWkowMXhhdDRjOXl0TjZDeFlDdktKYThNdjV6RTBxeEwyejJ0ZFpqTm9SanFhY21MZ3otX09rVXpGb29DcnhGa1d0aEhuaFFWR0lJQlllY19ETGV5VUl2RkhnLTFZd2ZQUljSAY4CQVVfeXFMTnd4NS1RNy15dDFVdGVqZlpMN25xVUdoQmdvMGZ6OERSZXRHRUZuMmVOUnRFeGszYXpMYlhfQnA1am9jLXRmT2lGT0d5bE5ULVZMem1qQk41dlpyQld6ekk2NE8zWkdST1pjX1UyZ2FkSkYwbmx3VmM5TElVS2hqR0hReWlTVWpjY2R5a3ZONWpyS1dVWG5aUjhnU1lhZC1DcFRGV1ZwdUtqUVRiUmFrTURNNFF1cm5sYUlxZE1XUzU1ZUJfUXNadFcxc1JyVkVUcVpCeEhqa3RNWEVXNTBiYnpYck1xRFhoc1VINzY3REg4ZGQ3S1FaZzJpT0R6elBxcEo4SEluMDk1S2h4WjRR?oc=5",
+      "source": "The Manila Times",
+      "published_at": "2026-06-06 01:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 88.0
+    },
+    {
+      "id": "2bc5af2590daf4e3",
+      "title": "Arms Cyber launches AI policy enforcement for endpoints - SecurityBrief UK",
+      "summary": "安全公司 Arms Cyber 推出面向终端的 AI 策略执行方案，可自动检测和阻断违规的 AI 应用与数据流，帮助企业应对员工使用未授权 AI 服务带来的数据泄露与合规风险。这一工具强化了企业级 AI 使用治理能力。",
+      "details": "SecurityBrief UK 报道，该方案能实时监控终端设备上的 AI 模型调用与数据传输，并执行预先设定的安全策略。具体技术实现和支持的 AI 平台未在摘要中披露，仅能从标题判断其重点是端点级别的 AI 行为管控。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1o4UzNlQUhCZm9WblIydkY2UUVsMk16V0xTZldrbEt3MHpXbHBCVmF2NUFtd2lneTZKbkFCTGc2R00xck1uSXc4dTlQYmJFWjRxMG5CN2tJNEZ6elJUMHRZX2JGV21xVHRFNURUX2pYTTFVS205aWdJallTUG84NndiZ1ZCNHQ4cTRtMWFCZmpxOVE?oc=5",
+      "source": "SecurityBrief UK",
+      "published_at": "2026-06-05 23:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 87.5
+    },
+    {
+      "id": "ae7fcd1995690951",
+      "title": "1X Launches Humanoid Robot World Model Lab: ‘You Can’t Fine-Tune Your Way To AGI’ - Forbes",
+      "summary": "挪威人形机器人公司 1X 宣布成立世界模型实验室，专注于构建机器人通用的世界理解与推理能力。公司指出仅靠模型微调无法实现通用人工智能(AGI)，需要全新的世界模型范式，此次实验室的设立旨在挑战这一根本问题。",
+      "details": "福布斯报道，1X 表示新实验室将研究如何让机器人像人类一样理解物理世界，并以此为基础发展更高级的自主行为。具体研究计划及团队尚未公布，只能从摘要判断其目标是突破现有微调范式的局限，推动具身 AGI 研究。",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUgtVUxoU3lrNE5wdnpmQ0lTXzNBZXFuXzJzTXVRQlQybU1HSWZfeW1VcTNvVnFHYU5QWGFKbnZ5Y0JyN0hsRWkzcWlycnlhaUl1MWtHbnhCTG5vb1FGQUJrUkY3T3g5N0FwRWlWb091YlJuYTZPSzBZR1BHNWstcnZUVHp0UGs2LXVKOURRRjlWX0U3Y3RxNU9yT25IUnFOZHBSSmdrZW9Vdkt3WS02ZTUyNXNNWDhzcE9fenVGTnY2SkV2QWx5VGlhTQ?oc=5",
+      "source": "Forbes",
+      "published_at": "2026-06-04 21:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 72.5
+    }
+  ]
+}
