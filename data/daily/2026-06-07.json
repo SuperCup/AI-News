@@ -1,0 +1,341 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T13:55:54.378232+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-07/",
+  "image_path": "assets/daily/2026-06-07.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c8e9499933bf8c36",
+      "title": "Report: Anthropic Deploys Engineers to Support NSA Use of Mythos - Security Affairs",
+      "summary": "Anthropic派出工程师支持美国国家安全局（NSA）使用其Mythos系统，标志着前沿AI模型在情报和国防领域的进一步部署。此合作引发了关于AI军事化及安全风险的关注。",
+      "details": "Security Affairs报道称，Anthropic已部署工程师协助NSA使用Mythos，具体合作范围和安全性影响仅能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0JSd3NLTE12aERqMFVzM3pRalZIZTdMclRhQ05VU09qLUhacHpLMXdrSmVoZ0NEcDBsOXROSk9rQUlpLUNjVlMxRlo5TUZuWGx1ek9Od0x1ZDktN0hOaHBUQzdfWWFXWi1IS0M0WGEycHdyVWRmRWFkbUFwaFhDa1ZpWFdMSTlVdFZtSy12c1VCSDNHT0ljZjN4MG1waV9Xb18tNUZ4SzJjdw?oc=5",
+      "source": "Security Affairs",
+      "published_at": "2026-06-07 00:21 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5d68b62166516017",
+      "title": "Ramp：美国B2B企业开始转向中国DeepSeek大模型 - 新浪财经",
+      "summary": "美国B2B企业Ramp开始采用中国DeepSeek大模型，凸显中国AI模型在美国商业市场的竞争力。此前已有多家美国企业因高成本和效率问题寻求替代方案。此趋势可能进一步推动DeepSeek在国际企业市场的部署。",
+      "details": "新浪财经报道指出，Ramp作为美国B2B企业，正在转向使用中国公司DeepSeek开发的大模型，具体合作细节未能从摘要中获取。",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcXduOWVzd3VZdkF1c1UxYjN3VVNSYzlQcEZTRGVtYXNyOHR5eEQ2Um9Dek9rTHhLb0FBbkFvX09QTTNhWmZLQlV2RWRpMTA2VC0weHlWa2J0MG96bkgyUTBSLWdUWHZzQWd1Q1RxUm16RWpmLWhsVjJQUndGRVJMVXpJUkc0RGhXdzVYc1RQV2JOMlB3NnRKZEd3TEJlTGd6dWRQVDlsT3lEQ0Frd2ZmWWo0bl9BOFQwYWkzcElnQkNoR3ZxVlItTEZBZ1p2bm9HZU1SSGhhWXFNWTU5ejJXUnIwLW5UMWtLa2VqaHlVMk5HQkp3SUZucGZXSllidDdZTXZEbE9IMEtsS0J5MG8teXZrOWUyY0QzbEE?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-06 17:45 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "41cca97372828030",
+      "title": "声通科技发布通晓智能体平台VoCSageX，携手华为云共筑AI产业落地新生态 - 搜狐网",
+      "summary": "声通科技推出通晓智能体平台VoCSageX，并与华为云合作推动AI在产业中的实际落地。该平台聚焦企业级智能体应用，旨在构建更完善的AI生态系统。此举将进一步丰富华为云在行业解决方案中的AI能力。",
+      "details": "搜狐网报道了该次发布，VoCSageX平台与华为云联合，具体功能细节仅能从标题和摘要判断，未提供更多技术参数。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWFFMEVBUjVuUDVTZ3pCdE04OFhVeXQtNGNad29BT1c2eGprV0FUNVJ2RWVfZUxVU0hCeGkwYXlBdlNra0cwdFBBVTZsWUNsdTRKOGZzMUw2TnFvTVluLTd3bUlIVlpGVE5IeTZSZ3pjLTRoZEpQR2VGNTdsQm9NTmxCM3ZOWVIy?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-07 12:55 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d1092680184981cf",
+      "title": "Budget Android phones are finally getting flagship AI — if manufacturers don't cut corners everywhere else - Android Police",
+      "summary": "廉价Android手机即将获得旗舰级的AI功能，前提是制造商不在其他方面削减成本。这标志着AI能力正在向中低端移动设备普及，有望推动端侧大模型的大规模落地。",
+      "details": "Android Police报道了中低端Android手机集成旗舰AI功能的行业趋势，具体芯片和模型支持细节只能从摘要中确认。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qUmpHLXNIUWpNT2NsZW42c3FJTWtGWC1uQTluUFJQZmJaRVJoS2Fyek8tZHpNV2dMMnV1ckROUlByTWJZVWFyTVRhLXdCZ3NCUUhSSFowNUFzeEw1WURoejMyTU4?oc=5",
+      "source": "Android Police",
+      "published_at": "2026-06-07 01:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "ddafa3804e723ef6",
+      "title": "刚刚！华为发布一系列Agentic AI新品 千卡集群每秒吞吐达500万Tokens - 财联社",
+      "summary": "华为发布多款Agentic AI新产品，其千卡集群实现了每秒500万Tokens的惊人吞吐量。这标志着华为在自主AI算力和大模型服务能力上取得重大突破, 强化了其在企业级AI市场的地位。",
+      "details": "财联社报道了华为此次新品发布，具体包括AI Agent相关硬件和软件，千卡集群性能数据被重点提及，更多技术细节可从报道中获取。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04NXFkaHZHX3VTYm1Vemd0bEs5RnM0ZTRsNi1ZZ19aeG1kVURfV09xMk1WWk84Rkc2bkZGZDhOUU9fNzJPUnpCdg?oc=5",
+      "source": "财联社",
+      "published_at": "2026-06-05 15:12 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 146.5
+    },
+    {
+      "id": "6b7bbe51e305eebc",
+      "title": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
+      "summary": "Anthropic呼吁AI实验室暂停进展，警告人类可能失去对AI的控制。这一声明源于对递归自我改进技术过快发展的担忧，凸显了前沿AI安全治理的紧迫性。",
+      "details": "Al Jazeera报道Anthropic公开要求暂停前沿AI开发，并警告失控风险，具体建议和技术细节可从报道中获取。",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-06 03:17 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "c1936cf334164d5e",
+      "title": "Sprawling new House AI bill includes frontier model oversight, open-source security grants - Cybersecurity Dive",
+      "summary": "美国众议院提出一项全面的AI法案，内容包括对前沿模型的监督以及开源安全拨款等。该法案旨在加强AI治理，平衡创新与安全，体现了美国在AI监管上的立法方向。",
+      "details": "Cybersecurity Dive报道了这份新AI法案的要点，包括对前沿AI模型设置监管要求和支持开源安全项目，更多条款需从原文中获取。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjViV1g5NkxmR3RHWm0yY2Q5ZEZLTU5IenlrNHdsSEZXY0U1by1UTkh4M0trdTRCVXl4cFNkNEZEZk9LLW1pR3ZyYUhrZ2VBaTFaM1ZuMC1qMDBtczlQSkYtOFhHSVJSQlV4eU5vWHVLMjF5T1RUdko2RVB0Y01DTTU3am9VQlVFRWVuTjFDa0M0MndmVWdKRQ?oc=5",
+      "source": "Cybersecurity Dive",
+      "published_at": "2026-06-05 23:21 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "7beadf893237e52e",
+      "title": "Google will pay SpaceX $920M per month for compute - TechCrunch",
+      "summary": "谷歌将每月向SpaceX支付9.2亿美元用于算力服务，反映出科技巨头对AI算力的极度渴求。这一大规模合同凸显了当前AI基础设施建设的紧急性与巨额投资趋势。",
+      "details": "TechCrunch披露谷歌与SpaceX达成巨额算力采购协议，月费达9.2亿美元，具体用途涉及AI模型训练或推理，详情可从报道中获取。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSE9veWl0YWNvODNENnhhakoyXzFEVWNwQkx3WmlpRDZ6RGh4RWljVWg2RFV3ejhYd1lndlZkNmVwdUxmSUZBaEo1ZUwxSUhYOExxV2RHVEx6TG9udnI1UEZzYkdRQmRPcGExeWdKbmFKT2VuZjlYNFFNVEh0cG5TdzEzRFpmRVByd2c4Qw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-06 02:57 +0800",
+      "companies": [
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "18a8314566b872f3",
+      "title": "零一万物携手正大布局智慧农业 合资落地AI养殖新模式 - 中国科技网",
+      "summary": "零一万物与正大集团合作，将AI技术应用于智慧农业，成立合资公司推动AI养殖模式。此举旨在利用大模型和AI智能体提升农业生产效率，是AI在垂直行业落地的典型案例。",
+      "details": "中国科技网报道了这一合作，零一万物与正大共同成立合资企业，具体AI养殖模式细节只能通过摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdjRPZFlLNnA0dzh3bk9JMU5iaU5RRUVoQjkxUWVtWGlsOEpXeVNEemFxblhiM2ZNaDY4ZFNneFJwZzAtZi02bXZoei16Q3owWUZ1RWVHMjh4TjNmUzBRMDh2LUpQcExkOUt4YnFKSGI?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-06-05 15:25 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "ff8a2a225262a2e9",
+      "title": "AI落地物理世界，美团如何成为这个“接口”？ - Sina finance",
+      "summary": "美团探讨了如何将AI能力落地到物理世界，通过其平台连接线下服务和智能技术。美团正试图成为线下商业的AI接口，推动即时配送、本地生活等场景的智能化。这展示了中国互联网企业在AI与实体经济结合上的战略方向。",
+      "details": "Sina finance刊文分析美团的AI落地路径，重点围绕即时物流和本地服务，具体产品细节未能从摘要中获取。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zTGxSZHdidEJfTV9aNF9TZ1hCRFZuMEFUbWRRUXFSSFYzdGg1aTh4bHF0aDVDV2NSMHdzS2hBZlRjTjM0Y0wzYldHZTBhdlpfMHhQeDljWW5mNTVuQ2Q0Q3BlUkxUd2tqUXYzTDl2N3c1d0NhaGtfdA?oc=5",
+      "source": "Sina finance",
+      "published_at": "2026-06-05 21:02 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "8e4bc28d2505e118",
+      "title": "Snowflake Horizon Catalog: Governance & Security for Enterprise AI - Snowflake",
+      "summary": "Snowflake推出Horizon Catalog，为企业AI提供数据治理和安全功能。该产品强调在大模型使用中确保数据合规与访问控制，旨在解决企业AI部署中的信任和监管挑战。",
+      "details": "Snowflake发布的公告介绍了Horizon Catalog，聚焦企业AI的数据细粒度治理，具体技术实现需要查阅原文。",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc2RucjBHMTFpQm1oV1B2UVM3Qkx1aXNkek1qNUpNTmVDY3A1eGI4NXU2MnpPNEhqRzRkLUNwd0FwVm5qeURWN09BRlRQLTVkY0dCVGhuOWcwSWtqUnFaVHFJeXlmUW9kM05HM01xZXBTcHhTdmFoVFV3TGxKWXV2QkQtYkI4VXZ1ZFVtQkU5VzJVU2pRWUdhOXJDQ0NMaHAyRUFsR28xVTNPdjRrVnA0cGpwdUxvT1QtN3ZyV2JQakRITExTX2FaY19zNnl0a2otd3Fmb2lYREo0LS1ITnJfdGxEOTZreXN4TkpvY0pSQUlyNHlJcXRZMzZzQ1MxaEg1WDJfd1pVME4?oc=5",
+      "source": "Snowflake",
+      "published_at": "2026-06-05 22:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "747fbbd6ef6d211e",
+      "title": "Opal Security Raises $23M as Enterprises Seek New Controls for AI Agent Identities - citybiz",
+      "summary": "Opal Security获得2300万美元融资，以满足企业对AI Agent身份控制的新需求。随着智能体在企业内部自主执行任务，其身份安全和管理成为关键挑战，该公司因此受到资本关注。",
+      "details": "citybiz报道Opal Security完成2300万美元融资，所筹资金将用于开发AI Agent身份管控方案，更多信息只能从摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0lKS1F0X2xfTG5NbF9jci1fQkcyZE80QWtQMWRLWUpLYzFTUGdfVGVUeWFfdkVMUDNhZDJ0a0dKZnBvZUFIV2syZUpzcFhPUUxPN0JvdzNUbWRtSVBzWEUxYTlELVg0Yy1vNHZwNjJxUGVCZFptcHVFb2lnXzlWUk1pb1VIOE9mbGJkS0swMVdKc1BTMUdMc1JrWDJ1VWlxZTE0dUN5M1dKaUVQZjNwQ0hFa0xpd05hVXdnSg?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-06-05 18:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "1f4e7c13945a3472",
+      "title": "Jensen Huang highlights robotics as South Korea growth sector - Let's Data Science",
+      "summary": "英伟达CEO黄仁勋强调机器人技术是韩国的重要增长领域，暗示英伟达将与韩国企业在机器人和AI领域加强合作。这显示了AI芯片巨头在全球机器人市场布局的积极信号。",
+      "details": "Let's Data Science报道黄仁勋在韩国发表言论，指出机器人技术是韩国增长动力，未提供具体合作计划，细节依赖原文。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcG1SRHhMdFRSZ0JxLWpnRHBVeDhjOG51WmpvbUY1QnUyblZyVU4tWDYwQjNvcEFlVTZaSnladzREcktadEMta2p0RTQtRlhHZEVQa0wySG5JWjl2aDJKMjNpeUFyVUI4UF9lYzJqQmZpWUlGOElIa1hSSWRPdFNfT05tZTl6cjZ5Q3d5QjVISHp6VEVmbklRSTNiWldvR2V5UjVXeg?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-05 16:21 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "52a6b3b86228ffb3",
+      "title": "Experian Launches AI Agent Operating System for Finance - AI Magazine",
+      "summary": "Experian推出针对金融领域的AI Agent操作系统，旨在为金融服务提供智能化代理能力。该平台将聚合多个AI代理，以自动化信贷、风控等流程，加速金融行业AI转型。",
+      "details": "AI Magazine报道Experian发布AI Agent OS，专注金融场景，具体功能模块和技术架构需参考原文。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDdzVERpUW9ESU9KZXRKVlQ1RFpVY3Rodzd0ODJOMUY3SDFVYS1nTzZJUEJFQVQ4Y081VVNBNVhPQnJ6MVAyY3p3RldYYWhhTFM2c3Jqc09jMExiTzJlYnJlcWZEdzZFQXhxWHdadzZLQUxlQU9GcmQyMzdCR2d4YkZVTzZQa0lmdkdz?oc=5",
+      "source": "AI Magazine",
+      "published_at": "2026-06-05 21:22 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "fa1c37eb04bc706c",
+      "title": "Pudu Robotics Unveils PuduFM 1.0 and PuduAgent: Defining the Next Era of Humanoid and Embodied AI Systems - The Manila Times",
+      "summary": "普渡机器人发布PuduFM 1.0模型和PuduAgent智能体，进军具身智能和人形机器人领域。此举标志着行业领先者开始将大模型与物理机器人结合，定义下一代AI系统。",
+      "details": "The Manila Times报道普渡机器人的新品发布，PuduFM 1.0是基础模型，PuduAgent为智能体框架，细节可从报道中获取。",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZk5kMTY2ZFN5anpxandPY3ZoYVZPQm9KTXJVa0xlYmUyNGJ5SXN4NVExcGNkZndyM1ljYWtwaTMwOVJ3RHl4T2dsRFZRQmFmZlF3T3BNeHdlSGtBZzBPNWxLbWZTR19NbHhtRFcyRjNESS1NZWotbjRVNjhYOFRNRHVhNkpGSTZITXJHOG9sdlFoNG54Vy1Na1hlVUxRcVZaZHplbV8wWkowMXhhdDRjOXl0TjZDeFlDdktKYThNdjV6RTBxeEwyejJ0ZFpqTm9SanFhY21MZ3otX09rVXpGb29DcnhGa1d0aEhuaFFWR0lJQlllY19ETGV5VUl2RkhnLTFZd2ZQUljSAY4CQVVfeXFMTnd4NS1RNy15dDFVdGVqZlpMN25xVUdoQmdvMGZ6OERSZXRHRUZuMmVOUnRFeGszYXpMYlhfQnA1am9jLXRmT2lGT0d5bE5ULVZMem1qQk41dlpyQld6ekk2NE8zWkdST1pjX1UyZ2FkSkYwbmx3VmM5TElVS2hqR0hReWlTVWpjY2R5a3ZONWpyS1dVWG5aUjhnU1lhZC1DcFRGV1ZwdUtqUVRiUmFrTURNNFF1cm5sYUlxZE1XUzU1ZUJfUXNadFcxc1JyVkVUcVpCeEhqa3RNWEVXNTBiYnpYck1xRFhoc1VINzY3REg4ZGQ3S1FaZzJpT0R6elBxcEo4SEluMDk1S2h4WjRR?oc=5",
+      "source": "The Manila Times",
+      "published_at": "2026-06-06 01:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 83.0
+    }
+  ]
+}
