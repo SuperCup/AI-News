@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T14:13:06.768877+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-08/",
+  "image_path": "assets/daily/2026-06-08.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3d9f284fdd0c2271",
+      "title": "Google Colab CLI opens runtimes to Claude Code and Codex",
+      "summary": "谷歌Colab命令行工具新增功能，允许用户将运行环境连接到Anthropic的Claude Code和OpenAI的Codex。开发者可在Colab中调用外部AI编程助手，增强了AI辅助开发的灵活性和选择空间。",
+      "details": "Help Net Security报道，2026年6月8日发布的这一功能使得谷歌Colab成为多模型集成的AI开发平台。用户能根据任务需求在Colab内切换不同AI编码工具。目前仅能根据短文获得上述信息。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXBrYkdMV2FEdnltWkJuV1ZiSnBqWmc0alp1ZGEzcTRZdWhuYkhLRTBoOUxfTVFrMmtNT2IxUTZBYW5zM1ZhYTRNdXNZWXhoLTdCUEtyQWJYb3F5cVBQNjZsdzJqdXJqbTZCQVhsbmF0bnA1ZEF6ZWxydm1MUDJObDBKTnVIOUdYb1FJ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-08 13:00 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "511b856bd2531b87",
+      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
+      "summary": "腾讯云发布WorkBuddy企业版，从支持超级个体的AI助手升级为赋能超级团队的新一代AI办公工作台。该产品原生接入腾讯文档，支持“人机双写”等功能，推动企业协作方式向人机协同转变。此举标志着腾讯在企业级AI Agent应用上的重要落地。",
+      "details": "根据标题和摘要信息，腾讯云于2026年6月8日正式发布WorkBuddy企业版，旨在通过多模态AI能力重构团队工作流程。产品集成腾讯文档等办公组件，具备智能体协作特性。更多细节仅能根据现有摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OQ3lnU2J0UG85SjRVUkd6ZlZfZE1UQXBGTEQtal9URDRjZXNKd2dhQXZ3OGlrSGxfUzNRV3B0LWx4dUY1UVNVbQ?oc=5",
+      "source": "品玩",
+      "published_at": "2026-06-08 09:40 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "39fb374dd0c20049",
+      "title": "Ramp：美国B2B企业开始转向中国DeepSeek大模型",
+      "summary": "据报道，美国B2B企业Ramp等开始采用中国DeepSeek大模型。这显示中国大模型正在切实影响海外企业级市场，其能力得到国际用户的认可。此举可能引发企业AI底座向中国模型迁移的讨论。",
+      "details": "来自新浪财经的新闻提到，美国B2B公司Ramp已开始转向使用中国DeepSeek大模型。这反映了DeepSeek在算力效率和模型能力上的竞争优势。更多关于企业迁移规模和具体用例的信息需查阅原文。",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaHB6Xy1Tb25maFhZRDVpY21pUjNmbHdNQzNMaFF4UWN5TzBDRi1vTmZhTjM5eXE4WWRaNE9yWW5aZnNRSG5NcUZrNTl3b0VWNHpCQ0Mtc0djZ2NDdVlSYTVoRHhOVDlMaDJiUy04LVFsbm9LVnJpZ1dyenJlSTVEYmVEcUJsc2EwLW14WGZjd3d2MXpWUi1BdTlrTFNKUE1Ma3lyOEhCOG5ETlZIZDNjSmxyZlgta3BTdmMyaVRUSXdZclFtbmhpcVBUSXowSU5mWUZaeFpwQmdmZkRndHg4UjVtWUdFMjdRdU9PenBFZFR4allXVUMwMVAzY0JhY1BqTmp4QQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-07 16:22 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "080a129a0c91735a",
+      "title": "Google Gemma 4 12B Model Launches With Multimodal AI Capabilities in 2026",
+      "summary": "谷歌发布Gemma 4 12B参数的开源模型，具备多模态处理能力，支持图像和文本输入。作为轻量级大模型的最新版本，Gemma 4旨在降低AI应用开发门槛，推动企业快速采用。",
+      "details": "Nomad Lawyer在2026年6月7日的报道中称，Gemma 4模型系列作为Gemma家族的新成员，在2026年推出。该模型延续了高效轻量的特点，新增多模态交互能力。更详细的基准测试结果可参阅技术报告。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFRfSnFtVjJhUEtxY00zNTdVTXFmaUI0enJhR21TR0wwM0hfemxRZm5qcmtDZGlFaEgyNVJ1SEhnWHBmT2tmaUhOT3RSVFF1SHdmWXdZYU1Od3lGYUJtTzcyekMwNWdHc3d1QkRGcDdyTGJqZ3czR2o0anVrMFNrc3V3?oc=5",
+      "source": "Nomad Lawyer",
+      "published_at": "2026-06-07 18:26 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "2ad31ae7aba11bac",
+      "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
+      "summary": "英伟达与SK海力士宣布结成多年技术合作伙伴关系，共同推进面向AI工厂的存储器技术。合作将聚焦于高带宽存储器等关键产品，以支持下一代AI基础设施的构建。此举将巩固双方在AI硬件生态中的核心地位。",
+      "details": "根据英伟达官方新闻室的消息，双方于2026年6月8日公布了这一长期合作。合作内容涉及联合研发，旨在为AI服务器和数据中心提供更快速、更高效的存储解决方案。但仍需更多细节了解具体技术路线图。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uXzBzR3NhYkhmOFNSb0tua2s2U1RCRHQ5RXpRcUxKS0xMUkFMNlYxMDltR3N3bmVSdWFQc1lMWDcwaC1yVnNnWEdkMEt3QkZOaGZvaXY0cHRHMVBaLUp1SzFDejc?oc=5",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-06-08 07:11 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 146.0
+    },
+    {
+      "id": "88ec494f8983b50f",
+      "title": "US Reportedly Working On Draft Regulations For Power Over Nvidia, AMD Chip Exports",
+      "summary": "有报道称，美国政府正在起草针对英伟达和AMD等芯片出口的新权力法规。此举旨在强化对AI芯片出口的管控能力，延续并可能扩大现有的技术出口限制。预计将对全球AI硬件供应链产生重大影响。",
+      "details": "Stocktwits于2026年6月7日援引相关消息，指出了这项潜在的法规起草动作。若草案通过，美国政府在管理先进计算芯片出口时将拥有更大自由度。详情需要参考更深入的报道。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHRyaUo2b2Y2YVVPQXp3NjNmX3NEVUE0UEMwUnZjTUp1bFo4d0NGVVVUQS1USTZ3bFVoUVQxbTF1V1lKUXNudFFBRDd0WkNubGlLM0xaWDIxTXYyY0xiOGtXM01jZmlkb3JYQTBJb05mdVJQVmJDZkcwNWRCY2hQcnBjOVNXUGZ4UUdJdGRNN1c4Vmtuc3RHV0dRYUQxVmRTSm9XOG1NV09ERVA2dDlveTJvdHIxMm4zMWNqd0pZV1J2MGh3TEpXRVZQUjV1SW9CZ3FWTEgwNU44aloxQXc?oc=5",
+      "source": "Stocktwits",
+      "published_at": "2026-06-07 15:25 +0800",
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "3f23e8e8b2c7392c",
+      "title": "ChatGPT on the verge of its biggest makeover since launch: OpenAI plans to become an AI super app",
+      "summary": "OpenAI正筹划将ChatGPT改版为AI超级应用，这将是其推出以来最重大的转型。新应用将整合多种AI功能，成为用户获取AI服务的核心入口，不再局限于对话式交互。这标志着OpenAI从工具向平台化的战略升级。",
+      "details": "Basic Tutorials在2026年6月8日的报道中提到，OpenAI计划大幅度扩展ChatGPT功能，使其成为一个综合性的AI超级App。具体上线时间和完整功能集只能从现有摘要判断。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWduVGRBaDJXZ0xtZFcxbDh4bWwzaEt1TVg3ckVQVExZaVpCblhnaUx6Szl6d1NWalF1dUpUbTU0Vy1hWEZjX0VpS0pzTGU1ZHpBcVFVZFRDRWNINWJZT3RmOEZPZTM4RGVVcm5mVnd6ekdQYko5TVhuNkhxUEk1Q3M1WklCeUVqejNyeFNIRWpFUU9waVdmWFdSYkFiUXFibElvN0wwZHhQUFMxVl8zZk5IMWhIS2FmTGg5eGctNUNqQzZzbm9SeU13?oc=5",
+      "source": "Basic Tutorials",
+      "published_at": "2026-06-08 10:25 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 142.5
+    },
+    {
+      "id": "c4c735871b20215c",
+      "title": "中国发布安全AI芯片名单，华为和阿里巴巴入围，“中国英伟达”缺席",
+      "summary": "中国相关部门公布了安全AI芯片名单，华为和阿里巴巴成功入选。该名单旨在保障国内AI芯片供应链的安全与自主可控。值得注意的是，被外界称为“中国英伟达”的部分芯片公司未出现在名单中，引发市场关注。",
+      "details": "根据VOI.id于2026年6月8日的报道，中国发布了安全AI芯片名单。该名单可能用于指导政企采购和关键技术领域的芯片选用。具体名单标准和未入选原因只能从现有摘要推断。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOS1OZHNKZnlMVXZTYWFSM25WUnBsb0pYSm1RMFRUZTJYakJ4Rm5mZlM4b3lmVXk3M290LTA3TVFLQzdnNXpHSGVlUGhLdG_SAUJBVV95cUxNSDZzUkltRUNQbmFLQzA0V1hjRWg3NXo1ZUlDWU1YTDB6LWV6YUJ4MTFoLUx1QldoYzZaZldrbGNQNWc?oc=5",
+      "source": "VOI.id",
+      "published_at": "2026-06-08 12:17 +0800",
+      "companies": [
+        "Alibaba",
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "7391df466f2407d8",
+      "title": "阿里CoPaw桌面Agent工具正式开源",
+      "summary": "阿里巴巴将桌面AI Agent工具CoPaw正式开源，允许开发者在桌面上构建智能助理。该工具支持自动化任务和跨应用操作，旨在降低Agent开发门槛。开源策略有望繁荣AI桌面生态，加速企业端的Agent应用落地。",
+      "details": "据该新闻标题和摘要，阿里于2026年6月8日宣布开源CoPaw桌面Agent工具。这是一个面向桌面环境的智能体开发框架，可用于创建处理复杂任务的AI助手。目前只能从摘要中获取这些信息，具体开源协议和技术细节不详。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBncVlSc1hKUDBPcC0xTFM4SDl6WVc2bFpSVVFlNjRFelVQNmI0VnpxeG9ZZnl3RENkSUtYU2lZcVZ5Rk14ZUtVbA?oc=5",
+      "source": "品玩",
+      "published_at": "2026-06-08 04:21 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 131.0
+    },
+    {
+      "id": "05c0256731e53706",
+      "title": "315曝光AI大模型“投毒”黑产，39.9元篡改AI答案",
+      "summary": "央视315晚会曝光了针对AI大模型的“投毒”黑产，仅需39.9元即可批量篡改AI生成答案。黑产通过污染模型输出，影响搜索引擎和智能客服等应用，引发严重安全担忧。该事件凸显了AI内容安全治理的紧迫性。",
+      "details": "36氪于2026年6月7日发布该消息，指出这一黑产通过向大模型输入恶意数据来扭曲回答内容，可能涉及对百度等模型的攻击。具体技术细节和受影响范围只能从摘要推断。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pTVgwS1FDN0VkR2t3anFQenlabGxNbU5hRU05UWlXelNjc3ljcWtWaE1ZcHljVWVjTlJfdUhrQmtQcjBIc2p1NjNnQmM0Zw?oc=5",
+      "source": "36 Kr",
+      "published_at": "2026-06-07 20:52 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 131.0
+    },
+    {
+      "id": "e2c069ca9216119b",
+      "title": "Snowflake Horizon Catalog: Governance & Security for Enterprise AI",
+      "summary": "Snowflake推出Horizon Catalog，为企业AI工作负载提供数据治理和安全解决方案。该服务帮助企业在使用AI时管理数据访问权限，确保遵守法规。它强化了Snowflake平台的数据安全能力，满足企业级需求。",
+      "details": "Snowflake官方博客于2026年6月8日介绍了该新品。Horizon Catalog旨在让数据团队能够追踪、审计并保护AI模型和数据集。具体功能矩阵需查看官方文档。",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc2RucjBHMTFpQm1oV1B2UVM3Qkx1aXNkek1qNUpNTmVDY3A1eGI4NXU2MnpPNEhqRzRkLUNwd0FwVm5qeURWN09BRlRQLTVkY0dCVGhuOWcwSWtqUnFaVHFJeXlmUW9kM05HM01xZXBTcHhTdmFoVFV3TGxKWXV2QkQtYkI4VXZ1ZFVtQkU5VzJVU2pRWUdhOXJDQ0NMaHAyRUFsR28xVTNPdjRrVnA0cGpwdUxvT1QtN3ZyV2JQakRITExTX2FaY19zNnl0a2otd3Fmb2lYREo0LS1ITnJfdGxEOTZreXN4TkpvY0pSQUlyNHlJcXRZMzZzQ1MxaEg1WDJfd1pVME4?oc=5",
+      "source": "Snowflake",
+      "published_at": "2026-06-08 13:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "bb98c2b7c3d9ef5d",
+      "title": "6 Background AI Agents for Async Development - Security Boulevard",
+      "summary": "Security Boulevard 报道了「6 Background AI Agents for Async Development - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "6 Background AI Agents for Async Development Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcS1yWWxFZ0pPN25mWDYzNE5LTmduLW5aSzk5VFlFWXc5SWJ6ZjJSSzViTXVUc0ZWaWM2bnYxT0NMNmt0bDdmcDc5RERsbWNBM1VoWHg0dmRRVFdaT1dWY2ZJVlExRGVBdU10Y0RiV2xKU042U2pCS3dfMzlXNlVwRDFQOVd2dEp5Qk1z?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-07 17:38 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "8ca8772a4999969e",
+      "title": "Unisound Releases U2: A Native Agentic Large Model Built for Execution, Capable of Autonomously Decomposing and Completing 100+ Steps in Complex Real-World Workflows",
+      "summary": "云知声发布了U2大模型，这是一款专为任务执行而生的原生智能体大模型。它能够在复杂的真实工作流中自主分解并完成超过100个步骤。该模型强调执行能力，旨在超越传统的对话生成，广泛应用于企业自动化。",
+      "details": "PR Newswire于2026年6月8日宣布了这一发布。U2模型被设计为具备强大的自主任务规划与执行能力，可用在需要长链条决策的业务场景中。更多性能细节有待后续披露。",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWHZJMzRhWnJSUkNySDFxZERpc3NiZ29temZuZ2hFTHVVNGV4VFg0aGZHSHAxMUI1TnNIZ1ZhZ3p2S29ybW5UUGFFWm1WOWNvVldGMTlvNWRwOWdoVmlla183S3l0eXZmZS1tbXhmNFBwNXVhTUF1TURHWnRRTXBsY09DTG1xRDNadllGaFAwMjdrSjBVbjlFRDJKNWpLUUM0eXVFYnljUllHY3VQUE0tbXpPSVc0S0N3dE5KeHpLN0NrQ0NnUndCT0lmSHgySURZei1RMkttaTNnQXNpb2hSNldCNm5RVzFmUWpCbHlUNV9HYXVicm04dkVrcTZpdEJ6a0UyaTZOZnNGeUxyOGNTYThOc200Y0xZYUxCdlU1eFZINDdvRnBqN0I0QkY4QzRzbnZPZ1lGc1RaYnZOclBV?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-06-08 10:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 98.5
+    },
+    {
+      "id": "a3d8acee03745296",
+      "title": "Best Agentic OS Platforms for Enterprise Teams - Augment Code",
+      "summary": "Augment Code 报道了「Best Agentic OS Platforms for Enterprise Teams - Augment Code」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Best Agentic OS Platforms for Enterprise Teams Augment Code",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rUzZFR1Nzd1pOQzVvWmtvVjROSFM5Y1AxVHdtRWFzd2Jac3VyQldIYktGMFVkR0VxUHhzV05VaGp3RjA0bUI1THdTX1ZsUzQwUWZlaU94U0J6R2g1WFBtRGpDVkUxX2ctSGlr?oc=5",
+      "source": "Augment Code",
+      "published_at": "2026-06-08 11:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "b368e2064b7201eb",
+      "title": "House Subcommittee on Cybersecurity and Infrastructure Protection Hosts Hearing on AI Security",
+      "summary": "美国众议院网络安全和基础设施保护小组委员会就AI安全问题举行了听证会。会议重点讨论了AI带来的网络威胁以及对关键基础设施的风险。立法者呼吁采取更多措施，加强AI安全监管。",
+      "details": "Tech Policy Press在2026年6月7日报告了此次听证会。会议强调，随着AI技术渗透到社会各领域，需通过政策和标准来预防AI安全事件。更多证词和讨论内容需查阅正式记录。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkRPS0ZabGNHeWVaRktuSnBrTVFPMmZPM05NLTZSYzk4YlA2YktWZk16MmtzX0FMZEJ5Q09xZ2MyTUZleE5OcVg0dTZLX0FSWmQwWUZZUzBWeExDMXUyd3NLVGlZamg1NlVfamo3Zlg2cTBzUzdOdWZpMGQ1Um91VXFxSVlmRG9pUlBpUHZfUUtnUHk1RVY0NVcyOHZXMFhXYi0xUEx3VjdMZ3pyOU5IYXRGMVZVWGl2RmtuMmh3elNUdw?oc=5",
+      "source": "Tech Policy Press",
+      "published_at": "2026-06-07 22:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 87.5
+    }
+  ]
+}
