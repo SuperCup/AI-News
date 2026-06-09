@@ -1,0 +1,343 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T13:20:32.784117+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-09/",
+  "image_path": "assets/daily/2026-06-09.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c94d8683fdc1146c",
+      "title": "NVIDIA Adds Naver To Nemotron Open Source LLM Consortium",
+      "summary": "NVIDIA宣布韩国互联网公司Naver加入其Nemotron开源大模型联盟，共同推进高性能LLM的研发与生态建设。此举将Naver在韩语及多语言AI领域的优势与NVIDIA的软硬件基础设施相结合，加速全球开源大模型发展。双方还计划共建全球AI工厂，推动企业级AI基础设施落地。",
+      "details": "Open Source For You报道了NVIDIA与Naver的合作。联盟的具体代码开源计划与算力部署尚未在摘要中详细披露。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3hyaFpMZGNMVlN2WWdNVkJCeVZhY3VjMUZsSEczWDNqNjFWeU5COEVLcmpqRENkM0NXNi1taWhqdTV0MThQSko0OHhWT09kaG5JbUg3X3YyWkV1Z2RqbGtnTUZ6NDdua2hDNkcwVUFiN3ktQUFKTW1SZm9vZm5fODdsNk1RdXE5YkV6aEhvQ3BfQkZHb09fUXVEeGg?oc=5",
+      "source": "Open Source For You",
+      "published_at": "2026-06-08 16:39 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "7fc766ffa69636ea",
+      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+      "summary": "微软的开源工具遭到攻击者入侵，被植入了窃取AI开发者密码的恶意代码。攻击者通过篡改流行的微软开源项目，在软件供应链中传播凭证窃取器，威胁大量AI开发环境的安全。此事件再次凸显了对开源供应链安全审查的迫切性。",
+      "details": "TechCrunch报道了微软开源工具被攻击的事件，攻击者利用篡改的包盗取AI开发人员凭证。详情需参见原文以了解受影响的具体组件和应对措施。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjF2ekYxczVvcC1UVTBsTWQ0QUlDYmhDVjQ2Ul9ieGNWb0ZLakxQbS1zLUw0ZnVTamtYSEtiQmRzUjFoR3AzQWZ2VzQ5VmZkaGtHV3dwRU5ycGlFRmV0aHZaQWhTcHYxbndnZ0Z5OVh2NkdJWGE2b1EyWHZfNUR1a0d2TVlOeklpTjBwamlORFI5cW1vNENjZE5RU1M2bk9OUkNNcm5NUWJmQVV0SnNsTg?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-09 04:03 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "223991d5d2cc5b72",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "苹果在WWDC 2026上公布了一系列AI相关更新，包括全新Siri AI能力、iOS 27系统以及整合的Apple Intelligence功能。这些升级旨在将更强大的智能助手和端侧AI体验带入iPhone、iPad等设备，进一步巩固苹果在个人智能助理领域的布局。",
+      "details": "根据TechCrunch综合报道，WWDC 2026重点介绍了Siri AI、iOS 27和Apple Intelligence等。详细技术特性和开发者信息请参照原文。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWJuN1FuSmVzSVdHVG8xYzFsd25mekVCQkJqWG1MejAzTlJoNkgzZ0Qwb1M3ekloaEoxTC04NUx4OG4zY1g0aU5ra2hjOTZJaVg3dUpyWkxlNzlIVGY5bUFSaTFOaDNRLUFHNUVDVTVUazgtYjBJME5yUkhLR1lBRHVLMHBCX2RMMkZzZ2dCRE1xV2xDX2dJUTFmd203YlJ5eFJiZTV5VmhpRnQxOXpr?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-09 03:41 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "848570cd642f3e16",
+      "title": "Meta Deploys Muse Spark On Smart Glasses",
+      "summary": "Meta已将名为Muse Spark的AI模型部署到其智能眼镜产品中，为用户提供实时、多模态的增强交互体验。这一举措将生成式AI与可穿戴设备结合，使眼镜端的上下文理解与视觉问答成为现实。Muse Spark的落地标志着Meta在终端AI助手领域迈出关键一步。",
+      "details": "消息来源于Let's Data Science，摘要指出Meta在智能眼镜上部署Muse Spark。具体模型性能与用户场景细节需查阅原文。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1VEcmRwRGRNb1Vwa29lMFZLWjNDdTN1c2RlaTlNMXkwWkFwLUNKZzhFckhkNGxndjRqVVBJdEFHRVQxWTZ5ZnNTOV9lSnlsTDRYX0J6dDU4Y2ZxZ1NZZlJybGpDUW93VHE3anNTN1RHdGpsT09oOW1RVTB3SE0tc1FJRk9zaHNheEE?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-09 09:22 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ec3df9bac5b96c79",
+      "title": "腾讯云已助力视听行业全业务落地Agent，联合生态伙伴发起T1俱乐部",
+      "summary": "腾讯云宣布已在视听行业实现全业务流程的AI Agent落地，覆盖内容生产、分发、运营等环节。同时，腾讯云联合生态合作伙伴发起T1俱乐部，旨在推动视听领域的AI技术创新与产业协同。此举体现了腾讯在垂直行业Agent化部署的最新进展。",
+      "details": "消息来自飞象网，介绍了腾讯云在视听行业的AI Agent实践及T1俱乐部生态计划。更多技术实现细节可参见原文。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pRHRGcW8wUjkxZEZSM3g5VXVBZTNka3VTQlUzYUtzejFJdTdfQW9ZWFJkamJJNlB5UkxRRmxpeno5QTVSckFoZmhGTQ?oc=5",
+      "source": "飞象网",
+      "published_at": "2026-06-09 09:30 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "000de84ad4eec829",
+      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
+      "summary": "据路透社报道，OpenAI已提交美国IPO申请，继Anthropic之后成为第二家冲击公开市场的AI巨头。这一趋势标志着AI行业从风险资本驱动转向公众市场融资，将加速AI技术商业化进程并提升行业透明度。",
+      "details": "路透社援引知情人士称OpenAI启动IPO流程，具体估值与发行规模尚未公布。详情以官方文件为准。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-09 05:17 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 147.0
+    },
+    {
+      "id": "c4ab2e0453d13116",
+      "title": "豆包将推“专业版”，国外大模型付费转化仅为5%，国内大模型谁来买单",
+      "summary": "字节跳动旗下豆包即将推出“专业版”大模型服务，尝试向付费用户提供更高性能。报道指出，国外大模型付费转化率仅为5%，引发业界对国内大模型付费前景的讨论。文章围绕谁将为国内大模型买单展开分析，反映中国AI商业化面临的挑战与机会。",
+      "details": "新闻来源为澎湃新闻，主要讨论豆包专业版的推出及国内大模型付费转化率问题。仅从摘要判断，未提供更多技术细节。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IYnNTNDlyUkRKUlpBNm5lN0xlSkJwSDZZMnhNT3BLcmNqc3E5OE03X2R6VUNQLVc1S2ZZYUZDcVRJQU96YjVNZ0NrbmxlMThrbEZVdWl4WTFKLWFNMEE?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-06-08 17:56 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "109d796fc1b5f540",
+      "title": "智谱市值破6000亿港元后拟回A，OpenClaw引发大模型行业底层变革",
+      "summary": "智谱AI市值突破6000亿港元后计划回归A股，显示出资本市场对国产大模型的高度认可。同时，智谱旗下开源项目OpenClaw被认为正在引发大模型行业底层技术变革，推动模型架构与应用范式的演进。该事件凸显智谱在开源生态和商业化两条路线上的强劲势能。",
+      "details": "文章来自CSDN博客，围绕智谱AI市值及OpenClaw项目的影响展开。具体财务及技术细节请参考原文。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01OWY2VXlpcExrY0w5bG1WaDd2S3F3M3lTaExBdW5xZEctS0VKcTJVa0kzOHdOQW9yTXdjd21wS2Y0c0FxODBCYjlOOU9lYVBJREFneUc5dk8xY0JtbHZkVUJ5alo4VTc1dDRR?oc=5",
+      "source": "blog.csdn.net",
+      "published_at": "2026-06-09 09:29 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "c4c735871b20215c",
+      "title": "中国发布安全AI芯片名单，华为和阿里巴巴入围，“中国英伟达”缺席",
+      "summary": "中国相关部门发布了一份安全AI芯片名单，华为和阿里巴巴的芯片产品成功入围，显示两家公司在自主可控AI算力上的进展。令人关注的是，有“中国英伟达”之称的寒武纪未能进入该名单，引发业界对国产AI芯片生态格局的讨论。",
+      "details": "根据VOI.id报道，该名单涉及安全AI芯片认定。由于原文细节有限，具体芯片型号与评价标准需通过原文进一步确认。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOS1OZHNKZnlMVXZTYWFSM25WUnBsb0pYSm1RMFRUZTJYakJ4Rm5mZlM4b3lmVXk3M290LTA3TVFLQzdnNXpHSGVlUGhLdG_SAUJBVV95cUxNSDZzUkltRUNQbmFLQzA0V1hjRWg3NXo1ZUlDWU1YTDB6LWV6YUJ4MTFoLUx1QldoYzZaZldrbGNQNWc?oc=5",
+      "source": "VOI.id",
+      "published_at": "2026-06-08 12:17 +0800",
+      "companies": [
+        "Alibaba",
+        "Huawei",
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 133.0
+    },
+    {
+      "id": "997be98f29cdd495",
+      "title": "阿里大模型组织架构升级：成立Token Foundry事业部 周靖人任阿里首席科学家",
+      "summary": "阿里巴巴对大模型组织架构进行重大升级，正式成立Token Foundry事业部，全面推进通义大模型的工程化与商业落地。与此同时，周靖人被任命为阿里巴巴首席科学家，统领AI技术战略。此次调整标志着阿里AI从模型研发向规模化应用转型的关键一步。",
+      "details": "泰伯网报道了阿里AI架构重组消息，包括Token Foundry事业部的设立和周靖人的新任命。具体业务划分及团队配置需参考原文。",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE45VXlLbUV0ZG1DX2NtdjJTbWdULXZkMFNubDJOZ1UtTWM5NnZ1YjEwY1JDLTN1bjdaUHFIMGRXdTdxZw?oc=5",
+      "source": "泰伯网",
+      "published_at": "2026-06-09 09:10 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 131.0
+    },
+    {
+      "id": "468c4198010c8f9d",
+      "title": "What the OpenClaw vulnerability reveals about the future of agentic AI security",
+      "summary": "OpenClaw项目被曝出高危安全漏洞，引发对自主AI代理（agentic AI）安全性的广泛讨论。分析指出，此类漏洞可能使攻击者操控AI代理执行恶意操作，暴露了当前代理框架在身份认证、权限控制和输出审查方面的深层缺陷。业界呼吁建立面向Agent的专用安全标准和审计体系。",
+      "details": "文章基于OpenClaw漏洞事件，探讨AI代理安全未来发展方向。具体漏洞技术细节可参考原文。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2ZnWmlHcGxVVzIwQ2w4Z0ZWaXVGaHdJX0JpTVZoV1hvcXhXNjBmaTNNYm1ZTUppSUxaMXd3WXJWRUdRSGcwNFNDamYyZDBVUU1JdjVWdXVMSkZiakp5aGlWLUsxQUVtRG14SjRMcDJwR1poTENVVy1wYjVQalA1SXlGMlZNUGd0ek9GTklnRUJKc2FRaFdYZ3ZvakdNdHdreUVBQXFIck4?oc=5",
+      "source": "inkl",
+      "published_at": "2026-06-08 18:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 106.5
+    },
+    {
+      "id": "40b0887ca6539504",
+      "title": "Reply at VivaTech 2026: Making AI, Agents and Robotics Happen Across the Enterprise",
+      "summary": "科技服务公司Reply在2026年VivaTech峰会上展示了企业在AI、自主代理和机器人领域的落地实践。展出方案涵盖工业自动化、客户交互代理和边缘设备等场景，推动人工智能从概念验证走向真实企业环境中的规模化部署。",
+      "details": "Business Wire报道Reply在VivaTech的参展内容。具体展示的行业案例和技术架构可参见原文。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPay1INTFiYWMxdXdDZHFPeWNzMzc1NWlUWnp6ZWVJc1g1bG9SY25XZ0w4bkdlYXg2NzRRWEVzVFpORVY4SExtTXR1M3pCVDFUNTNWOGhqTHBHSVdtRzU1TWNCdUQyWDI2QlRCa2NveVBQWlFid05pVTRvbUxHUC13SHo1ZkNnY1U2S2p4ZVozX0w2U0lDTDdNTG8zb000dzJvN0NnS1RleVEwa3ozLS1ZMmljbnFObFNIVGNxUTlqQ3ZkVWk2My00M0poanRqeV84VS1JLQ?oc=5",
+      "source": "Business Wire",
+      "published_at": "2026-06-08 16:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 102.0
+    },
+    {
+      "id": "bd24015156cc8955",
+      "title": "Deloitte's $1tn warning for incumbents: AI agents dissolve customer inertia; Banks, retailers in the frame; Bain, Adobe and Accenture studies see brands losing control of discovery",
+      "summary": "德勤发布报告警告，AI代理将瓦解客户的消费惯性，到2030年可能影响1万亿美元的市场份额。报告指出，银行、零售等行业的既有品牌将面临AI代理代替用户进行购买决策的挑战。Bain、Adobe和Accenture的研究也显示，品牌正失去对用户发现途径的控制权。",
+      "details": "综合多份咨询公司研究报告，分析AI代理对在位企业的冲击。详情需查阅德勤等机构的原文。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU1EN2NNcGM0YUxTVmZSblhsUlltQTVNZzBQWUl3MDVPLUFWMUdxbm0zYUVYSF9Cb2lwV2JRY0laMXBzMkx1dlZiWHNsOGVheEdacDQ3RjVPVTFwYzJqVUdXTGFCaVJLM1d1czdIa3FBZkt6aUR1U2ZwT084TV8xc3ZfdzdDY1lrMWQ4X01vVmJ2T0RDNEtXNzhOS2lpU1NUOGFmb1ZLTlBBRWRBUmtWR19UYmJSempfd25kS3hYUlVoV3hLOHhn?oc=5",
+      "source": "Mi-3.com.au",
+      "published_at": "2026-06-09 07:54 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 98.5
+    },
+    {
+      "id": "1768209787332c8b",
+      "title": "Embodied AI and Deployment-First Robotics: AI Gets a Body – Why Humanoid Robots Are Now Conquering Our Factories",
+      "summary": "具身AI和以部署为先的机器人战略正在推动人形机器人进入工厂车间。文章分析，结合了大模型运动规划与环境交互能力的人形机器人，将逐步取代传统的固定自动化设备，引领制造业新一轮智能化变革。",
+      "details": "分析文章探讨具身AI在人形机器人领域的应用趋势，主要观点来自行业观察。具体技术案例和厂商信息可参阅原文。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETHB5eHI2bzVUbHl3NnVadlpMYU9MaW1Uek96VWI0VVpQSGdjUEpyZ00ySmdjS1hSM3NkcFQ0ektfNzBQdWdUN1RFRGI5cTZjYzd2Snl1eGljUQ?oc=5",
+      "source": "Xpert.Digital - Konrad Wolfenstein",
+      "published_at": "2026-06-08 17:10 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 83.5
+    },
+    {
+      "id": "97461ae3b36c1a12",
+      "title": "EU AI Act Update: The European Commission Publishes Draft Guidelines on HRAIs",
+      "summary": "欧盟委员会发布了关于高风险AI系统（HRAIs）的指南草案，进一步细化EU AI Act的执行标准。该草案对高风险分类、合规评估和数据治理提出具体要求，为AI开发商和部署者提供了更清晰的法律边界。此举表明欧洲在AI监管上持续走在前沿。",
+      "details": "Inside Privacy报道了欧盟AI法案更新动态，草案涉及高风险AI的定义与义务。具体条款以欧盟官方文件为准。",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMG9vcExiVnVZbVNkSVZYUE9kRVVNc0tDV0dEOTdUU3o4LWg4X0s0Qi0yOVRzRXJEZGZsTklRZzRYSVlRNWdHUFlnX3cxdk54S241ZE9JREtVSWdPZWsxMVBQeEQ5TUUwZENvQkx1dUczSGVQVmN2VVUwdF9PSk9ZQ1U3TW9CZU96SWllZ1pld3R5OEt3RWp3UnY3aWFGQzJHaU9TdmFmamo3R2VnNXlHZ2JIX1U3YmhMekkyX1VSaUtmOUJnQ29FalQtdw?oc=5",
+      "source": "Inside Privacy",
+      "published_at": "2026-06-08 23:57 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 40.0
+    }
+  ]
+}
