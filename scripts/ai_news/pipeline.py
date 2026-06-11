@@ -815,16 +815,37 @@ def extract_json_block(value: str) -> Any:
 def llm_client():
     from openai import OpenAI
 
+    api_key = os.getenv("MOONSHOT_API_KEY") or os.getenv("KIMI_API_KEY") or os.getenv("OPENAI_API_KEY")
     base_url = os.getenv("OPENAI_BASE_URL")
+    if not base_url and (os.getenv("MOONSHOT_API_KEY") or os.getenv("KIMI_API_KEY")):
+        base_url = "https://api.moonshot.ai/v1"
     if base_url:
-        return OpenAI(base_url=base_url.rstrip("/"))
-    return OpenAI()
+        return OpenAI(api_key=api_key, base_url=base_url.rstrip("/"))
+    return OpenAI(api_key=api_key)
+
+
+def llm_api_key_configured() -> bool:
+    return bool(os.getenv("MOONSHOT_API_KEY") or os.getenv("KIMI_API_KEY") or os.getenv("OPENAI_API_KEY"))
+
+
+def llm_model_name() -> str:
+    if os.getenv("KIMI_MODEL"):
+        return os.getenv("KIMI_MODEL", "kimi-k2.6")
+    if os.getenv("OPENAI_MODEL"):
+        return os.getenv("OPENAI_MODEL", "gpt-5-mini")
+    if os.getenv("MOONSHOT_API_KEY") or os.getenv("KIMI_API_KEY"):
+        return "kimi-k2.6"
+    return "gpt-5-mini"
+
+
+def llm_use_chat_completions() -> bool:
+    return bool(os.getenv("OPENAI_BASE_URL") or os.getenv("MOONSHOT_API_KEY") or os.getenv("KIMI_API_KEY"))
 
 
 def llm_text(system_prompt: str, user_prompt: str) -> str:
     client = llm_client()
-    model = os.getenv("OPENAI_MODEL", "gpt-5-mini")
-    if os.getenv("OPENAI_BASE_URL"):
+    model = llm_model_name()
+    if llm_use_chat_completions():
         response = client.chat.completions.create(
             model=model,
             messages=[
@@ -855,7 +876,7 @@ def llm_text(system_prompt: str, user_prompt: str) -> str:
 
 
 def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[dict[str, Any]] | None:
-    if not os.getenv("OPENAI_API_KEY"):
+    if not llm_api_key_configured():
         return None
     try:
         max_items = int(rules["max_daily_items"])
@@ -888,7 +909,7 @@ def llm_daily_items(candidates: list[Candidate], rules: dict[str, Any]) -> list[
             return None
         return normalize_items(data, candidates, rules)
     except Exception as exc:
-        print(f"[warn] OpenAI daily curation failed, falling back to heuristic: {exc}")
+        print(f"[warn] LLM daily curation failed, falling back to heuristic: {exc}")
         return None
 
 
@@ -1149,7 +1170,7 @@ def week_id_for(date_value: datetime) -> str:
 
 
 def llm_weekly_items(candidates: list[dict[str, Any]], rules: dict[str, Any]) -> list[dict[str, Any]] | None:
-    if not os.getenv("OPENAI_API_KEY"):
+    if not llm_api_key_configured():
         return None
     try:
         limit = int(rules["weekly_impact_items"])
@@ -1187,8 +1208,8 @@ def llm_weekly_items(candidates: list[dict[str, Any]], rules: dict[str, Any]) ->
         if isinstance(data, list):
             return [normalize_weekly_item(row) for row in data[:limit] if isinstance(row, dict)]
     except Exception as exc:
-        print(f"[warn] OpenAI weekly curation failed, falling back to heuristic: {exc}")
-    return None
+        print(f"[warn] LLM weekly curation failed, falling back to heuristic: {exc}")
+        return None
 
 
 def normalize_weekly_item(row: dict[str, Any]) -> dict[str, Any]:

@@ -63,9 +63,10 @@ jobs:
       - name: Run daily collection
         if: ${{ github.event_name == 'schedule' && github.event.schedule == '17 1 * * *' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'daily' || inputs.mode == 'all') || github.event_name == 'push' && contains(github.event.head_commit.message, '[run-daily]') }}
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.MOONSHOT_API_KEY || secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL || 'https://api.moonshot.ai/v1' }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'kimi-k2.6' }}
           SEARCH_TAVILY: ${{ secrets.SEARCH_TAVILY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
@@ -77,9 +78,10 @@ jobs:
       - name: Run weekly digest
         if: ${{ github.event_name == 'schedule' && github.event.schedule == '17 12 * * 0' || github.event_name == 'workflow_dispatch' && (inputs.mode == 'weekly' || inputs.mode == 'all') || github.event_name == 'push' && contains(github.event.head_commit.message, '[run-weekly]') }}
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5-mini' }}
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.MOONSHOT_API_KEY || secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL || 'https://api.moonshot.ai/v1' }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'kimi-k2.6' }}
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://supercup.github.io/AI-News' }}
         run: python scripts/run_weekly.py
 

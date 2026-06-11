@@ -17,7 +17,8 @@ Daily and weekly AI news collection, static publishing, and WeCom push delivery.
 Set these repository secrets before enabling the workflow:
 
 - `WECHAT_WEBHOOK_URL`: required for Enterprise WeChat pushes.
-- `OPENAI_API_KEY`: recommended for Chinese summarization, ranking, and weekly impact extraction. If you use an OpenAI-compatible provider, put that provider's API key here.
+- `MOONSHOT_API_KEY`: recommended for Kimi-based Chinese summarization, ranking, and weekly impact extraction.
+- `OPENAI_API_KEY`: optional fallback for OpenAI or another OpenAI-compatible provider.
 - `SEARCH_TAVILY`: optional Tavily search/news enrichment. `TAVILY_API_KEY` is also supported as an alias.
 - `SERPER_API_KEY`: optional Google search/news enrichment.
 - `BING_SEARCH_API_KEY`: optional Bing News Search enrichment.
@@ -26,8 +27,8 @@ Set these repository secrets before enabling the workflow:
 
 Optional repository variables:
 
-- `OPENAI_MODEL`: defaults to `gpt-5-mini`. For DeepSeek, use `deepseek-chat`.
-- `OPENAI_BASE_URL`: optional OpenAI-compatible endpoint. For DeepSeek, use `https://api.deepseek.com`.
+- `OPENAI_MODEL`: defaults to `kimi-k2.6`. For DeepSeek, use `deepseek-chat`.
+- `OPENAI_BASE_URL`: defaults to `https://api.moonshot.ai/v1` for Kimi. For DeepSeek, use `https://api.deepseek.com`.
 - `SITE_BASE_URL`: defaults to `https://supercup.github.io/AI-News`.
 - `TAVILY_COMPANY_SEARCH`: optional. Set to `true` only if you want Tavily to query every priority company as well as topic searches.
 
