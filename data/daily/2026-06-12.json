@@ -1,0 +1,348 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T14:02:09.093188+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-12/",
+  "image_path": "assets/daily/2026-06-12.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "bcaf5cda4b64b65e",
+      "title": "ThreatsDay Bulletin June 2026: Miasma Supply Chain Worm Leak, Claude Code GitHub Action Vulnerability, AI Agent Phishing & Top Cyber Incidents - Rescana",
+      "summary": "Rescana 报道了「ThreatsDay Bulletin June 2026: Miasma Supply Chain Worm Leak, Claude Code GitHub Action Vulnerability, AI Agent Phishing & Top Cyber Incidents - Rescana」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ThreatsDay Bulletin June 2026: Miasma Supply Chain Worm Leak, Claude Code GitHub Action Vulnerability, AI Agent Phishing & Top Cyber Incidents Rescana",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVFA5c3gybDBMT0J3Vm9pR3YxVTZBQ2FNc2tnSm5wNHp3YlNSMXh5RFpkRU9LWkE5VXFIRHdjTUNXaEgtS3hYV1lIbi1WWWJuZGdFOHFPaHJIZEZ6RGhHM3FvV0pGQW1BVGtwVmxsV2Z2RGgxOXl2ZUtvOHlGQ2JTdUZ0d0JfODdublhKTGxWZXlCbWNNWl9UaVprMm9yU1AyT2dGSkJQS2dMejJFbUlJckNIV2VuRjhLd1pvMzg3SEJaYkF2VFM1azA1NjJqYnVvalZTeXRvR09iN3dCNHZiQTE5QQ?oc=5",
+      "source": "Rescana",
+      "published_at": "2026-06-12 02:53 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "40e2976b6b6c6c6a",
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research - TechCrunch",
+      "summary": "TechCrunch 报道了「Coinbase’s new tool can help agents trade and pay for premium research - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Coinbase’s new tool can help agents trade and pay for premium research TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWllrNXZ1aWcyZFdLMHkwZ3lZZEFXYWxtWDhhTmpsck1XMnZSNTZXamFYaTN6S1M3T1lQMWJ2YVJTak5nMlZwS3J1WlEwWndISmVuRnJCbkpXa1c1TXlBaUpNNENwZ0dfcnNwa1dWMGR1b3o1UlBCLVBmOHc?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-12 01:00 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "575e823c8acad45d",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims - TechCrunch",
+      "summary": "TechCrunch 报道了「xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUxlVG1tT2ZVcTBpZ3VHWnB2dnBIbkZoU0V4ekhhS1dHYWFXYUtsajFmSVNCSUh5WHp3TndMMEF6VmNqQlVTaktZZ1dXYl9rOWYtWjBRMW5Oa0Ywa3FJWnlZcU44NlJnSFhMT29yU05qRzRDdm1kRjNjcXplNVBSX2dkVXJ3alZoQ0ZvOG10MHo4U0VMVUx5Z3lLZmxnY05zV0pfTVRtT0Z4SUJ2dnpkeA?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-11 06:31 +0800",
+      "companies": [
+        "Amazon",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 153.5
+    },
+    {
+      "id": "15cda6c5498a072e",
+      "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights - VentureBeat",
+      "summary": "VentureBeat 报道了「Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlZjRzBlMVhUMXZuVjBGWl9LYU9iTmNOaWlfaHI4a0F1MzROVzRQeFU1WEwyaHB6akd1dGZkcnRSZlZOTENpb0tOVThNa0wwTHYtM1VXVFZyRXRDdE01VVpsWm9WX1p6bENNdnBPVnlMX3pGdUdDZHBwRThnYWNFRldfWnBNQlRjT2psWEQ2MWdnSmVmbVVmaWJOSjRIY0dpZm8yTkpDNlpUM1BJd3N1WG81dzBXTmRTM01YMTd0SzN0STE4dXJTdGlnel9faFdCSW9IVHJn?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-06-12 07:37 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4fcab565656dfa32",
+      "title": "Inside Microsoft’s latest open-source AI vulnerability tooling - IT Brew",
+      "summary": "IT Brew 报道了「Inside Microsoft’s latest open-source AI vulnerability tooling - IT Brew」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Inside Microsoft’s latest open-source AI vulnerability tooling IT Brew",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LN0FSZUJuUmtkaVdndlA0a3hsa05kWUVxN3BhQkc0aVFyUHB5dm9pNXh1M3ZsTHRfdlJ6WjFBanNyckx2aEVjd056MHJDbzlIaTBuQzBMWlFzSkdyWUVJ?oc=5",
+      "source": "IT Brew",
+      "published_at": "2026-06-11 22:01 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "df7da37e8d7cb931",
+      "title": "联想集团跻身中国科创企业创新力TOP500前十，腾讯、百度同入榜 - 同花顺",
+      "summary": "联想集团跻身中国科创企业创新力TOP500前十，腾讯、百度同入榜 同花顺 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "联想集团跻身中国科创企业创新力TOP500前十，腾讯、百度同入榜 同花顺",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xd21TRm1CRS1fSC1ISkZpc1JmSjBpU1FoVlBxSUVOUmVUSzcwenZWTUs4UXlZUzMtUjg0TjVRUnhybllzT2NETWZqaDNwUFo3SXJZVGhoZUhJS1dGWXc?oc=5",
+      "source": "同花顺",
+      "published_at": "2026-06-11 18:06 +0800",
+      "companies": [
+        "Tencent",
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0bfc673aedba87e6",
+      "title": "专访黄卫挺：头部企业能定义技术路线，广东AI产业有三大优势 - 21财经",
+      "summary": "专访黄卫挺：头部企业能定义技术路线，广东AI产业有三大优势 21财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "专访黄卫挺：头部企业能定义技术路线，广东AI产业有三大优势 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlNZYmpXcXpwQWRPMmg2S3dCSC1RZXgycWJJTXh0aEpZeDh2M1dXS1lodmZzNnYwVTVqem1sdWpVY1pzOVJFLURqNWNSM2JCRXFQaTJkaF8xdDB4WjZ3YmJ1UFdqU25mdVlnXzUtM2VvdFBVSDY3d1FIelhUVkN6NkFLZlRyOTB0ell0MQ?oc=5",
+      "source": "21财经",
+      "published_at": "2026-06-11 19:29 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "865986e0d769b818",
+      "title": "强强联手！我市一企业与科大讯飞达成战略合作！ - 新浪财经",
+      "summary": "强强联手！我市一企业与科大讯飞达成战略合作！ 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "强强联手！我市一企业与科大讯飞达成战略合作！ 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkdKbTF3ZXBTTlZ0ZXFlNGR5MGR4M3UxeTRoelFRRmVIa0t6amZYcEZmMWNmQjduamF3aFNnbTMtNy1jMWd5c2pYbTRZb0YzV21rekU2dVRsNWxucmNmczR1NXhEU2xxaUgyZ3Bnakl4Z3oxNTFrOUVnRlZsUVZzX1JfNGFaa3Rsc3B1QlZubm1XZlNQbUVSOQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-12 01:54 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bda3ad532646807c",
+      "title": "“芯片+整机”破局机器人大脑难题，具身智能规模化落地驶入快车道 - 搜狐网",
+      "summary": "“芯片+整机”破局机器人大脑难题，具身智能规模化落地驶入快车道 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“芯片+整机”破局机器人大脑难题，具身智能规模化落地驶入快车道 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3ExOFN5bER6MjhlUEp6TWxfMGRSUXM2cm9UODdVY2FtSkVsZlZXN2gyRlQxdnFNU3E5Vl9tQW9jbFlvdGZxTFJxOHZKU2hNemV4T25feC13c19VNjNpSkMxbjVyZXMwakxjRHpsYnBJMUJnU25aZms5SHZPM0NkT3ZZcnZSTkIxZU1qdg?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-12 00:07 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e25cda5f7d7674e8",
+      "title": "携手培养AI人才 重庆腾讯可持续AI创新专项基金落地重庆大学 - 中国科技网",
+      "summary": "携手培养AI人才 重庆腾讯可持续AI创新专项基金落地重庆大学 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "携手培养AI人才 重庆腾讯可持续AI创新专项基金落地重庆大学 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KQVBnVUFLNFpQcW9Fb2VpUlZKbzdGdW1ERGpobTZmdUpZcFNkdnBoT19wT2FEQl8xVDVINXFyeG1HR2l5aWNJZlBDbE5XSEJ0MnhneUdwaTU1ZjQwTGNPdndtcFBXb0l1REtLZHBiY1I?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-06-11 11:51 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "2625d032406db307",
+      "title": "New infosec products of the week: June 12, 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the week: June 12, 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the week: June 12, 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORUlzUDlQSVV0LXdOVHFMUEpzVkxocVN5cF9WX1NyT3VWV3lZQnJwci1QR28tRDNrcXI0bk1zUUowNlJzR1l5UVJuekNWOVBEdmdWa3Zrd0syRHp6YVB5dGgzekRXNUN5dFNWemZSUnU3d091cy1ueWEwSDVqQXdtMDQ4aWpiQzVIZEZtYVpnWGdIYlk?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-12 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "62aa4356623ed29f",
+      "title": "The Cost of Untested AI Agents: Protecting Enterprise Operations from Deployment Failures - Security Boulevard",
+      "summary": "Security Boulevard 报道了「The Cost of Untested AI Agents: Protecting Enterprise Operations from Deployment Failures - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Cost of Untested AI Agents: Protecting Enterprise Operations from Deployment Failures Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUdqc0k4TU9POFdjdjFFeDVWN3dIaTd5SV9PeWJBaW5tSVRRcm54YVh4UUh5aVNwQWpxQUNxVjlwbkNzNlFMSFBCZGRfNnJUUU1PQUI1MFgydnRjZlczSzhWdDJNeThJaXNDS01SZnJlN29hY05QVzZ6WlhSakF5WDdGQnk3ckZ2cGtIYUQ4SHJRMmRpYXdrcHRUamN3SHNKN01saHo0V2gxeUFZQjBLQzRoUU5XYXZNbjN0bEQ3THlWMk5Vc0E?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-11 21:10 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "24cdb78cd6abdcfd",
+      "title": "Hyperscale Data Confirms Production of First 30 Omnipresent Robotics OPR-R2 Humanoid Robots Has Begun - PR Newswire",
+      "summary": "PR Newswire 报道了「Hyperscale Data Confirms Production of First 30 Omnipresent Robotics OPR-R2 Humanoid Robots Has Begun - PR Newswire」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hyperscale Data Confirms Production of First 30 Omnipresent Robotics OPR-R2 Humanoid Robots Has Begun PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdm05OU5rMVZ0S3R3NjVGSjRtaEg3azBLQnhBT0ZrRDRDcnBBcXBRSWsxX0tpVS1JWXdCejc2anJnSkhjeWhfN1REYVRuZGJjTnQ0d0dsUERUZGZKZVdLYzlQNHpzUlZmOVVLN203TWhTWF9aeDQ0ZkEzZTd3VGhicFhvLUZHaUFVOUQ1a1dJSEprRFpTa1ZBNnpTM1NxVFN3bWRhWjA5YWI3V1ZBWkZ2SjVWVkFITXFmeUttR3Q0QXc4c1FRdUNGbGVnXzhiakp5WWxEb2FTc3JNLVpOMVRNVFo5ZGZONEpicWc5VHN3?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-06-12 04:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "5bbcc832727e5054",
+      "title": "Teradyne Robotics Unveils Wide Range of Production-Ready Physical AI Applications at Automate 2026 - Investing News Network",
+      "summary": "Investing News Network 报道了「Teradyne Robotics Unveils Wide Range of Production-Ready Physical AI Applications at Automate 2026 - Investing News Network」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Teradyne Robotics Unveils Wide Range of Production-Ready Physical AI Applications at Automate 2026 Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzFTcUotZE1NMnBxenNBTV9zbjhkM3RYdlB0WVBQTnRSMFZ3Zlc3Y2FmMnZ3bXByeE9yMEFYOU1HUlZEc3EtUHBWZHEyRzNZVzFvT1ZMQmlTTl9Qc0cxaFlmMC02VGpkczJjczJ6UXBZSVJqaG1HYmN4YTRydldrVGZFMEJjaEt1M2tYQlRlYUdyVGVJNGwwUmM0ZEdSUU5ua2NjdzBoU2s0TFpoM3BQT1M5QmZ4T2tPbXJKd2ZRc3dnNGs?oc=5",
+      "source": "Investing News Network",
+      "published_at": "2026-06-12 01:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "ef412019a5e0d384",
+      "title": "AI agent sprawl has arrived, Opus Research says - No Jitter",
+      "summary": "No Jitter 报道了「AI agent sprawl has arrived, Opus Research says - No Jitter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agent sprawl has arrived, Opus Research says No Jitter",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmtGZWwzYlpkaEhQME9UTmJwdHBrN0R4akY1UGM1V3EzWDJCdTh2S2dxVjlTbTNPNk81WXJaZ2lZTG9FbHNBcWlvQUJxV0JDcGkzLVhYMDYxNXlWQjZIZVRsSW9IN0JRcHVraC15UnpFUWszSGRsZHZzcFkwTThqY3pWYTlhV3FZZzc2TUxR?oc=5",
+      "source": "No Jitter",
+      "published_at": "2026-06-10 21:37 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 94.5
+    }
+  ]
+}
