@@ -1,0 +1,345 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T13:46:58.998992+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-13/",
+  "image_path": "assets/daily/2026-06-13.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "392d1df3ce79aba5",
+      "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature",
+      "summary": "Nature 报道了「General-purpose large language models outperform specialized clinical AI tools on medical benchmarks - Nature」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SDl4dzQxX3BOdU9sNjRMWU8tQ29mYVpxRURxeWlZZ20zQVpramJCZVd0QlVOZmZqb3JvVkc2Qm5jaURhV3NCdVNIdUJIQTZHdjhlbEZEcDB6eG5wUDN3?oc=5",
+      "source": "Nature",
+      "published_at": "2026-06-12 18:03 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 164.5
+    },
+    {
+      "id": "2e45f67c79e102d4",
+      "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI - TechCrunch",
+      "summary": "TechCrunch 报道了「Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS1FendLaUxRLVQ4V2ktQ1ZSSXRJeUw3MkUyV3BMdWNESDNuWjMyNzcxQ2FjMXpvQ1NDOElkSjBrZGV1ZjhnUnNGZEtaV3FXQU5CazMzMXRuYmdON2tKRWxUaWluMEdiZHIyOGdFcXJCdlhqdXVoWlpoZTdGVUNaYmpPN0RDUklmMzc4OEtlS3g2cEtjWjhfMEFNay1IT0dFLU1GNzJ5dWcydjlqQ01WQWxsYUVtV0JxY1E0bUtDbTNOaUtPSGpXZGMzcTByWDJydzdwckg5VDE1MWth?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-13 10:26 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "d2ae2281b1ecc95c",
+      "title": "CISA Warning: LiteLLM Flaw Could Expose Enterprise AI Gateways - TechRepublic",
+      "summary": "TechRepublic 报道了「CISA Warning: LiteLLM Flaw Could Expose Enterprise AI Gateways - TechRepublic」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "CISA Warning: LiteLLM Flaw Could Expose Enterprise AI Gateways TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOei1Yb2Fva3Y2ZDlYZHU0RVdsLUtjZE95eTRkZi1rMlNXbFVGdnk0RlJidkpVNjcybW9scFdlSmFiZkZ6QVAzaDEybkkyM3haN3hGMFlYMFFYSi1kOGlpNk1waF9xTS1uV19lQVdndl9ScjNud1BleEpWTXgtS3RBeVdtS2dMSFJUdHFQNzRlT3BoNFdseTlmQg?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-06-12 11:18 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 152.5
+    },
+    {
+      "id": "92ffbe6c57d20198",
+      "title": "Grok's AI image generation tool violated Canadian privacy law, watchdog says - Reuters",
+      "summary": "Reuters 报道了「Grok's AI image generation tool violated Canadian privacy law, watchdog says - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Grok's AI image generation tool violated Canadian privacy law, watchdog says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHdHSDJtNEpTMFFyUDJMSzc4Q3NudjNXQmFvSFBFZ01rRW5JaGQteEEwdWVya3ozdU9XS2VENjJIWUVHUGItVHNpTFBsenhKN1lUckp6d2JaVG1FUDNsNU5nRDNPVjdtNDJkdGg0aVQ4bEJUT0QzM1JoZkhESVJ4Z3NndmpKNHh3TmM4T3IxYXdSdnNKSl9BeVBjaDRYZURXR25STmdaeFBfTmt5eWMyZUFrVTBxZkhIeEsxaTJxNnJzTUZDOWV5S1d4alV1Zw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-11 23:35 +0800",
+      "companies": [
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "b1e28ff9b46c375f",
+      "title": "Top 8 AI App Dev Platforms in 2026 - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Top 8 AI App Dev Platforms in 2026 - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Top 8 AI App Dev Platforms in 2026 Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TTnFuZzdkZVFOX2NQSkVNZ2hXNDJNZnNxLXFoWmFObHYyX1l2cDFKNUpOMVdHc1ZzZmdleHlTdUw2ODBER2RUWVp5TmlSM0N0YzBGX2RJYWxBamltTTRZak5pWDM4bG84RXJ6ZHJGLVdMWEUzVTdEejM1Mm1rUQ?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-12 21:27 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f3b96b8f8e7ec956",
+      "title": "腾讯云吴永坚：Agent竞争力不再只是模型，而是企业级落地能力 - 品玩",
+      "summary": "腾讯云吴永坚：Agent竞争力不再只是模型，而是企业级落地能力 品玩 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯云吴永坚：Agent竞争力不再只是模型，而是企业级落地能力 品玩",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KZWIybVZCd29wT19GLXg3VWFkcEM1WDFPazFJaDV2NWxIYWcxcnB5Z2ptd1RQQ2k3RFN1cVlFRnQzbDU1Z21HVQ?oc=5",
+      "source": "品玩",
+      "published_at": "2026-06-12 14:51 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "558bdf66f8a5fcb1",
+      "title": "星火医疗大模型V3.5上线，讯飞医疗(2506.HK)以规模化落地定义“实用派” - AASTOCKS.com",
+      "summary": "星火医疗大模型V3.5上线，讯飞医疗(2506.HK)以规模化落地定义“实用派” AASTOCKS.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "星火医疗大模型V3.5上线，讯飞医疗(2506.HK)以规模化落地定义“实用派” AASTOCKS.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sR0FZQUg3VTV3aHB1TUNWNVREaDVMTjJkNzQ5N3AxNTRrblZRb0xKdER0czQxWHZoZkN6MU9rUEotM0Q3ZXFNcFlzQXFjT2J2bVI3VlA0UmRYSm8tVGRaRk9xZnFnQkVhT3doMTB3?oc=5",
+      "source": "AASTOCKS.com",
+      "published_at": "2026-06-12 17:25 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "164c58668d96ee5a",
+      "title": "人形机器人加速落地：宇树科技IPO过会、特斯拉Optimus V3量产在即，中国车企集体进军‘物理AI’新赛道 - smarthey.com",
+      "summary": "人形机器人加速落地：宇树科技IPO过会、特斯拉Optimus V3量产在即，中国车企集体进军‘物理AI’新赛道 smarthey.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "人形机器人加速落地：宇树科技IPO过会、特斯拉Optimus V3量产在即，中国车企集体进军‘物理AI’新赛道 smarthey.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pTi1jT01SR1ptbkFzd3MySlF1N1ZlNWpVX1RBSzloNU5jSW1GQ2IxQVpUZGFhc3RtTU0xZ1FlRXdBMVJ2UG92LTdaNXFJZmROTk51MHcxb29VWHBHOWc?oc=5",
+      "source": "smarthey.com",
+      "published_at": "2026-06-12 17:55 +0800",
+      "companies": [
+        "Tesla",
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "83ff852b3110c8ab",
+      "title": "这家做智能马桶的企业，卡住了AI算力的命门 - OFweek",
+      "summary": "这家做智能马桶的企业，卡住了AI算力的命门 OFweek 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "这家做智能马桶的企业，卡住了AI算力的命门 OFweek",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FbUVFOC13ZDFFa1BfOVpzV29RUGhSS0V4VVh1eWFVeFhVaHp0Q2t4UkNUSTk4WHdRdHFLUWNGV0tqUlJWZ3lsQVUzaHZLQzlya3I2ZUVlSmZpMG1ud3dpNXJlYm5BV0t4YWhiMUZB?oc=5",
+      "source": "OFweek",
+      "published_at": "2026-06-12 17:54 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e8cbfa7e13f01c4b",
+      "title": "押注AI又怕大裁员惹麻烦 中国企业悄然削减职位 - DW.com",
+      "summary": "押注AI又怕大裁员惹麻烦 中国企业悄然削减职位 DW.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "押注AI又怕大裁员惹麻烦 中国企业悄然削减职位 DW.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQZDNWOXM4dm50VWZySjRkSEZwcjBLMW56dk05OHZaeVJUNmpIOEtPZE9sSjZxMnR4UnBrTVpiVGtBSWduODZadWV1SXJ1U2dHTzJadW9WekdHU0k3ODJ3M1R5TlhZTndHVTc1RHlUekFqRE0tWTJ5YnpFWDhleHZkNk95TzdQM0Ffd3VHQnNnVEZKZTVUdkZ0b0x0aFVQTDNQeGpsTGs1RUNUVHVUMEhESFdMRUJ6bDR0SncyWTI4YVNDbzVQUzRlLVpDREpWVHZJdVNPRGl5NG52dkdZN3ZDRXU1d0VDNThrWmo0aWM2NGdwOE44TUVPOUdyWEtibjVjdVVRUC1RZVMzUGlWNXVNa2FzelNYZnJtWVhKbTFudkxmUjhTZkhzcThfVzY4Q2Fma2QwcW1qSEJqYjZx0gG8AkFVX3lxTE9JcGlBbzRPUmlKaEFpME1OcmNxSXdXa1F1WDlUbTRFeTAwUVU1OVFBVURNODJPUlFqX1VJLW1EYXNtanNlV1BlcEhabTJJby04ZFpDSUxKVmNDMGVsWTNISWdnZkNVejl0NkpWNE9mNmY5dU5ndVkzd2ZCZVRnOXlwSk5JT1VkbkZGUVdod2JDdVNFSHJIRWR6eVRFc080RGo4WG1Vb3IwdkVOdGZ5TUZyQ3hibHN4WXRMdGpyRnIzLWNZT2I4UEE1NVlzcXZUV0lxbl9QaHlZZlNXZ1FjUmNwZ3R0OFN0MTQ3Rmw2U2FFcUFSemIxem1uem51NUYtWS1zRFE0S0dvTEhPMnBHWnR1SWtTSF8zS09QWC1lZjNMVlZ0ZzYzZWlSZ0R2eWtqQW9qVXQzMnhJOFp5enY?oc=5",
+      "source": "DW.com",
+      "published_at": "2026-06-12 12:49 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "f3892ea711b3efb3",
+      "title": "Teradyne Moves Beyond AI Hype, Unveils Production-Ready Factory Robots - BriefGlance",
+      "summary": "BriefGlance 报道了「Teradyne Moves Beyond AI Hype, Unveils Production-Ready Factory Robots - BriefGlance」相关进展。 该消息涉及AI 产品、企业应用、大模型、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Teradyne Moves Beyond AI Hype, Unveils Production-Ready Factory Robots BriefGlance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2kwczJ0T3VlTTVDcjZTZTg5ZDlFMkVHWWl6OWk1bnl1ZF85YWJ4Q1F4dHBYUl9kOGdmNGs3WGpWVXVvb0twOFI0T1hQSkdHbG9HRGMxbmpmT0lmMHZJbDNhYVlhcXhGRkFaM1A1cnhsOXdldUVON2NyWE45UjRibC1xQkRFUVQ2dXZtVWpkVk5pTFNKeVFFMERIc2FYcGZzLTRVTw?oc=5",
+      "source": "BriefGlance",
+      "published_at": "2026-06-11 14:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 96.5
+    },
+    {
+      "id": "4811123deab1359a",
+      "title": "AI Agents Are Entering Your Customer Workflows. Do They Have the Right Authority? - CMSWire",
+      "summary": "CMSWire 报道了「AI Agents Are Entering Your Customer Workflows. Do They Have the Right Authority? - CMSWire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Are Entering Your Customer Workflows. Do They Have the Right Authority? CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHpmN1BiX29NMnlwUUJtZjREVkZTMWtIdXZ5TmpKTmQ5S1FoQkN4STRUN25FU0FBNzFOYmpGRDREOHY3dE5JN0F1MXM4WDRVdHM2RXR3aURoSXNUSGpfTzdzeG5sd0hTbFo4YWFRZ3pFUWp6dHdJZ0toNG5RLWljdUFFeVVJMGtqSUNKQ3U2RC1QLXZvT1FGV0ZkS3VHOU1TX1NnMkloeklpdjQ?oc=5",
+      "source": "CMSWire",
+      "published_at": "2026-06-13 03:20 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "27ac031edc32a345",
+      "title": "ChatSee.ai Raises $6.5M as Enterprises Seek to Reduce AI Agent Failures - citybiz",
+      "summary": "citybiz 报道了「ChatSee.ai Raises $6.5M as Enterprises Seek to Reduce AI Agent Failures - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ChatSee.ai Raises $6.5M as Enterprises Seek to Reduce AI Agent Failures citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHloQ2ZESThOVHhNWWxDWFFrc3JLdGNRNTRBbE9pT0xRSGRsMDhHTWtLT3hBNjQ0Qkh0WjBYSWF3dmpES0JubnpheE92Z1VHRnFmY1B2ckxpN1pXUG5ZR0g3LVpfMVd6cDNrdFpvSU50ZGlxNTBNaVl3Y2JvT29Db0RyVlE4T3hTVTdmbFc5aUhCQ3NMNkVFNnYzQTUzQ3MyUUQyS1JfX0xNOHFlRGc?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-06-13 00:52 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c754812fc056b4d6",
+      "title": "AI coding agents turn software secrets into a governance problem - TechInformed",
+      "summary": "TechInformed 报道了「AI coding agents turn software secrets into a governance problem - TechInformed」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI coding agents turn software secrets into a governance problem TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1pQV0pZUG9LN0c0eVVIX21OTnVCX1BaR0VFbmVHbVlRYmRKWmpZTDFNSUNrX3hfT3NDYkoyTDI1d1hOWGduZ2lwM0MwdkJ3YmpMMS03S24tNW9xYlZOZFdNcUZpbWhLS2xaY2M1dkdoVkRvTjRIUXRMNlpTYi1pbTFWU05oSllrcDg5UW9zSE9QdWFC?oc=5",
+      "source": "TechInformed",
+      "published_at": "2026-06-12 21:07 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "1cd271c6c20f7c68",
+      "title": "Atsign adds AI architecture tools for enterprise teams - IT Brief UK",
+      "summary": "IT Brief UK 报道了「Atsign adds AI architecture tools for enterprise teams - IT Brief UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Atsign adds AI architecture tools for enterprise teams IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkhPTllmQlNzQm0tS053RWlEdkhKUktxWEs0ZmcwY1U5d0dRNjA4Tk5lRThILTVpXzFRVzFuMVgxWnpHOXFaZlQzUDljWVdacV85VlJpR3Z1dXR2WXo1NU9aWEVyb1pHWDdfcWgxanV2VzBwLVh0eDg1a0E5NGpkNEpYQjUwcV9rT1E?oc=5",
+      "source": "IT Brief UK",
+      "published_at": "2026-06-12 16:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
