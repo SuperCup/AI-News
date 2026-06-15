@@ -1,0 +1,340 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:38:36.447918+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-15/",
+  "image_path": "assets/daily/2026-06-15.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "780ae3d6bc66a2f4",
+      "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
+      "summary": "EdTech Innovation Hub 报道了「Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google DeepMind and partners put $10M behind multi-agent AI safety research EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekFzN2VSVEQ1RjJqLWRNdklFc2YzNGNjei1oMW5CdnRxbUdzcUpQdUFaQV9YTlZvNGpIUXIyZEo2Nk5HVlRySGdmV0YwMS1qRFg2X0FoU3RrTHhwV1hBZnU0alRSdHNIRkEzZ2lYQ2lWdnJ1UmJ2QWZIOHNWMEdXaEx1Mkh1ekxjQmhwN2VyX3RFRXI2OHlnaDZYMUwzSzdPTjlBLVpmZ09IQ2t3d2trLUpUTmlxZw?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published_at": "2026-06-15 07:01 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "0a80c179f25794e7",
+      "title": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack - Help Net Security",
+      "summary": "Help Net Security 报道了「Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWG5PMnNsS3Z5NG5NZ1N3WUI0WV9Vc1Q1a19GQk83aXoyWXlNd1ItZFAwZS1CbTZJYy13N1VlWE9GRTl6SUlPdWpienNCejRZLVVTaFRaRWVZSVMtTnpUMzMyOFZxcE12eGo0SVdUQXFBbHkyMW5OTDNEZ0ZMQkx1S2RudWszbVlNYmFKUkRRbmhNN1pzdDRqN2xITm5jcVliQ2NfN3MyaHJKWjZZWWt6TlVuTkxkWmR5M2tOTzBSaF9mZVZVSk5INmE2UmY?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-14 16:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d27f31be088d63aa",
+      "title": "Microsoft Unveils Project Solara, Agent-First Platform - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Microsoft Unveils Project Solara, Agent-First Platform - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft Unveils Project Solara, Agent-First Platform Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTduLTJmOUJFb2x1bEhiZWYyeFo1eWNGSUI2MTZFc0hCdnlRSno1WUpzM1Q2TmZqQWtySVpJckNsTWFUTVptcWtTUVBNWUVrQUQwMUdlTDI4eEVNSlRlcTRmLTBVZjVOaXJ2TXRkcDRaSExjdVhVNEFUcHE1NkVfaFdlV3dOMF9VNVVhLW9ZWk1mMWRkMU5vdHpSQQ?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-14 19:34 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "542ce8fc7ab41159",
+      "title": "Amazon's security warning preceded US ban on Anthropic AI - MSN",
+      "summary": "MSN 报道了「Amazon's security warning preceded US ban on Anthropic AI - MSN」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon's security warning preceded US ban on Anthropic AI MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcFdQZTA4ZGU5RUJmYW12T0pMWVl3WkpyVVVfV3dVVHBWZ01UTEZkdE5tS3liVF9XUXRtbmtfR20wQ19aRjJlV2NwVzNSTllVWWNNZGJzMzk5YUJVMW4zTkNKbTBhSEExcmFTN2tfbU1YbGlMdFR3R0FpMExoYkJjejFVZUpSOUZrYXBJbFBQeUdhd0pfMk9EYW9maUNYMi1SUGVHcGlqLUdqZFFHZ1BnZm5XMFVPcnFzQ2ZYNmlvdy1fZFlsdENxWXBwVmN4NFplWTVxeUI0M0I1VURPdXZQOVdiZUJVT29wMm5QOElMaS0tUVE?oc=5",
+      "source": "MSN",
+      "published_at": "2026-06-14 15:53 +0800",
+      "companies": [
+        "Anthropic",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "94c0f439a4991461",
+      "title": "Forbes Details Five High-Profile AI Failures - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Forbes Details Five High-Profile AI Failures - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Forbes Details Five High-Profile AI Failures Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkt3T0RnR09SUUxVZEpadC1qVnNkTEEydmlFWjh1azd1ZWoyQzdHNndaMENQZEhVdFhZY2dUSmZjUXlwR1hzTktVYTlqOGtQYXdUX2pxR080ODhsS3lpR0R6c2U5VmtLY1Ytd2NubXlFZ19aMGFpNUp5YWFYWldCekM4NTlCYnlhUWticXlPRQ?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-15 13:30 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3585eb1d40b8f5cd",
+      "title": "AI投资重心迈向应用落地 中国市场潜力十足 - 新浪财经",
+      "summary": "AI投资重心迈向应用落地 中国市场潜力十足 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI投资重心迈向应用落地 中国市场潜力十足 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjJuem9FaWx3OHZTYnRvMDl6ZGtYbGF5U01jU2plM3pQYjQwYWYxYWVXT1dpaHVyTTdCSjNEaVE0MU90SlRnOVpRSXpDNlZyWjRqMmlYSjNUNzA1NUNnTlZ6akVaZkhVMmJvaXZLLUJxd0JnSFc3RW8tNlFnaHBMSVk4bXkteGd2SHAtRTJ0akJBNllV?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-15 07:49 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d3c9eca586cda3c7",
+      "title": "会答题、能批改，更懂教与学：从智能批阅机看教育大模型的落地应用 - 驱动之家",
+      "summary": "会答题、能批改，更懂教与学：从智能批阅机看教育大模型的落地应用 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "会答题、能批改，更懂教与学：从智能批阅机看教育大模型的落地应用 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wd25sb1lkYWVnWjE3OVF4SkYzQ0J1azV0VEZVUEM5MU9UZmQyTnJVWHdVczB4emNoVU1Vb3E4NDdlLXlTN3dTbEo0SmFiR2VITGFhaDNaSXE?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-06-14 18:28 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "31f6e29ead129e31",
+      "title": "从讯飞星火智能批阅机看教育大模型的落地应用 - Sohu",
+      "summary": "从讯飞星火智能批阅机看教育大模型的落地应用 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从讯飞星火智能批阅机看教育大模型的落地应用 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFNFb1ZiM3pCcEoyOE5FOTFmTzlDeGlRZ3FnUGZtczY4R0FzMk9JSkRZSFdNaTh1cnhrWXAwVGNGTHdkNW1GWGRacTdDU1ZRMnBudFlfTWROZkw4WERkdW1SdG51MlhiUTk0dUVKX0Y0T0Q3Q2FFb3BiQ0E4RnkxSUNEcE5pNWJv?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-06-14 15:08 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b663adbf0d57f43e",
+      "title": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 - 财新",
+      "summary": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aT2J1VlVqOTF3YWpHeWxyTWtmd01MSjJTX1EwclRlTWd3NnRiNkFDOWk1ZEpJYlJKN18ybWJhTHNwcjN3Zms3bUMtWElDYUJUQWNJVS1ub3lzbnA3SldNMS1GMVo?oc=5",
+      "source": "财新",
+      "published_at": "2026-06-15 13:30 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "66b95c17c2715f70",
+      "title": "苹果或自研 Claw 代理机器人；Meta 内部爆发「AI 叛乱」；北航教授：中国无需复制 SpaceX - 极客公园",
+      "summary": "苹果或自研 Claw 代理机器人；Meta 内部爆发「AI 叛乱」；北航教授：中国无需复制 SpaceX 极客公园 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "苹果或自研 Claw 代理机器人；Meta 内部爆发「AI 叛乱」；北航教授：中国无需复制 SpaceX 极客公园",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIeEJNc0c1R25Yejlpc3M0c1pxMXk4MjRmTWVsQ0ZBYzZXbE1GNDU3M1RCbnZwX1ZjdUVSb2w4YWVCNmZKS2VJYUx4OG0?oc=5",
+      "source": "极客公园",
+      "published_at": "2026-06-15 10:34 +0800",
+      "companies": [
+        "Alibaba",
+        "Meta"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "d2b04e33188a497b",
+      "title": "AI Agent Builders - Trend Hunter",
+      "summary": "Trend Hunter 报道了「AI Agent Builders - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Builders Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNeDRuZ0MwWFdKQ3pOdHVRdXRuZVR6Y0RkNDZ1dkVwY04tMC1sbFFsQTMyenF0RlpBUmRDUmF6Y1FvRlhHdnZoT0x3WVBxeElWal9vdGxpcXJWQdIBWkFVX3lxTFBNeDRuZ0MwWFdKQ3pOdHVRdXRuZVR6Y0RkNDZ1dkVwY04tMC1sbFFsQTMyenF0RlpBUmRDUmF6Y1FvRlhHdnZoT0x3WVBxeElWal9vdGxpcXJWQQ?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-06-14 19:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3edc43f8b9998448",
+      "title": "OpenAGI Lux: The Leading Computer-Use AI Model for Autonomous Agents. - quasa.io",
+      "summary": "quasa.io 报道了「OpenAGI Lux: The Leading Computer-Use AI Model for Autonomous Agents. - quasa.io」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAGI Lux: The Leading Computer-Use AI Model for Autonomous Agents. quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVJSY2l5cENMQWlHM2NhTE1TRnltSV9rMklNVkd2dWc2bVV5Rk9waWlXb09ZeWp6S1gtcnBvOUJhdVpnSDNRTmk4b3pzUHp2YlA5YUp1allIc21Ha1Axc1ZSRHBlRzlBeVlFWkpjc3Y0d1hTRGY0Q2Z3bXQta3dwMk00WnhvMEZjVzlXYjk3clhka0dTZXI4?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-06-14 22:47 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e1474fa8f8e0f6c4",
+      "title": "Experian and ServiceNow Launch 'Agent Operating System' to Bring Regulated Agentic AI to Lending Workflows - The Fintech Times",
+      "summary": "The Fintech Times 报道了「Experian and ServiceNow Launch 'Agent Operating System' to Bring Regulated Agentic AI to Lending Workflows - The Fintech Times」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Experian and ServiceNow Launch 'Agent Operating System' to Bring Regulated Agentic AI to Lending Workflows The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcXUwQTFiRkJna2F4R0dNZFNQYTJrQWl0cFh2dzBadjJHRmVLZFNNVzc4N0hwNWVkVmZLTDRDMl9jaDV0RkhSV0J6Y1BySkhjbFlKcy1rZXY0ZVdweTlCWG9vWDIwY1ZnbXI4M29CbmoyUnhldzFLOWdjX1B3NVdQT0Izd2U5R182akx5dXQzVmJKcHpVSTh3YUVFQ3ZpaVlQOGVtay1zdjdFbHhxNnJGVFRoNUI3MnhncGxkNTZ4RDFhUGptSFFBWU56bDRwUQ?oc=5",
+      "source": "The Fintech Times",
+      "published_at": "2026-06-14 21:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "6673b1f5fdb0e774",
+      "title": "Telcos, you Are Not Prepared for AI Agents - Sebastian Barros Newsletter",
+      "summary": "Sebastian Barros Newsletter 报道了「Telcos, you Are Not Prepared for AI Agents - Sebastian Barros Newsletter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Telcos, you Are Not Prepared for AI Agents Sebastian Barros Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81eXBvMnJPSE1jN2lIOTFHVnRkMVpfaU5xSEpKeGVfaGRwLTRjd0hmamJuNTlKdVA5Qko5ZUx6WEIwM2xLVm14WGV5aVVsLTc4ak9ncUlubW40TnVwNDJjUkNsRktGS2NrOWRFaG9TaDdwMVNJYkxJMVdHWThOUQ?oc=5",
+      "source": "Sebastian Barros Newsletter",
+      "published_at": "2026-06-14 06:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "506cfdc222f571d4",
+      "title": "Ripple chases AI’s machine economy as XRPL stablecoins near $1 billion - Cryptonews.net",
+      "summary": "Cryptonews.net 报道了「Ripple chases AI’s machine economy as XRPL stablecoins near $1 billion - Cryptonews.net」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Ripple chases AI’s machine economy as XRPL stablecoins near $1 billion Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80bWlxNktGQnZwZ2YxVVRUdUVUYl85NFRVcERZdWV2Uzh5LWhhQ1R3N0NTLXBpcGtZRTJoQ1FpZm9Cd2cwZWJROHR3bkVqOWFaRVNKWVV2bVBWZw?oc=5",
+      "source": "Cryptonews.net",
+      "published_at": "2026-06-13 15:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
