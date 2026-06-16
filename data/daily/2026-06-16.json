@@ -1,0 +1,348 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T14:44:06.582534+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-16/",
+  "image_path": "assets/daily/2026-06-16.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3321e39fba1c7f8c",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers - The Hacker News",
+      "summary": "The Hacker News 报道了「LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers - The Hacker News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3pzN0V5ckJOZkpoYW9YWEEyRkhCZmtzOVZSUWNpR0FOT1ZfdEFyQkE5SGRTNVdseWNsQUJBRHotZmV3NGVESFBwVC15Zlk3WEdLaFAtbGV6X3FaSDdiLUVUQm5scVg2SHN2VmsxZ2UzUnRobjB3TG0wZWZVU2tmMQ?oc=5",
+      "source": "The Hacker News",
+      "published_at": "2026-06-16 00:39 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "b2f3f01e4dcd5595",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
+      "summary": "Reuters 报道了「Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cyber leaders urge US to lift curbs on Anthropic's security models Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16 00:30 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "b86de92b7cc16868",
+      "title": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZy1pUE5pQjRZV2JVNWxlc3RTYXFjVEhNNlFUamVBWVlBVnkzZ0E2a29PUTJLcDgzaFRoZFNWUnlScjA2b3NmeEdaNW1Rai1RZm9uN2JxbThBVnM3U0VQaUk0VFQ2SExiQ2tFbjJCc3JOOEF1S1NwampFTkhLSDY1WEVLZzRDdkdteU1Td0Y3N0VPUXFROE9QblVzbFlsWTMwWHZYcENpWHBPTF8zMXgw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-16 00:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "2a4be86b30f8e8b2",
+      "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
+      "summary": "Reuters 报道了「US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16 04:28 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "8b7c1003c5d50259",
+      "title": "LiteLLM now natively supports Oracle Generative AI Infrastructure - Oracle Blogs",
+      "summary": "Oracle Blogs 报道了「LiteLLM now natively supports Oracle Generative AI Infrastructure - Oracle Blogs」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "LiteLLM now natively supports Oracle Generative AI Infrastructure Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3puOFhoTVdPQnFaZmpnYWVIelRlZHNveVdVM2FXT1JwQVg1WGxaNFRWS0VYNWVTcWxobTlYbDUzZ3NWR3hqRm84SHBtTDJWUnFQdER0VFZSc0h0eGg3NTJCMjJldEszWkNxZ1JSb0lnMFZGVFVZc2FMdGtPbkFLVlpXUFpIMl9kSS1uV2gxVE83RDNMS3FPVjEzX1hjNFZIek1lS193OFVKUW9fWFE?oc=5",
+      "source": "Oracle Blogs",
+      "published_at": "2026-06-16 05:12 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "e33cd299c457eecf",
+      "title": "腾讯AI下半场，智能体加速场景落地 - 新浪财经",
+      "summary": "腾讯AI下半场，智能体加速场景落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯AI下半场，智能体加速场景落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVDkyM2Q4dlcxb25KS05ueDdvdDNKTnFRNjNaYlRiX1ZheWVheXBadWZvSDlaRXhGWE1qa2E5TXlwanVXZnBfLXdBRXhDcWpMcnZjdUJTNEJKakRGSUgwUU5CRW1lSk9yM0dTckNVd1E1a2lGR2pTaG9vd3lsTDZRMzNWZXd2aW8zbzJlZWhlbzF1Zw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-16 08:33 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "43e9313fe535a775",
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 Huawei Enterprise 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 Huawei Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Huawei Enterprise",
+      "published_at": "2026-06-16 12:24 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c52ad5c49e328888",
+      "title": "在 Kimi 拿下 60%“评测觉察度”后，AI 安全测试还能被信任吗？ - Yellow.com",
+      "summary": "在 Kimi 拿下 60%“评测觉察度”后，AI 安全测试还能被信任吗？ Yellow.com 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "在 Kimi 拿下 60%“评测觉察度”后，AI 安全测试还能被信任吗？ Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNamw2eGliMjV1RDVEX0owMjFIV2d3NGY0N3JCdFIyaEJ1WVRON3BPLVJ0NW03Yi12cS1lNE0wM3pmVFFTOFFhcEpaaWp4UTdHOTVISmp3SmVick5QUnJjaEg4d0RwSHk1cGtsT0MtSGhEdVh2NDV4WHpYaWtJVHRmZkdYZ2tzcm1jWTFWSTJSZkdpV2ZrbEpYbFM5ZVJxbXNGcTJwa0NUallDbDR5X3JBNUg5MHd1X01Qc0swWXR6SngwYnpTUzVkSFRYeVJ1aEkxQ0psX3JaNFBsVU04a2JESG1PTjFoeVNMeWJHbExWZEh6a3YxdVMwOGpPU3BSQlhTWndHRnloY1dnRzNJWVBIMkllX2czOXRQOGluZXRMcXZLcDNPNDJSUnZBUmU0ek5OdU96Vng1aHJ5OWdFeTZJeWEzQnJhQ1Jub0RkSF8zaHN4Q01ZMTJjY2tpUmQ2anZONXJDUQ?oc=5",
+      "source": "Yellow.com",
+      "published_at": "2026-06-15 21:11 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "ed35173f65a9a1e5",
+      "title": "宇树机器人要登珠峰了！ - thepaper.cn",
+      "summary": "宇树机器人要登珠峰了！ thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "宇树机器人要登珠峰了！ thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWVDE5N05QNlhqejloSTQwdm9SRXNYMmlkUFJFUmhxYjJvSmxIWkhLY1V6MnVUR0FrOW1WTTRpSXdxaHREaUpCU1hZMm5TZnBWamlXQ3loU2IxR2dRMkE?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-06-16 07:48 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "b663adbf0d57f43e",
+      "title": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 - 财新",
+      "summary": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“商汤系”大晓机器人上半年累计融资数亿美元 世界模型+机器人引资力大增 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aT2J1VlVqOTF3YWpHeWxyTWtmd01MSjJTX1EwclRlTWd3NnRiNkFDOWk1ZEpJYlJKN18ybWJhTHNwcjN3Zms3bUMtWElDYUJUQWNJVS1ub3lzbnA3SldNMS1GMVo?oc=5",
+      "source": "财新",
+      "published_at": "2026-06-15 13:30 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 133.0
+    },
+    {
+      "id": "03bfdf1ac516b9c6",
+      "title": "The rise of machine identities and agentic AI: Securing trust in the next era of digital autonomy - Help Net Security",
+      "summary": "Help Net Security 报道了「The rise of machine identities and agentic AI: Securing trust in the next era of digital autonomy - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The rise of machine identities and agentic AI: Securing trust in the next era of digital autonomy Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWhYOEtnSWI0a2hzTHZNU3E4VE1IbVJiLU4tRTF3Zlh0bDVVRjBsaWxFOVFlRG96SndnanJKYldJaGo4bXRuczRlVUVmMURTdzF3NW9kWE5ONmhzTGk1RTM2c2pTVWRJVU1FSTBLRHlqS3B0RVhxMVNrdUtIcDRqWWxLaldOaC0tQS14MXdhM1BfVzVmVldiX0RR?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-16 13:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "0a409cc6bfbfdd86",
+      "title": "XiaoZhi Weekly News | He Xiaopeng Personally Leads Sprint to Robot Mass Production; UBTECH's Hyper-Realistic Humanoid Robot Pre-orders Top 2,110 Units - Gasgoo",
+      "summary": "Gasgoo 报道了「XiaoZhi Weekly News | He Xiaopeng Personally Leads Sprint to Robot Mass Production; UBTECH's Hyper-Realistic Humanoid Robot Pre-orders Top 2,110 Units - Gasgoo」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "XiaoZhi Weekly News | He Xiaopeng Personally Leads Sprint to Robot Mass Production; UBTECH's Hyper-Realistic Humanoid Robot Pre-orders Top 2,110 Units Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQMnZ0ZDVCSzJWcV9HRDV5RHBsa3VsVkxhZklBdGtOcFlXOE5IS0dCS0p0cl9lZUhuQUJXWVd0QW9lQ2hWVDh4WThPN0g2R3RNcXV2Q1E4UzBZTkZQVUZfWTNlRGUwckZHSjROOEdmWGt0ekNuMEV3R3dqSlk0emlpTEZlazgydkpJdy1aMTZqa0loOU5YZG5oUWExMHpfWWx4cU5vS1V0QW1jNFpOUTIwTmNaOTBSU0hHWDJXOEF3a3N1ZE9naFdsaEZSTXFUMWQ3NlRHQ09IMDFkaEhQMy0tWjgzVnhRb082cDdNTlM3cG9pc0lTVlBSc2Z4SVN2TV82R3Z1TV9VRkMycXNaZG5zY1kzbmhvdWZhdmxHT0hxdGh5WXNVR1BJNkllaDhwUUE?oc=5",
+      "source": "Gasgoo",
+      "published_at": "2026-06-15 18:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "b3979fba050c7cdf",
+      "title": "Teradyne Robotics in Novi Unveils Production-ready Physical AI Applications at Automate 2026 - DBusiness Magazine",
+      "summary": "DBusiness Magazine 报道了「Teradyne Robotics in Novi Unveils Production-ready Physical AI Applications at Automate 2026 - DBusiness Magazine」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Teradyne Robotics in Novi Unveils Production-ready Physical AI Applications at Automate 2026 DBusiness Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3ZLenNwV3lSQUNHWlV5RGJYaFpYemZ0TXN1bHItWGVHNlQyWXp2WE1DcTFwTVhQRTQ4TFU3STRDdWRHbUJRbTFZVEZOWXIycW9sTG85b3p3MFotUUtLVWpKTlMwZ1gxdVZfX0FPQVRBS2dFZks1LTkyVEtqUHBtYU1udXhPV3Ntc2F4WWdPbmdhOHVSWGVWcUZfeERBd2V2MnRYZFZuY3N3Vl9YcXZpXzJmeGdnOXdWWXhJSXhEeWpYVWJIWE9PcmZn?oc=5",
+      "source": "DBusiness Magazine",
+      "published_at": "2026-06-15 21:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "165fa6812561190d",
+      "title": "Teradyne Robotics unveils production-ready physical AI applications at Automate 2026 - Robotics & Automation News",
+      "summary": "Robotics & Automation News 报道了「Teradyne Robotics unveils production-ready physical AI applications at Automate 2026 - Robotics & Automation News」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Teradyne Robotics unveils production-ready physical AI applications at Automate 2026 Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUllTNHYyS0RSWWFoOGp2Q0RDX1V0bERRbjRTM29BVmY4N29QS0I1MG5Cam5hZWZWTm1zUlBHV3gwYVRXNUFvbWN0bU44UXdZVW1KS0ZockZ2aHJlY0ZrNjU5RHZjSGk4T3V0NlltZlRBWEFYcGptY1JIRTN3Y3lMSlhweTZETVh4YTdTLWRveWtjM2t0ZG9PbUNLUGlSck1XbVJWRGt3RU5TR2ROYzBzX3Z6TDRUT2RxeWZRbnNacWtBNmx3ZmVRQlNueGl0ekEtbHFZRTVoVkI?oc=5",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-06-15 15:19 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "51336d036af45ad4",
+      "title": "Rubrik Brings Agentic AI to Flagship Cyber Resilience Platform - Campus Technology",
+      "summary": "Campus Technology 报道了「Rubrik Brings Agentic AI to Flagship Cyber Resilience Platform - Campus Technology」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rubrik Brings Agentic AI to Flagship Cyber Resilience Platform Campus Technology",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1NxbDBlZlFaNnp1MEcwQ0tORUJkWTB2MHI5NExiUGk4cEVyOGdYQ0RHam9IVVYwQk5CcTJXRlJoN2dHazI0dnEyU3kzTmc1eTRMblJmckxHQmZuZkRoTmZSTnNqcWJWTWZUWlNTX1R4aVhiSU9FclVOV2RuR2I2c00xQW45NC1aeml2MTZUSVZ5SkkwVUpBRVYzSkVPRjE1MjRaVkNDOE16WEtsZW1iLTVfZ3lZaWs?oc=5",
+      "source": "Campus Technology",
+      "published_at": "2026-06-16 07:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
