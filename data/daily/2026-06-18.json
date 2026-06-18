@@ -1,0 +1,352 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T14:10:54.235999+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-18/",
+  "image_path": "assets/daily/2026-06-18.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "06f85cd53f21c37c",
+      "title": "Beyond the benchmark: Advancing security at AI speed - Microsoft",
+      "summary": "Microsoft 报道了「Beyond the benchmark: Advancing security at AI speed - Microsoft」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Beyond the benchmark: Advancing security at AI speed Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFdrMk11MnlkWEZYWjEyajVmbUo1a1NTd0loYm1KOGxtRFNyblhvZmUyc1c1d0c1bnZHWnNNOEczRFZob254aVJnVzdEX0RybWF3U2dvVTZiWW0tN2UtbzZHaHZLNGllV0J5cXpRS3I0TnExblZMdTBUVEV4WHpIZlhZbDU5ZU4tU0M3blNTNGNLdXRENF9XaTZBa0RJVjF2eUtscXN5Y3Mtd1lOWkE?oc=5",
+      "source": "Microsoft",
+      "published_at": "2026-06-18 03:30 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "699c276df8c5b0bc",
+      "title": "GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk - Tech Times",
+      "summary": "Tech Times 报道了「GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Zhipu AI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWN3MDNMbmpvT2NrVnBRdU1nWU5iQ2pseE1zdFNKbkwzVFVWcmxNc0xnRS1IZTVpM1NZMkhTNzlLb3VDYW5kRUpNdXhfcmpQcG5rQVgxTl9FQW8ydEFTNUp0eGxwRkNiQ1h0ZUJnQVF1YXdhaUc2dTNfYVZVSTdCOXI2NzNzMV9aVUlHblMtbFFBS3dIdGpiQnE2dkJQckZfQkduOGJnTDgzdGxkaGZ1czFtSFY4QWo5MHNiUml3ZFJmdzk1UkFwbWhQMDU?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-17 20:52 +0800",
+      "companies": [
+        "Zhipu AI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "1951c6f144ca8c92",
+      "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
+      "summary": "VentureBeat 报道了「Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Zhipu AI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-06-17 05:26 +0800",
+      "companies": [
+        "OpenAI",
+        "Zhipu AI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "0e21a8a34e058a0a",
+      "title": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ",
+      "summary": "WSJ 报道了「The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-06-18 12:46 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6729402bc2f0fae3",
+      "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-18 06:30 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b605d4e88e694b3d",
+      "title": "直击国际金融展：金融智能体爆发 大厂、科创板企业同台秀实力 - 财联社",
+      "summary": "直击国际金融展：金融智能体爆发 大厂、科创板企业同台秀实力 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "直击国际金融展：金融智能体爆发 大厂、科创板企业同台秀实力 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yVndVWTlFM1JWaXJlMENrUlV6S3huRzJaWVI0RlRldjRoRnBEOXFYSFlKWjluVEdBT2JTa2M0bEFNcWo1VFNfOA?oc=5",
+      "source": "财联社",
+      "published_at": "2026-06-17 19:52 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7fbcb27005a7d15b",
+      "title": "字节调整AI资源重心，转向企业服务 - 新浪网",
+      "summary": "字节调整AI资源重心，转向企业服务 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "字节调整AI资源重心，转向企业服务 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wRkdULTJGQXpLcE82S0c3R3JaUTcwZGZLM0FiTzIyMldvNDNMV0NiVERnSUgtOFdsQXVsWmV1bWl2cGJwZV9yelVQWGZWVWRETlJ4NXFDNmc5V2dWY0dKM0pKWUtSQWpXUm5pOUlfT1locVJHRVVkMk14eFF4QQ?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-18 08:12 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6e0602e39e763d00",
+      "title": "中国金融AI“从验证到落地” 百度智能云发布《金融行业场景智能体白皮书》 - 雷科技",
+      "summary": "中国金融AI“从验证到落地” 百度智能云发布《金融行业场景智能体白皮书》 雷科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国金融AI“从验证到落地” 百度智能云发布《金融行业场景智能体白皮书》 雷科技",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MVVA0TDJLd2l6dGIxNUtEdjVRaXdFOUl6RHNITk1SZTI5M01iQ0FpZVB4R0pobWd5eC1kLWpBd0p1MnZfSVpZZmt0X3NtQQ?oc=5",
+      "source": "雷科技",
+      "published_at": "2026-06-17 17:16 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8de977efcf2d65c2",
+      "title": "推荐系统进入“大模型时刻”：昇腾 NPU 如何支撑千亿级生成式推荐落地 - Infoq.cn",
+      "summary": "推荐系统进入“大模型时刻”：昇腾 NPU 如何支撑千亿级生成式推荐落地 Infoq.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "推荐系统进入“大模型时刻”：昇腾 NPU 如何支撑千亿级生成式推荐落地 Infoq.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ra0V6aDg1Zi00MjZncGVuQmFiMW8wOXBKNW9XRG41S20zQndHZFRnMWNQQW5DT3lWWDZpYWlhd25ZakF1Zm9QTkpYQnhDdlc0MG0yazlENmtaZGh0NEE?oc=5",
+      "source": "Infoq.cn",
+      "published_at": "2026-06-18 01:05 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2551357dd89df7b9",
+      "title": "科创板第五套标准扩围至大模型企业 智谱、MiniMax“回A”有望提速 - 上海证券报电子版",
+      "summary": "科创板第五套标准扩围至大模型企业 智谱、MiniMax“回A”有望提速 上海证券报电子版 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科创板第五套标准扩围至大模型企业 智谱、MiniMax“回A”有望提速 上海证券报电子版",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaFZzT1k1ZW4zdnNNVUxvcWQ0Y2hwQ2VYWG0za2xWWnNjS3dDY2J3dlAxcU9FVzBqRHBMWmhkNndtU3lXRWRVZm1oSGlmTnBMYlpQZmJTTTVfbTFlelFuaFpITnZZN0w0XzBUQUN3?oc=5",
+      "source": "上海证券报电子版",
+      "published_at": "2026-06-18 02:45 +0800",
+      "companies": [
+        "Zhipu AI",
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e4fb875439006072",
+      "title": "Edge AI Semiconductor Market Size, Share | Forecast [2034] - Fortune Business Insights",
+      "summary": "Fortune Business Insights 报道了「Edge AI Semiconductor Market Size, Share | Forecast [2034] - Fortune Business Insights」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Edge AI Semiconductor Market Size, Share | Forecast [2034] Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObS0yRXllZUNhYXpHb0h1QUh5TzMyNEhGX2NvVmg5OE1PUTNQQ2NKMEc3bTZJVHNybXJEbUNpZUFBVG5sNW0zbEVRTU5qWVgwelR2aTB4dmRId1hMNmZaQ0RoMGZjS0xuT3hZbEU3bjgxd1JzY3dKWk93a0lBay0zSw?oc=5",
+      "source": "Fortune Business Insights",
+      "published_at": "2026-06-16 16:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "111e6faa4a375858",
+      "title": "Physical AI Agents: The Future of Autonomous Operations and Real-Time Enterprise Decision-Making in 2026 - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Physical AI Agents: The Future of Autonomous Operations and Real-Time Enterprise Decision-Making in 2026 - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Physical AI Agents: The Future of Autonomous Operations and Real-Time Enterprise Decision-Making in 2026 Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcHdJdjRGdHdjdVNuQzA1LWs0bERRQ2dOOXh3dlpyUktzOTlZOFFPZVJpcHU5U3dHaktLVFVxMFktdEpyeXFhYzJFT1Fua29vVmIxYklsQU1sLU42WU01MlVmYjRFdjJLS3hMSkpUU2lOV3dPZHlXcGpPRm44aElpSkZCWV9sdm5pSjN1bHNZR3dORDZxM2NTVkZiUnh6YkdlU1ZaaVU4Q1NhZC1vejZZaUNJdTBaYXRzVzRod2U5ZHFaOWNHNTktd2J5N3g5ekE3NlB3b0dkU2RSQQ?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-17 21:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "e8ae69dd2c24435f",
+      "title": "Airrived Named Gartner Emerging Tech AI Vendor for Transforming Autonomous Security Operations with Agentic AI - Business Wire",
+      "summary": "Business Wire 报道了「Airrived Named Gartner Emerging Tech AI Vendor for Transforming Autonomous Security Operations with Agentic AI - Business Wire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Airrived Named Gartner Emerging Tech AI Vendor for Transforming Autonomous Security Operations with Agentic AI Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMFZVc0s0X1drUzhpMDJONHA5MHVRWml6WnVsSlNZMlpaSHhkT1ZTS0l0NHMxY3RhMlJiWDRSU3RsMnZlWXRHckJ4UTR2ZDJIYTRiUld5R0dlS3YzbHdjLWVBUWFjMXVMM0lUMXc2SkpwZzRoZXRhVGtWcWFRYXdpRlNOclozcjJlSGRjSjJSLVFIbnN2WXJod0ZOeWstN0Jaa0F0X2piY0dtbDBzX3JHd0RXZW5nTTBndDFXbHEyRkxqOEZTY2JSckdiWktLb2RXYWE2QlUxX3ZxSjdDUVdJVnhCUG1XR1RyYU9YVWU0VEdybEN2WW1RQXJ3WQ?oc=5",
+      "source": "Business Wire",
+      "published_at": "2026-06-17 18:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "f9be42f399539eef",
+      "title": "Thoughtworks launches Agent/works for AI governance - SecurityBrief UK",
+      "summary": "SecurityBrief UK 报道了「Thoughtworks launches Agent/works for AI governance - SecurityBrief UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Thoughtworks launches Agent/works for AI governance SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekhvUTFqYlRweG55T1JBSjYzbXR2NHdRQlpncklOaXNpTTNxOXdyaktlQVVXWHlSekVfNWp2RTgxUzdhNnlSdUdFT3JQWXd5RVJmMGZmc1R2ZllPcEVDN29WZ1RHOEpjWWFDYUFuNVFSSVpSQTh1UEZZN3ZMYmRaaHViUWhHcEw0RlNCVDl3?oc=5",
+      "source": "SecurityBrief UK",
+      "published_at": "2026-06-17 07:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "e864466b8a204e66",
+      "title": "Gumloop Review: Build Production AI Agents Without Writing Code - quasa.io",
+      "summary": "quasa.io 报道了「Gumloop Review: Build Production AI Agents Without Writing Code - quasa.io」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Gumloop Review: Build Production AI Agents Without Writing Code quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc05oa0w2RXBzekt1Y0JNUXNOYmEycWs4VFBmRkNkRjJtb0xESnJPVE5KVkNtWnNiYzR3eG94Zzh5YnBpdmxSNkVzTXB2Ny1ja3JpYUFVQ01fT3I3eTNwRU1TU2gtVGJTS1k3b3ViVjRNQ0s0N1Bxc0E4OVBpT0VESVNBOEpVY1RHa2hhY3F3?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-06-18 03:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
