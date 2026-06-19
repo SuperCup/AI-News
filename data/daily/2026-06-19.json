@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T14:31:49.280000+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-19/",
+  "image_path": "assets/daily/2026-06-19.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "402942a73d21bcd4",
+      "title": "Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold - Tech Times",
+      "summary": "Tech Times 报道了「Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2M3SDAwcExsR19mUUVLUlhvSDd3QzNkZHE0S2FPdWstdGRidVI5RWVUVHpyX3Q3bFZGcmhVTWVJRlE4YUx0YlBhaC0yNVljQ2I0MU5yUXhIQ3dzYXFFcGJSbjFzNjIwWF9iRk1paVRkcE5hLUlNUHR1Y3RwWF9fQlVHdFQtOHJpc2c0UnhkNEVfb3dhNWJvdG9wWDZVMVRkRjd2T0VUODl0TDZqY1FOWTFJYTl6ZUdLamd4ckFLc05pNjQ?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-19 11:54 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "577be29c8aaf35e5",
+      "title": "AI, security, and resilience in Canada: A conversation with Microsoft Canada National Security Officer John O’Brien - Microsoft Source",
+      "summary": "Microsoft Source 报道了「AI, security, and resilience in Canada: A conversation with Microsoft Canada National Security Officer John O’Brien - Microsoft Source」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI, security, and resilience in Canada: A conversation with Microsoft Canada National Security Officer John O’Brien Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkg1MkpLR25zRGpvczlscE1jSGNYYXNtd09CenhuTno3cmVQOUVxOHZQYVNwNGYxRUloc3JBNjBRU1BGQnVXYnluYlZqRVU3V0k0SzZnTWRuRTM5LWZoZWRtaUo2b21DQ041YUlheDJoX2NUZjY1SnNqTERvZmJKb0VRRXFwUXVFN3FuTTFNNTJyVGZCUlM0aTFSYTZkNTN1OFNXdU42RUR5RVRSRlA3SXBrWUs4UkY3MkxacF8wck9ybEVPLWxEUmNTZ2xDVEwyVDRvdTZPMmdvMzNkU09mS00xNlR3czhkN20wLXdYR2wyYjVlM3Y5Vg?oc=5",
+      "source": "Microsoft Source",
+      "published_at": "2026-06-19 01:23 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "19ef0c3c2f34d650",
+      "title": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business - Reuters",
+      "summary": "Reuters 报道了「Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLU5CbGtVaEcyNHFuR253WGxMcTRQMkdPTU9NZ3JGZ0NCTzlWaUdLWjIxcVE3bkdXUjltLV9QUzJzTVJHTkhKWlZIQzhvclFVZmt0SkZ1RURiWTJoaDZQNVdKNTZTOWM1RzB3VTVVVEZsUUtGZjFJTExyeDhrYTg2S2dfUGprS0NUWFMwVjdCOUUwMTk2ZWxDNFRJb0NLNnFnZ3RuZmZ5YVg5VTlsVFBpc2NEVU5lejF2aEhvbnpGVE5sX1VKbnhXTVo2cjcwUkRWWHc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-19 00:14 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "26383cc81da75632",
+      "title": "Oracle AI Database Raises the Bar for Availability and Security Across Mission-Critical Workloads - HPCwire",
+      "summary": "HPCwire 报道了「Oracle AI Database Raises the Bar for Availability and Security Across Mission-Critical Workloads - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Oracle。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Oracle AI Database Raises the Bar for Availability and Security Across Mission-Critical Workloads HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkU2cEtVai1ldklNWUxzdFNSYnFXbmVnazhWTWVrNXNZVVZPQ2JWc2s1ZFNvdHBpS3VjZGYtMnVJTHk5MVI1Z1hvdU1KT0xxTXBadFdKb3F1VzA5eVVUUXpzM0EzV1U4VDIwc1ZUbUhEMVdfczBzdnB6ZEdBdHlIU3otOE1ZY2c3YmgtYUFZMGlucDJ4QTFpOHJBTlA5RTFUMElyQm9EN2paU2hYcUtqQUVXdE5JZVo5T2N4OFV5WEhaTkhtU2dwbUpzSEdsUGZvTko5Q0dxYjFQQXpFVGdGRQ?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-06-18 15:08 +0800",
+      "companies": [
+        "Intel",
+        "Oracle"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "e5863fd7e160e576",
+      "title": "IBM wants to become the 'security layer' for open source AI infrastructure – and it's spending $5B to prepare - MSN",
+      "summary": "MSN 报道了「IBM wants to become the 'security layer' for open source AI infrastructure – and it's spending $5B to prepare - MSN」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM wants to become the 'security layer' for open source AI infrastructure – and it's spending $5B to prepare MSN",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNbGR4NzdoNWpqT3l4QUFsUGJ5WjVPVHl6VzZMY0lqLThTU3ViSlNvYmhFYjBwZ1FzdDlLM1dhRHI1b3dmR3lMZGx2bGhKUm1vUHZZTFNwTU5MUzhaeE9Qd1pXckZ0RnNGdWt6NEtMZEExZ1VvamRQR2UyVnB1UEtpcjhXZUpOVEJfN2NuZ2hUUHdtcDE0Wm1RNWhpRU9iMHJ4aHRqcTQxQUFSUzRmUExqUmJidHhmZ29ZYVUxeGEtTU5UM0VxS3d0RU9EYlE4UlNEdWhTODRHSTFtRmtaSk1aNE9obV9EZ0VLWDA0UjQ3TEJjcm9EeHI1QjJQSHZ5TEtXZTZLd2xPREJJeUthMEprai1jVnlDMU5sOE9MbnZGN0JDb21iVDlMc2FyYm9QU1gwNWw0cEQzSVB2cmFyX05jMF9tbjZPNVFIUzVwZ1I4NThqQmpNSm9fS2pBTTNCTWdvMlVnMm9yRkpVcWJKajdNRzR5ZUs4RE0wWWNSTm9hUUh5d3dSMnBacWNYM0JiWE5kcDVscEduN2ViWVRiOXow?oc=5",
+      "source": "MSN",
+      "published_at": "2026-06-19 10:52 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "072e93263cd61927",
+      "title": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 - 新浪网",
+      "summary": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaW1rcDlNNEtjOWFxUmZpMTRwUWhTLXpqQ29EQ2xuMFZkc1pvbW1GNjZvMXp3aThrR0lnRGk4WlJhdHdLbE1sODBtOGlFYTFqLVlqYmlqRzVCUHZ5aHA3M0oxbVFTSHJXRldXRGxiSElEajBEWGxhZ29RbnNyUHpuTURVTmpILUxtNlZfRUFXRk5yOHBnMmJUVlZ4QmVBWGZQbFlGamZfVFhQVnREMzVhb1dmaVRwZ0oxMHlmMHVDR2NtYktLSG5oTHl3T25ZQ3ZtMGU1MnczcEJmX2hQdnpzZWlVYl9scmdQUVJWd2h5UUtwc3o0cHk2TTVuNTlEdw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-19 11:57 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bc7fa918d0163cdd",
+      "title": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 - Sina finance",
+      "summary": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 Sina finance 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业 Sina finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRHZRUGc5WGVhejFKci1nSmNGQV8yWldIQmR4MEIwQjdvYzVMdEk5WDFUTlZNTVFsM0lYOFZrRzQtMUtra1lRZS0yX2RlSzdtYUhaNnJQZDE4VXl3MmVkSVU1Y3VwUVc4aFloekpWeVVJWXdHa2lKSDluMmdzQ0E?oc=5",
+      "source": "Sina finance",
+      "published_at": "2026-06-19 11:07 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3d5eea1c80814d23",
+      "title": "巨头密集落地AI支付产品 AI有望驱动金融科技企业加速成长 - 财联社",
+      "summary": "巨头密集落地AI支付产品 AI有望驱动金融科技企业加速成长 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "巨头密集落地AI支付产品 AI有望驱动金融科技企业加速成长 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CbXdTT29WaVZZNjI4ZWFhLWlPTVJIRnFlbno4M0htMGxsU3ZEVEg3MzVYYnA1VlZyR1JTSHhsOV9Wc3JpR3dOUQ?oc=5",
+      "source": "财联社",
+      "published_at": "2026-06-18 20:07 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1aef0a81c7fce7b5",
+      "title": "斩获七项“世界第一”，这家“华为系”企业总部搬到成都成华 - 红星新闻",
+      "summary": "斩获七项“世界第一”，这家“华为系”企业总部搬到成都成华 红星新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "斩获七项“世界第一”，这家“华为系”企业总部搬到成都成华 红星新闻",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aElDWENHbFhHbzVXYjRtNm1aS3hCQkdqNEctYW9POXRXU2p3eUxIN0U3dHdvQkZ5a2JlNXVrYWdxTGk2WUdKd2djLVMtWmktLVliSU1ITGtiNElqQUVrYTJKNkFyNTBveXNiMk9TaUNMZw?oc=5",
+      "source": "红星新闻",
+      "published_at": "2026-06-18 21:21 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f11e06a1cf9653cb",
+      "title": "中国AI进入规模应用临界点 业界共议产业落地行动路标 - 央广财经",
+      "summary": "中国AI进入规模应用临界点 业界共议产业落地行动路标 央广财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国AI进入规模应用临界点 业界共议产业落地行动路标 央广财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lTERDTmFvRzRWajMzLUV6T044Q3FsSTlISUpwQUcwY0NmeXJrQ2VtdWE4SDlxS185aVNidWVJakxfUWZsNnNaVHAtSDBUYlJDcnJreVpqRlJzcEpYZ1dzVHdrSmtnRlBkbmM4cmNEbw?oc=5",
+      "source": "央广财经",
+      "published_at": "2026-06-18 22:12 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7d629c9eb6500a2f",
+      "title": "New infosec products of the week: June 19, 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the week: June 19, 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the week: June 19, 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjRnTkNqNEZybFJxRk1neVowdm5wTm5oR0VGcnFZU0lHeVNvLXlmallHTTNidTRnUXZBYUZLNXNYa0Y2WHFvbDNnUkk0UHZ2OXVkbkJEWkpVeXllM0JyV1MyNUlRYUpMMDNMa2VvLTU1WmMwcGtWLWRwVkUyWHdhWkRETHAtdHJYYTdGYlJSVkl6TzQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-19 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "44d344edbaeecef5",
+      "title": "Agentic Security Platforms - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Agentic Security Platforms - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic Security Platforms Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtRkFQMUZwQ09ScW9vYjZ4VXlHTW9IdmZFMFFCOXRlWEpQTHBZdXVua1dUNzBCVXFwSUFUTXlOQ2ZaZXNySlV0elVPVjluWnEzcTRSYlg1REFVWWt3QUFyWFBVQnRUaXhOLXE5aUFR0gFzQVVfeXFMT0pEVS00elZSTUQ5eElqT2NIX21jT1piZHFtSEtYWjA3ZW1VNW1LbXBJZWtsQUVGNjl4R0ZLMlNNOERHaS15bmJjeWZzdi0ycmxEQ2xoOWhxbFpiLUlrVk1nc1hjdG9qbmI1RnROQUFLV3FpWQ?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-06-19 02:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "52c278e3ee8d652b",
+      "title": "NeuralTrust Raises $20M to Help Enterprises Manage AI Agents - citybiz",
+      "summary": "citybiz 报道了「NeuralTrust Raises $20M to Help Enterprises Manage AI Agents - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NeuralTrust Raises $20M to Help Enterprises Manage AI Agents citybiz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1lzamFrcG1YQklxX0tNcTY4b0czcUhkejJMZ2RSdFdkVDNtVTdiSlV0OGFyOGpzLTZURHNITjZ1cHpDaGpNcU8tWGJDVWx2RWhTazBWd3F6M09VWnhkTl80WEpFSTh6U1RNT3ZpeUlvUTRoX0pISmtNSHlKX0FZU2hnWEdhQjRrTmdwc1RCNTlYbVo3NFdUYlpJSFBPaFk?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-06-19 00:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "1ebeb0ebe27e5382",
+      "title": "9 Innovation Leaders Accelerating the Adoption of Autonomous AI Agents - vocal.media",
+      "summary": "vocal.media 报道了「9 Innovation Leaders Accelerating the Adoption of Autonomous AI Agents - vocal.media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "9 Innovation Leaders Accelerating the Adoption of Autonomous AI Agents vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY01iaVFVT3J1OWRFcG9wRjdMOEE5WDEwN2owdVhqelZROFI2ZkFLLXcxS3NFc0pXNVVXdjlNQ2FGdXV3N0ZqXzg0NWI3bUF1UkYxd1M2alVURkVaUHl6SldTUGNFZ25yZEpBTmNING8tQTZUSTBKTTQwUDdVZFI5aVBTMHN5dDMxLWtkMGU2VGlhLVpHaDhScQ?oc=5",
+      "source": "vocal.media",
+      "published_at": "2026-06-18 21:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c6b82412e154da00",
+      "title": "Infobip CTO on why agentic AI pilots aren’t enough - Frontier Enterprise",
+      "summary": "Frontier Enterprise 报道了「Infobip CTO on why agentic AI pilots aren’t enough - Frontier Enterprise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Infobip CTO on why agentic AI pilots aren’t enough Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDFSNGdKM1JDZmJ3aVBKbHljcU9Ub2hCQmhRUXlaQnlvTi0xNW5OU3FLT09ZazEycE1ULWdNTTNEdjg0d3lQYjRaVF9KS193c2d3UHVoT1M0OGZhZDVZYmU5U0dkYzRHMXJONDZsVTJGVlV1UlZvV2U4S2lmYVpaNDJIMlZxTTQ2Q1Jydmx4QQ?oc=5",
+      "source": "Frontier Enterprise",
+      "published_at": "2026-06-19 11:50 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
