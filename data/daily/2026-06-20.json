@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T13:44:27.862112+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-20/",
+  "image_path": "assets/daily/2026-06-20.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "9a3a9d730987d483",
+      "title": "AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform - Infosecurity Magazine",
+      "summary": "Infosecurity Magazine 报道了「AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform - Infosecurity Magazine」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform Infosecurity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaNUowaVc2Y3Y3OFVyRU9mc254cm84bWhicF96UXIzX3Y4Q0lOVTBmU050TlRxYXdkWTA3WTFGRzFGSzNoaE1kcjhoS3l4enZGLUhVVHYyU2tCUjFSVmdSRm4tSmZwZHZyR2VVQUVMMFFqb3ZKaGYzODBpdnROa00?oc=5",
+      "source": "Infosecurity Magazine",
+      "published_at": "2026-06-19 19:00 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "fb79c95964af1680",
+      "title": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业|阿里巴巴|开源模型|人类|科技|生产力_手机新浪网 - 新浪财经",
+      "summary": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业|阿里巴巴|开源模型|人类|科技|生产力_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业|阿里巴巴|开源模型|人类|科技|生产力_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX3lmQnV0by1JRHpoTDc5dFJQdENKb2lMMHBwQ1IzaDVLQXNjRWhGUVM3OVpPcXp6TkZiU3BIUHhPUUJXdU5ET0wwRzV4MWFDRkNhV2s1ZmhDVmRGb3F0aHk3V29vNHRqX2hzRmFtYWlEOU55WnFZVExTYkg4bFBrRXVTcm01dFl0UTNwTkJqX3V1U3A0R1k4TUpjbnR6WmYzSEZHYkpjNVctcUZhT2hES05HTDFxeFBwX19QLWFONEo5a2lEbEtOQkJOMTR2MmZ6ZFFsSlNQcmpQWEFfek1TcFpkM0VxcE12aWJOMURoMkZBNFQzb1JzRzBjVURaSGJkcHU2NVVuLVZfUFB6WDdvNA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-20 11:23 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "18670ad29c2ce049",
+      "title": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 - 新浪财经",
+      "summary": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUW83Q2ZKUXhMMXFIU2d5SG1OM3VZZlJkUjBhV1VSUDlSRHZYUllmNHBqSVNNMWRDemRPN0ltYW96NmJBY3JFN1RMVndRYk5pY0dEMnNzZDg5Y0djdVZlQ3ZOWWEzNlVraS0wdWVBeXVrTWRfR1dwa0UwRXVpYmEwQ05XbjBsLTUwTUM0VnRENkpaZmRWZGVVYm1XM05RYXlhOW1mV3NTaw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-19 20:56 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "05064e361a230e27",
+      "title": "DeepSeek 巨额融资落地，物理 AI、量子计算抢占风口 | 创投周报 - 新浪网",
+      "summary": "DeepSeek 巨额融资落地，物理 AI、量子计算抢占风口 | 创投周报 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek 巨额融资落地，物理 AI、量子计算抢占风口 | 创投周报 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObGpNaXFRQXdGU0d6X3k3bEdSTU52dmlxZFRRYzN0LS15aWNUV2pYRnJYZ2FGT01ONk1jYTBQZGNCbkU2eUZyYS1hOGtkTFNuSWdndmw3T2YzM1g3eUlWell5ajVINXcxSDV5ZlhfOHFCZTR4NFhqdV9MbGFxN1k1RVkwZ0lXdjdwQVZQZUVwS2RCS3JPaGEzaC1ra3BYeUU0WVpXMFIyaVRyLUwwdVhjNzBVT2tydjFOQm1NWW0xNTFyU1lmbG5ua2xmMEVKY1FhZGVDakpsaWpaLWhaN1hnVERVNW92cTdWN1FDLVBEVmVvSVZScG9IZkhCbWEydGdzRmJmbDBkYk4ySDgtWTdxUllrMW5KR3B3Q0VLd3k5VU1RbUk1SVhYUw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-20 13:41 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8ffa23253d8be7fd",
+      "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost",
+      "summary": "MarkTechPost 报道了「NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcEdtUUFVMDlvZ2xuNk9uYjFIVjF6UVgzU0JYZjlkczllYWRqSXNkWWxuRUZtNTFHeFYxaHZSb0stS29iLXlzcGJGZ2E1eWhES0plQTUyVmFDODV0WDFsbGJ5Yy13U2t2WHBZSFNwQVRRME1uc19oNW82dHJQejRaQkt3a3A3TTZfRDliQ2lmZ3VpeGxiUXEzZl9EQ2RTekR2SlZ4X3dIYXV3VlNhVUxfQVlIVG5qbmFRR2dPM3ZjNTlxUjhVbnV5VVdLd0dCa3VCMlAzaG1nTlFwX183bE5PSENsRURWa2pVY1lsVmdR?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-06-20 06:51 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "bfe77edd868796e5",
+      "title": "H2O-Danube2-1.8B Achieves Top Ranking on Hugging Face Open LLM Leaderboard for 2B Parameters Range - HPCwire",
+      "summary": "HPCwire 报道了「H2O-Danube2-1.8B Achieves Top Ranking on Hugging Face Open LLM Leaderboard for 2B Parameters Range - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "H2O-Danube2-1.8B Achieves Top Ranking on Hugging Face Open LLM Leaderboard for 2B Parameters Range HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWkZSM3N2b1l4c2JTS0tiUERoWXRFTnJ2bjlYMVk0U1BxZVc3UGM1d3ZzX1hrMjRqTUhCYVNFY2k1WllJX0o5ZmZEWUxLSkdTQVY2WWtWb2lQUER5VjB0QzBXOEdNSXJFTmJlNEM1WlZ5VUdNRERRd1BaaWt6WUVxN1JXQm0zZ3hnTE1pdGs4T2pqMDlEVHlFVTdTS244c1ZDQ01lMXl3S1N0WFlqeUcyZ0dZb1AtMUU4U0dXakZwMnFDbWJyUlJVeTBCeGJZenlmTlNiTy14NEo5akJweUZVUmVn?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-06-18 18:20 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 146.5
+    },
+    {
+      "id": "58497694037e7038",
+      "title": "AI Politics Risk Emerges as Zhipu Shares Jump 33% - TradingView",
+      "summary": "TradingView 报道了「AI Politics Risk Emerges as Zhipu Shares Jump 33% - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Politics Risk Emerges as Zhipu Shares Jump 33% TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSklULWEzMFB1RGhITURJN3lqNUtTdDk4ZlpoWnAwb1JfOTg2X0EzVGNfMkdJck9xZ0dWcGtmOHVHNldYdk9iLUV3cnE2ckVZMFBmTGRpR3JPUDcxNHFRX1BLdFhEb0h6OE40cEdobE44REdmMzNnN3BzQ2tnTkRPdGhmd2J2bklReFF6X1lMREtUWnkxRjVQYmVWdmlzUi1pQm5fNnRkWmtqN0pR?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-06-20 02:09 +0800",
+      "companies": [
+        "Anthropic",
+        "Zhipu AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 145.5
+    },
+    {
+      "id": "a752f5ae72263eb9",
+      "title": "IBM adds security tools for mainframes as AI raises new threats - Stock Titan",
+      "summary": "Stock Titan 报道了「IBM adds security tools for mainframes as AI raises new threats - Stock Titan」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM adds security tools for mainframes as AI raises new threats Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0tQR1gzQkZGM01Ja3doTGpGaENnTTM2ZV9KWTZYUURyLW5oTEV5Tk1SWE5HVHUzTlBkaElwTTAtS2RFNERkWi13THViMDdRMlZrM3ItQVp6cGkzN3RCeDVFandoLVNsYXdPa05HbnV4QkxKeVJoQVVoOWlhSnp5TFZuUVJfdlpRcjZ4b2FoR1p6NWp6Uk54bVhITzVrLTNxM3pjZkc4QlVoWVVwVTN6d3hQdmlyQQ?oc=5",
+      "source": "Stock Titan",
+      "published_at": "2026-06-19 18:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 145.5
+    },
+    {
+      "id": "3c58a271b5d67e60",
+      "title": "中国AI进入规模应用临界点 业界共议产业落地行动路标 - 财富号",
+      "summary": "中国AI进入规模应用临界点 业界共议产业落地行动路标 财富号 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国AI进入规模应用临界点 业界共议产业落地行动路标 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jdG1DZks2NHV1NHUyVERJNFZMaVI0bkZ1Tkw1YkotMUdwQkpGZDNXbzVFWXluX0JRN1A2OE5zcDVYeWdXcXJ0T1h4OUd3ZFhtbEJLbmJXX2xlN1VXWWRkYWZYQTB4MHRfZlZN?oc=5",
+      "source": "财富号",
+      "published_at": "2026-06-18 22:12 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "c6e33bcec49ca411",
+      "title": "Token成为AI产业核心计量单位成本优化成落地关键|阶跃星辰|百川智能|阿里云|中关村|月之暗面_手机新浪网 - 新浪财经",
+      "summary": "Token成为AI产业核心计量单位成本优化成落地关键|阶跃星辰|百川智能|阿里云|中关村|月之暗面_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Token成为AI产业核心计量单位成本优化成落地关键|阶跃星辰|百川智能|阿里云|中关村|月之暗面_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFlxQTJQSTE2dWIyWS1oTUt0RmZCdTJ6b01Icld0aWM4UWNuWEY1UWRDS1pVNm9NOXJUTlZfTHZxRGE5czB5T0k5cWJ3VkNTNUExdUVmTHpKbkJ2dWRVQ0trdDAyTkgwMDhJLWh4YUtTVF91UWdFaTg2LW85b0ZvYWJqZkpFd3FMd1ZDbFZDekRxTTg4ZEwzWldpeUxXU3ROSmhQZE1LVQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-19 02:55 +0800",
+      "companies": [
+        "Alibaba",
+        "Moonshot AI",
+        "StepFun",
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "5f55de9f93f357c4",
+      "title": "Identity Management and Information Security News for the Week of June 19th: SailPoint, 1Password, Keeper Security, and More - Solutions Review",
+      "summary": "Solutions Review 报道了「Identity Management and Information Security News for the Week of June 19th: SailPoint, 1Password, Keeper Security, and More - Solutions Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Identity Management and Information Security News for the Week of June 19th: SailPoint, 1Password, Keeper Security, and More Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzJoRDJQVGFtV25FSUpURWd6c0tIcEprRkRGREVPSXhRMmh1bGlwZ1BjZ2RuZ3FQaFpkWFhjMDExRUlOM1lNc3V4MG9tNi1VMHdsQmpBNmxKM2E1bFRDQWg5ODJBLUNVbEI5M1VqekY1MmlVTFJsVWpHZ3BIY01ERmx6MUFFNTMyaDBSQ2dHeUFscVExem1pRjZnU2JucUVyS0tlMFNkbnBtdHdGX213eEROTFRPWXdVM0liTDFFQUJyQQ?oc=5",
+      "source": "Solutions Review",
+      "published_at": "2026-06-19 21:10 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "0f9a5c777d89d0ed",
+      "title": "AI That Executes: What the 2026 ERP Market Is Actually Building So Far - ERP Today",
+      "summary": "ERP Today 报道了「AI That Executes: What the 2026 ERP Market Is Actually Building So Far - ERP Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI That Executes: What the 2026 ERP Market Is Actually Building So Far ERP Today",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yOFgxODNFajh4d1NYRWkxczE1ai1YOEM1ZVZLRzU4QjhmMTBVcmFSRWltY2JGOFpuMXBKUEJPQjl0cnJZR0hiaV9iMThBMkRwTENVOXdYWW9CNFB6dUNBZmNHeEI?oc=5",
+      "source": "ERP Today",
+      "published_at": "2026-06-19 16:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "8313a6daa0b53d5d",
+      "title": "Poolside Review: The Secure AI Platform Built for Real Enterprise Development - quasa.io",
+      "summary": "quasa.io 报道了「Poolside Review: The Secure AI Platform Built for Real Enterprise Development - quasa.io」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Poolside Review: The Secure AI Platform Built for Real Enterprise Development quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxvOXlzTHY4aVdFRjRqTmE5aDVEbnkxSDl6cG9fSF90VFI0Tm5vam5SSlRVVkJUSTRrMXowY3pzck5tN2xoMlJGS241WEZ5MlVScXhxMHNTa0ZIdXpuZmpLdnpqV0I0TDlqWHNzYlpONV9wRTE0WldYR19OSlpTME5VellhRUhIWUstWm9KUm9BQ1JyRW1fT0d1RC1JNTBj?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-06-20 01:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "00d0ed1ec4b0ce8a",
+      "title": "Agentic AI In Finance: Enterprise Guide - appinventiv.com",
+      "summary": "appinventiv.com 报道了「Agentic AI In Finance: Enterprise Guide - appinventiv.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI In Finance: Enterprise Guide appinventiv.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbnBDTlVBOTNjZ3JpVlRrMUNFSDFXZjhtc2tVWkZTRkJXTkxPSGR1aWd5R1Y2aHExV0E2VV9KQU5sTlpWYUVZNnYxUkRLSnBvRU9qMTBSV2xTWE1IUXJ3dQ?oc=5",
+      "source": "appinventiv.com",
+      "published_at": "2026-06-19 17:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4614f90e41bf5e01",
+      "title": "TestMu AI Launches Official n8n Integration for AI Agent Workflows - World Business Outlook",
+      "summary": "World Business Outlook 报道了「TestMu AI Launches Official n8n Integration for AI Agent Workflows - World Business Outlook」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "TestMu AI Launches Official n8n Integration for AI Agent Workflows World Business Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUExJaUFLOGFxa2VXQmdleWhWVnYyRUNFQk5nWFFRNHNybjNXX29HUDJ6YTZ5NmlGYW4xZFRoY25adVkzLXJJTFlvXzNlaTAzcm9mWWRQR01sYXhvOXRPWGs2RGVNUk9PT0RxbGtiTmtIOXkyaU5YRzNWT1N0WnNnNi1sS2c0M0ZENVFJX0NiNXFCYUZEd05EYjRpeVRDUTVKV3c?oc=5",
+      "source": "World Business Outlook",
+      "published_at": "2026-06-19 16:24 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
