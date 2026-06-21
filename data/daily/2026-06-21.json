@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T14:18:59.995418+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-21/",
+  "image_path": "assets/daily/2026-06-21.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "802aa9a86d5a65db",
+      "title": "NVIDIA Releases JetPack 7.2 with NemoClaw Support - Let's Data Science",
+      "summary": "Let's Data Science 报道了「NVIDIA Releases JetPack 7.2 with NemoClaw Support - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NVIDIA Releases JetPack 7.2 with NemoClaw Support Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMHMzTm5QLXR0NXk5c1Q5T1JzaDVxWXNjSnYzSkhrZmhBYzFWek5hcFBzYWNJbWlOeHIyNjFaS1RKWnRmaEU4ZW5MV0M3VXczUjBsbkltbzlKUW9DbW1pLWhMQ2MwbG10a3VmVU1CRjVWLWJKNkpqVlFza2tJM195VUVVWElodWRsQTJGQ3pFVV9JS2E1?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-20 15:04 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "c074bc4862018824",
+      "title": "CyberSentinel AI with 33 Security Tools, Including Nmap, SQLMap, ZAP, and uses Claude, GPT - CyberSecurityNews",
+      "summary": "CyberSecurityNews 报道了「CyberSentinel AI with 33 Security Tools, Including Nmap, SQLMap, ZAP, and uses Claude, GPT - CyberSecurityNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "CyberSentinel AI with 33 Security Tools, Including Nmap, SQLMap, ZAP, and uses Claude, GPT CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNHkyVG9oNWY5V2ZWSndqaXVWSnJWXzVuSmNiRDMwUVJJNmMwTC1UaURVYmZYYjBUTTZoTmJMLXNPd00tSlBEeW8temFmck4yZndJOEhiQ284M2xzY1ktMVRieEZEMTNlWTlIbF9yNzNtOXEwU2Fzb2ZR0gF_QVVfeXFMTlRQUmVmYzRqcWNpTnZ2dENuTk1CN0prTThCeElpUzRtUXJPeDNQejBpRFpvY1Z4MFZucUh6M3FFc2o4SEJ5c1BqZkNBYlZldVpCNkdUU2tja1B6Y0hMTGtIc0dxWDlYcHNIS3FST1plRFRMTUxNUm9YZ3NKanR4RQ?oc=5",
+      "source": "CyberSecurityNews",
+      "published_at": "2026-06-21 00:34 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7e24d624995ca236",
+      "title": "Google DeepMind Treats Advanced AI as ‘Insider Threats’ in New Cybersecurity Roadmap - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Google DeepMind Treats Advanced AI as ‘Insider Threats’ in New Cybersecurity Roadmap - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google DeepMind Treats Advanced AI as ‘Insider Threats’ in New Cybersecurity Roadmap Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakJ3amVNY3JOb3VrTEJYbUFnZkRPRENqMjdQUEIwLTU2TG52clhSWjFXLUV5QVBUOW45RVFCNmFMeWpPSTJwVlN1bzhGWDFaaVdPQklDQTBjY19yUTlDZkl4R0JmOW5QUE9BaW9iOGs5aXRFOEY0WElkdE1TVkZkMkExWVhFdlp3ZGtpTEtLQTkxTzNOMHRJRTZTSExtUHltQTNraWx2elpraVM1QjVXXzNKQXF4a0dreW9vY1dR?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-21 06:48 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "c5f6bd0a26d945d7",
+      "title": "Musk Urges Patience on Optimus and Robotaxi - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Musk Urges Patience on Optimus and Robotaxi - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Musk Urges Patience on Optimus and Robotaxi Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFNLQThRRFYxcks2MENOajJmVFZxT3drYldZQTMxQmduMDlOcUJiZzFnaDlSX0R6YmFkZVpvWEJyZGJfQ2dvSUQ4ODFIS09ubFd1MkxmdThzZkVZanJFcGlGdnNvQmdrSUd6TFU1WjlCWW9oNjRnWTlkRG5WcER2dDJ5TGxkQUJFNnRtX0h3?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-20 21:00 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "654a0b628aeb0082",
+      "title": "蔡崇信：阿里全面投入AI，开源的主要推动力量来自中国企业|阿里巴巴|Qwen|开源模型|人类|生产力_手机新浪网 - 新浪财经",
+      "summary": "蔡崇信：阿里全面投入AI，开源的主要推动力量来自中国企业|阿里巴巴|Qwen|开源模型|人类|生产力_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里全面投入AI，开源的主要推动力量来自中国企业|阿里巴巴|Qwen|开源模型|人类|生产力_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZVNzcHRlcGdQczJjclIzZENXd2hrZVVSalpESVNhYVplNU5ramdtZUhJOUlBTkpFam5BNjV5ak16cFdvNzF5TmhNOWduak8zVVp6Zjg0RlAxeHY4R3M0VFpOUGZ6VGh3VGZSSy01M0JFSFo4Ml9zZERJOWJ5M0JRVGNSdWh1aWg1c2xoNUgzR0RPZmtQeXFPN083QTVuUnR2UEFidzdJdWVuOHNOVEdEQllTUDlxX3VPTUwtTW5LNERkNDdxMkVvS1NQREtVOV9aMVg1Ukd6RkRoSDFKUGE5RkFoWERFeVNGWGdrcXI4WXRpWGFOVkpHUlBub21iei0ySDlPNnpnb3g?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-20 15:31 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4ed2fc523d7d25c0",
+      "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets - MarkTechPost",
+      "summary": "MarkTechPost 报道了「Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc3ZvYk5hVkRjQjNweHR5UkJDM3E0MEUzejNCLXdTWTZzMGk3ZkdkRzhINXRQU0ljNVA2UFJFSDdyTTYtMUs0eHpEdVRxVllUWXQxd1RmTlhhRjBLRFgtQy1NeHR0VmV1eF9aX3lka1lRVWV0c3BzQzBWUzhhWHdzT0NtMFg5LWtoeGFXZjNOZDk2S0ZNQTY1TlZVVjI2UTdWOGZadF9VR2Q3UTVIVlIyUHNHbUdpLWc0MTVablZwUlZTRS1aYTZVa0g4TG94OEY0eDV3Zk05VnVwZFdSaDdXZFNWVkt0akxOdnRpdlZkdDA3V1VqUTdrMVB3?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-06-21 05:50 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "1612d3fb617de1ea",
+      "title": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业 - 驱动之家",
+      "summary": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里正全面投入AI 开源的主要推动力量来自中国企业 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kVDY2SVgwd0NzZGdIZ3R1RVJGOUhXay10d3BNbnlPbkRfLWU5M2hjYmRIVlE3UFNEV0pBX2hlNm42RkFaLWU2UGZva1B1SFJmZXJGUmgtUUU?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-06-19 15:09 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "49aaba58c68b2fc3",
+      "title": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 - 新浪网",
+      "summary": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蔡崇信：阿里全面投入 AI，开源主要推动力量来自中国企业 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMXhDSFYtdW1WMGYwTEt6cmVjVmZiQ1dDMEY0UVJRQThLLU9sZzdxbm5vdE5nUXdGd2tUZk5Id1NlcGVFWGJOVTNUMzk0aC1EdUpSdHl5MDV1MURQaFRVNzNGc0U4dEZXeVJlcUc0Y1lSNzZfMEs1bnFNYzlnYzA?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-19 18:15 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "357e6cbf72086167",
+      "title": "华为携手世纪互联，打造AI使能超互联算力网新标杆- 华为企业业务 - Huawei Enterprise",
+      "summary": "华为携手世纪互联，打造AI使能超互联算力网新标杆- 华为企业业务 Huawei Enterprise 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为携手世纪互联，打造AI使能超互联算力网新标杆- 华为企业业务 Huawei Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWGZDX2UtZ3FfaTUyNVFJMndBdFZhNWJDZHRQSFJndFM4bElGZ09aWTRIQmdDTFB2djRXei1aZW5KMDhobnlQNlpjZkhmTlF1aTlaakdDTTczcUlvQnFTV2MwOUdhY09aX3k0al9JYnpKT05Cc3VuM0k4TDlTN3laVUp4Yw?oc=5",
+      "source": "Huawei Enterprise",
+      "published_at": "2026-06-19 21:23 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "792b7eecad231a60",
+      "title": "人民日报读者点题·共同关注：大模型收费，合理吗？ - thepaper.cn",
+      "summary": "人民日报读者点题·共同关注：大模型收费，合理吗？ thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "人民日报读者点题·共同关注：大模型收费，合理吗？ thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pc29EZGhVdE9LajVpQWp5ZnREY1k3SzB5dVNMYm1qOEpsRVRwQnBFWVZRWXMxdjljUGtiSEttQ1V4YnAwcWpPenJKenM0WXZLZWtRdEQ2cW5ZUVc5MXZsRA?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-06-21 07:48 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "0f9a5c777d89d0ed",
+      "title": "AI That Executes: What the 2026 ERP Market Is Actually Building So Far - ERP Today",
+      "summary": "ERP Today 报道了「AI That Executes: What the 2026 ERP Market Is Actually Building So Far - ERP Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI That Executes: What the 2026 ERP Market Is Actually Building So Far ERP Today",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yOFgxODNFajh4d1NYRWkxczE1ai1YOEM1ZVZLRzU4QjhmMTBVcmFSRWltY2JGOFpuMXBKUEJPQjl0cnJZR0hiaV9iMThBMkRwTENVOXdYWW9CNFB6dUNBZmNHeEI?oc=5",
+      "source": "ERP Today",
+      "published_at": "2026-06-19 16:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "53c357f463c4ae74",
+      "title": "Adobe (ADBE) Unveils Creative AI Agent And New Enterprise Tools - simplywall.st",
+      "summary": "simplywall.st 报道了「Adobe (ADBE) Unveils Creative AI Agent And New Enterprise Tools - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Adobe (ADBE) Unveils Creative AI Agent And New Enterprise Tools simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0p1WExkaDJYRjYxR3RjY2FuU25LSEN5OXRvREFvcnNwcV91S0EzS1U3MElObF96S1psZmtEN2ZSSzVRX1NRaGdzLU9SMUZZcnJqQ0FJLThmelMzeGpFLXpMSjN0Zk5ISmt0M0c1bVI2MG9IaHRKbWJDRFNNcXJNWng0Nm1vOFlCc2JTa05ybWtZQnZ3T0ZQd0tVeVpuazlsUExkMTJqcW9qN05FR3JjbGRtcy0zNXhuVTVYRFp6ZVB6UdIBxwFBVV95cUxPWW5HM2VNYmFyeHI1MzQ2SVg4bHp3UjRwOU1SdGlNM2l2VjFQWVJ4RXZIRG5oN1AzbW5WWUFwblBVX3BuaU9qR2JDdnJrRF9GYlpUVGRpejFDVFpPaGJOU1ZNUDFSbHZlX3JWRGZkUnNRWEJzNTk3dk5lVVh3M3NUYlJtY3oxWEpGcE9Db2E4dUk0bnBoeUdMOUZrcTRfd3AxdVVaTTNfQzRmUHZhNlJXMWJKd3lLQkYyYXoxTWNoQVVUQjM1SUpN?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-06-21 12:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "b4841e991dd46383",
+      "title": "commercetools and Mirion Technologies co-design AI agent to cut B2B order intake time - MarketScale",
+      "summary": "MarketScale 报道了「commercetools and Mirion Technologies co-design AI agent to cut B2B order intake time - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "commercetools and Mirion Technologies co-design AI agent to cut B2B order intake time MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeW81SDFLanozVEFPWm5Bd2lHZjltaGdUQnVqMEFyTF9sbzRlcFlsX2s3Q1J6MjBXU25NUXVSSWF5aHhRMVVSRzRtNnh5ZWR0UVp1U2g0RXhvckhOYlpKYmZ1RHZqaEZRNG1nRzFwTnB5Tno2MkJ3YUNicUNQcUhFRnRSUXBfOVhuMnhzQVJaQUFpQ0I2enBUdkRna0lld2c5Uk11MWI0Z0J4aVo2OGx0X01UOHpBM2lfS1ZqVkdTZ1k4LXVGZl9fQVFWbnFIbkdDVHphM3I2Z1dpSWRFRGVRTVZB?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-06-20 23:37 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e2733f557e93f8cb",
+      "title": "Unified Enterprise Systems - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Unified Enterprise Systems - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Unified Enterprise Systems Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56RXJRQmd1a1A2QU14Qm55VDNNRHRsQ1NqNFFJcUVlTFJlTzN3dnkteTdBZ3ByUnE0RGxON25uX19FTVpqQllLcm9hakNGcUxGeUU1YXE4eFNzd9IBWkFVX3lxTE56RXJRQmd1a1A2QU14Qm55VDNNRHRsQ1NqNFFJcUVlTFJlTzN3dnkteTdBZ3ByUnE0RGxON25uX19FTVpqQllLcm9hakNGcUxGeUU1YXE4eFNzdw?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-06-20 20:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "8313a6daa0b53d5d",
+      "title": "Poolside Review: The Secure AI Platform Built for Real Enterprise Development - quasa.io",
+      "summary": "quasa.io 报道了「Poolside Review: The Secure AI Platform Built for Real Enterprise Development - quasa.io」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Poolside Review: The Secure AI Platform Built for Real Enterprise Development quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxvOXlzTHY4aVdFRjRqTmE5aDVEbnkxSDl6cG9fSF90VFI0Tm5vam5SSlRVVkJUSTRrMXowY3pzck5tN2xoMlJGS241WEZ5MlVScXhxMHNTa0ZIdXpuZmpLdnpqV0I0TDlqWHNzYlpONV9wRTE0WldYR19OSlpTME5VellhRUhIWUstWm9KUm9BQ1JyRW1fT0d1RC1JNTBj?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-06-20 01:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 90.5
+    }
+  ]
+}
