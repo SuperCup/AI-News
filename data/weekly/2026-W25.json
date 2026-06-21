@@ -1,0 +1,274 @@
+{
+  "week": "2026-W25",
+  "date_range": "2026-06-15 至 2026-06-21",
+  "generated_at": "2026-06-21T22:32:23.903532+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W25/",
+  "image_path": "assets/weekly/2026-W25.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 7
+  },
+  "items": [
+    {
+      "id": "3321e39fba1c7f8c",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers - The Hacker News",
+      "summary": "The Hacker News 报道了「LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers - The Hacker News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers The Hacker News",
+      "impact_reason": "The Hacker News 报道了「LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers - The Hacker News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3pzN0V5ckJOZkpoYW9YWEEyRkhCZmtzOVZSUWNpR0FOT1ZfdEFyQkE5SGRTNVdseWNsQUJBRHotZmV3NGVESFBwVC15Zlk3WEdLaFAtbGV6X3FaSDdiLUVUQm5scVg2SHN2VmsxZ2UzUnRobjB3TG0wZWZVU2tmMQ?oc=5",
+      "source": "The Hacker News",
+      "published_at": "2026-06-16 00:39 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "402942a73d21bcd4",
+      "title": "Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold - Tech Times",
+      "summary": "Tech Times 报道了「Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold Tech Times",
+      "impact_reason": "Tech Times 报道了「Embodied AI World Models Attracted $6 Billion, But the LLM Parallel May Not Hold - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2M3SDAwcExsR19mUUVLUlhvSDd3QzNkZHE0S2FPdWstdGRidVI5RWVUVHpyX3Q3bFZGcmhVTWVJRlE4YUx0YlBhaC0yNVljQ2I0MU5yUXhIQ3dzYXFFcGJSbjFzNjIwWF9iRk1paVRkcE5hLUlNUHR1Y3RwWF9fQlVHdFQtOHJpc2c0UnhkNEVfb3dhNWJvdG9wWDZVMVRkRjd2T0VUODl0TDZqY1FOWTFJYTl6ZUdLamd4ckFLc05pNjQ?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-19 11:54 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "b2f3f01e4dcd5595",
+      "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
+      "summary": "Reuters 报道了「Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cyber leaders urge US to lift curbs on Anthropic's security models Reuters",
+      "impact_reason": "Reuters 报道了「Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16 00:30 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "780ae3d6bc66a2f4",
+      "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
+      "summary": "EdTech Innovation Hub 报道了「Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google DeepMind and partners put $10M behind multi-agent AI safety research EdTech Innovation Hub",
+      "impact_reason": "EdTech Innovation Hub 报道了「Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekFzN2VSVEQ1RjJqLWRNdklFc2YzNGNjei1oMW5CdnRxbUdzcUpQdUFaQV9YTlZvNGpIUXIyZEo2Nk5HVlRySGdmV0YwMS1qRFg2X0FoU3RrTHhwV1hBZnU0alRSdHNIRkEzZ2lYQ2lWdnJ1UmJ2QWZIOHNWMEdXaEx1Mkh1ekxjQmhwN2VyX3RFRXI2OHlnaDZYMUwzSzdPTjlBLVpmZ09IQ2t3d2trLUpUTmlxZw?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published_at": "2026-06-15 07:01 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "b86de92b7cc16868",
+      "title": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws Bloomberg.com",
+      "impact_reason": "Bloomberg.com 报道了「Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZy1pUE5pQjRZV2JVNWxlc3RTYXFjVEhNNlFUamVBWVlBVnkzZ0E2a29PUTJLcDgzaFRoZFNWUnlScjA2b3NmeEdaNW1Rai1RZm9uN2JxbThBVnM3U0VQaUk0VFQ2SExiQ2tFbjJCc3JOOEF1S1NwampFTkhLSDY1WEVLZzRDdkdteU1Td0Y3N0VPUXFROE9QblVzbFlsWTMwWHZYcENpWHBPTF8zMXgw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-16 00:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "2a4be86b30f8e8b2",
+      "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
+      "summary": "Reuters 报道了「US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI Reuters",
+      "impact_reason": "Reuters 报道了「US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16 04:28 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "1951c6f144ca8c92",
+      "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
+      "summary": "VentureBeat 报道了「Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Google DeepMind、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost VentureBeat",
+      "impact_reason": "VentureBeat 报道了「Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Google DeepMind、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-06-17 05:26 +0800",
+      "companies": [
+        "OpenAI",
+        "Google DeepMind",
+        "Zhipu AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "06f85cd53f21c37c",
+      "title": "Beyond the benchmark: Advancing security at AI speed - Microsoft",
+      "summary": "Microsoft 报道了「Beyond the benchmark: Advancing security at AI speed - Microsoft」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Beyond the benchmark: Advancing security at AI speed Microsoft",
+      "impact_reason": "Microsoft 报道了「Beyond the benchmark: Advancing security at AI speed - Microsoft」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeFdrMk11MnlkWEZYWjEyajVmbUo1a1NTd0loYm1KOGxtRFNyblhvZmUyc1c1d0c1bnZHWnNNOEczRFZob254aVJnVzdEX0RybWF3U2dvVTZiWW0tN2UtbzZHaHZLNGllV0J5cXpRS3I0TnExblZMdTBUVEV4WHpIZlhZbDU5ZU4tU0M3blNTNGNLdXRENF9XaTZBa0RJVjF2eUtscXN5Y3Mtd1lOWkE?oc=5",
+      "source": "Microsoft",
+      "published_at": "2026-06-18 03:30 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "699c276df8c5b0bc",
+      "title": "GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk - Tech Times",
+      "summary": "Tech Times 报道了「GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Zhipu AI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk Tech Times",
+      "impact_reason": "Tech Times 报道了「GLM-5.2 Open Weights Live: Top Coding Benchmark, but API Use Carries China Data Risk - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Zhipu AI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWN3MDNMbmpvT2NrVnBRdU1nWU5iQ2pseE1zdFNKbkwzVFVWcmxNc0xnRS1IZTVpM1NZMkhTNzlLb3VDYW5kRUpNdXhfcmpQcG5rQVgxTl9FQW8ydEFTNUp0eGxwRkNiQ1h0ZUJnQVF1YXdhaUc2dTNfYVZVSTdCOXI2NzNzMV9aVUlHblMtbFFBS3dIdGpiQnE2dkJQckZfQkduOGJnTDgzdGxkaGZ1czFtSFY4QWo5MHNiUml3ZFJmdzk1UkFwbWhQMDU?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-06-17 20:52 +0800",
+      "companies": [
+        "Zhipu AI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "802aa9a86d5a65db",
+      "title": "NVIDIA Releases JetPack 7.2 with NemoClaw Support - Let's Data Science",
+      "summary": "Let's Data Science 报道了「NVIDIA Releases JetPack 7.2 with NemoClaw Support - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NVIDIA Releases JetPack 7.2 with NemoClaw Support Let's Data Science",
+      "impact_reason": "Let's Data Science 报道了「NVIDIA Releases JetPack 7.2 with NemoClaw Support - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMHMzTm5QLXR0NXk5c1Q5T1JzaDVxWXNjSnYzSkhrZmhBYzFWek5hcFBzYWNJbWlOeHIyNjFaS1RKWnRmaEU4ZW5MV0M3VXczUjBsbkltbzlKUW9DbW1pLWhMQ2MwbG10a3VmVU1CRjVWLWJKNkpqVlFza2tJM195VUVVWElodWRsQTJGQ3pFVV9JS2E1?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-20 15:04 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    }
+  ]
+}
