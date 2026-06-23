@@ -1,0 +1,339 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T13:15:16.642746+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-23/",
+  "image_path": "assets/daily/2026-06-23.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "a2c6a633b9240e25",
+      "title": "IBM integrates OpenAI cyber AI into security - Let's Data Science",
+      "summary": "Let's Data Science 报道了「IBM integrates OpenAI cyber AI into security - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM integrates OpenAI cyber AI into security Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1hfTnAyRWJWdDhaY2N0WERaRzZpNS1tTkxYV1ExQlgyWVJFR3FRMWZzMkx4TWdqTkJzZ0t4U0N6cDZ5dkkzeXliMXhqanl5aGF0MDJQSVdyOTFuYy1VSmhJS3pHZmpMUTdlWjJnZWNPN3M5OW9odmNrajd4U3FnV2Q2NllEUVVMeU9zOXpZRQ?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-23 12:12 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "7b4b74c68c7aa47d",
+      "title": "Chinese AI Models Gain Traction in US Market - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Chinese AI Models Gain Traction in US Market - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Chinese AI Models Gain Traction in US Market Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDNXNzdHbFlGTGU1SG1WSW5CYlE1MGJ1eUlSMUExQzd0aHYyazY1RHhOVlVTdlMwd1dqRHRWczJ1cVdWdmJUZ0tjTlRkV1FXVjN4bTc1X2FITTNVVm5DVnVqd01jS0RaLS1qTFl3R19JV0hfd1BYTkN4TG1NMmZFY2JsVGFWenNoUFBWSENzSQ?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-06-23 03:01 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "92248603eabd804b",
+      "title": "OpenClaw Security Risks Exposed as 31,674 Instances Spread in 12 Days - Cybersecurity Insiders",
+      "summary": "Cybersecurity Insiders 报道了「OpenClaw Security Risks Exposed as 31,674 Instances Spread in 12 Days - Cybersecurity Insiders」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenClaw Security Risks Exposed as 31,674 Instances Spread in 12 Days Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTcxUVdhTEhMdFd0aDRaNGFIdzRBbHFDN256aE5sS2FXb05walhDbWUyYzA2TkZ0VTRsQ2k2a29kamdYNDRMSzdpaE8xd2gtcHZ5N2doTW9zZF9yUW9uSTNuN3lVakV3VFVOZGs3N2p2WFViSENRLUg1c1Rta2lEYmdndzFod3VuaXFr?oc=5",
+      "source": "Cybersecurity Insiders",
+      "published_at": "2026-06-23 04:52 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "4cc055843977298b",
+      "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs - MarkTechPost",
+      "summary": "MarkTechPost 报道了「Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQW9ZWlJGcW5fZEFOdklPMXRDYjdxOW1rWHFEVUI0RVIyX1h1VnZQckpZdmh5U083ZldqREQxR0V0S2x0dTExSjZmaW5Ga1NCcjROT3dEMWltcV9FX05udzVsdWszTjdSVnlDdXlIcjhoSGY3M3VrZUM0U1VyWlNVYVhEVkVxSUI3cWEyRjNLbVRCWXhZbkVZNFRXLUVpS2lJcVBaR3hsRm5yUWdsZUVIYTJ6YWkxaVc5Yk5zb2dLTmduNVVRbkppckNIY04zS2s5cWEwamVRelMzRmQ4RGliXzR3RjZrM3Nf?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-06-23 02:42 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "444ea6368b4c843f",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs - TechCrunch",
+      "summary": "TechCrunch 报道了「OpenAI launches new initiative to help find and patch open-source bugs - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI launches new initiative to help find and patch open-source bugs TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2E4MVNKVTRuVS1PTW1HVUtWLWRzQTRSTVQzSGNaWnBWck5TYWdjdEhRMWVxWkZlazZNV2tZYVRNRmgtQmViZHZHajhLOEtNNWl3aDhZdkdIamhXSXBlY2o2VVBfdG5CR0F3bC1yM29OMHlYM3JrelVaRFRVa09Qbi1ITHBtSVp2Q2ZqRFJKcVpQN3FSZ1Nyc1FvcXMzbGVDUGdzZVFlNlg?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-06-23 08:11 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "1debcfe041e26cc1",
+      "title": "科创板全面松绑！AI、先进制造企业迎来专属上市通道 - 北京研精毕智",
+      "summary": "科创板全面松绑！AI、先进制造企业迎来专属上市通道 北京研精毕智 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科创板全面松绑！AI、先进制造企业迎来专属上市通道 北京研精毕智",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDenNKTFh1clZKZExjR0dZVEN3SFVRRzBTM2diT3pEbnB3WEEtOXJxSjJFT1lLUG85aHN3bk1rNXhPeHZLTG1Ma1BqaXI?oc=5",
+      "source": "北京研精毕智",
+      "published_at": "2026-06-22 10:31 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "48d76e98f2b1c319",
+      "title": "智谱市值破万亿：资本市场押注中国AI的“前沿定价权” - 观察者",
+      "summary": "智谱市值破万亿：资本市场押注中国AI的“前沿定价权” 观察者 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智谱市值破万亿：资本市场押注中国AI的“前沿定价权” 观察者",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42RnljR3pwLUE4a3BURTdDM0s0WTJnczFURzhBSGRtMlVDeHZybFdMWUtHVFgzWnd0a0RmcUlaZkN6LXlZM1dhckRsWmZYNGZiMFhHQUd6dDIyaHZsUVNxQUJubWU?oc=5",
+      "source": "观察者",
+      "published_at": "2026-06-22 20:08 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 141.0
+    },
+    {
+      "id": "312c5eed65f8cac2",
+      "title": "AI人才争夺战，科技大厂招人看重啥？ - 中国新闻网",
+      "summary": "AI人才争夺战，科技大厂招人看重啥？ 中国新闻网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "AI人才争夺战，科技大厂招人看重啥？ 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fV1NyT0J4U2ZESGdhLWpSc0JvMGRqc0txTDBSdnB3b0gtMzE4RGtvbVhjUFFCbkNkMUY5Qmhsa2F0YW9lMlg2a1hnQzR6bFBlS1A0WmtnWkVSY0tCSXVPeGI2M2Q2Z3M?oc=5",
+      "source": "中国新闻网",
+      "published_at": "2026-06-22 15:13 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "564f1e8913dad5d1",
+      "title": "T早报｜智谱市值破万亿；欧洲35台英伟达超级计算机启动建设；48位中国iOS应用开发者联名举报苹果 - 财新",
+      "summary": "T早报｜智谱市值破万亿；欧洲35台英伟达超级计算机启动建设；48位中国iOS应用开发者联名举报苹果 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "T早报｜智谱市值破万亿；欧洲35台英伟达超级计算机启动建设；48位中国iOS应用开发者联名举报苹果 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UdHJMV3RDcWVmZDhJOTlUd01DNm9vTlJVWjJFdVVLODNFQjB1SlVXVHdGNlFqUXh3WDZzbzBQd1hSZEkwVTlyazFCZEYtMkstUTBjMW9yclJGeHNhUEJBLTIzbks?oc=5",
+      "source": "财新",
+      "published_at": "2026-06-23 08:32 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "087684605e6ed19a",
+      "title": "从AI安全到抗量子密码，格尔软件双线布局数字安全 - Sina finance",
+      "summary": "从AI安全到抗量子密码，格尔软件双线布局数字安全 Sina finance 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从AI安全到抗量子密码，格尔软件双线布局数字安全 Sina finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtYUgya3ZQTW13Qy1UTFpsVGhaRVRubWx6NlBtSTM5aV9NTUNIaHRjbWdZWGJ4UjF2d1ZKSXJISjVQb0dCcWl0NWpPdHdpeklWdFkyeWRkYlRxcGt2bmJCZFRLU0hyX2UtUlE3TEU5bkwzMU92SWVlZQ?oc=5",
+      "source": "Sina finance",
+      "published_at": "2026-06-23 10:00 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "5e000c525c33be80",
+      "title": "Abacus AI ChatLLM Review: Models, Features, Pricing & Value - KDnuggets",
+      "summary": "KDnuggets 报道了「Abacus AI ChatLLM Review: Models, Features, Pricing & Value - KDnuggets」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Abacus AI ChatLLM Review: Models, Features, Pricing & Value KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iU05BZVlqRzBmUEZIT0E4V1lXdU1pWlNQVF9RVi11b2F6V1h4WThhVlVHSW8yMWlURVA0d3lmaEh1eVFHNVhDYnJSWWFhOFFLTmdseV9XeWNfT3NVdC1LS1RQY0NfQlFWczdBYkJXcFpWb2s?oc=5",
+      "source": "KDnuggets",
+      "published_at": "2026-06-23 01:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "21f9679e99693997",
+      "title": "A10 Acquires TrojAI to Extend AI Security Into Agent Workflows - Security Boulevard",
+      "summary": "Security Boulevard 报道了「A10 Acquires TrojAI to Extend AI Security Into Agent Workflows - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A10 Acquires TrojAI to Extend AI Security Into Agent Workflows Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ18tNTFuVy1qR01vbkJYUmxkbzZnbFZTX2RKQ0RLVWFSVEdrUnpQUWxXTDJ1U1dUOVliWkRHdHRWb0s3eXFGTVVfZkRHaUU5bnBPWS1ENFNFTGVlUmQ0blBPXzJlNnZ6OVpTZmV3VmtPZVpOXzVKb0kya2tSdWJoQ2ZRSFJKUnhWTEhZYVZVaGUwZnVRc09nTVA5Yk5oQzB0RDdJ?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-06-23 03:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "d7f513b1fdf1f91b",
+      "title": "Can Zoom’s Agent Architect Redefine the AI Agent Lifecycle for Enterprise CX? - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Can Zoom’s Agent Architect Redefine the AI Agent Lifecycle for Enterprise CX? - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Can Zoom’s Agent Architect Redefine the AI Agent Lifecycle for Enterprise CX? The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUNUSHRhOVk2VmQzWHpLRlFpNG94a1l1VFpYZHVBeTJ3LWpQMGRpXzRuZkI0V2UwUnpqQ3hNbVprcTVibzZvR043ZTZkdWpnelYxNjZEdzM5UnlGYnlzaHZIMUhvb29halVrMnc3Mm9ZbWFXMHJYTXhlU1hFb05WRHkzUmpOb3l3NEhrekQ4OWw1SXlSY3ctYWFjUjdvNEZSemFXVzFMd0xhcllqOUJz?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-06-23 03:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "40e0784e31bb1874",
+      "title": "Adobe at Cannes Lions: agency giants are now running its agentic AI - PPC Land",
+      "summary": "PPC Land 报道了「Adobe at Cannes Lions: agency giants are now running its agentic AI - PPC Land」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Adobe at Cannes Lions: agency giants are now running its agentic AI PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEllSjZQNkZNMHZsNkhXVjR4NlVKVU9rM1ZhUFRVMEpQM0JhekQ4M3pZLXQ2QVc1bFFVM0d0X2w2NUtIcVNJeEpFOWlnaWhXaDJoSEVMYktKNWlmY3dIZGhGUlhZazhBV0xkeEJ2a1JWbnpMZTZ6NFBaTUVpNFZMQi1pR3RSZ2ZkSF85MA?oc=5",
+      "source": "PPC Land",
+      "published_at": "2026-06-23 03:46 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3db9547e63d517c8",
+      "title": "The 12 Most Powerful AI Agent Frameworks in 2026 - vocal.media",
+      "summary": "vocal.media 报道了「The 12 Most Powerful AI Agent Frameworks in 2026 - vocal.media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The 12 Most Powerful AI Agent Frameworks in 2026 vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVcxS3plOVM4ekZHbkd6ejNNY1NWbDhzekVsUlRTVFAxQk5xc2hiamwyR1RETy1HV1hMOTJXTHhGTXU1c0NvVEhkbm1QZS1QZmluSzRId0U2M00wd0F2SGdidGJMX3BZUE5DTDgzODJsMzVkQXlPMFZ3ZGs3SE1TbHZ3?oc=5",
+      "source": "vocal.media",
+      "published_at": "2026-06-22 18:28 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
