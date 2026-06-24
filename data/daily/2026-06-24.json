@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T13:12:13.394844+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-24/",
+  "image_path": "assets/daily/2026-06-24.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "d400f001393df2d1",
+      "title": "看得全、判得准、用得稳：星火AI企业风控官重塑企业风险评估 - 新浪财经",
+      "summary": "看得全、判得准、用得稳：星火AI企业风控官重塑企业风险评估 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "看得全、判得准、用得稳：星火AI企业风控官重塑企业风险评估 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2hYczFKZjNsSFdoWW94M3QzcnRqMy1OSlBWY201eUFIVjVmeUIzQWpjRnprMkxzSWw4akpGWmNyanFEbUstVTZWcUx2ZVFMYmRnb3hQR0lDU1J4RFFPb3I3ZzZzWElTS1d3dGRUbFNCNnZwcHlTdHNRWVhTZUwxbw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-06-24 10:05 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "6c4cf681cc184035",
+      "title": "打造数字信任新底座，松江这家企业加码AI与量子安全 - 新浪网",
+      "summary": "打造数字信任新底座，松江这家企业加码AI与量子安全 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "打造数字信任新底座，松江这家企业加码AI与量子安全 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQWpmdmlkd0hiODAyc09ZQk5PSkREdGdXc29oU1BZT2tIVjQ1Z0RIbG4wOEU4TFhrbTVCa0tubjluRl9EcHpMSVh1aHd0Q20wM2VIWDFzbHMyMFZIQ3NyMFFOX0U3Qlg4bFlqWEZJRTFmTFlWblNNVTNCaUptR3c?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-23 14:49 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "2d94c052e67494ca",
+      "title": "OpenAI Expands Daybreak to Help Defenders Patch Flaws - Infosecurity Magazine",
+      "summary": "Infosecurity Magazine 报道了「OpenAI Expands Daybreak to Help Defenders Patch Flaws - Infosecurity Magazine」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Expands Daybreak to Help Defenders Patch Flaws Infosecurity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzSlJHb0NXSTJ4a3czdmFMUWdjMVJ3WEpxZ09VMFNJb2Q3SzdJZEo1WE9ISkdiN2g0d1YzNjlIME1nSWVCSFRjQUdmMjNkTWpFZVk0WXlMSUlUa0xMSU96UzVVMXlsSXY1TDZ1dXRrN0JfYVlwUnNVUWxOQUROZw?oc=5",
+      "source": "Infosecurity Magazine",
+      "published_at": "2026-06-23 22:15 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "58da95e09f776c5f",
+      "title": "五大国产开源模型已“上架”！亚马逊云科技亮出Agentic AI全家桶，小鹏影石Kimi都在用 - 智东西",
+      "summary": "五大国产开源模型已“上架”！亚马逊云科技亮出Agentic AI全家桶，小鹏影石Kimi都在用 智东西 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "五大国产开源模型已“上架”！亚马逊云科技亮出Agentic AI全家桶，小鹏影石Kimi都在用 智东西",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YbnVYQ1dwd1doeEhMZE5yUWdpVV9IYWlTSmo5azg4OEF0NHBfTlZUYU1xNmNkcWZZUnNYcDVXWldjUldBbWc?oc=5",
+      "source": "智东西",
+      "published_at": "2026-06-23 21:01 +0800",
+      "companies": [
+        "Moonshot AI",
+        "XPeng"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "75b0c895daa7a7de",
+      "title": "Nvidia Launches Open-Source Software For Life Sciences - The Information",
+      "summary": "The Information 报道了「Nvidia Launches Open-Source Software For Life Sciences - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Launches Open-Source Software For Life Sciences The Information",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1oxa1Zmc1M3Ukpqd3JLMHdhVFlwTi00ajFsdS1RNlRrd1NaTWNsaWJNbVVSNkRxdHQ3aWVqTGZBNDJXeHVxcnhDOUtXZ1NhZjNUVkV6ZVp1ZURUQ0hKdW1RRlNqVWpmSVNvWG5FdnNzeDctMUhWZWpscHctUVczUkwyaXN5bnlhcGpDX082M3NEa2p1SFE?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-23 21:00 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0991e537b19798fc",
+      "title": "Axios C-Suite: Open-source AI pits cost against security - Axios",
+      "summary": "Axios 报道了「Axios C-Suite: Open-source AI pits cost against security - Axios」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Axios C-Suite: Open-source AI pits cost against security Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2daQzVXNzVPRVpDRnM1dWl6b05Qb1p2UndsRzU3a2Rvc21KQXdFaFpIc3NsTmxFdUpCUk5iaGNOM2lSXzgwMEhDZmtNWF8wY0dscWVRcm1tWVJnc2N4YmloYnQzdXkzWkQ1bGIzQlMyQ19vWG4xUFl1NGxiRk1vWjFB?oc=5",
+      "source": "Axios",
+      "published_at": "2026-06-23 17:46 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "08f0f98c781bdc1e",
+      "title": "How AI Customers Are Lowering Their Anthropic and OpenAI Bills - The Information",
+      "summary": "The Information 报道了「How AI Customers Are Lowering Their Anthropic and OpenAI Bills - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How AI Customers Are Lowering Their Anthropic and OpenAI Bills The Information",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnlvNUhoR1VIQkxZdmdKRDk5VmVjdzVtaFUtLWNHbXhOSjlQVkJiZUJnY3UwNlhnX05kak56bW5QYnJSMHY5WVlQUlcwTWdXd0dsUDVMcDdsZFlqYUR4TGtLZnR6MUUxNnpuSnFRZzdXbDN4VW1tQnIybDdZOE5jQTlBVWVtLVJmLXlEdg?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-23 21:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "661d50549022e568",
+      "title": "Envoy AI Gateway reaches 1.0 for production AI use - SecurityBrief Australia",
+      "summary": "SecurityBrief Australia 报道了「Envoy AI Gateway reaches 1.0 for production AI use - SecurityBrief Australia」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Envoy AI Gateway reaches 1.0 for production AI use SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUhpQUpHdXBuRGhMWHVvQ1htVk94dGh0bG1LZlNGcEhTR0tGVXdmblgtcjhNWmZKMXB3c1M2TEVrMlVMVTRFUms1d2l4S21DOE9rWkRqSHU2YjNCUmQxWS1tNU9hZVlLOV9KZEN6MG5GRWEzc0tMMUwyUUFteTM0OUF0UDJJc1JJVWszZ01R?oc=5",
+      "source": "SecurityBrief Australia",
+      "published_at": "2026-06-24 08:01 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "82ff979e41efbe74",
+      "title": "第四届链博会重磅报告出炉：中国企业AI适配度跻身全球第一梯队 - 搜狐网",
+      "summary": "第四届链博会重磅报告出炉：中国企业AI适配度跻身全球第一梯队 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "第四届链博会重磅报告出炉：中国企业AI适配度跻身全球第一梯队 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjVYSmpfOVBlRE12SUY3Wm45X0pCWDQ4bFRoTmotbURIb1gtMlFZVUNXd05IQkN3YTA4NzRNaTh0dmFadTNVUmRPV2tMOXNGdlI5dF84OGhDZlFqeEtvbHZYalZfdW5YV3pvRnZEUFJzNTBUZldhNlotT2s2SzhISFFIQnAyR1ZY?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-24 00:24 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dd94141b931da146",
+      "title": "活动 | 2026 福布斯中国人工智能科技峰会暨 2026 福布斯中国人工智能科技企业 TOP 50 评选颁奖典礼将在深圳启幕 - 福布斯中国",
+      "summary": "活动 | 2026 福布斯中国人工智能科技峰会暨 2026 福布斯中国人工智能科技企业 TOP 50 评选颁奖典礼将在深圳启幕 福布斯中国 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "活动 | 2026 福布斯中国人工智能科技峰会暨 2026 福布斯中国人工智能科技企业 TOP 50 评选颁奖典礼将在深圳启幕 福布斯中国",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kZGEwZ1l5UEFURkZ6cVBDRGJXYkMyd2NGTEtKV2o1ZHgyTVQyeTFiMXFLMUFacTBpV29pVWw4SS1NMXJWY0prTVhMTFFTUWFDMGViWkRzWGZtZms?oc=5",
+      "source": "福布斯中国",
+      "published_at": "2026-06-23 21:33 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "cb743e78a153614c",
+      "title": "Snyk launches Evo Agentic Development Security to police AI coding agents - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Snyk launches Evo Agentic Development Security to police AI coding agents - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Snyk launches Evo Agentic Development Security to police AI coding agents SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0JLcVpoemRnSkZyN2JmQTc0MnhyZHhYVUNnWHhvaldST2tIbWZKZ05aVkRjM25STVZNZ1VBYlFIV1BsVFhYbjRQUXJkaU9BZUc4ZmdFNW5FQk9fcGM0aXJ0RDdZc21KdmFIYktkU2FxcWlZS0M2SVEtXzJHRHBOdU83SHJTWV9LdlZhYzgtNzBxZmVzOThYX24xYzVCbGhLemRHZkxSZEhDWGc?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-06-24 06:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "6a8d283e20b2ce3e",
+      "title": "Snyk Launches Evo Agentic Development Security | AI Agent Governance - Snyk",
+      "summary": "Snyk 报道了「Snyk Launches Evo Agentic Development Security | AI Agent Governance - Snyk」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Snyk Launches Evo Agentic Development Security | AI Agent Governance Snyk",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03RTZyVGxhUjdwQXpkeHRuaV8zMjFrbnVBNC03SmZJZ0k1U2dmcGM1WEt2SmdwZkkxVm8tV2VQSE5MRmdiWXkyUkNXcGUyTlZFN08xdDA0UjZ6NHFSb2dSVG8yOGtnTnlJVVVFbWwxUlRLcE5KRVFv?oc=5",
+      "source": "Snyk",
+      "published_at": "2026-06-23 19:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "811cece8c8f516a7",
+      "title": "The business risk of opaque AI in software development - DevPro Journal",
+      "summary": "DevPro Journal 报道了「The business risk of opaque AI in software development - DevPro Journal」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The business risk of opaque AI in software development DevPro Journal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGpBXzQ0QUVETEJZcHZROF94WjFYQ3BMYXh6MFhuVUk0TXhSZ0dVZ0VDREVQeGRhWnMyRmItV3MzNFB1MHY4eFJ6cWJselFXUnYxenRzVGhnYjJjbjNVb2FYeDV0b2Z5cFU3MHZyMWN1WURqQU1FV21XdTROcWZSejJrYUktZExSSHZrYU1QRlZHWGVvZzlka2tXa2o0dzVQTGx1N1B3ZGtGNjZXekNqR1RXVkdFU3Jw?oc=5",
+      "source": "DevPro Journal",
+      "published_at": "2026-06-23 21:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "7f1ca584b762ca9b",
+      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license - VentureBeat",
+      "summary": "VentureBeat 报道了「Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license - VentureBeat」相关进展。 该消息涉及AI 产品、企业应用、大模型、开源模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYlc1THNJVXJjcEZFajA0aXUxd0tud1JDUkdfWTlhT2JoaENydU9oRDRvVDFlU2dKMHFaaV9WemVpWU55U19IcFdXaUV6VHJxT2otcllZOHJMbVJ1U3piVWpvT1pvRS1lNVVBa1FGY1lhSTd0djZqYW12OTUwTTNSdmg1VldpSnFtSjVmWGNnZW95aGQxdGlVUGhUREl0cGVwaktMaTYzb0xBbkNZVGFEQnN0Yzc5MkxKbF9Ga0pNNk1BM3VvNEZxVkc5dWZPaTFaNGEwcGVTM0E3cGlGSks4T0Zkdmhsakx6cGdRaHdvdFV1UQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-06-24 02:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "daaa684c51cecd16",
+      "title": "AI Agents Are Done Piloting. CCW 2026 Is Proof. - CMSWire",
+      "summary": "CMSWire 报道了「AI Agents Are Done Piloting. CCW 2026 Is Proof. - CMSWire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Are Done Piloting. CCW 2026 Is Proof. CMSWire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVC0zZU9uaExyaEQ4d25TV1JPUUlOU2pYOE5vS0dnT3gzazV2bmJVeFNyWTVjUTUxcUlmdjktQkFDaXlyd2NTY21CYjJsTzhYZ3Njdm91MXhkRENsVTdlT1ljLWlMeDJDRlJqYUV4ODBfS3dBTVF5ajFNd2Z3cnRGbzRFTFV1YlJLaHhPUDhCSGJRQkVkYkwxa21DaFJpaEY2S1hleEQ5ZUhrLU56V1pFcTh1R0NZN2ozTWNMSG4tcjdqWkNH?oc=5",
+      "source": "CMSWire",
+      "published_at": "2026-06-24 01:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
