@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T13:38:29.194766+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-26/",
+  "image_path": "assets/daily/2026-06-26.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "f886fa7fbc4c7920",
+      "title": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns - The Information",
+      "summary": "The Information 报道了「Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns The Information",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-26 04:16 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "62a4b282550e834b",
+      "title": "Linux Foundation launches Akrites to fix open source flaws - SecurityBrief Asia",
+      "summary": "SecurityBrief Asia 报道了「Linux Foundation launches Akrites to fix open source flaws - SecurityBrief Asia」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Linux Foundation launches Akrites to fix open source flaws SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQko3bVpwS1NnZW1UME1DZGlBaHhGN0tCMk5xY3ROMnBiTWVaaTlXbUlXWFI4VmRXamlMZWxoaGxmSlNDSTlsS3pWV2NtWTlSN3ViYzNJNDhPWWVFejRoQzNRVkNJN0dlamQ2bEFOeFZWMFZrNlFmbWtQRFFTWF9aYUpxemRRNm9uRGNDZmlxLV9NQmNqb3c?oc=5",
+      "source": "SecurityBrief Asia",
+      "published_at": "2026-06-26 04:21 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "775742f723a6a4d0",
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - Venturebeat",
+      "summary": "Venturebeat 报道了「Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - Venturebeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' Venturebeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVksyRFlsamVnRXRrekJITmxYUU1uS1Nvb1lzYzllRDFoZmZLWEhmMXdkZUZqR0t3Wjl2akp6Y015M2YySjZ1ci1VX3RZYXhMRFFWNE1YMDNvQ2paZkRObWVDUW1HdUFKUzFQMFloS0ppcjAtVkRLVFpic3ZBa0M4cHB2RDVlX29DUlFIVkNySGdtNG9MejFQdWhQT1VWZFhMUUNTVE9VbTRGWng5SURJcGxTOGNrZ1Noc25YOThlbDg1dzNqcDczZHc5N0Y0Wk1lWkpB?oc=5",
+      "source": "Venturebeat",
+      "published_at": "2026-06-26 07:31 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "7e55c3e8536364b6",
+      "title": "AI深入业务腹地，科大讯飞发布企业服务Claw平台 - 科学网—新闻",
+      "summary": "AI深入业务腹地，科大讯飞发布企业服务Claw平台 科学网—新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI深入业务腹地，科大讯飞发布企业服务Claw平台 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mNk1IcWwxcU9waS1nRUhOeEF4S09maFhPN2ZTWEJZakpGNm1QWmZtZnVDMWZYVnZ0ZThzWmY4ZDF3cE5lWGFvbDVCYmVBaE96b1BMQXIzV3haYnBqOFNEMjFYa2M?oc=5",
+      "source": "科学网—新闻",
+      "published_at": "2026-06-25 16:28 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "e2119e48b9bce309",
+      "title": "讯飞企业服务Claw平台首次发布，重构企业AI服务新范式 - 同花顺财经",
+      "summary": "讯飞企业服务Claw平台首次发布，重构企业AI服务新范式 同花顺财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "讯飞企业服务Claw平台首次发布，重构企业AI服务新范式 同花顺财经",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mSTBWZVN5TEY4ajQ0U05XY05xU0dMaDJPc1AzOHVKb1lFNW1Ha1RMVm9zbXNPbE1ySGdPdzk3YWtqUGdDUDdxUVB0Vlp0MWk2Y2ZBamNvSnJYdGF3Y3B3Tmp3?oc=5",
+      "source": "同花顺财经",
+      "published_at": "2026-06-25 23:09 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "2f727fd9f29ab259",
+      "title": "科大讯飞发布企业服务Claw平台 - 中国经济网",
+      "summary": "科大讯飞发布企业服务Claw平台 中国经济网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布企业服务Claw平台 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UYjhLXzNhX0pSbWExcU11QTE4ZkVlRWxvTW5nY0wzX3c3OHktRXc5LVZhVWFCdFJqdEo1NVEwOGFNS1dDNGY4SjZHdk1USl93TGZRY3E0ZGU3ZlFRMUFUb1ltYzVPdGlDeUJoLXYxcw?oc=5",
+      "source": "中国经济网",
+      "published_at": "2026-06-25 17:51 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "fe5009ea55044e18",
+      "title": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference - EdTech Innovation Hub",
+      "summary": "EdTech Innovation Hub 报道了「OpenAI and Broadcom unveil Jalapeño chip for LLM inference - EdTech Innovation Hub」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE1uazhjaWdCRXA0S1BiVlRtOFNYSm9xSzNzTU51eUM1WndFMWFsVzVlbGpZZUYxejFnTDFDT0c4cFB6aWtBYmZyR2tRNUdyRlRGbEVkbkJHeUFIeFc1VkUybXRENE5vaDlvWklyUVZjajA3Z2lkSHNkc1lvaFdSQ2pCdEx4d3NNTW55cTdIbUNwa0dYdkEwbktCanlUY3c?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published_at": "2026-06-26 07:01 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "3ba8eceff979b885",
+      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
+      "summary": "Axios 报道了「Trump administration asks OpenAI to limit next model release over security concerns - Axios」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Trump administration asks OpenAI to limit next model release over security concerns Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
+      "source": "Axios",
+      "published_at": "2026-06-26 06:59 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a00ad8005777d603",
+      "title": "日均180万亿Token！豆包2.1 Pro发布，打开AI生产落地新空间 - 搜狐网",
+      "summary": "日均180万亿Token！豆包2.1 Pro发布，打开AI生产落地新空间 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "日均180万亿Token！豆包2.1 Pro发布，打开AI生产落地新空间 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVg0MVlYQ0h0M2YycGpINHpfc0ZkWjNSaWgyVVRuM2JpRnFua1pZTDI5bU5ERkNfWGlGZXliekxVSklQa2ZoNGtFOGdnYW9xSnFpcTdTSjRKZXNteG1NYk1wRVNKMUNVWi1PRkNmc19oam84c1RlY2FzaVdOT1MtNVhmUEV3XzB4?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-26 11:13 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d999e92bafa7f1b8",
+      "title": "商汤(00020)股东大会披露：企业级 Token 单月使用量迅速增长7倍 - 东方财富",
+      "summary": "商汤(00020)股东大会披露：企业级 Token 单月使用量迅速增长7倍 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "商汤(00020)股东大会披露：企业级 Token 单月使用量迅速增长7倍 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW05N1dJU015cFNTUVRwb0VDMVd6bmw2STZHSERtMmdOTEgxd0VuNENLcWN4R3dwSV9uS2tNYmNBbUlMdl82MGJRVjRWMC1BSkZJamZYSVZXRGpqYUc0eUNKQ1NQQXJ6bGIzZ1VfTnFqTFVBc2tRYm1xcklwYVc2OFpRbXJtVzhkTkt4RnUtU2liN2k0enNkY21YZTEtWGtEX2RndHg1NUo0TGFlQWVrQnJwOA?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-06-26 04:27 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "84a84079213aa4b0",
+      "title": "New infosec products of the month: June 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the month: June 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the month: June 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFlqM01vbm14MjBuUElaQjh0aWxjcHhycU1rU0YydzRvNm9RcEVfbkdiNVJpdnZrSl9mSmpNQUpWSEZjVlBJamZIY0J1RFZ6cGwzWXlGMExUTGpJS2cwMlJtU2txYkptaGs4dm0wLWd0ZS1wcU9VRldCVk9IWEpGN2djakdIV216QWlxQTl2X2M?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-26 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "da3dc8aa3b3dd233",
+      "title": "Enterprise AI moves from pilot to infrastructure as agentic platforms define the next buying cycle - MarketScale",
+      "summary": "MarketScale 报道了「Enterprise AI moves from pilot to infrastructure as agentic platforms define the next buying cycle - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise AI moves from pilot to infrastructure as agentic platforms define the next buying cycle MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN1pKdDZCQVBZSER1S21qbnhFV3RmYWdpQkxib2NmVHlHeUMybWxTN0tqRHlocElQTk0zbGxDQTduU01nLTVNT3RvRjZvSEh3Q1dranh3ak5OOHhpNFlrUXZpdllyWjR1WldfX2tDS3RVU25VRTZOT1JJc3lwMXRia1ZmWkN5dmpnYzdsMDdQdVNnN0Z1N1VhZDlHOEI3d2dDU29zTGRQVkJBSmVpalJsTTVBeGJxTW9OaXRzNVBvZzBNT0oxTHJNZk1KRnBKQi1jOVo5S2ZLdER2TnFwa2RCX0FkVi12bFV2Qld3elpaOGxVQms?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-06-26 00:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "ec01ebf917718a6c",
+      "title": "Google Pushes Enterprise AI Agents Into Workflows - DesignRush",
+      "summary": "DesignRush 报道了「Google Pushes Enterprise AI Agents Into Workflows - DesignRush」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Pushes Enterprise AI Agents Into Workflows DesignRush",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CUHJrdmRBblM2YzJqd09uNE1fa1oxaTNHQ1JocHdNcWdTdlF0M3JfTUhTb2RWUUZuRmtxTGlMa0VqLUM2WktoS29tR0FXcTRpQkdpVHJic2U2VDJoMnFaWWQwbHM0dVR6T0lZYkVHaVJLMms3R1dqdjZWMHU?oc=5",
+      "source": "DesignRush",
+      "published_at": "2026-06-25 20:54 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "1fa5fceacd0f9e1a",
+      "title": "Notion kills email product as AI agents take over inboxes - The Tech Buzz",
+      "summary": "The Tech Buzz 报道了「Notion kills email product as AI agents take over inboxes - The Tech Buzz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Notion kills email product as AI agents take over inboxes The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFlWeVZEbmxSVVUzSFNXeHZteWc2NUp2Yl8yajR4dkEtTlU0VXNQNGtrLWo4UE41ZFQ2dHlfMzR0bHQ5enFnX0hFbk4wZkk3VDJ2cmhtODVLVzd6LW83emtLVVNrZ0N6aFpuSnpzekc0MlRjaEhibmItcnI5OVdzV3d6NEplQzA5SDBNSVNsRWMxX19a?oc=5",
+      "source": "The Tech Buzz",
+      "published_at": "2026-06-26 03:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "8dee2d37a8a309c7",
+      "title": "Orthogonal Raises $4.3 Million Seed Round to Build Infrastructure for Autonomous AI Agents - citybiz",
+      "summary": "citybiz 报道了「Orthogonal Raises $4.3 Million Seed Round to Build Infrastructure for Autonomous AI Agents - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Orthogonal Raises $4.3 Million Seed Round to Build Infrastructure for Autonomous AI Agents citybiz",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGRzWVd3aFRfYjUtanJUNWxaNTY0eDF5dFZVYk05Y0VOeGFkVk9ra0VWcnAxVGdrOERzWjNtbkNQSXJBVHJWU2Z1bk9Ebk1nVC1ZV2t4Z2ZtMlVjY1NDRV94THh3bjNFR3g3QnpLQzQzc2d0blFHbGZVUUdMX3NWTkVDN1FUYkZwS0ZQd25QcFZQdUItUl9OU0xmMDh5VHhWTFozdGdBNDhzQkc0dkhfN0lrX1hRLV90Nmdoek55X2RhdFFOc0pn?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-06-25 22:59 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
