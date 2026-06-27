@@ -1,0 +1,344 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T13:04:41.008145+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-06-27/",
+  "image_path": "assets/daily/2026-06-27.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "f886fa7fbc4c7920",
+      "title": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns - The Information",
+      "summary": "The Information 报道了「Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns The Information",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-26 04:16 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "6deea1612b759721",
+      "title": "Why Cerebras’ Mind-Boggling LLM Raw Speed Is Still Falling Into Nvidia's Massive Software Trap - 24/7 Wall St.",
+      "summary": "24/7 Wall St. 报道了「Why Cerebras’ Mind-Boggling LLM Raw Speed Is Still Falling Into Nvidia's Massive Software Trap - 24/7 Wall St.」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Cerebras’ Mind-Boggling LLM Raw Speed Is Still Falling Into Nvidia's Massive Software Trap 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTk1yVXlCMkotNTd6QURzZ3E0eG5SUnR4TWJCMU1fdjNJRG5rRDUyX1NKa3FRWFRiSi1uaHlLcERjeVF0c29iRXB2bHY3djQtNzd6cm9KekVRdEtUb1VvRlY5Y3diMFJFZmFqVE95NW5VR1NmSThRc2FCSk5BTXVRVkpmbE9JMFA1elZDNEU3RE1zZFRMYWJQLS1WRkJPZVVMWng2X3FzZHpwcVRkd1FyN0RIeGpiOHJCc1hoVWRSckxIWHFIZ0JWSzhJTVlCNUNTVUE?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-06-26 22:21 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ea8169f61ef5790d",
+      "title": "OpenAI and Broadcom unveil Jalapeño inference chip for LLMs - BetaNews",
+      "summary": "BetaNews 报道了「OpenAI and Broadcom unveil Jalapeño inference chip for LLMs - BetaNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI and Broadcom unveil Jalapeño inference chip for LLMs BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGVEaTU4emk3T28xTW9CZWhPYWphdGs5ald4eEtiMVFjenFVaHBCcUd5cUQwVGs4X3F4T1J4NmFGeGhEWEhVTnh5c3pzNFpjajFsLUIxWEdUOGFyLURPQnd0eUdjX0o5d0ZleGI0aEdVVEpxTS01dVhiWlItZlBlY1E1cjFSOHMxNHVOeUtEZlRSeWs?oc=5",
+      "source": "BetaNews",
+      "published_at": "2026-06-27 02:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "772c191b423d8d32",
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - VentureBeat",
+      "summary": "VentureBeat 报道了「Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere' VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVksyRFlsamVnRXRrekJITmxYUU1uS1Nvb1lzYzllRDFoZmZLWEhmMXdkZUZqR0t3Wjl2akp6Y015M2YySjZ1ci1VX3RZYXhMRFFWNE1YMDNvQ2paZkRObWVDUW1HdUFKUzFQMFloS0ppcjAtVkRLVFpic3ZBa0M4cHB2RDVlX29DUlFIVkNySGdtNG9MejFQdWhQT1VWZFhMUUNTVE9VbTRGWng5SURJcGxTOGNrZ1Noc25YOThlbDg1dzNqcDczZHc5N0Y0Wk1lWkpB?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-06-26 07:31 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "55180a3bcba87114",
+      "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
+      "summary": "Reuters 报道了「US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "US allows Anthropic to release Mythos AI to 'trusted' US organizations Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-27 06:37 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "be5fdc2b19cb124e",
+      "title": "算力极致，AI极简｜先进数通携手华为鲲鹏昇腾，解锁金融轻量化AI落地新路径 - 新浪网",
+      "summary": "算力极致，AI极简｜先进数通携手华为鲲鹏昇腾，解锁金融轻量化AI落地新路径 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "算力极致，AI极简｜先进数通携手华为鲲鹏昇腾，解锁金融轻量化AI落地新路径 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Sb1lKek1mQ3dNdDlaZUtOU1ZNZ1N0cjFPcHRVNWRqd3p3c0lhSnB3NGkycmZIOXY1dUs2WGd5OGZzc3R2WHRLSHlqYnkza00teHF5bVJMLThJQVJNdkJLOEVYQWl4R1pjeThKSVY0eTRYdw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-27 10:34 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e96c2b14ff73b996",
+      "title": "首批嘉宾阵容揭幕！蚂蚁健康、中康科技、蝉妈妈、熊小婴、时尚奶奶团、想乐时光、融马科技等领军企业已确认出席AMI2026 - AgeClub",
+      "summary": "首批嘉宾阵容揭幕！蚂蚁健康、中康科技、蝉妈妈、熊小婴、时尚奶奶团、想乐时光、融马科技等领军企业已确认出席AMI2026 AgeClub 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "首批嘉宾阵容揭幕！蚂蚁健康、中康科技、蝉妈妈、熊小婴、时尚奶奶团、想乐时光、融马科技等领军企业已确认出席AMI2026 AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EU19TRV9TTDAzc0l0S2d2c1NRcTQtQ0kxRWRNa3hWMXNVUU5SOXp5LWRzRG9jODk4cWdPMnJUYnVKNmF6aThGSWR5SmxKR1RWaFVXcW1R?oc=5",
+      "source": "AgeClub",
+      "published_at": "2026-06-26 18:02 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fe552f0317ee38ce",
+      "title": "美团“小店有AI”首场落地北京，向百万中小餐饮商家免费开放AI经营课程 - 搜狐网",
+      "summary": "美团“小店有AI”首场落地北京，向百万中小餐饮商家免费开放AI经营课程 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团“小店有AI”首场落地北京，向百万中小餐饮商家免费开放AI经营课程 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRrSWVNQVUxVUdFSzdfZ25fd3U3cy1wcXBFWnpYZ0lUMlo3anJ0a3JtaXVSUGJucUJpcWdXbzh4R0VMZWtBVVAzR0NYclZfcGNVTmk2aHNxYWJTYVBiNXFBUEt2SVFjZmJiN3RBcGFXM05tWFJiRFpEUnp6UTdjTklKLUlZTUlw?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-26 18:01 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e709fcacd520f513",
+      "title": "【国产芯片成市场主流！华为、寒武纪等国产厂商拿下近八成份额英伟达直接腰斩】集邦咨询最新数据显示，2026年国内AI服务器芯片市场将完成结构性逆转，华为寒武纪等国产厂商加互联网企业自研芯片合计拿下近80%份额，英伟达、AMD等海外厂商占比将从2025年 - 新浪网",
+      "summary": "【国产芯片成市场主流！华为、寒武纪等国产厂商拿下近八成份额英伟达直接腰斩】集邦咨询最新数据显示，2026年国内AI服务器芯片市场将完成结构性逆转，华为寒武纪等国产厂商加互联网企业自研芯片合计拿下近80%份额，英伟达、AMD等海外厂商占比将从2025年 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【国产芯片成市场主流！华为、寒武纪等国产厂商拿下近八成份额英伟达直接腰斩】集邦咨询最新数据显示，2026年国内AI服务器芯片市场将完成结构性逆转，华为寒武纪等国产厂商加互联网企业自研芯片合计拿下近80%份额，英伟达、AMD等海外厂商占比将从2025年 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdmJWX09nTFpVMVlNNFRIUmlyb1BKUnN0akswX2pWZEVJRXVUTzlxOWtvSnVWRE1RZDR1cVlLdmprR01oRVJuUU02WXdJUUNLRkdFdWhaQjRrSXdPdmUyam90OA?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-06-26 18:26 +0800",
+      "companies": [
+        "Huawei",
+        "AMD",
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b5b577e3161192d2",
+      "title": "海量财经｜网商银行联合阿里云、高德等 打造国内首张面向小微企业的AI权益卡 - 海报新闻",
+      "summary": "海量财经｜网商银行联合阿里云、高德等 打造国内首张面向小微企业的AI权益卡 海报新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "海量财经｜网商银行联合阿里云、高德等 打造国内首张面向小微企业的AI权益卡 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXRE53d1pIVm1sMHptREh3QW1aWllPelRHOUlYdlRRSUJydEh2QXQ4VENvSU1oa0I4c3l0YWY1OHZpWDRnLVpHSFhtM1phR2M?oc=5",
+      "source": "海报新闻",
+      "published_at": "2026-06-25 17:49 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "84a84079213aa4b0",
+      "title": "New infosec products of the month: June 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the month: June 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the month: June 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFlqM01vbm14MjBuUElaQjh0aWxjcHhycU1rU0YydzRvNm9RcEVfbkdiNVJpdnZrSl9mSmpNQUpWSEZjVlBJamZIY0J1RFZ6cGwzWXlGMExUTGpJS2cwMlJtU2txYkptaGs4dm0wLWd0ZS1wcU9VRldCVk9IWEpGN2djakdIV216QWlxQTl2X2M?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-26 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "8e092aaca6cdfe8f",
+      "title": "Partial automation is the real promise of AI agents - TechTarget",
+      "summary": "TechTarget 报道了「Partial automation is the real promise of AI agents - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Partial automation is the real promise of AI agents TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelBoQUJ0SUNNanhOOENod1lsalF3MElWYUR2ZkpKTERpMzl6ZmhkV1dRRUI4Y09aWDkyOFo5T21OYWRTbmd5Sy1YX3pObTB2Y2pfU3EwcVJaa2xBX0tpT05WY2hwamFvNUVsOUVVbWxTWGtMOFQwLUozNDcwU2htcUZiRVJIQ0FtYS05aDFFU1o4MDEtZENTSDY0SEY?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-06-26 23:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "40a8342a7bcdcf6a",
+      "title": "Why enterprise AI agents fail at scale - Fast Company",
+      "summary": "Fast Company 报道了「Why enterprise AI agents fail at scale - Fast Company」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why enterprise AI agents fail at scale Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUdtYTMyanRHbkxaQW9SWERXOHBuVFNaQld3N0FtMkZIcEZrcFR0aWQzeFhBNUdqRUdCcS00YXR0RVBZZlBfRWNWSUI4aC1fV3piN19idnNvc2xhTkUtbWFGNFpHdm9rdW55MkxlcjhiOU0xMTRjaUtNOUJhbnZvVQ?oc=5",
+      "source": "Fast Company",
+      "published_at": "2026-06-26 20:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "ece4eb2cdd6b3d78",
+      "title": "What AI Development Companies Should Prioritize When Integrating AI Agents Into Customer-Facing App Workflows? - DesignRush",
+      "summary": "DesignRush 报道了「What AI Development Companies Should Prioritize When Integrating AI Agents Into Customer-Facing App Workflows? - DesignRush」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What AI Development Companies Should Prioritize When Integrating AI Agents Into Customer-Facing App Workflows? DesignRush",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXVxb1ptR2gwMUljS0luSFRxb05mVTNxXzdCdWxMZGR2WUs1U0MxalJfcnJSWGN4VkxUanhLbzlMOVhzZUI5OHc5cFd5T2pOTzJLbnJhbjctdDVkT282NjBBYjhhOHZNcC12Z2tjVHd3VEhuWmU5TmtNZjlfQnZ5dXl3cW8?oc=5",
+      "source": "DesignRush",
+      "published_at": "2026-06-26 18:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "34855a93dcd10ee1",
+      "title": "AI Branding Agents - Trend Hunter",
+      "summary": "Trend Hunter 报道了「AI Branding Agents - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Branding Agents Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Odmw5NG9FOW1wVVNHQ2NuUkw0MzdyZXk5b0NQb0FYNGtIZC1wcjh0SW5oWDdoMkFyYmh5bGF6a0Y4ZWdoVWJyQTNieU5BanZfaWVzdjVwQWE0dDVheHRybFFfTdIBaEFVX3lxTE04Tk9PWUpfWDY0SFFKSzQ2RDJpMmlWYktqTXRCSUtqcnpLdHhqSGJwYjB0dzh5Q3NFTWFoSFNWWUpEUmRHMFRXM1BwT0RRMzh2bEJFcDJ6c0hFbnc2bWZ1SVBzUGJReFVq?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-06-27 04:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
