@@ -1,0 +1,341 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T13:55:08.846594+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-01/",
+  "image_path": "assets/daily/2026-07-01.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "f5c74eed14cc91a6",
+      "title": "OpenClaw for iOS: The viral open-source AI agent comes to iPhone and iPad - Help Net Security",
+      "summary": "Help Net Security 报道了「OpenClaw for iOS: The viral open-source AI agent comes to iPhone and iPad - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenClaw for iOS: The viral open-source AI agent comes to iPhone and iPad Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHX2wzd2hVcXpyS29od3ZfX2lUZl9PQWU5M1ktOHQyLWRJU2k3Y0pBTUJUNEE4cW5xZnBfTEkyVlN2TmJSSE1malFvdy0yVDJSTTRvVzdhaDZqS1Fzdm12S2Z5UzJManA1WVhHcm9HTmtfRkhEZkxtMWRjX08?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-06-30 15:45 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "571152eaba1acfd4",
+      "title": "How Ancestry uses LLMs for record digitization and customer tools - Business Insider",
+      "summary": "Business Insider 报道了「How Ancestry uses LLMs for record digitization and customer tools - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Ancestry uses LLMs for record digitization and customer tools Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEs0dzB4cFF1T0ppbHMxNnhFLW5fcGRWNFlvaEdfRWxBbzJXdHRmWG0xekFjdHhVWlpnV1ZfYWhZWHlldnhvWURibUVWQlRDOERFcDhzOEc0Slg0YVVyajdud1hYd3hnM1RpRzh2YlBDbEROOUtnNDNrMjN6OGk0ZktGVVBOWDFtTGVTLVpMMHhXR0VqcUJ0OHpMYTlRN19STnNBQU1tdk8zVlU?oc=5",
+      "source": "Business Insider",
+      "published_at": "2026-06-30 23:56 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "2d44d98406ed3be9",
+      "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations - VentureBeat",
+      "summary": "VentureBeat 报道了「Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-01 00:06 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "2d7b5b62f8015d79",
+      "title": "OpenAI Discovers New Way to Cut Inference Costs in Half - The Information",
+      "summary": "The Information 报道了「OpenAI Discovers New Way to Cut Inference Costs in Half - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Discovers New Way to Cut Inference Costs in Half The Information",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVFNUHpDQkVVazdjUmloMlM2eFZzc1J6bXVXQnJQdHFtQXppWm85V2pJcTIyM3FsUnpxSDh0YmNpQzBnZ3E5WTU3STk1b1d6TDBLdjRkX0NJanp1eG83Vnp0bTdfOGtieWpnREtpdTBmd0RWQndHbkxmTWg4UkY1ZDZrSl9iQXhUUDJIOHJETDJSZi1iVW9wLWxCdjJER2E2Znp6RA?oc=5",
+      "source": "The Information",
+      "published_at": "2026-06-30 22:06 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ce3494fd4547da27",
+      "title": "​​What’s new in Microsoft Security: June 2026 - Microsoft",
+      "summary": "Microsoft 报道了「​​What’s new in Microsoft Security: June 2026 - Microsoft」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "​​What’s new in Microsoft Security: June 2026 Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlJxLUdybHhmcHhjcVNWYzd3VE9HaHdrSlZOYXRwX2FZM1k3WjlqWi1NUkgzcFkyME9uVXpnRGZvZHJ0YnlJR1ZIbnd1bzZRWXlRa2I2dHhORTdrUG5WVUVqWVdjZ0Y0ODZFTkJGeHhzX21TdDNoMW5NdDBWc0poaC1iX2tLQmphOEJvZUdDY0ktX0FvUm1mSllyNlNlc2RC?oc=5",
+      "source": "Microsoft",
+      "published_at": "2026-07-01 00:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "01d1eb6f62880040",
+      "title": "当使用企业数据的从「人」变成「AI」，阿里云重做了一套基础设施 - 新浪财经",
+      "summary": "当使用企业数据的从「人」变成「AI」，阿里云重做了一套基础设施 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "当使用企业数据的从「人」变成「AI」，阿里云重做了一套基础设施 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXlrd2puNThJOEVZLVJoNGh3cm5OVHRlVmxBeDEwa2VvT21NcmxoUlNqV09CeF9CdFpHUF8yM2xlYTRCS0k0Zjlwb0lraHVGYlBYWEFJbG1rdlFPZFFkV21xMEx5LTdZcldZVHRvZjA2WkF2YUpLbFFocU9XT2hGQkhnZENzTmVpZmhIa1k5ZWttVVBrNkYtSFlpN3lJZVhhelVIZFNtUQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-01 00:26 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8c842fcedd13d443",
+      "title": "哈萨克斯坦与零一万物成立 Q.AI 合资企业，前人工智能副部长德米特里·穆恩出任 CEO｜FM 01.AI - 搜狐网",
+      "summary": "哈萨克斯坦与零一万物成立 Q.AI 合资企业，前人工智能副部长德米特里·穆恩出任 CEO｜FM 01.AI 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "哈萨克斯坦与零一万物成立 Q.AI 合资企业，前人工智能副部长德米特里·穆恩出任 CEO｜FM 01.AI 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXJrOExXRVY1eEJoSkdXNE9pZkthbUZ0R08wQi1lLTljTVNpaWFlTFNuVzBWRWtlSjZ1UXVUT284LTdmR2ZZRlBzcnlMdXBHcGZsalo0bVhsS0w1c2ZEOV92S1ZaeThlY2t5QlJzX0M0enNCZWJ3ZlhTVnZlRm9BeFdBU19SMVRt?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-06-30 14:24 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9d04d989d3894aa4",
+      "title": "讯飞大模型“思考模式”成谜？开发者多方求解无果，揭示国产AI落地痛点 - 80aj.com",
+      "summary": "讯飞大模型“思考模式”成谜？开发者多方求解无果，揭示国产AI落地痛点 80aj.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "讯飞大模型“思考模式”成谜？开发者多方求解无果，揭示国产AI落地痛点 80aj.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXb3Vqc0RiNmkyTkhaaVdUT3BYV05YSU03NktTLTFENHJ0YlpXS1MzQldGRTlxSmtRNDQxVzh6QWVzX0ZTckhlbHNjUTItRVFuUndCU0JGaVB1SldBSk5ZQlVCOGRJbkFSYXJYQw?oc=5",
+      "source": "80aj.com",
+      "published_at": "2026-07-01 06:01 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d980c46fdc026288",
+      "title": "中小工作室刚需：低成本本地AI工作站搭建与文生视频落地指南 - 80aj.com",
+      "summary": "中小工作室刚需：低成本本地AI工作站搭建与文生视频落地指南 80aj.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中小工作室刚需：低成本本地AI工作站搭建与文生视频落地指南 80aj.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUMmtGb1dXRS1IN3E1dmh1eDk5aXFLSmQ5aVJCdlFrY0tyZ0s3LUhSVWxvU2VTbUYxYzNTY0RLczA3Zl9lUUllY3pFSVdUNWJ1RnJEbzc0RkNiODd4X2lqNzZpTQ?oc=5",
+      "source": "80aj.com",
+      "published_at": "2026-07-01 05:31 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "97c5223aa037a80a",
+      "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益 - 财联社",
+      "summary": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91X0loMDIwdFVxU0N1OHNfWFlNd0JMQnBObGVlQ1BQdlhFeXR2b09xd2x0NmNBWHlGZ2ptTGhIV015THczOC1SNw?oc=5",
+      "source": "财联社",
+      "published_at": "2026-07-01 08:24 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "31d5f6142aef30dc",
+      "title": "How the Senate’s AI AGENT Act could reshape enterprise AI governance - cio.com",
+      "summary": "cio.com 报道了「How the Senate’s AI AGENT Act could reshape enterprise AI governance - cio.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How the Senate’s AI AGENT Act could reshape enterprise AI governance cio.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpBVzdqUkZRbF9uUXhyZmQ4VmNWOWZjdExfRDZoS2FjMUIxQ1A3ZE5Kc083VTZIQUl4bmk5REZPdjAxa1lwZHFSUkxGdzFRVzFnbG9VaTlSZy1ONFRxQmVya25SZWswT2pDVWk4WHZKbFVkb19qcFBtMHR4VEpQd05RRlFQa1FVckRXZGZyYUxFdl9aenVQbm1yUW1VZlBINXRwcEs0aUxqZUk1?oc=5",
+      "source": "cio.com",
+      "published_at": "2026-06-30 17:59 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "a943ee1aa47ed3e6",
+      "title": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News",
+      "summary": "Robotics & Automation News 报道了「Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9vVlNfQk5UampPSjZCeEwxQ3N0QVIzY280N21qVDdJVjZsUUlnVjF1dElzNW42eDVFY1RvLU1PTGZZZEZ6aVJyRlNrTC1RZ3NlcDBuZXV4NjlxOUVFRkJKcHM2dVRkNENCT2VmTkdRal9hNlpBdW9ab01JOUFBbFZLeGNoaERUUW5nOEJOa2FMcFIzS3FaOVZMZkZ4QWM0ZzFJVHlTQ2FDNlpPQnVwTDJuRDRmaWZ3dmdrMFhpcHNPNklDSlJZUHdYbEFScHR5d1M2V0szUEU?oc=5",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-06-30 15:19 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "950d734cd732650a",
+      "title": "Lenovo Targets Enterprise AI Costs With New Inferencing And Agentic AI Platforms - SMBtech",
+      "summary": "SMBtech 报道了「Lenovo Targets Enterprise AI Costs With New Inferencing And Agentic AI Platforms - SMBtech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Lenovo Targets Enterprise AI Costs With New Inferencing And Agentic AI Platforms SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNazZrak1QNWlEcmFTb3hHM3k1djdNaEUwTXFQRWZ5XzZxYnBHbzhPZENBNjJIU1BCZlNyamRRZUJiMHVnSW9RYjUyQ2R6YVFuZGhCaWhISml6QnBwYzNsVG9iWVh1WEhNUmNFajNWNk9tRlVJek1BRWhXTlFlSDBoU1FaeXUwVENLbHFIUkRSMzQzdmR3TW5EdlN2SWlFMC1DVzBRckh3aXU?oc=5",
+      "source": "SMBtech",
+      "published_at": "2026-06-30 19:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d628860c38120d58",
+      "title": "Harness Launches Autonomous Worker Agents for Software Delivery - PR Newswire",
+      "summary": "PR Newswire 报道了「Harness Launches Autonomous Worker Agents for Software Delivery - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Harness Launches Autonomous Worker Agents for Software Delivery PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakNBRmJlTEVwUXRmSnFRM2RYVURDY2tVT09NcTVPZnpKTmZtZWd4UDQyeFRfNFRaUzJleUNSd0pDeWk1ZjlyOXBQNjVvRGlKSFJnVEZmQTJGZXZHenRtOFlaa200QzVnRjJTSENocXIyQUNRWS1CbV9OcFRHLWk1d3JCLWVkQnZxTFg2akNSVWZuRTl1ZVVxY1F3YUdWbVBmWnBrUGlvUFVRRWY5aURROUhTUjhyOEFpNFZB?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-06-30 23:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "6aba16283bbaf0ef",
+      "title": "Oracle (ORCL) Launches AI Supply Chain Agents To Automate Planning And Inventory - simplywall.st",
+      "summary": "simplywall.st 报道了「Oracle (ORCL) Launches AI Supply Chain Agents To Automate Planning And Inventory - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Oracle (ORCL) Launches AI Supply Chain Agents To Automate Planning And Inventory simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjVTMnVOa2htSExpRDcxVTlvc28yZ1I4eG9iczZxdjJCcjY3Z3JQZ3pmQWVqd0Q1cHNYY3FQSW5FX1kxX0VJenBDNEZUTWZZTVNyRFVjVndWTDBYVjN4UWtHcVdoUmg5N3BTbXRvY1VJQ25GMDhoS2pQbDlwb0hDa0RrRW50QnZPMENxajlzalo4WFhHbjJLREt0clU2cHZteE1qU1hFbkhkT3ZOXzViVTZ5M3Vyb1dMNDV5VXg4Um3SAcYBQVVfeXFMTUMzSmZ5WmtnN0hJcDQzQlh2TlM2d0VKLXZzNFlEYVhGSktNNkExcmZfb0VHLXJtNWt3b3gxc3p0WEkxVkZHZ0lteTJZNDFVeVZTX004VHZkQlJNSVhKY2VOZ1hBTjYtOVVLbERpY0thWmt1b3gzRFpBb3dUVmtQRVFoQkxTVmlxM04wVlVjLU16LTJXRzlPVTZkUnFKdDY2WjVZQTdEdFZ2MnJodkhKUElYTC12SE5LV2xzdzktcmZLZ1ZMeTFR?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-07-01 07:22 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
