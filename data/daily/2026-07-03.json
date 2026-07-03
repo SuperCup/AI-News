@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T12:59:33.826669+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-03/",
+  "image_path": "assets/daily/2026-07-03.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "dc96ff3e649cdb3f",
+      "title": "Yep, we’re using OpenClaw to date now - TechCrunch",
+      "summary": "TechCrunch 报道了「Yep, we’re using OpenClaw to date now - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Yep, we’re using OpenClaw to date now TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jc2tmWmdhNTJwX0JGbHhOY3BnY0sxemg2WnFxRjRKQkZxMDJZRllPT1lpVTVHWi1ySWVXNGZNLVE3SXNQZ0RBdEhEOTlxRjdxdXR2Y2hqN3FDWWZCQ2FobnNFelJ3WW9pQzBTWGhXRWhOMWgzd0dVNzV3?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-02 20:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "5f69502f9df02a6b",
+      "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip - The Information",
+      "summary": "The Information 报道了「Anthropic in Talks With Samsung to Manufacture Custom AI Chip - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip The Information",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTh0cENsZUllRDdoaGw1QVlWcU4yeXJtbGdfS2l5Vlo2VThNLXVPTlQzZjZRXzVqTWFLQTh4WFFtQTluQW5GTXdObEY5V3dJSGNVZVNHek5XT3FETGpXM1lPN2N3eFNjdEhOWjZSV190cUpFd3pUTVpwanpvZ3gzSFE2YmpxNDFHTXhrU1JzZXVHck1k?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-02 21:50 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "fef02f347b71c5ae",
+      "title": "Descrybe Brings Verified Legal Research to ChatGPT - LawSites",
+      "summary": "LawSites 报道了「Descrybe Brings Verified Legal Research to ChatGPT - LawSites」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Descrybe Brings Verified Legal Research to ChatGPT LawSites",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEMxdkV3QXJCS2tvbjJ3M0U5QVVObXgxN0Itd2pkaTJOZG8ybHZoU2hweWdQbmN0dEZ1MWhaS1Q5Y3IwYThadnZxWDZoa3pyN0hnNU1CWU9FTmNyMGdreEgxVVBOWnhhMlB3a0VXeVJVX0gwalFfVmZIRW03N1drd3o1WnMtLW41c1FMUzNxS1k?oc=5",
+      "source": "LawSites",
+      "published_at": "2026-07-03 02:35 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 154.5
+    },
+    {
+      "id": "fe73f920eee05e72",
+      "title": "Palantir CEO Says Some U.S. Government Customers Switched to Open Source AI - The Information",
+      "summary": "The Information 报道了「Palantir CEO Says Some U.S. Government Customers Switched to Open Source AI - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Palantir CEO Says Some U.S. Government Customers Switched to Open Source AI The Information",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDlsVG1CRGttUXg4eXcycmtwTHVsMGxxdDNxSVJaTlM5dV95QWxjV3FfdjhGWWpUR3Z2MmxXUTJFWjgxeXFkbzRXdWlIeThodW4tTkgxTDJPWG1SUXVQRGt1blV0eGtCSmw5WGZKcVhZc25FZ1cwVlNJZHRQN1poTjM5T0VOQ0dVNk81VWpiVEY4WC0waG1LNmNtMXE1ZmlBTmt5eXF2elRsSHhpcXBfNzIyaTNzZ1ZCeGQ5MQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-03 03:31 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "616c4610ed80679a",
+      "title": "Amazon Bedrock Detects AI-Generated Phishing Attacks - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Amazon Bedrock Detects AI-Generated Phishing Attacks - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon Bedrock Detects AI-Generated Phishing Attacks Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNThqcjJwaDV0MmxVaWxES2tJQ0xhbnBlaE52YmdwSElGbXBzUjVCT096RkpDdFA3cDU4SkZ1YXdvcElmSXJIa3ptRUZNTWhqUnRHMy1RbjF2bFU2cFlBQTFaRHpnWnFuRVB4YWRDVnNpTGo2Q0lGMnZHeEI3QmJGMVo0ckNjS2ZYZUk2NXhTdHVpbGlWZG1OSEZB?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-03 01:55 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "34f4cc4618890f14",
+      "title": "腾讯企业微信推出AI智能体\"大员\"，基于DeepSeek大模型构建 - 搜狐网",
+      "summary": "腾讯企业微信推出AI智能体\"大员\"，基于DeepSeek大模型构建 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯企业微信推出AI智能体\"大员\"，基于DeepSeek大模型构建 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnA2eENVcHRwQzJPck51cF9Fb2JCbWctdmc1aDBGZzFKQUFjOWdEMC1lNnFtU1NuU3dYVTIwYkd0Q2cyMUp2YXZKd19mOVNHMmVPVkktM19DQkVBUWgwMndvNHVfNm5pM3FiU2NFUFpWSUhFekFRdDQ3bXh1Y00tT2xvZGZIUWh4?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-02 23:16 +0800",
+      "companies": [
+        "Tencent",
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7548407cf5ac3a66",
+      "title": "九州互营深耕本土营销服务，适配深圳企业豆包GEO优化需求 - 中华网",
+      "summary": "九州互营深耕本土营销服务，适配深圳企业豆包GEO优化需求 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "九州互营深耕本土营销服务，适配深圳企业豆包GEO优化需求 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbjJDT2JUYU5tOXo5MmRCeU1VX1lIWE13bHNJYXBuSWZMZk5pZnYyQy1taURzdFVWLTMwdi05cU5meUw4Q3otME1pRVRtbkF0SV9UTzZkZk1MNlIwTVlVbFFtaTV2TkVNQi1vdQ?oc=5",
+      "source": "中华网",
+      "published_at": "2026-07-03 11:52 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6facd3f3ac9280d9",
+      "title": "宇树、Deepseek之后，又一批浙江企业靠AI悄悄拿下了全球市场 - ori.hangzhou.com.cn",
+      "summary": "宇树、Deepseek之后，又一批浙江企业靠AI悄悄拿下了全球市场 ori.hangzhou.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "宇树、Deepseek之后，又一批浙江企业靠AI悄悄拿下了全球市场 ori.hangzhou.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WXpSNjVhUVpyeTlfU0pRSzlTemc1Y1JEUVpRZmt4U29JVER3azBQeWp4WDFxdTVrN2lfbUItcEJJRFRpRHZJNnhRamVkT3NKdzZjZzg1cjYzMUY4LXI3Q0ZuZ3F0TnJ1YVVkYWdRVUZBS1dxYzZsNXFEc0NWdw?oc=5",
+      "source": "ori.hangzhou.com.cn",
+      "published_at": "2026-07-02 23:01 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "237d7ae3d02ba474",
+      "title": "金融 AI 实测｜MiniMax 内置企查查 MCP：企业查询、股权穿透与UBO识别效果如何？ - 新浪网",
+      "summary": "金融 AI 实测｜MiniMax 内置企查查 MCP：企业查询、股权穿透与UBO识别效果如何？ 新浪网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "金融 AI 实测｜MiniMax 内置企查查 MCP：企业查询、股权穿透与UBO识别效果如何？ 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kS3o5b3p4Z3lEYUliMnh3cWFfODJpbm9oUE0zRUJKcllMb3hhc244dF8wRGloclgzd2tMbmNRbWNlSWU4TExHVFg1UVc5d1FYXzZvR0Y3bFBLbTBIbHJVZGJXYnBnOEJSYmZCUGYyOERpdw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-02 17:33 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9bc3c7fb3cf21b83",
+      "title": "独家｜金山云加速GPU算力建设：小米百亿预算落地，阿里签五年数十亿长约 - Jiemian.com",
+      "summary": "独家｜金山云加速GPU算力建设：小米百亿预算落地，阿里签五年数十亿长约 Jiemian.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "独家｜金山云加速GPU算力建设：小米百亿预算落地，阿里签五年数十亿长约 Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzQWZNN1c2VjM5R1lyWDNlS2N6bVJmNExpTXpSY2lILUwtTDhSQXhOUmM3NHdFVlZEOFF2VFkySjBpSjVkajkyenFFSUc5S01jTF9tUm5XM04?oc=5",
+      "source": "Jiemian.com",
+      "published_at": "2026-07-02 17:45 +0800",
+      "companies": [
+        "Alibaba",
+        "Baichuan",
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e88aa18b6c68da93",
+      "title": "Cognizant and Domyn Announce Strategic Partnership to Deliver Sovereign AI Solutions Across EMEA - The AI Journal",
+      "summary": "The AI Journal 报道了「Cognizant and Domyn Announce Strategic Partnership to Deliver Sovereign AI Solutions Across EMEA - The AI Journal」相关进展。 该消息涉及AI 产品、AI 芯片、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cognizant and Domyn Announce Strategic Partnership to Deliver Sovereign AI Solutions Across EMEA The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGRXenByU1ViSG00Sl96aWI4YjZENEVFOHBac0YyU2cxMjlzUEZCcDcwdHZBVnRuRmwwb0J1NloyVlVQTGhXekl4dVBZRzdkaHRTUkNiNDkxbVdweEk5YlAxQ09XZnZvNVZBdjdJXzZENXVhcWRRVnBvNVE3amhSZHN2UmpVaU8zaWtuR2Z6Mnk0amdUWlFOT25vZVltUlFRbjlDajlKQ3pSaVZqLUpfZzhOYm9QblA2?oc=5",
+      "source": "The AI Journal",
+      "published_at": "2026-07-02 17:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 105.0
+    },
+    {
+      "id": "691c92e78e69928f",
+      "title": "Organ On A Chip Devices Market Size and Statistics – 2035 - Market Business Insights",
+      "summary": "Market Business Insights 报道了「Organ On A Chip Devices Market Size and Statistics – 2035 - Market Business Insights」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Organ On A Chip Devices Market Size and Statistics – 2035 Market Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VWHZmekRDeXQ4bHl6X29pOXBtcHZBRUZ5Qk1IbDVYd1FsYUpCSUpxdHNUYklUQU40b242MDdRVmc5UlVxYVVhYTFTbUVuZi1PQ3dmT1d0SzJmYm1ndlotRU1tREVHcm1NckNSTHpwemFJY1FVTmFKeg?oc=5",
+      "source": "Market Business Insights",
+      "published_at": "2026-07-01 16:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "5c2191e6dc2f8dd6",
+      "title": "Exabeam Expands AI Detection Coverage and Launches Observra Open Source Agent Telemetry - The Fast Mode",
+      "summary": "The Fast Mode 报道了「Exabeam Expands AI Detection Coverage and Launches Observra Open Source Agent Telemetry - The Fast Mode」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、开源模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Exabeam Expands AI Detection Coverage and Launches Observra Open Source Agent Telemetry The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTEM3VG5VQW5yQko4MkZpSTdNUFR4MnB0TFNFa19Wb3djYmFpVlF4QTFBb2tIZVBnM19fREN2VlpaU1ZhLUpmT25fVklnYkNkMHhYZTA1SFF2U1ZwNGhtS1BaZXpla2ljTEJaOVRXU1R1VjJTVk1rMmx5N2R6c1JTZF9pVENtMkYyOXFONU1LcUJOU2wzcTFITkdvLUhnQzd6bnk4a3J4bjdaSFhlNzc0LXRvam0wUmFjX05ydU5oOUcyLWRwcnZaNUd5Skg5WVE0U0YzRlN5cThhdw?oc=5",
+      "source": "The Fast Mode",
+      "published_at": "2026-07-03 07:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "open_source_model"
+      ],
+      "importance": 101.0
+    },
+    {
+      "id": "1507d22499c02ae7",
+      "title": "Agentic AI puts $234B in enterprise SaaS spending at risk, Gartner says - cio.com",
+      "summary": "cio.com 报道了「Agentic AI puts $234B in enterprise SaaS spending at risk, Gartner says - cio.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI puts $234B in enterprise SaaS spending at risk, Gartner says cio.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlFuZ2hheDBDNXVnTjlCbVpVZUNYUUM3MGduR2ZhZWRyMHBaQUpKUVhRbGZ2NE5CQ1NCWHdoQkRteWl3YVJFakdLWjZ6YWtuMjQ2bHdWcmZhLVR3MEZwQWUxQ21vU0xhWldJSjhFMmZUNklzVXVBVk1NQlRQV3RyYngydk8xczhGa2ZrdGItdzdCMFJ4TkhTeFBvdHg0VXhVR3l2UnlQZUZjY0pZZFBB?oc=5",
+      "source": "cio.com",
+      "published_at": "2026-07-02 20:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "57b705bd316ed87c",
+      "title": "ServiceNow Autonomous Workforce: What to evaluate first - MarketScale",
+      "summary": "MarketScale 报道了「ServiceNow Autonomous Workforce: What to evaluate first - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ServiceNow Autonomous Workforce: What to evaluate first MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMGZkOW1oejRkS2R5VUM0UnBpZU5TNGc1MGlGcVpzQ3hESkpUVGhFeDdhelhVSFNubUFnODN4aERZU2VLdWh5M1FxUHhCeG5FbDUzT1k2MHNsWnZyM3dteEJRWURzZEdFSHBaaDZjNjVFalE0N2x4YnJWSUJFQW1uNFI2TWpZZFNiT3ZLUmFBNUt1bXo0OGQ2Sk5WclFTa0hnbF8wQy11czJ1VXhzbWh6SnF1Vk90d1pyeWZkWmNKc3haSjhudGxkSTJ2N0tDNkNHdUtHY25iVGZVMXhyR3NUZDlnSFFsSUdfWFRJSFljZEUzUk1leGw0bVhaUUZYV2FEekc0M0hFUUJDUzBBVVJqSENRa2RQU2hv?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-07-02 21:19 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
