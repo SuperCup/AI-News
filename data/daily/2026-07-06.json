@@ -1,0 +1,346 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T13:37:49.238355+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-06/",
+  "image_path": "assets/daily/2026-07-06.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "7735a2ae530a3095",
+      "title": "Microsoft Publishes HARC Safety Alignment Adapters - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Microsoft Publishes HARC Safety Alignment Adapters - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft Publishes HARC Safety Alignment Adapters Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdlMxVl85ZEhMY2xnMHZmOXRmUzN3UEppejlrX25JNVpRaWVVOTh5R1pRTVFuWWxhb2hiaDBZQjEzek9ZM1FpdlNaWkZlV1V2UERIOFJubEFJWU1QUHFURWpmYndHWnRYWXRXTWNEOUg2NVFqcFBkcEhYSmg4R0x3Sk5nTnhaUXVUa19yY1NySk9KZG1LWjdV?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-05 18:51 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "84ce0eee63c031c6",
+      "title": "每周风险追踪｜AI拟人化新规落地在即，豆包、千问下线智能体 - 21财经",
+      "summary": "每周风险追踪｜AI拟人化新规落地在即，豆包、千问下线智能体 21财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "每周风险追踪｜AI拟人化新规落地在即，豆包、千问下线智能体 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1F0aFhXRUdIOWNZaFpKMGtzaHY4MEY3TTNrTTdxOF9vRVNxNWVyRW1oWFVqc1FtNXd4YzAtLXFNN2tac0V0ckxmdW9rYlhEbFJKbHVzNW5CLTVqaXRoc1JLVzIyS0JiY1M1SGpUQUdKM0dZRGJmczJtZlBIQjJQV2tEU1UzMlVmYVBvWQ?oc=5",
+      "source": "21财经",
+      "published_at": "2026-07-06 09:13 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "132656f9ca9ee785",
+      "title": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 - 新浪财经",
+      "summary": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamxyRE54Q0tiWmxseTNFNlJaOU1ha1pDZXRqZE5xcmdWS2hxQmdnS05FUEpuWDRYSFhvV0JmNjFQbHJWSTdDcWhaQks4S0pwMkFHSXVvekZudjJCNDBXVFZsMW4tU0dleGtfSWQtNWY1dzhUS3M3ejB2MnJWQ1RmVHcxTlk2dw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-06 10:41 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "6244be6b8ce766ea",
+      "title": "Omnigent: Open-source AI agent framework and meta-harness - Help Net Security",
+      "summary": "Help Net Security 报道了「Omnigent: Open-source AI agent framework and meta-harness - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Omnigent: Open-source AI agent framework and meta-harness Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejU2eXJtejZlNkpVczBYTHJ4bTlBS25MekJzU2NQclN2cTZMMWViRDlqc2hIQ0VsVUtjTDNuMTJBZkdSRWV1Q3l1cmtPc3hhQlN5eHJkZU43WndYbmo5QTJMQkFZMW1DTjlBM2FnMDBhMGVtenBuYUpTdmN0Nm9GakNYaEJkWVNQQkNV?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-06 13:30 +0800",
+      "companies": [
+        "Anthropic",
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9e5129db79a4250c",
+      "title": "Why Dario Amodei Believes Open-Source AI Poses Serious Risks - Tekedia",
+      "summary": "Tekedia 报道了「Why Dario Amodei Believes Open-Source AI Poses Serious Risks - Tekedia」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Dario Amodei Believes Open-Source AI Poses Serious Risks Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHBlX28wMU9taUMwcVEtMGxfZ013QUx6dE82TXB5TUQ0ZzlVV2NUbkhxRWhKbVFJY1FMdWZMczJGb0dENW5jeDFLQkpuS0dfZmZEendENFE4NWJaaVZrd01IWk9Wb0FBbGhjdXV2QmhMRzhTTFkzZHEtS0Uxcng5Rmk2S1dya21MYWp5WmZ3?oc=5",
+      "source": "Tekedia",
+      "published_at": "2026-07-06 03:02 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "bd8ae1c4c6f019a0",
+      "title": "Model Collapse Risk Grows as Meta’s AI Ad Blitz Floods the Web With Synthetic Content - Tech Times",
+      "summary": "Tech Times 报道了「Model Collapse Risk Grows as Meta’s AI Ad Blitz Floods the Web With Synthetic Content - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Model Collapse Risk Grows as Meta’s AI Ad Blitz Floods the Web With Synthetic Content Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTlQdEZpdkoxUWc1dVMxR1I4OFNxczNNMTFXcnQwYjdQdERYaTE5RU9kRjh3bWVDQV9WMkNxZWstSjMyc0ZEQmZnNGF3ck14cXpMQzlBa04yY0FJVlRHWTdnOG9ZMVpiNHdrZUdyRTI1bGozbGpFUTh0MmhhZEVXeGdfMnB1V1FDcDZ4YzhDcHprcF9sZmhJU0NJcjBhcndUTFBHZWlGbFJndXQxWlZMaTJDQndCUEF6VzRINXR1Tkdtek9UU0E?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-06 01:09 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a7de953e6fbe4d60",
+      "title": "Former Apple Engineer Launches AI Chip Startup - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Former Apple Engineer Launches AI Chip Startup - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Former Apple Engineer Launches AI Chip Startup Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0lVZUxFcF9RUTltQlZqOERUUzA1ZjdUU1pNMU5PWVpQOTA5TG1YUHhHYTlLX2tQdFpQaTlrc0NqU000NEJlZEdOdjF4cWhJUzNtdlZ0NmlLaWE5M3FtdzB2MzdaXzNDMU5tOUlrbmk4WnBQSUZwRjA2Y0tKejlFUWVoRjV1ZldqWkMya010QUhPZw?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-06 08:03 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "67992507ddb7ee35",
+      "title": "字节跳动与阿里巴巴暂停拟人化AI代理功能应对新规落地- 字节跳动ByteDance - cnBeta.COM",
+      "summary": "字节跳动与阿里巴巴暂停拟人化AI代理功能应对新规落地- 字节跳动ByteDance cnBeta.COM 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "字节跳动与阿里巴巴暂停拟人化AI代理功能应对新规落地- 字节跳动ByteDance cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLRTF6WWt5TU9FWTlNdXI1Q01ia2JvUUFMcGppcHRFNmtGYWxNZ1ZKTXI3ZHpDVENpR1lUcUpjdkhBX1NkZFBhS1g3TGNtVTdKdUtTNjlIUVFSVGdqRmJoZg?oc=5",
+      "source": "cnBeta.COM",
+      "published_at": "2026-07-06 07:46 +0800",
+      "companies": [
+        "Alibaba",
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1c83e9e336bcda77",
+      "title": "让AI落地，让创新“甬”现！拆解华为联手伙伴深耕宁波的底层逻辑 - 搜狐网",
+      "summary": "让AI落地，让创新“甬”现！拆解华为联手伙伴深耕宁波的底层逻辑 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "让AI落地，让创新“甬”现！拆解华为联手伙伴深耕宁波的底层逻辑 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemhoOWY4N0lBVUg2Q3VwcHgwUHpTZ0JtVEdkekdUbzFKOXlwUzhQcGt3d2pjX3VZaVRfMjBTQmxIbGJwZ0RfUFNvcnpUWlVvQTRpVmVTOFRQSTRSeUdQYU1iLUpCWDl5Zno3UE5ONV85Nnp0aldVdFVvaEZMS3NYaWI5RUFISWZYRDB3?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-06 11:29 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6eca23a76c72b07d",
+      "title": "月薪八千的“硅基同事”上岗了——银行AI数字员工规模化落地，中小银行怎么接招？ - 中国电子银行网",
+      "summary": "月薪八千的“硅基同事”上岗了——银行AI数字员工规模化落地，中小银行怎么接招？ 中国电子银行网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "月薪八千的“硅基同事”上岗了——银行AI数字员工规模化落地，中小银行怎么接招？ 中国电子银行网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zUEQ4UUtPa2JXUzhXQ1NHZzFBN3JGeXJqR2VqNHFQb0QtUC1wZDRTc09RaWJEQWVJbnc0SzhMQWRncUxqeFRfd0E1ZHlPYzM5cWJkMkY0VTBkNU9ocGc?oc=5",
+      "source": "中国电子银行网",
+      "published_at": "2026-07-06 09:40 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2e98a45f71510f6c",
+      "title": "Zscaler CEO Discusses AI Readiness, SaaS Risks - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Zscaler CEO Discusses AI Readiness, SaaS Risks - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zscaler CEO Discusses AI Readiness, SaaS Risks Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHNyTi1OQUdYRXc1Vzdqc0FRZVBmdi1rN2gxSDNvNld5VXRWb3VVUjlwU3FqOWhtUzJqcDI2VVV3T3huSUk3SzJPTGdpUUowS2FHNDgzZEFKVFYzSnlkOWFyQnpMVDd5U2FjQTRJMlF3UzFFZ3FJenRDNnAxWTZ2MkR4N2t5em5lWTJTekVuLV8?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-04 18:20 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "41c5b9a792ac4fbc",
+      "title": "AI loops power next-generation autonomous agents - Let's Data Science",
+      "summary": "Let's Data Science 报道了「AI loops power next-generation autonomous agents - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI loops power next-generation autonomous agents Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3RMV1YwNVlNWERRM01FN2l1M3cxWjg2QncydFR6S1V3cENDczBzOGZrUVlzSlBtZ2tCYnVrYW5ZV3UzWWN5WlZINzJFd0o2c2xaQlJqWlA5aC10azVtZ2M4eW42Mkw1b1BVOS1zeWF4WUd0Z282eXVBNUJHeWFLWTR5MzBDeXNta3h2RmhHN3ZtQmxO?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-05 23:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "8e20ed86efbc8408",
+      "title": "AI Agents Are Creating a New Identity Security Problem - BankInfoSecurity",
+      "summary": "BankInfoSecurity 报道了「AI Agents Are Creating a New Identity Security Problem - BankInfoSecurity」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Are Creating a New Identity Security Problem BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEpoZVpnMTVCa2w4bmNfdXpKaENDSEJRNXRVNG81eEp5bEVfdGVwNlp6WGMyb1NOUE04dmVqR01TZG9xWmhtY2VBS21XWEFHZ0gtZ1Y1dlV6SVQ0OFF6VUFNSzVJYnFiZ1BOUWFBNy1qM2JJSWFLU1Z5ZzVwbUxpZl9XYU5aT1RvWlRueV80NlJRdjBZX1g5WQ?oc=5",
+      "source": "BankInfoSecurity",
+      "published_at": "2026-07-06 07:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "9eae5c0e0641f11f",
+      "title": "BMW's US Plant Officially Deploys Figure 03 Humanoid Robot, Further Upgrading Production Line Automation - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「BMW's US Plant Officially Deploys Figure 03 Humanoid Robot, Further Upgrading Production Line Automation - finance.biggo.com」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "BMW's US Plant Officially Deploys Figure 03 Humanoid Robot, Further Upgrading Production Line Automation finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zZHdSbi1jR1VWMTNPQUxJeGNodjJmS2Z3eW16Zlo3TVdMc2o5STdldGVjOFppQ05wOXZaMlB4aDNxSk1fVmN1aHRrZG9SaWlXbFdiN2ZfenBBajNuTXRrMzVQZGllcEhfU0VySEhUNEU4OG1xYWc?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-07-05 18:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "adf227eaabec5b85",
+      "title": "Why AI infrastructure costs will reshape enterprise IT strategy in 2026 - Indiatimes",
+      "summary": "Indiatimes 报道了「Why AI infrastructure costs will reshape enterprise IT strategy in 2026 - Indiatimes」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why AI infrastructure costs will reshape enterprise IT strategy in 2026 Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUmJZeFExV0ZoZUtTUEcydHdnX25HT1otUkxxbENrSHpmZ2NpY1g2MkNRQ19pc2NGVVRRX3RZOUVIb0I5WmZfUklZX1otQ19rWnJfLWpKc1RsMDhkUjZkUFN1dlpSa0h2V3ZYLVBLZ3lOUjNDb0VXTF9TcDFvTjM5bEVRemtSX0haS19kRk9vZFktRXgtbUQwSXM0aVhHSksyYkFDY2E0VFhhSThlb3FxbHlueWdvU28zQ244Nm91cmhnY0FtMlBfVFlIRGhnSWhOVEl1ZXB3eGdPTDFtbDh1cWFPenljVUNBQXQ00gHrAUFVX3lxTE9SYll4UTFXRmhlS1NQRzJ0d2dfbkdPWi1STHFsQ2tIemZnY2ljWDYyQ1FDX2lzY0ZVVFFfdFk5RUhvQjlaZl9SSVlfWi1DX2tacl8takpzVGwwOGRSNmRQU3V2WlJrSHZXdlgtUEtneU5SM0NvRVdMX1NwMW9OMzlsRVF6a1JfSFpLX2RGT29kWS1FeC1tRDBJczRpWEdKSzJiQUNjYTRUWGFJOGVvcXFseW55Z29TbzNDbjg2b3VyaGdjQW0yUF9UWUhEaGdJaE5USXVlcHd4Z09MMW1sOHVxYU96eWNVQ0FBdDQ?oc=5",
+      "source": "Indiatimes",
+      "published_at": "2026-07-06 11:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
