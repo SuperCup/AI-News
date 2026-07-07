@@ -1,0 +1,341 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T13:09:10.821674+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-07/",
+  "image_path": "assets/daily/2026-07-07.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "49874cb010f11029",
+      "title": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 - 新浪网",
+      "summary": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "寒武纪风险提示引关注 硬科技企业投资仍需保持理性 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamxyRE54Q0tiWmxseTNFNlJaOU1ha1pDZXRqZE5xcmdWS2hxQmdnS05FUEpuWDRYSFhvV0JmNjFQbHJWSTdDcWhaQks4S0pwMkFHSXVvekZudjJCNDBXVFZsMW4tU0dleGtfSWQtNWY1dzhUS3M3ejB2MnJWQ1RmVHcxTlk2dw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-06 10:41 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "6244be6b8ce766ea",
+      "title": "Omnigent: Open-source AI agent framework and meta-harness - Help Net Security",
+      "summary": "Help Net Security 报道了「Omnigent: Open-source AI agent framework and meta-harness - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Omnigent: Open-source AI agent framework and meta-harness Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejU2eXJtejZlNkpVczBYTHJ4bTlBS25MekJzU2NQclN2cTZMMWViRDlqc2hIQ0VsVUtjTDNuMTJBZkdSRWV1Q3l1cmtPc3hhQlN5eHJkZU43WndYbmo5QTJMQkFZMW1DTjlBM2FnMDBhMGVtenBuYUpTdmN0Nm9GakNYaEJkWVNQQkNV?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-06 13:30 +0800",
+      "companies": [
+        "Anthropic",
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "559065b85b81e4a2",
+      "title": "Microsoft wants to keep your AI agents from going rogue - Help Net Security",
+      "summary": "Help Net Security 报道了「Microsoft wants to keep your AI agents from going rogue - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft wants to keep your AI agents from going rogue Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzdNdEpvOTRlTG5JRWdKU2l6c1RsV3ZnVGVyWXdsSjlHWkdDNVc3OXdLQTREUnJORzloRVl0MVpCV0xMU290MG50MFFHTTJyMTlZRnFiTENZUkpzVHAxRVdxVGQ1SEl3Z2VGdnFCWnZ2Ul9pMGpsWXhtLWRRYzlZUHdRaDFycjFuVWFuREZFdGN2RklJQjc0OU5Db0U?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-07 12:45 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "83b57ce3d5231456",
+      "title": "Hugging Face Links Models to SageMaker Studio - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Hugging Face Links Models to SageMaker Studio - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hugging Face Links Models to SageMaker Studio Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGhKX091b28wQm5sSEJxb1RMUmQxUFJ1VWo5WnNTNmZZeDdlc3VGamhzRUp6YzJsNjVTOFZRcHEyV2J3TFhqaTU1ZDNINHlPX3VyWGVHTi1VMko3aC1VaFZwTktfY1ZKeHIyNC1aUVFWdXgxWnNfRFdHR2NlSUh2Yzc5WjMxVzZyMFAxWWxabEs?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-07 06:35 +0800",
+      "companies": [
+        "Amazon",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9e4417e4a1d7d3e7",
+      "title": "Apple warns when AI prompts go to Google Cloud - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Apple warns when AI prompts go to Google Cloud - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Apple warns when AI prompts go to Google Cloud Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnBFT3otQlV1bllpNnZ2Rldoa1JGamtsWmNaRHVQZUpGVU9MM3JubXVFT2xlLTF5NkRiWlg3cUhmTGNwc0FxTVdBQWpKTk5LSkFIYUVCbWdtNFh6VWtoY0k3em5VMUd0c0c0d05icmJKY2N0MUhjanNZVVdfLXJCSTdvYkt4cE9YdDZjUnFRcHN6dw?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-07 05:05 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5756de1aec504337",
+      "title": "Nvidia and Intel Highlight U.S. Chip Supply Gains, Packaging Gaps Persist - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Nvidia and Intel Highlight U.S. Chip Supply Gains, Packaging Gaps Persist - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia and Intel Highlight U.S. Chip Supply Gains, Packaging Gaps Persist Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXliWkZhQkRSUWNPY1BqckJ0WjZvM01BUHlqMEE4VElkYU5WNHBBVWhDOVhWQkhreUNvR3JJNTNxdGVtY2FLQ0hGMFdXXzZOZFFNS09oRkJLMThGaC1kdjFGeVVGMmt1ZTdYdHYxWmVIa1JBWkRocnRPSjNmX2h1ZWRQakM4eDk3bDM5bFpNYzVEZ3BFWVJSMkNQVGJTeGc3bGRDbg?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-06 20:51 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "919ba223a440a86c",
+      "title": "端木软件、阿里云、KIWI互动三方深度合作落地- 中国日报网 - China Daily",
+      "summary": "端木软件、阿里云、KIWI互动三方深度合作落地- 中国日报网 China Daily 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "端木软件、阿里云、KIWI互动三方深度合作落地- 中国日报网 China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uM1ltQkdtNm5yT2l0VXJmSVBPc3JXeTJob1hXVWdLSXBIaGFyblJCZ2xRdXFsOTN5UWxaVUJqLW1mVDdDMjRkVEFRWEhYdVlOQTJoSVVGSVFNNzY1Y1J4STFSSHlQUjYzT1UzUjV5eFZGZ2o2MnFRWVB3UDA?oc=5",
+      "source": "China Daily",
+      "published_at": "2026-07-06 16:10 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b64f2cf256726999",
+      "title": "前苹果员工创办AI眼镜企业获腾讯美团投资，估值跻身10亿美元独角兽 - 电子工程专辑",
+      "summary": "前苹果员工创办AI眼镜企业获腾讯美团投资，估值跻身10亿美元独角兽 电子工程专辑 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "前苹果员工创办AI眼镜企业获腾讯美团投资，估值跻身10亿美元独角兽 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41d2tHT1ljVTI0NHRxekxfRTM0eHg1Y1I2SWdDeVkwWVNBdFJXVnM2T2RGYmRPb1M0US0yZ09CUm05TUFzWEV5SnJ3aDFmM19Pd0hBS2ZTNHhkU3I5?oc=5",
+      "source": "电子工程专辑",
+      "published_at": "2026-07-07 11:16 +0800",
+      "companies": [
+        "Tencent",
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d02da66f52973250",
+      "title": "AI拟人化互动新规落地前夕，豆包、千问同步下线智能体 - 搜狐网",
+      "summary": "AI拟人化互动新规落地前夕，豆包、千问同步下线智能体 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI拟人化互动新规落地前夕，豆包、千问同步下线智能体 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1hsTDRzbFZuSXJ6X1JkUTZfeEwtTllJbEQ5dUpNbkZwanFJSUswUm1fYzdyVXhfLVVKOEpaTktGQjhpa3ppREhnbDBWdGp5ZmJqWUExeVp5N2p3TkhRUWJESGpEX1NUTDZhem05Q0lDUHREYmVqaWZGMjZHZ0hJTTlQc2ZGYlRjWGZyNw?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-06 21:57 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "50fd386e1fd3388f",
+      "title": "一周要闻·阿联酋&卡塔尔｜迪拜道路交通管理局携手华为等中国企业推进AI地铁建设；卡塔尔自由区管理局与比亚迪探讨先进制造合作 - 36氪出海",
+      "summary": "一周要闻·阿联酋&卡塔尔｜迪拜道路交通管理局携手华为等中国企业推进AI地铁建设；卡塔尔自由区管理局与比亚迪探讨先进制造合作 36氪出海 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "一周要闻·阿联酋&卡塔尔｜迪拜道路交通管理局携手华为等中国企业推进AI地铁建设；卡塔尔自由区管理局与比亚迪探讨先进制造合作 36氪出海",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00LV9uRXZjSGpSSXp2b21ReUc3ZGZJVmo0bk1FVy1iX2ZGTlcwbzZnbERvVG00dVpwaE5CZFpZSGNLLXpiTEE?oc=5",
+      "source": "36氪出海",
+      "published_at": "2026-07-06 21:03 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3d94791d82f21c8f",
+      "title": "Five reasons your organization isn't ready for agentic AI | Process Excellence Network - Process Excellence Network",
+      "summary": "Process Excellence Network 报道了「Five reasons your organization isn't ready for agentic AI | Process Excellence Network - Process Excellence Network」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Five reasons your organization isn't ready for agentic AI | Process Excellence Network Process Excellence Network",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFEyR1lqNE9xNl9VeUtSVjdYdWxyRjFUeHFzclZra0FlZjY1TnN4LUdINUxTZWRvTEpQaTVWX2NQM0VtZmtncjhRb0dhVnV0ZFRyRjhZdzVtSG42aUtCNGZUa25oanlianp3b2NmbjRJWXhPcVdOQVdwS3loX0hNUTJWZjhjWXYzYi1WSVpXNm8wOXgxYmhkLUZuUGJranBWYkZ2VkIyMWxPakxzUFR4SFMwb9IBswFBVV95cUxPdFEyR1lqNE9xNl9VeUtSVjdYdWxyRjFUeHFzclZra0FlZjY1TnN4LUdINUxTZWRvTEpQaTVWX2NQM0VtZmtncjhRb0dhVnV0ZFRyRjhZdzVtSG42aUtCNGZUa25oanlianp3b2NmbjRJWXhPcVdOQVdwS3loX0hNUTJWZjhjWXYzYi1WSVpXNm8wOXgxYmhkLUZuUGJranBWYkZ2VkIyMWxPakxzUFR4SFMwbw?oc=5",
+      "source": "Process Excellence Network",
+      "published_at": "2026-07-07 09:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e0b67882ab138d19",
+      "title": "Industrial AI agents are not autonomous equipment - TechTarget",
+      "summary": "TechTarget 报道了「Industrial AI agents are not autonomous equipment - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Industrial AI agents are not autonomous equipment TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2lrd0JZUjR5ajkzd3o0V1otZ3M3NEpSNEVuOVFQaXBZRUtZazE2VjczcjF1cFJqSm9VSE91dGx4WV85RWE4TWlBR2JZLVNhUWZOZEp2VXN2c1c1RlFIVmUxUkZEUkhIbmdTdTFGUjJlVGhscjR3SGQxUGl5SmNvc0FYZGlVdWgyOTJleE9MVFAyYk1NbGppNXR3?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-07-06 21:02 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3968c41ac888ce62",
+      "title": "Architecture over autonomy: Agentic programmatic advertising challenges AI's orthodoxy; focus on governance, orchestration and specialised agents says The Trade Desk - Mi-3.com.au",
+      "summary": "Mi-3.com.au 报道了「Architecture over autonomy: Agentic programmatic advertising challenges AI's orthodoxy; focus on governance, orchestration and specialised agents says The Trade Desk - Mi-3.com.au」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Architecture over autonomy: Agentic programmatic advertising challenges AI's orthodoxy; focus on governance, orchestration and specialised agents says The Trade Desk Mi-3.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTR4MktTdnBWWXZKdU9zVGpTdTVTTHE2c1EycHhYR3pVS1VvMFFsWjllSW5iMXNSNzVjQzd3dHpUOFppaWlXeEdPUERBNlhGb3ZwVFhzYTNCZTA3X0lhQ01EM1UyQ3IzU2FKVWpoMVVXVHVpeFlrTlMxOTdqWXNRVlU2MmRrUjRFTnR4emRiNVBBRXN6YkJnZ2U1Qi1nMlhtZUYxY3hBZ0pxTWVrV0c1X1BmMTQ?oc=5",
+      "source": "Mi-3.com.au",
+      "published_at": "2026-07-07 08:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c5f8588374e4142d",
+      "title": "Bespoke Labs Raises $40M to Boost Infrastructure for AI Agents - citybiz",
+      "summary": "citybiz 报道了「Bespoke Labs Raises $40M to Boost Infrastructure for AI Agents - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Bespoke Labs Raises $40M to Boost Infrastructure for AI Agents citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFpWSjlLWC1qWVVEM282QXplLVU2aE1URVlkXzliLVNnak1NUWZJUnNqSVg1ei1IaWJOZFhkLVJBYzRZbnVycEk3dXlhZFVXalhhaG55cjNDb201alZMbGo5TXFOVjk4OGRlbTdjblNDbU02cW00b3l6OTVtLXlaVVljZFdSc3JhalJYYzFrQjFxWC01OFZSNTZCaW05UUdlRHc?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-07-07 00:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9b34cc42ffc70626",
+      "title": "The future of insurance agent onboarding: From documentation to digital trust - Indiatimes",
+      "summary": "Indiatimes 报道了「The future of insurance agent onboarding: From documentation to digital trust - Indiatimes」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The future of insurance agent onboarding: From documentation to digital trust Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOXJDZzNOM3NoVDI3NTZzbHZnZE90MlJPVnNSSDdGLVBrWHh3Y2N2TXBETnh1aHJGbjJRZzlQMmVfRGNfTkdRb1JQenN6Zk1lSC1CYlFLeVd3dE90T2RYRW44bjR6NWhfLXRyZUlaenhDdVRkRWZ3bkdLNm5ZU0NsV2lCMnlHVzBCbUlBN0NKUzJMV1daVGRpWHVpRGJSbkx6NldWUFM4VzlNaXBTd0FJREowM2tCNXVKcjh5QURMVXVkMVRta1Y1ZW1CdVd6RHQ4RU80RnQ5YjEtcmR3NG9sRmR5ZjN4d9IB5gFBVV95cUxOOXJDZzNOM3NoVDI3NTZzbHZnZE90MlJPVnNSSDdGLVBrWHh3Y2N2TXBETnh1aHJGbjJRZzlQMmVfRGNfTkdRb1JQenN6Zk1lSC1CYlFLeVd3dE90T2RYRW44bjR6NWhfLXRyZUlaenhDdVRkRWZ3bkdLNm5ZU0NsV2lCMnlHVzBCbUlBN0NKUzJMV1daVGRpWHVpRGJSbkx6NldWUFM4VzlNaXBTd0FJREowM2tCNXVKcjh5QURMVXVkMVRta1Y1ZW1CdVd6RHQ4RU80RnQ5YjEtcmR3NG9sRmR5ZjN4dw?oc=5",
+      "source": "Indiatimes",
+      "published_at": "2026-07-07 10:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
