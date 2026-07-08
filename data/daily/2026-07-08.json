@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T12:34:44.993840+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-08/",
+  "image_path": "assets/daily/2026-07-08.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "e2980a7b7556dd55",
+      "title": "AI Open-Source Security Programs - Trend Hunter",
+      "summary": "Trend Hunter 报道了「AI Open-Source Security Programs - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Open-Source Security Programs Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HMl93aWxhMWJQU1A4RXlFRDRPUVpnSGxBVVFWa1pMTGdHSTF0emVxWHV4OU9IbzBMbFdybTFNWGhDd2VEWUdCS0FDVXVhOFprSnY2cXpCX2w0cURWTnNxUm9QZkJJWWdTUEp3R19pSk9ld2o0Q0RndGFZd9IBe0FVX3lxTE1HMl93aWxhMWJQU1A4RXlFRDRPUVpnSGxBVVFWa1pMTGdHSTF0emVxWHV4OU9IbzBMbFdybTFNWGhDd2VEWUdCS0FDVXVhOFprSnY2cXpCX2w0cURWTnNxUm9QZkJJWWdTUEp3R19pSk9ld2o0Q0RndGFZdw?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-07-08 04:50 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "e2683b08db7951d8",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch",
+      "summary": "TechCrunch 报道了「Why the rise of open source AI isn’t hurting Anthropic … yet - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why the rise of open source AI isn’t hurting Anthropic … yet TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUtFcjdaQ2poUmNMajdmWVktWmJ3R0NkSzBXUHlNeHVmVWpUSjRRZFVZdUl5a2MxNTNqM19NYlFWWUplUVl4N19lVVVjUnd2aFpubi1pZkpUcHNNQjg5NmprTGxnZW5iUE54emw1czNBLXQ3dWdTSU51bVhHVHVXbDNqUU1tb3VuLWNxNURkdnprQ0JKQnlR?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-08 04:04 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "bb8b9a104e1da30a",
+      "title": "Alberta Releases Open-Source AI Playbook for Government - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Alberta Releases Open-Source AI Playbook for Government - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Alberta Releases Open-Source AI Playbook for Government Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjdrdUxpdWJpYmhhM3VpdDVXYkZ1bVZ0MUNOQ2wtLVIzRVhSckw2eC00M0dnS1I3VmZ6SnFxdFFDZVl4Um5vYUpJWDFFbmZoalFtdW1UU2NFMFl1OER1M0tzczVmLTRMa21nT0NrRmpXV2J1MUlPUlNJbEQwdXdsZTA4THZUdVBwWlV1WlRyOVlpbEVJTC1aUFIwODg4Zw?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-08 00:27 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f34689ac49afdc9a",
+      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
+      "summary": "Reuters 报道了「EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括DeepSeek、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-08 05:40 +0800",
+      "companies": [
+        "DeepSeek",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "559065b85b81e4a2",
+      "title": "Microsoft wants to keep your AI agents from going rogue - Help Net Security",
+      "summary": "Help Net Security 报道了「Microsoft wants to keep your AI agents from going rogue - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft wants to keep your AI agents from going rogue Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzdNdEpvOTRlTG5JRWdKU2l6c1RsV3ZnVGVyWXdsSjlHWkdDNVc3OXdLQTREUnJORzloRVl0MVpCV0xMU290MG50MFFHTTJyMTlZRnFiTENZUkpzVHAxRVdxVGQ1SEl3Z2VGdnFCWnZ2Ul9pMGpsWXhtLWRRYzlZUHdRaDFycjFuVWFuREZFdGN2RklJQjc0OU5Db0U?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-07 12:45 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "59212492ae8cc3ea",
+      "title": "阿里云发布AgentTeams与AgentLoop：破解企业智能体规模化落地两大难题 - 飞象网",
+      "summary": "阿里云发布AgentTeams与AgentLoop：破解企业智能体规模化落地两大难题 飞象网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里云发布AgentTeams与AgentLoop：破解企业智能体规模化落地两大难题 飞象网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYUtwV3pMQXJnZV91bk9KN2J6Nm9LYWs0Z2VyaGNsdENTdkZ6WmZKVkh4M2tpVFJQd0lxTFlCUXk3bXlWVGsxUkc0TQ?oc=5",
+      "source": "飞象网",
+      "published_at": "2026-07-07 20:49 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dbdc6897b7a6b3d6",
+      "title": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 - 新浪财经",
+      "summary": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "世界人工智能大会剧透：智算、具身两大赛道各汇聚超200家企业 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDhRWmtNYllxdEp5VzBlN2FLaWE1MDZPcVZZYm1JZWE2T0JFb1hYZ3hVYzBEY1dyZ1FHWlB1ZFNyMl9KZ1VrMXNVaDc3dkROMjhHcnUzRURFSUhKMnp3SUxMNVlCdlNQQllNQmQ5a3lpMkhvX2ZSZ1BRQWg1Z0Z2Zy1fN084bWlWRFk0NTdHWXZvZw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-07 15:22 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8522e8fbe6e6c696",
+      "title": "零一万物发布 “一号位 AI” 产品矩阵 探索产业 AI 决策场景落地新路径 - 新华网",
+      "summary": "零一万物发布 “一号位 AI” 产品矩阵 探索产业 AI 决策场景落地新路径 新华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "零一万物发布 “一号位 AI” 产品矩阵 探索产业 AI 决策场景落地新路径 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWJWcDJWSnk5bnFhaFJxVmJ1S0JTbkJ0NjdzaUlYVFVlRERWVW5WWEEzLWhzdFN5ZEgxNTAxVE5jcTlqYXFNZlFjLWM3dkVCTDBKdGdFUmF4RzFzUExRaGJGX2RmYlNac2ZWbDdFeVh5NS10dWhyenNxQmVORjcxVlhQR3E?oc=5",
+      "source": "新华网",
+      "published_at": "2026-07-07 16:47 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "001206f241ce2261",
+      "title": "对话零一万物李开复：企业AI最好的作用是影响财报 - 新浪财经",
+      "summary": "对话零一万物李开复：企业AI最好的作用是影响财报 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "对话零一万物李开复：企业AI最好的作用是影响财报 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0pCZmZxR1FzN1JsV1cteWJRRjlNR2NaNDJaekdDcmxGQk1kcFNPcnNFZjhBa3htdjliU1pTX1Y0SlM1OC03Nnh0eTI5Q0hRNk9ha0haeDFpbnE0Y09QTGlTb0Z4bHF1c3JQSTdSbVpCNEZxVC1XNncwcTRHR0dSM1BJaDJXWmpFdHdxdkdHVGhzRk94WUphQUJxR3pzS3JJQ1duUXR6MllZRlgwQXBIZ01B?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-07 22:07 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1b8bdc3f9e672297",
+      "title": "李开复押注企业AI下半场，零一万物发布“一号位 AI” - 亿欧",
+      "summary": "李开复押注企业AI下半场，零一万物发布“一号位 AI” 亿欧 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "李开复押注企业AI下半场，零一万物发布“一号位 AI” 亿欧",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10ZmF6OGZ4X1doRHJ5M0JHdHpRYVdDRzhnR1hsOGtWcWo4SlNEdExTd2hMOWZLajAyY3pBZVBHNk82RDI4NHN6OUVsX182R0RocnlXWg?oc=5",
+      "source": "亿欧",
+      "published_at": "2026-07-07 14:32 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3fe293c63a85f8d9",
+      "title": "Compute Power Is Moving from Scarcity to Managed Infrastructure - HackerNoon",
+      "summary": "HackerNoon 报道了「Compute Power Is Moving from Scarcity to Managed Infrastructure - HackerNoon」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Compute Power Is Moving from Scarcity to Managed Infrastructure HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1hJdzV1Q1FxU0ppaF9TTWl6UGt3Qk9LczZNVmxkelpuZ05OSUpjVE5IVFRlSWpfbzJFd05rRWJIRThzWk4ySnNkdHJZNUdWakhGU1BCb1VzRXJjRjhFdGFQbW5ISmxqTjdKZDYxWDFpMFhDMFo3TnJrejdoNlVyYlVzbE9COEZPMTR6MWhlUQ?oc=5",
+      "source": "HackerNoon",
+      "published_at": "2026-07-08 03:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "af13b4c43783d8eb",
+      "title": "SailPoint and the Rise of AI Agents in Identity Security: What's Ahead? - TradingView",
+      "summary": "TradingView 报道了「SailPoint and the Rise of AI Agents in Identity Security: What's Ahead? - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SailPoint and the Rise of AI Agents in Identity Security: What's Ahead? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3dNYXpoNG0xNDZVV1drTWM2Q3F1QWZWakR5Z0NaZWl3MFMzczJiNzNDMXY1c20tZnhPZVU0ODJzZnd4bE8yQlhXVDZxazFwVjdndW5jNmwwRE5rT3ZVSW5rc2E2eDVaQWFsQVBwZ282dXp6WlVqUDY1dU9PelVHVVIwYWRfUW51aF9RbUpWNkpaUUlSMDI4dEN3VEIwQ1NzVnZXdnM3MjdKOWdOM1lsZDBYWEFmaVc2eTlRR2FOa3QxOU0?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-07-08 02:44 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "aefe623cb16835e0",
+      "title": "Samsung Begins Mass Production of PM1763 PCIe 6.0 SSD - Let's Data Science",
+      "summary": "Let's Data Science 报道了「Samsung Begins Mass Production of PM1763 PCIe 6.0 SSD - Let's Data Science」相关进展。 该消息涉及AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Samsung Begins Mass Production of PM1763 PCIe 6.0 SSD Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEJ4N2ZVY1QwODRuTEN3dXZSUERtRm5TRG1uX1FOemxLOG9BWWVwWVlxRzc3VnlMcEo3amtfQjQ5WVhmRGFWR2VLTFU2Zkp2Rm1YQ2VkWUpTYUV6U284UjhRc19ZRFlDRjI2OTdJZnBMc05UNXN5aXVOWXlFMjUyZTR1NVZxVzVjaUlub29aTGYyRHd4UXFnbkJ3?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-08 08:05 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 95.0
+    },
+    {
+      "id": "72cc6df593524a99",
+      "title": "WARNING: GitHub’s AI Agent Can Be Tricked Into Leaking Private Repository Data - LinkedIn",
+      "summary": "LinkedIn 报道了「WARNING: GitHub’s AI Agent Can Be Tricked Into Leaking Private Repository Data - LinkedIn」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "WARNING: GitHub’s AI Agent Can Be Tricked Into Leaking Private Repository Data LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTM3bUEwRk9MeG5LMmtEUE9SRm1VMkplcmQ5TVhNZ3ppSXVZZUkxVFl4ZFJWdW5xN0ZjQVNyVi1scG1maVExMDZBM0dScDhMbFZmVjNtdWxFelBkbktOOWx6ZWQwRTVxdG5RdEZnX3JvOHgtNWpzQXotRzFYSWhRWTBUVVF3TmU2dzhJUU5OWnRjeEk?oc=5",
+      "source": "LinkedIn",
+      "published_at": "2026-07-08 03:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "54d7b7a1c2775f93",
+      "title": "Can agentic AI simplify tech procurement? - Frontier Enterprise",
+      "summary": "Frontier Enterprise 报道了「Can agentic AI simplify tech procurement? - Frontier Enterprise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Can agentic AI simplify tech procurement? Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTRfM0dTRUJaT2ZXcVVPWHp1WUNPcUd1Yk9iTHZfZWRCTElKUzQ2VHVidU1nNWFQbXc2Zk9VVHNLcUJ5Y01GVDlTRFdIMHNHTWtFTlNNUjRCWDRIcHhsRktzSmpzUEdzd1lYS1ZZMmVVWVlWejRKVVRJcDVLX0hXY1VObw?oc=5",
+      "source": "Frontier Enterprise",
+      "published_at": "2026-07-08 09:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
