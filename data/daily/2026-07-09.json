@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T13:08:46.358639+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-09/",
+  "image_path": "assets/daily/2026-07-09.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c2ca256109578511",
+      "title": "U.S. Policy Tightening Spurs Open-Source AI Adoption - Let's Data Science",
+      "summary": "Let's Data Science 报道了「U.S. Policy Tightening Spurs Open-Source AI Adoption - Let's Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "U.S. Policy Tightening Spurs Open-Source AI Adoption Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk5KdE44R0pYcE4tOU1OSmdjRmRLNzg4elo5OTh1TjdfU0tGemVsOXVhb3FVSWQweVRzckpzY3M5ZWFuOVVadmxoY0huUGt6NVk2YVY1RlIwSWRoTXRHZ2hod3MxRXpZdTRVa1ZnTVkxNTU3eXZBWjIySXdYa2hlT2hKaHFJS3NBSXFRUVRUa3BIcGt0M2Rz?oc=5",
+      "source": "Let's Data Science",
+      "published_at": "2026-07-09 12:18 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "8dae19c10e701345",
+      "title": "The AI AGENT Act Assumes One Future for AI Agents. What If We Get Another? | - Opus Research |",
+      "summary": "Opus Research | 报道了「The AI AGENT Act Assumes One Future for AI Agents. What If We Get Another? | - Opus Research |」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The AI AGENT Act Assumes One Future for AI Agents. What If We Get Another? | Opus Research |",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY09JeVJkNDFHNFYxdC1EeDlPZzB6ckZldmtValhsVXB5aVlCWXBrNDI4UWYwUTlGTHc0NDgtOE90TkpXZkFyQS1DZm1yc19vZDJsRUlFa05mYUNycWQ0aVA5UVQ3bF9CWHp0czBoRmd1b2FaNGl5dlc5TW9rdkMzZHEzSkxaUXhWd3dJWVZvMGFuUUZxX3JJbmNUWS1EMVpUZVpqX1o2aWVWWTB2MlE?oc=5",
+      "source": "Opus Research |",
+      "published_at": "2026-07-09 00:38 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 154.5
+    },
+    {
+      "id": "497093ea4ddb9839",
+      "title": "Musk promises daily improvements to Grok Build and 1.5T foundation model as xAI races toward 2T parameter milestone - Crypto Briefing",
+      "summary": "Crypto Briefing 报道了「Musk promises daily improvements to Grok Build and 1.5T foundation model as xAI races toward 2T parameter milestone - Crypto Briefing」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Musk promises daily improvements to Grok Build and 1.5T foundation model as xAI races toward 2T parameter milestone Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5obFZJUHpkQ0ZCNGtjbnB1RGZmQjZ5T0RjbGZhLWdRaHhfem5MRllab3hRTXF0dWU1dlJ4MHcxaXNQWERfUW1oa0pKV19fLTdHWGlyaDU2NmJiTUs0U3l0c3ZmUlpHa1R5WXgzZUhQaUplM1dVdEVPUi12bw?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-09 01:42 +0800",
+      "companies": [
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "8a8d886bbbe176ce",
+      "title": "The Limits of LLMs: Why Context, Not Models, Determines Success - HPCwire",
+      "summary": "HPCwire 报道了「The Limits of LLMs: Why Context, Not Models, Determines Success - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Limits of LLMs: Why Context, Not Models, Determines Success HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmFKODBhVzYwRnlhUnBnOUJCTjB6ZGV4ZmhaSWJaUjRCajJ4UGZOZVFCODZxaE5iYm9JX2N3eEtxcjJGbmYtUS1ZcWpOUC1PSEVYeWl6WlFkMWlLeHlwMGxEVFk0U2hXQVBtT0FqMnZNM0ZOQ1lON2ZEdERMVFBOUmV3S0VKMF8waUtoVC1ERUdraWJLZGVwOUNhOEVqd2FtWnBwMTJB?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-07-09 06:31 +0800",
+      "companies": [
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "407f11b35080d648",
+      "title": "Qualcomm AI Factory Bet Comes as the Semiconductor Pendulum Swings - Zacks Investment Research",
+      "summary": "Zacks Investment Research 报道了「Qualcomm AI Factory Bet Comes as the Semiconductor Pendulum Swings - Zacks Investment Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Qualcomm AI Factory Bet Comes as the Semiconductor Pendulum Swings Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHJBNm80OFpya2tKcDB1X0RzUThIdFpGVG04VTI2Znhta1JGQk1SY3VOSUVSX0lXRXZkLTV5RDBOYkFUYzhyZ3YxcmU2R21HQS1YV3k4cnQ0bnNDUVZUOFVOVk5ES2RNbV9RV2JXTDc1R1J0OUsxekE4UDNaanFldjlVUjh5dzZIQWRQak40b3RCYl9yQllCODVyUVZCZEROTFV5ZEpIMlhGeHM?oc=5",
+      "source": "Zacks Investment Research",
+      "published_at": "2026-07-09 01:30 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "685da5161ed29270",
+      "title": "企业用了两年AI，为什么财报没有变化？李开复说要把AI给“一号位”用 - thepaper.cn",
+      "summary": "企业用了两年AI，为什么财报没有变化？李开复说要把AI给“一号位”用 thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "企业用了两年AI，为什么财报没有变化？李开复说要把AI给“一号位”用 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NkhPQ2FzdEs0N2FaQWVFYlRBWURMV1UtUXBOTzcyOW5QalVYT0RmekZfcFVTV0g3TElNM29mTnpfeXBVS2JETHVzTUdqSFM1am9WWXhGVWdIbGVfckNOWQ?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-07-08 12:42 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "afc74510e6050fc9",
+      "title": "携“一号位AI”亮相，李开复：能改善企业财报AI才有价值 - 新浪财经",
+      "summary": "携“一号位AI”亮相，李开复：能改善企业财报AI才有价值 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "携“一号位AI”亮相，李开复：能改善企业财报AI才有价值 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQZTNFckhYY2F6MS1yT3hsWG15cmNic05CRnRtMmtMRUlybVVUQmQ2VFBXT2I0Vmg3N0JmdnI4c1g0cFZPWnpOR2NQUjNYSnlESW9QSkZ0UnoxZC02R3ljTm5TM1RSUzhoR3JiRi1LWG5YYlFxTFJiWUNFdDZJckMyWm5CTk5NZ2VmRS1pTHo1RG5RUmtwY19xU1hWcUNXcE9pRkU3aS1KR0o3U3pCdXV6MUY2dVdrdnh6Y0lCRGc0R2UzczdrdzcydV9VV2d2ZHZOYmVHU2pyN3Nfazd4QS0yTk9oR0ZfcXhxcHFkcGw3bGJvNTEybjRTV2hsQ01aekY5Q3BXRkNpZWc2QmFVSjJNcmg5dXJyQTVJRUdtZEpDMzFuZGZ2dm9tYjdwaVE3cmw4akkxNW1Xb0Q2bDFqNTNheUJUajM1STJLazdfbXpQeUlhQ1kyWEVwLUw3b2U1RVpZWUF5WDBncDg0RWNKaVY4b2J6cUdOT01oZ2R0czFRcWprYnhVa3dKUEhWbVBLakxFOEk3b3NFbHlVTDFQNHJvc2VId083VG50QnZ4OWRDRkFuRGQ4NW5fcEZhRk9BMG0xTVpFT2M3di11SjJfeVVtRmx1QmQ5OGxuNVJtU0hST0tDVVZZNUttak81RVRNUm5qRUZhMXZpZEZMbnFiaUFHVUtwWHIwcWVVYklvX2JRN0xGS0R0ZUhZQ281eGI3N2c?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-08 20:22 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "aac85afb5adcea2b",
+      "title": "都有哪些企业入围？舱驾一体/AI智能模组/AI-Box/大模型年度标杆供应商公示 - 电子工程专辑",
+      "summary": "都有哪些企业入围？舱驾一体/AI智能模组/AI-Box/大模型年度标杆供应商公示 电子工程专辑 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "都有哪些企业入围？舱驾一体/AI智能模组/AI-Box/大模型年度标杆供应商公示 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TR29fY2dHZzZMT1JFLV9FblVBMGxSN0RJWGh0eUZRbm9IemVUTlFlU1F4Z1pmSEhoRzlhQm1tTExmV0xiQUdNa2NEa1JqQ1JQa3N3?oc=5",
+      "source": "电子工程专辑",
+      "published_at": "2026-07-08 17:25 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "08bb9a57ad9301fd",
+      "title": "健康AI科技企业薄荷健康获蚂蚁集团重大战略投资 - 新浪财经",
+      "summary": "健康AI科技企业薄荷健康获蚂蚁集团重大战略投资 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "健康AI科技企业薄荷健康获蚂蚁集团重大战略投资 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTHFUVVcyc3NDcU82SXl4VDVtTEYwUFZENW9HdVF3SnB1VW9rUHBOUjFEMTMzSUdRM3NOVU1CZFl4YVlNb2R6eThtMlhsdzRrTldWdzRjT0ViRS1WR25NaFVBcnE5YlpnaWF3bHcyanA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-08 17:25 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "327c297307de9dbc",
+      "title": "美团上线AI搜索功能，找到烟火小店更容易了|团购|app|大众点评|ai搜索|知名企业_订阅 - 新浪财经",
+      "summary": "美团上线AI搜索功能，找到烟火小店更容易了|团购|app|大众点评|ai搜索|知名企业_订阅 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团上线AI搜索功能，找到烟火小店更容易了|团购|app|大众点评|ai搜索|知名企业_订阅 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96T0o2V1cwOERVVU4tTGVhNG04QW0xTjVUaGFnc1NHMDliRXk1QmxxRU96dm1JVzRZa2ZLa0tMTlNfUlAybXV5alNQSUVOSlFTdEVEMkZRcmw4QzFuTTdvQjlQVUtSb2V4Y2NHUEZ3UFVXUQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-08 16:22 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3fe293c63a85f8d9",
+      "title": "Compute Power Is Moving from Scarcity to Managed Infrastructure - HackerNoon",
+      "summary": "HackerNoon 报道了「Compute Power Is Moving from Scarcity to Managed Infrastructure - HackerNoon」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Compute Power Is Moving from Scarcity to Managed Infrastructure HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1hJdzV1Q1FxU0ppaF9TTWl6UGt3Qk9LczZNVmxkelpuZ05OSUpjVE5IVFRlSWpfbzJFd05rRWJIRThzWk4ySnNkdHJZNUdWakhGU1BCb1VzRXJjRjhFdGFQbW5ISmxqTjdKZDYxWDFpMFhDMFo3TnJrejdoNlVyYlVzbE9COEZPMTR6MWhlUQ?oc=5",
+      "source": "HackerNoon",
+      "published_at": "2026-07-08 03:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "aa6a11d8beac7e1b",
+      "title": "Redesign Work Before You Add More AI Agents - Towards Data Science",
+      "summary": "Towards Data Science 报道了「Redesign Work Before You Add More AI Agents - Towards Data Science」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Redesign Work Before You Add More AI Agents Towards Data Science",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGtJUHlkT3lCR01HWXFMVlZweE5nMXhsYXdGYU00RU1NT0RXblZJQWtzUW9ueVFfVTA5U3ZzbExta3lNNWJWVzVpcE9XMml5WGdDc1VxcUtkMWQ3SkQ1ZnV6dk9sdGhLdHRKTU5XTm10Tld1VkRyQUFpYXBORGZzZw?oc=5",
+      "source": "Towards Data Science",
+      "published_at": "2026-07-08 23:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "36cd6cc42d549039",
+      "title": "Codenotary launches AI security platform that learns from AI agent behavior - Help Net Security",
+      "summary": "Help Net Security 报道了「Codenotary launches AI security platform that learns from AI agent behavior - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Codenotary launches AI security platform that learns from AI agent behavior Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTJENWN6UjVEQVpTQlFtWXlXSWFiTUlnWUFhYVM3bUpfZExDUC0wSk5BeWlJV2xCY1VUWWV1akNjTFREa2FpRENhSmpRVXh5UlcycS05bHRERVhkZi1qZVZCUXl2MEI4eEVva29lTXlsX3VsYkpYUmlrMFlWVzVCa3lCUk02RFNQLU5ZNVVDUm1xNmI5VGkyZk5ORUgtV3NqT25rVkpndmxGTmE5dVhHdWRzOW9lcHRDb29R?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-08 16:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "8bcee9eb4097e272",
+      "title": "Cloud Agents for Enterprise: Build vs Buy - Augment Code",
+      "summary": "Augment Code 报道了「Cloud Agents for Enterprise: Build vs Buy - Augment Code」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cloud Agents for Enterprise: Build vs Buy Augment Code",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TWGVyWTdYaXgzeWd3U2ttZ09KY0xWRUpQSHFjVUJxN213bThCdFhzbHlWUHpCcmcybk5YaFI1czNBWmw5WG1jZWdydlRkbWlWcEJTeUNSV01BWUdoNllfR1NORjBzTEM2NmxDM2tMaVg0eGJfZjRPNFpSOA?oc=5",
+      "source": "Augment Code",
+      "published_at": "2026-07-09 01:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f6700b8b86719416",
+      "title": "Globant and Vercel Forge Strategic Alliance to Take Enterprises from Agentic AI to Full Production with AI Pods - PR Newswire",
+      "summary": "PR Newswire 报道了「Globant and Vercel Forge Strategic Alliance to Take Enterprises from Agentic AI to Full Production with AI Pods - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Globant and Vercel Forge Strategic Alliance to Take Enterprises from Agentic AI to Full Production with AI Pods PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOS01nZVVuR3ZhaGYwUHJMMW5rcUNTYlRqbDF1S2JFWnl2NzhtS2NNZ0xUNkYzbWphVGpfNGdWV0o3cWNpQlR4dV9yNFowYVpNU1ZiSHBJUFB5UjFxY0p6SzQwOEYta1pUa1g0YlVnNjd3RkFpVEJOb1dzaEtLejNuOUk1dF9rZk03dEhQdG12bVEweUg1QnEtaDRUM01Eak1KMTFxRzBsV280T2ZMTUhtbXN6aVN0bHg2SWxKR3JGZFZTVVIyb3BjbTlHZXJ2RFJnU21xZm9vS1doVEFJU1lyS25DMlljZm4tMnhhd29qTFhIVHZiMzRHelZSOA?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-07-08 20:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
