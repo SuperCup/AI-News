@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T12:42:17.306753+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-12/",
+  "image_path": "assets/daily/2026-07-12.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "acb4b311659953a6",
+      "title": "GPT周报｜MiniMax完成160亿港元融资；腾讯新模型Hy3调用量激增；美国议员考虑限制美企业采用中国模型；工信部提示Claude Code存在安全后门隐患 - 财新",
+      "summary": "GPT周报｜MiniMax完成160亿港元融资；腾讯新模型Hy3调用量激增；美国议员考虑限制美企业采用中国模型；工信部提示Claude Code存在安全后门隐患 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "GPT周报｜MiniMax完成160亿港元融资；腾讯新模型Hy3调用量激增；美国议员考虑限制美企业采用中国模型；工信部提示Claude Code存在安全后门隐患 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsd05VcjdDNmRPM1BSWDlaT1dnZFdGYkRsamxzaDlneER6N2tySENQMEk1UHZpNkYzTktEd0hyVE5iM293V3hCbVk2c0dUR3VuYTNqQzUxdlVrVi1qdzZpSmhVTXozQ1E?oc=5",
+      "source": "财新",
+      "published_at": "2026-07-10 19:55 +0800",
+      "companies": [
+        "OpenAI",
+        "Tencent",
+        "Anthropic",
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.0
+    },
+    {
+      "id": "c1776184230daaa1",
+      "title": "Mozilla.ai Launches Otari LLM Control Plane - StartupHub.ai",
+      "summary": "StartupHub.ai 报道了「Mozilla.ai Launches Otari LLM Control Plane - StartupHub.ai」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Mozilla.ai Launches Otari LLM Control Plane StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWdQNjJ5VDRwNWswcWtocHN5T2t0OERrSUM3M0oyS1BFbkpDSWdobzFaeHBSLWJWS01vUTJPRi1pb3l3QkJQRkY1TmM4SlF4dEhLR29jdUdyb1VpbjU4aDc5bFFJeTFhenpXR3ZtRFRXb3FrRjlfNlBocF9scnIzYUtCV1VndWtIMzZOSVhMY1U4dXJNVWFNcw?oc=5",
+      "source": "StartupHub.ai",
+      "published_at": "2026-07-12 03:23 +0800",
+      "companies": [
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "cb80997c74e2a0b4",
+      "title": "Every cool thing you can do with Apple’s new Siri AI app - Popular Science",
+      "summary": "Popular Science 报道了「Every cool thing you can do with Apple’s new Siri AI app - Popular Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Every cool thing you can do with Apple’s new Siri AI app Popular Science",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0dFFHai1wS19WakhFYzh4S1FBbklxWTNHWVlxYlpYQ3c5ejYwLWNSenBSdjBXbmM1em5WOVF1M2lyZ0IxRkphc3JvUmhUWmRoMEpSOEIyR2s?oc=5",
+      "source": "Popular Science",
+      "published_at": "2026-07-12 01:03 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b1064baad036b26d",
+      "title": "IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients, and is Strengthened by Ongoing Project Glasswing Work - AOL.com",
+      "summary": "AOL.com 报道了「IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients, and is Strengthened by Ongoing Project Glasswing Work - AOL.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM Brings Its Most Advanced AI-Powered Security Portfolio to Clients, and is Strengthened by Ongoing Project Glasswing Work AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41OEFQRjAtblFnTGRIaTAyaXBwZVZJLWI0MUFnMFlVbHRVamhFMURCYmZfOHRMbWdqQks4U0p5Q0JxTTVwRlMxUDlQZjZtRmRPMlF3QWtkZUR2VFUza1VCYTV5TkFkN09zVUxWTmtEeFgtQTRENWU3cl9rUQ?oc=5",
+      "source": "AOL.com",
+      "published_at": "2026-07-12 08:39 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5415a7f66d4ee803",
+      "title": "AI Agents Slash Security Alert Noise - StartupHub.ai",
+      "summary": "StartupHub.ai 报道了「AI Agents Slash Security Alert Noise - StartupHub.ai」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Slash Security Alert Noise StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3EwQXllU2FCam5nR0RIbW40OUZvaGp0SEgycHlIR0pkajNRUHNQYnFtOEZZT0tfRE5BaDc3aXR4X0duOGJPWHI3Tk9leUJhSHFBSFg5TmRlM2NBWDUtcEJNTGVoYWJoVkVjeWtlMF9UaDlKbTVrOVhuRUVfaEdFNENGMGp3aWNfREVtc0ZJZw?oc=5",
+      "source": "StartupHub.ai",
+      "published_at": "2026-07-12 03:15 +0800",
+      "companies": [
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f867ab5016faf59f",
+      "title": "从“单打独斗”到“一人全栈”：商汤解码OPC生态落地新范式 - 搜狐网",
+      "summary": "从“单打独斗”到“一人全栈”：商汤解码OPC生态落地新范式 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从“单打独斗”到“一人全栈”：商汤解码OPC生态落地新范式 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaExOaG1MbUNXSFhPUmFOLVZHSlEzaFBTWWVpQXBrc180WElkZi10bGtPUDdXOU4yQUtIVHhEQ29uYlhFeEZWbWVnS0lLZnd6YnI3WjBIQUNYTVFzNHI3Y2ZBSHlWaS1rZXg2d2paOENOOTJTUHZtYkVMc1Jsem9Ta2ZuSThubGR6UExueA?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-12 09:03 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "64a5e16d3d0d856e",
+      "title": "Tesla's Robotaxi service is now active in part of Miami - Mashable",
+      "summary": "Mashable 报道了「Tesla's Robotaxi service is now active in part of Miami - Mashable」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Tesla's Robotaxi service is now active in part of Miami Mashable",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFenFtSUVzSXIwVDNwWjh1R3BIZllxMzZhQ09ZSGJrV2ZoeVpqcUxzWUNJYldSNTVsNFo4Ui13bnV2OWFKZHgyQzZJNUM3VEQzLVltWjRjQ1JWZ2xtSldBcktqY19PUXVrZlUycW1jRHBaNVpMUUprSg?oc=5",
+      "source": "Mashable",
+      "published_at": "2026-07-11 16:38 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "bcfa9b234bfc3f5d",
+      "title": "AI智能体+数字文创，全国首个WorkBuddy OPC合作社区落地成都 - eeo.com.cn",
+      "summary": "AI智能体+数字文创，全国首个WorkBuddy OPC合作社区落地成都 eeo.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI智能体+数字文创，全国首个WorkBuddy OPC合作社区落地成都 eeo.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZM1R3c0c4UkJ1cDJ0ekNWaEJneTdFRG9tT0tSUDFMa3luaFdnV05sQ25LZ0FmdnBva3VhUk93QWd0TXk3MVVrcDJ1aGVYMW9PX0VEdUI5aw?oc=5",
+      "source": "eeo.com.cn",
+      "published_at": "2026-07-11 11:44 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "55edc45cc52ffa7e",
+      "title": "百度搭子推出企业版Agent平台，大厂们都看上了这块生意 - Jiemian.com",
+      "summary": "百度搭子推出企业版Agent平台，大厂们都看上了这块生意 Jiemian.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度搭子推出企业版Agent平台，大厂们都看上了这块生意 Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93WHNOLWVNV24zYy1feldBZXYzME5hc1c0M3duSE1RVGVXWnAxaXEwNFJVS2FTMzktTnBGMGZHTXJXU09uWlJmVXZJN2lGdWg5dVlSd1g1Nkk?oc=5",
+      "source": "Jiemian.com",
+      "published_at": "2026-07-11 00:09 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e36ad1d76c6cb47a",
+      "title": "李开复：AI如何为企业CEO创造价值 - 新浪网",
+      "summary": "李开复：AI如何为企业CEO创造价值 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "李开复：AI如何为企业CEO创造价值 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SdGEyc21fa2hEZHZNb2YwYWxaLVF1akJnNDRPakVLTW92bXJ5UndDc0NHU2MwNFRpZlpFZ3ZJQ1RHVV90MEZUMWNxM0Y0WXZ3aHJILWVvUHVyZGt4bG1XaVdKQ0NFOHZVSE5sQnltOUFjWUM3TUgzZEt4TVl1b00?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-10 17:49 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "cdd94540080ff812",
+      "title": "Is the SaaS Business Model Obsolete in the Age of AI Agents - Kavout | AI",
+      "summary": "Kavout | AI 报道了「Is the SaaS Business Model Obsolete in the Age of AI Agents - Kavout | AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Is the SaaS Business Model Obsolete in the Age of AI Agents Kavout | AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEk5ZDNPXzhQVWJqYVNvSGFaT0FCdXloMmlpaGxyZmRfeGFDeG5SOXlORjhvc0c2UU8zWmdiWGhLSmU0RjM2RWItVk1iZEpkdklBdE5waFJiY1hBVlNCd3ZVWmlPRll1RlZzOTVnMUpmNXJEdTBORk9EZkZQMmhWWVpKYzFFbXNiNF92SERPUkZudzNyM3FWUFpR?oc=5",
+      "source": "Kavout | AI",
+      "published_at": "2026-07-11 21:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "eba1b39dd36720f6",
+      "title": "5 questions for a shift to an agent-driven era - Fast Company",
+      "summary": "Fast Company 报道了「5 questions for a shift to an agent-driven era - Fast Company」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "5 questions for a shift to an agent-driven era Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1E1NG5YOUpsdy1CQkFTZUpVbUpiWExZRTZHcGFmeVNPa1ZYR3lFaFJ5NmFPTWJ6bGZCdkg5N2lWWUp1amxnMjFFWWYzRGJQOGdzdE5jWjhyVXljTThCYkQtV1FBeUJnWGxQZE9WbmpxZFd0UlhETXZuTlc0UnhRWWdZSUFVSi04dHRB?oc=5",
+      "source": "Fast Company",
+      "published_at": "2026-07-10 20:10 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "e43688e6ffb579ec",
+      "title": "AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More - Solutions Review",
+      "summary": "Solutions Review 报道了「AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More - Solutions Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI News for the Week of July 10; Updates from Accenture, Google Cloud, Supermicro & More Solutions Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHVKQkQxN2FPUHg2Um90bHhwdEgxZ2JsTUdMSmV0TkRDR3RTYmtBVS1UU1h1UXpaZ2MtX01HbzY2clp6OWNhdEtUTFFkYkd2Yml3WGxiQUljOVVySVFLY3JtaVBaWVEzXzNyb2VUeVAyN2FRTmUwZ2dlODdteDRvZnFCQ2hVajJTdzMxWmplNG5OWk5TVzhQLUZiMk1pd0JhVzlCS1pVSDhBSG9iRl9kS05R?oc=5",
+      "source": "Solutions Review",
+      "published_at": "2026-07-11 05:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "95cdba1c1ce82bed",
+      "title": "Digital AI Simulation Platforms - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Digital AI Simulation Platforms - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Digital AI Simulation Platforms Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95NWRjeU1UcEphMGNReS1YWnFBZDQwYVZVdHZUT01WWXZZY1NZZ2FpTEZtaEFINWJxRVNWS0psUmRiN19xZzl0b25SSXQ1MS1hRW94RlNqT0YwSy0xNXMxa2FXcjZfejNxR0dibDZyM0J1aE54RjV2NG9R0gF6QVVfeXFMT3k1ZGN5TVRwSmEwY1F5LVhacUFkNDBhVlV0dlRPTVZZdlljU1lnYWlMRm1oQUg1YnFFU1ZLSmxSZGI3X3FnOXRvblJJdDUxLWFFb3hGU2pPRjBLLTE1czFrYVdyNl96M3FHR2JsNnIzQnVoTnhGNXY0b1E?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-07-11 04:05 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "ec80451974e8282c",
+      "title": "What Is Agentic AI? The Definitive Guide to Autonomous Systems - Memeburn",
+      "summary": "Memeburn 报道了「What Is Agentic AI? The Definitive Guide to Autonomous Systems - Memeburn」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What Is Agentic AI? The Definitive Guide to Autonomous Systems Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoM0tKWnNlYl9VU2xGVWhJOTkwM2N4ZXVCSWc1OC1ScVhTNloyU0k0SkFVQlI3Ry1GTnhtWFVmd1ZHT2JRZHZqMjdZVmc5dWF3cnc?oc=5",
+      "source": "Memeburn",
+      "published_at": "2026-07-10 18:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
