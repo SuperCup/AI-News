@@ -1,0 +1,346 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T12:49:30.585043+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-13/",
+  "image_path": "assets/daily/2026-07-13.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "269952934c0d3b67",
+      "title": "Week in review: Accenture data breach, great open-source cybersecurity tools - Help Net Security",
+      "summary": "Help Net Security 报道了「Week in review: Accenture data breach, great open-source cybersecurity tools - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Week in review: Accenture data breach, great open-source cybersecurity tools Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFNQd0hTSFBHamJwU1BGdXNDR0NNekRhNk5mMGpvOFRuRWxKbGdPZlRteE1rQ1J4bl9Pd1VlS3VrRjdHVl9GV2tXTFlrb2I0OVRpc1c5RmVuWkxUTnB3TFlWb20tMVE0U2RaQXVrUlFqWDczVlZTdkNRVG9rdXBpUTFsNHNrMktjUlVtX0tFdXRTTlA3ZEV5U1dzejVQX1ppbzN4TnJtOVEzNnRfT2F5UThQVEJ0OTRQRGc?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-12 16:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ef432f65b993495e",
+      "title": "GPT-5.6 Sol’s Shell Bug Wiped a Mac: OpenAI Had Flagged the Risk 16 Days Earlier - Tech Times",
+      "summary": "Tech Times 报道了「GPT-5.6 Sol’s Shell Bug Wiped a Mac: OpenAI Had Flagged the Risk 16 Days Earlier - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GPT-5.6 Sol’s Shell Bug Wiped a Mac: OpenAI Had Flagged the Risk 16 Days Earlier Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2pUVHNqT0dmUXJ5Y1ZEQnVYSlUyZnpIcjN1WXVtSkl6M2U0Q1VFaGNoSU1VZkVQWUlkMThMbTRNR0VqZFFrV1BWcGRkeG5idXlHTnEtNXRWbFRRTGxNVFZGQ21oTWZIV3FWVU91MC0tSUZLaEFqVEw5UnVuWVpfTEVNT0Zpd3Z0MWEya2p5T3VkemROVV9ZUjhsZnVzSENibUZGTjZmNkhWd1UwQ1ExYkROODJnSTM4OW9BMkRhTGlzdVlh?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-13 11:49 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "680a616c5106b9ae",
+      "title": "New Ghostcommit Attack Hides Malicious Prompts in Images to Exploit AI Agents - CyberSecurityNews",
+      "summary": "CyberSecurityNews 报道了「New Ghostcommit Attack Hides Malicious Prompts in Images to Exploit AI Agents - CyberSecurityNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New Ghostcommit Attack Hides Malicious Prompts in Images to Exploit AI Agents CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mcXBSQlU4dFpheUQtVmNCeUNaX3VTVmZIaDI3QklxYTlHU2RTSjJtVjZoWkRpQWpSdmJYelllNi0xVVNjZkFCSlF4UG5LODd0RjBBdEZjb3EtODl1MGl2X0x2a0NxN3VHMVVqTWtaX2PSAXZBVV95cUxOenJVRmxhR3hYd09HdkZOZmNOdUlzaGdPWVNxTmNkWWZQTVFsY1FDUFlheXJHUTg5aWNYOUFQVThCNDVwOU1MRWpvMHJPeE44RXk0elN1cUxpREVoZlUtcjhob3lQQ0t3X2NwVC1DaTBIQ0d3T1lB?oc=5",
+      "source": "CyberSecurityNews",
+      "published_at": "2026-07-13 11:33 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "c0113a01d114ce10",
+      "title": "Deb Dev Builds Graphical Debian Vulnerability Exporter for Prometheus - LXer: Linux News",
+      "summary": "LXer: Linux News 报道了「Deb Dev Builds Graphical Debian Vulnerability Exporter for Prometheus - LXer: Linux News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Deb Dev Builds Graphical Debian Vulnerability Exporter for Prometheus LXer: Linux News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0ybW40VEZMNWswMW5GUmpTY2RYR3ZLVEh3emVsVncxX1U4MFRmNzFDaV9ZSktNS3BldlpRQ2RRbXhNN0trOW9jVWE0cy11RG5Rak1vT09xT0hDQXM5NVdsbUk4X1Z4Wms?oc=5",
+      "source": "LXer: Linux News",
+      "published_at": "2026-07-13 04:57 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f23d915573fc7ed6",
+      "title": "文心之后，百度再造企业AI入口：搭子要接管的远不止办公 - 手机网易网",
+      "summary": "文心之后，百度再造企业AI入口：搭子要接管的远不止办公 手机网易网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "文心之后，百度再造企业AI入口：搭子要接管的远不止办公 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ybWVORFl5VldqcXBWRURDdlIyZUJGN0tpUmpUU3FPOVAwNjdhQVVncWhGcmZvVVNNdXIzYnRkcXYxZGQyYVhLV0RnaEFDZEdfeWlDUXBZeVlsVXNESU4tRDR3?oc=5",
+      "source": "手机网易网",
+      "published_at": "2026-07-13 12:05 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5232c8d61d663cd5",
+      "title": "蚂蚁集团战略投资薄荷健康；“养老国补”落地京东丨零售电商周报- 零售 - 亿邦动力网",
+      "summary": "蚂蚁集团战略投资薄荷健康；“养老国补”落地京东丨零售电商周报- 零售 亿邦动力网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "蚂蚁集团战略投资薄荷健康；“养老国补”落地京东丨零售电商周报- 零售 亿邦动力网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wU3hDdVM3al9hY2VIZ1Fwa2pFbWMzZ3hHQ1dUTGc2WEZUM09iS2JLRURPS3dRRWNOWjBmc0t5RGZvUDlDdmJoN1VMbVJRRDZUYUhVNm9R?oc=5",
+      "source": "亿邦动力网",
+      "published_at": "2026-07-12 22:05 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3657f6444a24499e",
+      "title": "小米开炮华为盘古的背后:拆解八大手机巨头的AI底牌|谷歌|安卓|app|手机厂商|知名企业_订阅 - 新浪网",
+      "summary": "小米开炮华为盘古的背后:拆解八大手机巨头的AI底牌|谷歌|安卓|app|手机厂商|知名企业_订阅 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "小米开炮华为盘古的背后:拆解八大手机巨头的AI底牌|谷歌|安卓|app|手机厂商|知名企业_订阅 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04T0paczlueVhmV0gtWGgxQTBHUklYVjVTeVQ2UW5CcXRoRW94UVFQaXVYQXlxeU8wdFJVUzdKaVlTdTRYSmVVaEk2MVp2VmN2c0pqV054cS0zRHVxSEhSVDhqb0I2T0RkQlkyd2ZuOHdQY1AwblRhN0tzVUNRWDQ?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-13 06:12 +0800",
+      "companies": [
+        "Huawei",
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "173ccdc260ebd556",
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
+      "summary": "CNBC 报道了「Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Apple、xAI。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-12 23:32 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Apple",
+        "xAI"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "8e287a6ee31b66a3",
+      "title": "欧美企业掀起向中国AI基础设施迁移浪潮！每经记者调查：加密货币交易平台、律所、AI企业等纷纷转向中国大模型，DeepSeek连续七周登顶 - 搜狐网",
+      "summary": "欧美企业掀起向中国AI基础设施迁移浪潮！每经记者调查：加密货币交易平台、律所、AI企业等纷纷转向中国大模型，DeepSeek连续七周登顶 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "欧美企业掀起向中国AI基础设施迁移浪潮！每经记者调查：加密货币交易平台、律所、AI企业等纷纷转向中国大模型，DeepSeek连续七周登顶 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13djl2Y1kyYldQRU9xUDhzWmRJTnpmZXh6Wnd1WllHSHhRUzdXbWhtMXVBZFlHUWREM2Zyc2F1Sy12M2w0eS1PdzRWWVRrbXNvN0E?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-11 16:21 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "18c30646cb775a41",
+      "title": "荣获2026福布斯中国人工智能科技企业！讯飞AI眼镜以轻量智能终端链接世界 - 中华网科技频道",
+      "summary": "荣获2026福布斯中国人工智能科技企业！讯飞AI眼镜以轻量智能终端链接世界 中华网科技频道 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "荣获2026福布斯中国人工智能科技企业！讯飞AI眼镜以轻量智能终端链接世界 中华网科技频道",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxSTNXTXFJejZ2ekdxWlRxMmFjVE12REcyQklvRC0zWFNNREtiSmxUSDVoTWZnX2s2bkNoM0VFYmlESHpQeGp6ZjJCbjlMNURkMVVsMlVGajd3XzZ6azhOamZoa09ZRDRHbDdaMEtB?oc=5",
+      "source": "中华网科技频道",
+      "published_at": "2026-07-11 13:12 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "f168ff7f3b42d654",
+      "title": "Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk",
+      "summary": "KoreaTechDesk 报道了「Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust - KoreaTechDesk」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Korea’s Physical AI Edge Now Depends on Certification, Liability, and Trust KoreaTechDesk",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWjdOZGIyUlVua2s3LVJDeXlhRW04Y1ZDbWNaMTFWTmhVb3QyZFZCa0ItbUI4Q0RqdW9vMlVwZG0wNi1PWUhFdlNPSHlwOUp1RTdXU1p1NjU0SEFjeHpISFRQSmRfemhUMVNySjdLbURmR2I3MFBGemZxZjZOYWs?oc=5",
+      "source": "KoreaTechDesk",
+      "published_at": "2026-07-13 07:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "6b307f397246934d",
+      "title": "Enterprise AI Workflow Integrations - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Enterprise AI Workflow Integrations - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise AI Workflow Integrations Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Z0FnNXYtbElKMWtObV9JYWFSRWVGUXlpbUE0Mk95MlNBbS1PNHgyVHdacTVRNXkxRmNZQ09SMUw1ZnktbjM5TGVraTdyWm5FVzhZOXdRSmVxWVhmb3lrWHRXY2bSAWRBVV95cUxPeGdBZzV2LWxJSjFrTm1fSWFhUkVlRlF5aW1BNDJPeTJTQW0tTzR4MlR3WnE1UTV5MUZjWUNPUjFMNWZ5LW4zOUxla2k3clpuRVc4WTl3UUplcVlYZm95a1h0V2Nm?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-07-13 08:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "88f81c9c40e7a124",
+      "title": "The hack (almost) everyone’s using: AI agents - intheblack",
+      "summary": "intheblack 报道了「The hack (almost) everyone’s using: AI agents - intheblack」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The hack (almost) everyone’s using: AI agents intheblack",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamI3RTVxcHZBYjg1YUs1WWFxdk1HT3FlRmVNWnVqangtYklQdlAzUERRWUdQaV9OM0tVaDZmYkctczdYZ0dNSkVHcEk5bzlwNGVJell2MWoybjZUb3MtOU5WWUVsUFBzTEowTDAtM1NUR1VnbW9iUXNwNFdoTmRZTXlhQ3ZSbHVMOTdJWUdudmo?oc=5",
+      "source": "intheblack",
+      "published_at": "2026-07-13 07:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "0a2275dac3bf7c18",
+      "title": "B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation - MarketScale",
+      "summary": "MarketScale 报道了「B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdEctNHgtOXB2ZVJCVjZYblNKck9ZUTlhRWJzVnBFSGh5NVZVS09jbzFWSzVhc2Y4Sk81Zzdycy1NU3FCeXAtOTU2TmxNWXEtWVI2UmZYbzRxeFVYTy0zWmpSY0ZzaTJNS25nX21jVlNnUF9RNVRWbE1ENXZKRzBaR3VpQTdvREJEYjZIZnlISHp4YzRnZUY3OGtuNXJEWjNZZi1YUWlERnpiRk5oNmFpTS1OODlhSlJvd3oyWTVUcjVfMHplYkdYc2tKZGNaVXI2VnRib192N1FabDZo?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-07-13 03:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "8cf336720f3cdac0",
+      "title": "B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation - MarketScale",
+      "summary": "MarketScale 报道了「B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "B2B Tech Asia Expo 2026 puts agentic AI at the center of enterprise automation MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmNvemN3SnRLU1lsMll6YmduUjFuNFVnUXJ3QjdWLTgzaHZ6a2Z5VDd2eWdNRTU2MWtqeTBvZDZuMTkzUThQbUpMajlLcUIzX2NTZjJBRmgyWm5rNE5qNTVhQUxhN3F6enB6bjMzcXNiSHVEYUZzUXBpR0Y1TDF4aWRlMzk0YVlta0MtTkNUbXNDeW9tcHpvRUxLbVJON2k2MEJWdll5bWFLM0ctM21TSHhUMEZBRU15YkcwdjZNQ3BuejVWTGpRQklTQVFUSVJOZ1lqdVJXajE?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-07-12 21:55 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
