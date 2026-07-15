@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T12:18:33.682471+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-15/",
+  "image_path": "assets/daily/2026-07-15.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c3b3f2f7b421f169",
+      "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ - thepaper.cn",
+      "summary": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41UVlkS0Fzc2FlN0VFaUVJRXY2S1o0Wjlla2J0eGNjdXM4Vl8xR0xpaHlnQmdKR3gzTlR2U1ZpVlNuNE5NWWJYVVc5bzc4NFZVYThoU2FJSXhwZEpkcnU0Ug?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-07-15 07:32 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "105aab1e844d4340",
+      "title": "Cynative: Open-source deep research agent - Help Net Security",
+      "summary": "Help Net Security 报道了「Cynative: Open-source deep research agent - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cynative: Open-source deep research agent Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHNRTzJDcFVIbW5jekx5OGtDdDd2LUpRdy1LM3pGM01GakZMeEk1Tm05bXd4bGViRjlfWHlFSGtOUTRrRFlxc2hGT2RkaUdaUG9zVUdTdVF6NUZpczBERVoxZkpadGZ4RjJjZDNjWDVnTGVjYXg2RUdHOWRrQXkzbk51d1JNYmtXMXdjOA?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-13 14:00 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "edbbb93de728ffac",
+      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)",
+      "summary": "Amazon Web Services (AWS) 报道了「Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEdqMTZJTTNRTDFzWWJERVRyUTZ5cW9jYVota2xoNnhWU0VKeW95VVg3Ym5pbDRkNmduYm5lN1lLbVZ0dUt4V3FFZV9iTFI3akpqSHVTTDF4STNGMkhqSDVoZXBJR2htdTh6YXVLYnFoT3BOWEZKcGk5enVnU3FtMXBrb19fSFRrTzZNTTVTTlhEM1J3M2ZaOHpNN29MbHFsckNRNlB1Q0JCUEZtN0ZqUmR4RHlfQjI2MVBUTXZDdw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_at": "2026-07-15 03:16 +0800",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "29c88e3e2740aedc",
+      "title": "Ant Group Open-Sources Agent Security Tool Days After Agentic Ransomware Hit - Tech Times",
+      "summary": "Tech Times 报道了「Ant Group Open-Sources Agent Security Tool Days After Agentic Ransomware Hit - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel、Ant Group。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Ant Group Open-Sources Agent Security Tool Days After Agentic Ransomware Hit Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWJSWFBzWjlQeDNPMXFSdkdXX0ZNMklCeUh0UGw1ZTVadkFjX2ozRkEtTzdXR042RzJsMC1XV3AtVkN5a3IxYnhWazRVSWdhTmY1SEw2dmpvRV9fbmx4dDNFaHY1ckRiN1UtZUpXQnE4ZzM5bmRvWlJOa3VOdGNkNlk0V1R6WHdaMVZlb09JX1hNY29mc1N0d3JVdG1iMXJvQjFkNldXUXd4dXJzQ1F5dGFqb1RnbmFYellPUllYM0NfMUdjSG4xcGJxMA?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-15 04:52 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel",
+        "Ant Group"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "43c52b81f3174475",
+      "title": "Reflection inks $1B compute deal with Nebius - TechCrunch",
+      "summary": "TechCrunch 报道了「Reflection inks $1B compute deal with Nebius - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Reflection inks $1B compute deal with Nebius TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalR5dXlfUTNNSkdSZ21vQTg3Z3ZHX0dVSmJjYzhjaVNaTUdiUy1PRm5MbTkydHhkRjRqblRhWkZGLWNRTnVCVG9ZekM2MGhwWmxqalhuMDFLcFpTdUxFbjJKYURDRXpTcEItZ28zQjBiaFdZckJTaXpvS3YyOTB2YXFOV2Q?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-14 22:37 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "94bcd6b16bb3774f",
+      "title": "Amazon SQS marks 20 years with new AI & scaling tools - SecurityBrief UK",
+      "summary": "SecurityBrief UK 报道了「Amazon SQS marks 20 years with new AI & scaling tools - SecurityBrief UK」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon SQS marks 20 years with new AI & scaling tools SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW1PRmxoMDRhQ3VKRHBhOWFGc1dwZERVcWZJZ1d0QTBZLXUyaFpqWlFyTTlhcUYtVE1xdUt5ekJnS19ZeklnM0pmcmtLWVh3ZXN1TmtpbUtndWZQZWpYWWFUSjB6TjBxLXMybWYyN0NZWFVXTGUycUtHcHFvZmNEQThjZlRSSU0zdDdoWGxB?oc=5",
+      "source": "SecurityBrief UK",
+      "published_at": "2026-07-14 16:30 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7cce2fe02bb3da5c",
+      "title": "从创意种子到设计落地，AI智能体成为大学生“新文具” - shobserver.com",
+      "summary": "从创意种子到设计落地，AI智能体成为大学生“新文具” shobserver.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从创意种子到设计落地，AI智能体成为大学生“新文具” shobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2OHl3MlE3MWNuM0lNT3NDc1hwZVFPSjZmQXJhbWo4MHlaZXYyNkVCSEdxMjA1UTdjWnk3czcxYmlaVlZZRDVKRFlaR2VXUGtBR2Z0SE9FVTZhQ3hRZ1E?oc=5",
+      "source": "shobserver.com",
+      "published_at": "2026-07-14 19:42 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "311674e42367e227",
+      "title": "美国硅谷和欧洲主要企业纷纷将中国产人工智能(AI)模型引入业务。 有分析认为,性能接近美国产顶级AI模型,而使用费用较低,而且因美国政府的限制,服务突然中断的危险也相对较小。 据《金融时报》(FT)1.. - 매일경제",
+      "summary": "美国硅谷和欧洲主要企业纷纷将中国产人工智能(AI)模型引入业务。 有分析认为,性能接近美国产顶级AI模型,而使用费用较低,而且因美国政府的限制,服务突然中断的危险也相对较小。 据《金融时报》(FT)1..",
+      "details": "美国硅谷和欧洲主要企业纷纷将中国产人工智能(AI)模型引入业务。 有分析认为,性能接近美国产顶级AI模型,而使用费用较低,而且因美国政府的限制,服务突然中断的危险也相对较小。 据《金融时报》(FT)1.. 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHZHk2MkdXOTRmbkxuNnFTTjNhY0NlR3Y2NlN6dWEtdjctM2xiTzl0MFBEUXpjRnBfYmpGbVdtQnBxRkF5VElpUkUxMA?oc=5",
+      "source": "매일경제",
+      "published_at": "2026-07-14 16:43 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "72784df6d51485cd",
+      "title": "2026AI产品大会完整议程重磅官宣：字节、阿里、百度等大厂AI产品专家齐聚，详解AI产品落地的真实战场 - 手机网易网",
+      "summary": "2026AI产品大会完整议程重磅官宣：字节、阿里、百度等大厂AI产品专家齐聚，详解AI产品落地的真实战场 手机网易网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026AI产品大会完整议程重磅官宣：字节、阿里、百度等大厂AI产品专家齐聚，详解AI产品落地的真实战场 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ySGdoVG9CeC10TjFlNFRYUklUR0pfR2pCUHUzLUJTX0d0TV91RHd0LUlUMHZabG5EYjRBRFFrU016d0RQcTF5TXltRVhpbGtMU0t1RzNNcVcxV2FtamVvRFZ3?oc=5",
+      "source": "手机网易网",
+      "published_at": "2026-07-15 07:49 +0800",
+      "companies": [
+        "Alibaba",
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d65f06fbd1ddacbf",
+      "title": "《智能体个人信息保护自律公约》发布，腾讯、百度等31家企业首批签署 - 新浪财经",
+      "summary": "《智能体个人信息保护自律公约》发布，腾讯、百度等31家企业首批签署 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "《智能体个人信息保护自律公约》发布，腾讯、百度等31家企业首批签署 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nVWhHcGJydERBbU16NkpBT0JYRkpjTmVidl9QdTFWNnhLTkNUOW1qLXNEaHNabHBCc0I1RzFKeFFaMS1TaENlbTkyMDZ6N0pvNlpoRVczV0tJWUNUejYzbWI2Wll6OGRRTkJEbDJXS2g?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-14 17:07 +0800",
+      "companies": [
+        "Tencent",
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c44f482ac12420d2",
+      "title": "How governance as code controls AI agent risk - TechTarget",
+      "summary": "TechTarget 报道了「How governance as code controls AI agent risk - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How governance as code controls AI agent risk TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0Z5QklTQnZWTkd0bFo4U3ptZ21zRm1QajFCVjd4WGZFOGZIWnNIeW9UMVhwbVJMSE05TlRIbGwxUjVfX2ZYMDFvcnVuRjRFQkVOMTBrTU9yMmpUYjEyeDNGdzhsc2tYMXB4YXNUTGczMjZQVm56SmhJTVpleUVvclVRbGM2RXFla3dWaml1MU1ueExlUkFqdDd3dGhkUQ?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-07-14 23:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "f95f7aace21e8937",
+      "title": "Codenotary AgentMon 3: An adaptive runtime security tool with integrated organisational history - Computer Weekly",
+      "summary": "Computer Weekly 报道了「Codenotary AgentMon 3: An adaptive runtime security tool with integrated organisational history - Computer Weekly」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Codenotary AgentMon 3: An adaptive runtime security tool with integrated organisational history Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXRFdkIwZmw4X0d6aEdUMEkwbEZ1R3RXb09XaUE3Q1E1Slc5NS1meFUya0dJWVhYTTNkMURjNGJhQmxlWXJJMzRBdUV4NHYweVZNVm1va0QtLVY5a09IQWpZeUdXUTFvWEZacVM4Ynl4Rkc5UGVNZEdVY2dYODVNd3RhejF0Z1pXRHFNS0N0MGtsSmZLNTNFRjNfYVFHSG5yczNmSHBjSW1Xb0hMTXRXMmdjemY1dkQyUTZfYlpZS2YwbGJMRUY0bTdXU1J3WjNFcDE3NjNSOVpNY0RvSWF2dFRDSUtMQQ?oc=5",
+      "source": "Computer Weekly",
+      "published_at": "2026-07-14 20:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "19edb47c77df468f",
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis - VentureBeat",
+      "summary": "VentureBeat 报道了「1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis - VentureBeat」相关进展。 该消息涉及AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXVVR29fYmZEdzI1WmFpU2Q0UVdzSUxDYkNpT3QzNUhwWFlFY3FnT0FDYWZDY3dwbE5uamUxWFFWUWx4Qk56Y19KNDQzVUtFT1Z1X3V1dkdITjhJa1ZGTk1QenFZQ2o3NWVZdG9rY29ZMWRtRXZCUmo4UF9qVWw0N3ZBTHl5RHM3ZUxKczUwU2dQNlJvVnVmTTJWc1ljWTI3VGFtdnhHWjJ2V19sQm9CZlpTTjFJX2o4UFdFanliSFFUcUlRam80elZ5aVBWRXM?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-14 21:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 95.0
+    },
+    {
+      "id": "c4022d4635f06217",
+      "title": "As AI Agents Scale, Enterprises Demand Execution Control -- Devenex Takes Control - PR Newswire",
+      "summary": "PR Newswire 报道了「As AI Agents Scale, Enterprises Demand Execution Control -- Devenex Takes Control - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "As AI Agents Scale, Enterprises Demand Execution Control -- Devenex Takes Control PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdVp2Yi1qTXk1WkdxMzRGeWtNWW9oU0ZCdFFTaTlvQTdMYzllQ09feF9TQ0lyRk4xMnhlS3ozX3FsWU9ZMHFhR1J2R2haUFFXVW5makQ1VXJwSGRNeHVTejlVMUlmS3NEMnVSUy1LTWZteFFBZmU4M1pFMmpIcEZGcVFxQ3pRTXdXU19LdnV0aTYwb0NWLXpBS2Z4c2NRQnBkaXdvNl9ZYUoxYkRYTG15TDZZM1MwRjdGS2hKRF9JRG9FWmRPZ21McXY5VDU3SDA?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-07-15 02:28 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f4d36b7554917591",
+      "title": "Pocket AI Agents - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Pocket AI Agents - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Pocket AI Agents Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OS0EydFJBRjhHZVNWTVR0c1loUTM4dV9RN2ZJM1dlNWg1OEtlamZvZzZHN2NqN3NRUk1Sa21nWEdtRDdNN19DZm9tMlRaWG1UeU0teWhMM0UzQWlqUjRvSi1sbXp6Z9IBZkFVX3lxTE9OS0EydFJBRjhHZVNWTVR0c1loUTM4dV9RN2ZJM1dlNWg1OEtlamZvZzZHN2NqN3NRUk1Sa21nWEdtRDdNN19DZm9tMlRaWG1UeU0teWhMM0UzQWlqUjRvSi1sbXp6Zw?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-07-15 02:55 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
