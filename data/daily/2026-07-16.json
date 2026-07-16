@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T12:27:41.197534+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-16/",
+  "image_path": "assets/daily/2026-07-16.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "92272fd381b8912c",
+      "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
+      "summary": "Krebs on Security 报道了「Microsoft Patches a Record 570 Security Flaws - Krebs on Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft Patches a Record 570 Security Flaws Krebs on Security",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxqQlgwelNTQzBHWGNCLUVYWkIwMGdKd091YWY1X1c3dVFaZXM0Y2czcTZmRVJ0a1JhSXk1TUtLUjhFckJZOWxPbTY3UlY3V19zUU1VT3FDVG82MzFBaVlxUlZYUHpPeWRWOUtwOHBNaHkwdGdiT09zamRkQ25JT19VYzBEcXh3MWc?oc=5",
+      "source": "Krebs on Security",
+      "published_at": "2026-07-15 18:16 +0800",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "f1f44c6a3fbd36fd",
+      "title": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform - Oracle Blogs",
+      "summary": "Oracle Blogs 报道了「Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform - Oracle Blogs」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Oracle。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Open-Source AI on OCI: Serving LLMs on Kubernetes with vLLM, Qdrant, and Terraform Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1hkbHd5UnVmUTdyZ0MyV2R1ei04bzU0TGRFYlBhWE41eEphN3oteTU5U1hjQUJRUjRFSEt5MWQxMFhfSzFMRkNzcGM2bWJYMTMycUVNRGFKMy12akw0V3Q4UndYM2RPUXRJWHZ1dXpTVGxWM0ExUm9hTHBfcVUtVmZhRGhYMW9qaG9YMGJ3?oc=5",
+      "source": "Oracle Blogs",
+      "published_at": "2026-07-16 00:19 +0800",
+      "companies": [
+        "Intel",
+        "Oracle"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ec467d20c0ad7977",
+      "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ - thepaper.cn",
+      "summary": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？ thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6SFh5VzZoUzRDV25QWFBVSndFLWRxM0ROdFNDdm5hbDBuSEJfWnlycjJPZXFzWmFGZHY2VFZJekh1Y1gzbGduRXY4Mk55Rk1kNFF4ODNTbVJleWNIU2c?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-07-15 07:32 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "cc401cbb1c4376a6",
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat",
+      "summary": "VentureBeat 报道了「Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-16 02:21 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a533ce43b5607d49",
+      "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator - Reuters",
+      "summary": "Reuters 报道了「Apple Intelligence AI service registered with Chinese cyberspace regulator - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Apple Intelligence AI service registered with Chinese cyberspace regulator Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15 19:15 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9ce0fe25c0c12035",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls - TechCrunch",
+      "summary": "TechCrunch 报道了「Rime picks up $24M Series A to help enterprises field customer calls - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rime picks up $24M Series A to help enterprises field customer calls TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWx2RlZBVkFXclZCTWp1NWVnWTI4c0pDeHJKRUtxWVc4blZWV0NJOHk4MlNueThvVnRGU1pUZmpjekVJdUpZV2g0TEN5WEp6VlVTQjU5cDRoN2padnlaaWpCeTY5SF92bk5IY2NEanNOZldFXzFOSDFSTUN3dlpxSkRnc1laSXJucFNRRDQyc2dLNEZKYlRBa2lIS1FFUFc2djNkTA?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-15 21:00 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "efd24cff987edb30",
+      "title": "AI智能体周报：智谱、MiniMax解禁震荡；Kimi投诉发酵；讯飞布局企业智能体 - 手机网易网",
+      "summary": "AI智能体周报：智谱、MiniMax解禁震荡；Kimi投诉发酵；讯飞布局企业智能体 手机网易网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI智能体周报：智谱、MiniMax解禁震荡；Kimi投诉发酵；讯飞布局企业智能体 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tS0pIOGVyb3U4RUdpMHIwaUM2YzBrajdhSUNZNklZa0x2RTJNLVAxN2NuUDNwaHVIcnhOX2xjbjJPeC1lRWZvNXhTbl93SnhHSWtYTk9Wb1JOeE14dWU2aWRR?oc=5",
+      "source": "手机网易网",
+      "published_at": "2026-07-15 16:21 +0800",
+      "companies": [
+        "Moonshot AI",
+        "Zhipu AI",
+        "MiniMax",
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0717fd37970a5a2c",
+      "title": "小鹏第二代VLA智驾系统通过德国本地化验收，成首家实现中欧同模型落地的中国车企 - SmartHey",
+      "summary": "小鹏第二代VLA智驾系统通过德国本地化验收，成首家实现中欧同模型落地的中国车企 SmartHey 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "小鹏第二代VLA智驾系统通过德国本地化验收，成首家实现中欧同模型落地的中国车企 SmartHey",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3eXhPakFjak9tN0haZlFvbXZtZnZySzhQLTVBSHE0VjVOUTgyc3Ruc1hSYU5DOW9IYXVDb0J6SUpvMkVjM1NPaWp1NjFpTGR3Q3Rvc0VxRzAyMnR2cUE?oc=5",
+      "source": "SmartHey",
+      "published_at": "2026-07-16 10:54 +0800",
+      "companies": [
+        "XPeng"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0488d90fb2c2e47e",
+      "title": "科大讯飞入选2026福布斯中国人工智能科技企业TOP 50！讯飞AI眼镜以轻量智能终端链接世界 - abvr360.com",
+      "summary": "科大讯飞入选2026福布斯中国人工智能科技企业TOP 50！讯飞AI眼镜以轻量智能终端链接世界 abvr360.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞入选2026福布斯中国人工智能科技企业TOP 50！讯飞AI眼镜以轻量智能终端链接世界 abvr360.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zOEctbnNUeEJJM0hXeDIxSXRNR1haR3BuQVcwXzIzNWNPeUJqOEtpQ0R6MXkzYlZOZ0N6alNYOHNvci1DOHc?oc=5",
+      "source": "abvr360.com",
+      "published_at": "2026-07-14 15:07 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "d13453916efc16bf",
+      "title": "AI融资周报 | 逸文科技跻身独角兽，墨奇智能获腾讯、阿里联合押注 - thepaper.cn",
+      "summary": "AI融资周报 | 逸文科技跻身独角兽，墨奇智能获腾讯、阿里联合押注 thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI融资周报 | 逸文科技跻身独角兽，墨奇智能获腾讯、阿里联合押注 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xcWNsNGZDNlBBRVV5WlRacjNvM1pxWm16MV9fSWN3MmJqbGVOUDVmb2tvMDkwOG9YaXpFNkwzS3FQM0Qydy1KdWROX01EOG5tZ2xOdDVUTnlJaV9QbHc?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-07-15 07:12 +0800",
+      "companies": [
+        "Alibaba",
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 139.5
+    },
+    {
+      "id": "f81b36bfff2a9a1d",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+      "summary": "VentureBeat 报道了「Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-16 06:24 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "28deb586cea3f9d8",
+      "title": "Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 - MarketScale",
+      "summary": "MarketScale 报道了「Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWk1c2UzV2g4aG1HMHRrQ3ZaNzdTVVFxVERybmNLb19TWHNNSUJ6QVJTUVBLdkt5d3p4MmU2TDRhdnFTQ0xDMkd2c1ZOTFQ1VDZGbE94RnJxanpOTHEyS18xcHgwMklGaXNzX2xUZjJPY2xmSXFzaHQxaEdiUXBzQmE0SDcySDhxV2dkaXNnUzNZb1NzZmpYSjdyemZvSXZidkRXSHE3eFRPNHN1RExqNGRQcjRJbXZMdTBUYlpsMmVSakI3WlhBUnIwNi1HYTctYW9yOG1wbHlWaEJHRm5qOUg2N3cxeEQwckRV?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-07-16 09:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "b5ccfe0fc378e9ff",
+      "title": "Creatio takes aim at the enterprise Frankenstack - MarTech",
+      "summary": "MarTech 报道了「Creatio takes aim at the enterprise Frankenstack - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Creatio takes aim at the enterprise Frankenstack MarTech",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0walNiNkxrT2xmd1ZBOF9ROC1HMGRweHhSZ3ZSV2szWUcyUFkyVXBVYWVnUUNuVGUyS2FFSDZXOGw0Tl9VLVZ2akRtOGpqRDl2cUktSTZDSzhjd2FpaFRrS1BlUktvWG9PN1h6NGZIcHY3OEdIN2RrXw?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-07-15 20:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "fdb812d90bc819ff",
+      "title": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder - Yahoo Finance UK",
+      "summary": "Yahoo Finance UK 报道了「Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder - Yahoo Finance UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Autonomize AI Launches Genie AI Autonomous Agent, Transforming Every Healthcare Expert into an AI Builder Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnd0M0JIRV81dVJxbGNDOTJURWtzLWRab1ZPTWVtbWwybkJIZ053bjQ1ME5qbUY4T3MtZWluY1NJTUxRS1FYUWxULUdxUEZRUGN2WjZ6c09FNlB5Wm1LLWRwWjlFTXEzNEduM2U0cjJaTkl5UWVia2N1aWk1TTgwSHRmTGtuMnM?oc=5",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-15 23:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "190b1a6ca8dd8939",
+      "title": "Why $2 Billion AI Agent Crypto Market Cap Is Projected to Reach $200 Billion by 2030 - CryptoRank",
+      "summary": "CryptoRank 报道了「Why $2 Billion AI Agent Crypto Market Cap Is Projected to Reach $200 Billion by 2030 - CryptoRank」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why $2 Billion AI Agent Crypto Market Cap Is Projected to Reach $200 Billion by 2030 CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3J6c3RzN0x3bDY4SmxyaWNManpVa0JiNHBBXzE1ZUJmdUxvQWlmVUtRakI1YlJJWDVONmxnMjE4dW8xQjJqV1BkN1V6bkVUalBVRGE0Qk4yMm9MSGdZNy1GamtiN1hfNWVraXM4MWpZOVp4bDMtVlV1QTBpZ0NucjNneXBNaTRVMWpRb3ExZDFrUGE1dklTSFN1eVFBNGE2QzNDd2tDbkliQ1ZwNnZxT0hZODVwUUh5MERHbg?oc=5",
+      "source": "CryptoRank",
+      "published_at": "2026-07-15 23:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
