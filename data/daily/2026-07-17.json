@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T12:27:24.270395+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-17/",
+  "image_path": "assets/daily/2026-07-17.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3a036487b0ae47d0",
+      "title": "Russian cybercriminal used jailbroken Gemini CLI to rebuild botnet infrastructure in six minutes - Help Net Security",
+      "summary": "Help Net Security 报道了「Russian cybercriminal used jailbroken Gemini CLI to rebuild botnet infrastructure in six minutes - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Russian cybercriminal used jailbroken Gemini CLI to rebuild botnet infrastructure in six minutes Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWRibEhRRThVSnpQaHY4NUJQTVBqTE04VTJ2aHNHYXFDdmVrSU9nR3FBLXRnanpZLWVTMURXcDIyRDdWeV84YzV1OWtJUm16Q3ZUUWVQU3NpY19lV3M4UVBpeGZrRTVNR0s3a2VEc3lWdk5mYlI5WWREd20wSlBnd1BaMnFaUQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-16 20:08 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d9094f827bd8a51a",
+      "title": "Why national security – not market forces – will define the US-China AI race - The Business Times",
+      "summary": "The Business Times 报道了「Why national security – not market forces – will define the US-China AI race - The Business Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why national security – not market forces – will define the US-China AI race The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWhZRGxGSmM1UXBGT0cweGhaMTltbkRKZUY1c052NGRVV3U4Q3B6cUw3cTBWOGJ2RGZtMlN6aGFyUTFILWs1U1UzVnRFRk5oRThZVElKcUlUdHUwS19zc25yYU5rTmxfQTVOVV9rbEpnNDY1QXBMRnB5c053MmJEX2FubXBoTDgwNGtZR1dleENJT2E5eVpXakVnUjNIbHdidEQ5TXppU1NkUXdYRjIxazV5WjJPbC1QeWc?oc=5",
+      "source": "The Business Times",
+      "published_at": "2026-07-17 07:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "44d8f13bd8e1937e",
+      "title": "Exclusive: Microsoft Preps Mythos-Like AI Bug Finder - The Information",
+      "summary": "The Information 报道了「Exclusive: Microsoft Preps Mythos-Like AI Bug Finder - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Exclusive: Microsoft Preps Mythos-Like AI Bug Finder The Information",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnBuODhrS0ZzTDRlLWJxOEtpY2ZTOE1WS2NtelhUdkdMM0ZoTnNtZ1NPS0lLd3FtNm03azU5Qm9HVHotT0ZEVE5aSk5PMmxZazVYd2huV1JXQTJkTWphRFVPM1lENDZpVXhySG0zbnhzUUh2RUFYT01uUTlUbERXUURnRHRMSXNabDIzZWp4V3QwYWJXaVRR?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-17 06:05 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a6339a325eae11a6",
+      "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
+      "summary": "Reuters 报道了「China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Moonshot AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China's Moonshot unveils world's largest open AI model, closing in on US rivals Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-17 10:06 +0800",
+      "companies": [
+        "Anthropic",
+        "Moonshot AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "984da7a966323369",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 - TechCrunch",
+      "summary": "TechCrunch 报道了「Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Moonshot AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGljNFJ6U2NlZXQwdzQ3MWVBQ1dRZnNVV0w1Mk13SXJCbmU4b2ptdnpubS1CZFAxNDdzQVhZZDg1QVdXbjlaRi10ZEQ3MTE0NmQ4OEZTUWhmQUZORUQ3clkwdnloY1BZTE9TT1ROaHhpQjBxc3F3YVlRc0Z6WmNNd1U4MjJFT3N0TTFGUFppQ0tJcWlyZVMtLVlORVFsVVloQjNXM3JwWDhYY0t0V25QS0drVXU?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-16 22:26 +0800",
+      "companies": [
+        "Anthropic",
+        "Moonshot AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "be02e5242058db20",
+      "title": "深圳超120家AI企业组队赴沪，全栈产业链“亮剑”世界人工智能大会 - 新浪网",
+      "summary": "深圳超120家AI企业组队赴沪，全栈产业链“亮剑”世界人工智能大会 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "深圳超120家AI企业组队赴沪，全栈产业链“亮剑”世界人工智能大会 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5aHlqS3VILU5kbHFrVTJFbkF2UGh0by0tcmpKN3VlOUh1TFBFQm56VXlBaEVaOXJpWGtjb0JsZTNKc1VBajdfZXNUMHpWX3ZBOTNhQVpVSURDYUpYTFBmSXhMTTU2UC1tUmVzZzJOTExmZXJtTk9ibTd6cFZzeGs?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-17 11:01 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "24e02318f601f812",
+      "title": "腾讯云与RoboScience机器科学达成战略合作 加速迈向具身智能规模化落地新阶段 - 央广网",
+      "summary": "腾讯云与RoboScience机器科学达成战略合作 加速迈向具身智能规模化落地新阶段 央广网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯云与RoboScience机器科学达成战略合作 加速迈向具身智能规模化落地新阶段 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmOS1IM085enBLVTRzaXpISUVSZGRWWE5Ic29OS0kzT1UwMmxxQ2pHbEp3cHdmUVpjd2d2NV9fVTBfVjlPSlN1WnAxU2ZYeGUzZGctRTlNU01iTWZwc01UeGtuUDJXWnA3RkZMVjNR?oc=5",
+      "source": "央广网",
+      "published_at": "2026-07-16 17:10 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1139b15b4578c105",
+      "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股 - 财联社",
+      "summary": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tQWRRWXVwZHUxNmJIZUhlc19XWXpVcVdYVlU1V05MYzNmT1lFSHp2b2gtVlRNUkZEWTRSbWpCbUhkNmFxWnk3Yw?oc=5",
+      "source": "财联社",
+      "published_at": "2026-07-16 19:25 +0800",
+      "companies": [
+        "Tencent",
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a71b3b9057b1e1c8",
+      "title": "新突破 中国企业发布全球最大规模的开源模型Kimi K3 - 新华网",
+      "summary": "新突破 中国企业发布全球最大规模的开源模型Kimi K3 新华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "新突破 中国企业发布全球最大规模的开源模型Kimi K3 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1X04wLWU5RE1tbEtIdzBkdTVyS3gxNVNta0xTeE1YZjY4S05MX3M4bER3TzdwSy1XN2lWYm1wNVJpcnMwUEQ2TmZXWG1mZXhzTHdqb1YzMy1JNElTbkZnNnptME9jeF9CSGNLLTdvZVNTZEhFSXVseXdpTEE1QQ?oc=5",
+      "source": "新华网",
+      "published_at": "2026-07-17 01:46 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fc5eb6e48ecf320c",
+      "title": "国家元首在上海会见中国企业界代表：哈中关系迈入新的“黄金三十年” - 哈通社",
+      "summary": "国家元首在上海会见中国企业界代表：哈中关系迈入新的“黄金三十年” 哈通社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国家元首在上海会见中国企业界代表：哈中关系迈入新的“黄金三十年” 哈通社",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3RSMEYwREw0N2hfVmhMMld3MkZvNUNJZkY1OWNTQWs5WmwyMXBHMWF4bWpWWDB1ejVHMmlqM19jb01xbm5JQS14MWUycUJnQUlfaXM1dmNwUjBWcG9xTWlLWG9pcEQ5UDA3UGNKLUZHNWFxY1lDWEZsN2xhdG1XT1BwYkw0YXIzYUVpMdIBiwFBVV95cUxPRFBlcXN2Sk5Mdl9OQjhTREhZY1lCMnZxSkNhN0VOdUI2REFYMGRwWjZ5N3dFTmFvTDZwRy1NLU80Smp6bFBZRmVHXzZUX0Y1RGdnY2tYcUNIc0k0R19uZmVGdjZnMUlYTVdxM3l3YlVaU0tiLW96c1AtWXkzajItVEdKN3NsdnhuNHFV?oc=5",
+      "source": "哈通社",
+      "published_at": "2026-07-16 22:37 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8bea236d3c6be17a",
+      "title": "Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South - Tech Times",
+      "summary": "Tech Times 报道了「Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South - Tech Times」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1ZtMmdtUGJ4UG0wX2tBdFdpUHdvTFg4VHI4VmN2Y3dReEFBV3RlR283R0t5TjF3Nl81VmFIMlhFdVplaWRwRU41OUlfRzR4d29qQjVwRkdQa08wR0NlN3FNRVhJR0N5Ny1NaXZLZ3Z3TTdqQ0VPTHluWDZaamY0ejhrMVVQWGFjR2JiVy1rNlJBSFhucUN5SUd0b2N0ZlhKRlJYWHZCY2xTS0E3UVBMTno1VzkxUzJzb3Zad19rdE5DaWZja21iRXpn?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-16 19:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "b0b9362631ce4e9f",
+      "title": "Enterprise Trust With Agentic AI At Entrust - Security Informed",
+      "summary": "Security Informed 报道了「Enterprise Trust With Agentic AI At Entrust - Security Informed」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise Trust With Agentic AI At Entrust Security Informed",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFVXbF9UTXNYdFNOcGlMd21ITW4xb1hTaXVlVkl2V2haMWM3bVVXSnRqWmtnSkZfaEFYRHFESm40UU9GZzZxTElqOHRTYnNrTkpLa1BjQnp3UU9zQzlPcmx3WnZMN2tGSXhnb0RHRzE4MlVpdmRudXFsTk5aNlVDNkE2M25yMWxiaXQ4LXBNTGprLXctUUhHaFp6MmVad2tKRXZWanVieEhvMlVCOVd1Z2NsaVQ4cVU?oc=5",
+      "source": "Security Informed",
+      "published_at": "2026-07-17 01:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "28deb586cea3f9d8",
+      "title": "Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 - MarketScale",
+      "summary": "MarketScale 报道了「Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI, infrastructure risk, and timing: the B2B tech signals operators can't ignore in 2026 MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWk1c2UzV2g4aG1HMHRrQ3ZaNzdTVVFxVERybmNLb19TWHNNSUJ6QVJTUVBLdkt5d3p4MmU2TDRhdnFTQ0xDMkd2c1ZOTFQ1VDZGbE94RnJxanpOTHEyS18xcHgwMklGaXNzX2xUZjJPY2xmSXFzaHQxaEdiUXBzQmE0SDcySDhxV2dkaXNnUzNZb1NzZmpYSjdyemZvSXZidkRXSHE3eFRPNHN1RExqNGRQcjRJbXZMdTBUYlpsMmVSakI3WlhBUnIwNi1HYTctYW9yOG1wbHlWaEJHRm5qOUg2N3cxeEQwckRV?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-07-16 09:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "0d003a6c95ed3757",
+      "title": "Coding Agents: How Agentic AI Is Changing Software Development - Snowflake",
+      "summary": "Snowflake 报道了「Coding Agents: How Agentic AI Is Changing Software Development - Snowflake」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Coding Agents: How Agentic AI Is Changing Software Development Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSHZ5S05SM3FDbnRRV0ZTVm1CVFlIaXJyQWJVcmsxcllmQ2JnLTE5WFdOb0xyY0daeUtpX1Zzd1l5eW1JT2NGUkpPQ3A1TFZoUFVWTHltdUVwbkY5Y0Nsdk1FWXRJb1FjSlZWTkFfeXVPU0t3QXZvTVYzSHY5eHM?oc=5",
+      "source": "Snowflake",
+      "published_at": "2026-07-16 22:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bea6dac86f8e349b",
+      "title": "Agentic AI Democratization - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Agentic AI Democratization - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI Democratization Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHSTAwdHVHcHFrZE1xR3h3N2JyaU9CYWpHLVVpd0taOG5BYUdCVk9ucEUxbE40UDdDZzNvT1hValNxcV90bXhObDB0ZnJTdmhqYmkwc05KWG54MER2aU5xYXpqa1VBbjRQeUxMTjlUVVJXQW_SAXNBVV95cUxQR0kwMHR1R3Bxa2RNcUd4dzdicmlPQmFqRy1VaXdLWjhuQWFHQlZPbnBFMWxONFA3Q2czb09YVWpTcXFfdG14TmwwdGZyU3ZoamJpMHNOSlhueDBEdmlOcWF6amtVQW40UHlMTE45VFVSV0Fv?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-07-17 05:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
