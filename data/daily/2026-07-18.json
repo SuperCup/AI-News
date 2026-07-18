@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T12:16:04.075597+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-18/",
+  "image_path": "assets/daily/2026-07-18.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3a8641bd24a1fa35",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs - TechCrunch",
+      "summary": "TechCrunch 报道了「Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnUtSFFraUNONDhSemRxQzJpTXhkMlVleHpEN0N0Mll5TmZqUVJZVGNraWFVUTZzWVZ5NDhOZjJILV9yLUg1cEM4UFN3Z1pRcmVxNVZXakI1Tk0teDhDT3FnWTdpaktPR05SNlUzSEstVGdPeWFmdVE3VE9ybFlmQ3lScC1sbS1VR2x4UnRtbnpVd3hCbWg3a2ZHcTVweTdwdlhNeDNuTGRNdkx1bm5QYllNVGRNRzQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18 06:55 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "74016cf3a73bb604",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act - TechCrunch",
+      "summary": "TechCrunch 报道了「Databricks hits $188B valuation, extending its run as AI’s favorite second act - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Databricks hits $188B valuation, extending its run as AI’s favorite second act TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTZYXzU2Ulg4YjhrV0lhMl9vV2ExWm5TZXl5VDI0TEI2UDRmbXhqMmRWQTR3dEFNY1pEWi15dGlZY2JHczJQOGdPQzBLNHNyaW5EOUUxX3VVNWN0ZlYweUEzS1QyYTdHNTBvRTFYaDByMFhidFE5U2FXUm5uOTh4STZTYmFCZkh4LVA1UUl3VlNWY28xWkt0ZW1jNXljbjd0Wm9aRUJ2bUpZQU9FSUZ3?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-18 06:12 +0800",
+      "companies": [
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "18cafaa080ed9419",
+      "title": "Microsoft’s ‘Project Perception’ Could Challenge Anthropic’s Mythos in AI Security - TechRepublic",
+      "summary": "TechRepublic 报道了「Microsoft’s ‘Project Perception’ Could Challenge Anthropic’s Mythos in AI Security - TechRepublic」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft’s ‘Project Perception’ Could Challenge Anthropic’s Mythos in AI Security TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0JfQnFIQ3RBMEFvaDdqNjdtSF95TUlWbUx0M1R0ZXJtVDUyOWtJeGRjeGllbE4zZXQ5em5memZZV1VSN3dRQzFBR0VKR2cybmJmb3hnY3J4TXp6ZHBZNDFhR3VLV1VCbWd4YWlyWjZlcVFCVkNNQ3BjelNxUFBQTFg2cUlWbk9tZXEyUTludzViUQ?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-07-18 04:27 +0800",
+      "companies": [
+        "Microsoft",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7164cf7c4b7f8bbb",
+      "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台 - 新华网",
+      "summary": "阿里发布秒悟团队版，打造企业级AI应用创作平台 新华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里发布秒悟团队版，打造企业级AI应用创作平台 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KRmpNX1JlS0NYaG83aHJIdEVOaFUxUnBhTnBIWjlZYVFfOHFZMk00VnpQbDUtdTg1b290LTVCaG1KeGw3RElyYUs4d3I3TFhiZlN5Sm5mV1dDbVVfWkVzeEZwSi11MnRDYXNFTElLUUxRVk9hSEhuc3M2Xzc?oc=5",
+      "source": "新华网",
+      "published_at": "2026-07-18 11:19 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "cdce938f01d09722",
+      "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版 - Moomoo",
+      "summary": "阿里巴巴发布企业级AI应用创作平台秒悟团队版 Moomoo 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里巴巴发布企业级AI应用创作平台秒悟团队版 Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZVYwMW1xdXpJTzdPVXpwa3hOal9QNkRVdUFPNGFWVVMxVC1GelBlamp4RUpnQ0xyX0ZRUWxYaVVUZm02d2dLM3lrdThmck5MSFV6UFEyS19JQQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-07-18 10:54 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1ea9a6ce976a376a",
+      "title": "DeepSeek首轮融资落地，梁文锋登顶全球大模型首富 - 新浪财经",
+      "summary": "DeepSeek首轮融资落地，梁文锋登顶全球大模型首富 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek首轮融资落地，梁文锋登顶全球大模型首富 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ucW1RY1BsR0xkTmJWUzFxT2xpbmg5SW45Y29GN01Obm1MSHg5MDFSLXR3X2dZcFNVbWNVMHhzemVtYmNyb1Zmb1JtZWVteXlxYUZmSnlOM1NraUR5eEEwaGJmNjJFbDRWa0lIWHRR?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-18 11:07 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2c86c3222b9a7a71",
+      "title": "WAIC2026 | 全球DAA将达7940万个 百度三大发布加速智能体规模化落地 - 广州日报新花城",
+      "summary": "WAIC2026 | 全球DAA将达7940万个 百度三大发布加速智能体规模化落地 广州日报新花城 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "WAIC2026 | 全球DAA将达7940万个 百度三大发布加速智能体规模化落地 广州日报新花城",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUd0cVp0X1NJLVJsa3JpWC14eUJidmZBNkpKY1R3czJ6bG5FQkxNcC1FaEtLcWRxNUdjcUZENk15NnhQenZtOGhwR1ZoazZmdk52SkxIbk9xZFp3dTVGek9fQXB0MFNSbi1Nb3EyeHlobUw5WERsYXJXSnQ4djJRaVFvRm1vOWNUNHc?oc=5",
+      "source": "广州日报新花城",
+      "published_at": "2026-07-17 16:14 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "db4b92889f7c30c7",
+      "title": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 - 手机网易网",
+      "summary": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 手机网易网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53QjhEeVcyZVM3M3FoUk5iQlB3NkM2Y0tNeVh6cGVoandnNXhZRTFaNnBYQzFsQ0FmajZpbzZEQmJnUWNSMVRvTWRuV1NmbWNJMXJ6ZlBKR1ZaRzlFeDA0dU1B?oc=5",
+      "source": "手机网易网",
+      "published_at": "2026-07-18 09:26 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dc3a9b2ee95c28e1",
+      "title": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark - ZDNET",
+      "summary": "ZDNET 报道了「Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark - ZDNET」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Anthropic、Moonshot AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Moonshot's open-source Kimi K3 model beats Anthropic's Fable 5 on this benchmark ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZbVc4OUF4UDljUWlLcS1VdTdGMVFnR0pkWjI1LTV1UlRaUVQxS1RZSmg3NTRCX3FBMlRnc0JTSFAxYWxTSm5RZ2ExckVjMklnNGlnQlhDZVY4TGpWTjFFQmk0TF9jUQ?oc=5",
+      "source": "ZDNET",
+      "published_at": "2026-07-18 01:35 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Anthropic",
+        "Moonshot AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "ce27c115e36361c6",
+      "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier - I-Connect007",
+      "summary": "I-Connect007 报道了「Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier - I-Connect007」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier I-Connect007",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEJwdnBuWlhKNmZQb3FvM2dCc2lTNlR6TnN2UW9uck1RWmRkN3ozUGpVZXdJYm94alRPYnhBRUFyVTVETzVKWVVXRENqTFVYQ21uNXFiTnpCSm56dHF3S1A4Q1NER01Ub0hvQm1kd0U1T1lhRnp3Q2lPbUVhYkx5OUFqY0FoYjVnV0hoN25SQ2hqSm94cFNtR0NqQURlTVJqYzhTeUp6aTA0eWltM3B0Z3BJNndfVklXZHBObjFwZXlfLWEyUEJqbnBYc3lQVEJoMFlxazN0MTVxQWppTWs0?oc=5",
+      "source": "I-Connect007",
+      "published_at": "2026-07-17 19:58 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "8bea236d3c6be17a",
+      "title": "Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South - Tech Times",
+      "summary": "Tech Times 报道了「Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South - Tech Times」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xi Jinping Steps Onstage as China Pushes Rival AI Governance Body for Global South Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1ZtMmdtUGJ4UG0wX2tBdFdpUHdvTFg4VHI4VmN2Y3dReEFBV3RlR283R0t5TjF3Nl81VmFIMlhFdVplaWRwRU41OUlfRzR4d29qQjVwRkdQa08wR0NlN3FNRVhJR0N5Ny1NaXZLZ3Z3TTdqQ0VPTHluWDZaamY0ejhrMVVQWGFjR2JiVy1rNlJBSFhucUN5SUd0b2N0ZlhKRlJYWHZCY2xTS0E3UVBMTno1VzkxUzJzb3Zad19rdE5DaWZja21iRXpn?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-16 19:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "b0b9362631ce4e9f",
+      "title": "Enterprise Trust With Agentic AI At Entrust - Security Informed",
+      "summary": "Security Informed 报道了「Enterprise Trust With Agentic AI At Entrust - Security Informed」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise Trust With Agentic AI At Entrust Security Informed",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFVXbF9UTXNYdFNOcGlMd21ITW4xb1hTaXVlVkl2V2haMWM3bVVXSnRqWmtnSkZfaEFYRHFESm40UU9GZzZxTElqOHRTYnNrTkpLa1BjQnp3UU9zQzlPcmx3WnZMN2tGSXhnb0RHRzE4MlVpdmRudXFsTk5aNlVDNkE2M25yMWxiaXQ4LXBNTGprLXctUUhHaFp6MmVad2tKRXZWanVieEhvMlVCOVd1Z2NsaVQ4cVU?oc=5",
+      "source": "Security Informed",
+      "published_at": "2026-07-17 01:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "0a3b0712a075039c",
+      "title": "AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE - futuristsspeakers.com",
+      "summary": "futuristsspeakers.com 报道了「AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE - futuristsspeakers.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcU0yQVByUlJDT05jZTlmRFVGTEpBT3dwdTZlcDM1cEhDRVFkVzQxV0UzMVljZDhfeEE1dXM1WU5EdTBtdXpkUDgxRnFGbjZLNXBrdk5sMjBxd1pUV2ZmNDJGMzAwUGw4VEtzdHZ1OUY0bTJwRGhoUmFxVHFDSHYwWmFEYnhZUQ?oc=5",
+      "source": "futuristsspeakers.com",
+      "published_at": "2026-07-17 19:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d90d25fba42b37ff",
+      "title": "Entrust: Deploying Autonomous AI Agents at Scale with Trust - Cyber Magazine",
+      "summary": "Cyber Magazine 报道了「Entrust: Deploying Autonomous AI Agents at Scale with Trust - Cyber Magazine」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Entrust: Deploying Autonomous AI Agents at Scale with Trust Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeldFcVRkNkw5LWRQRF9TRGNkczkydG1zdXE4QVhfZE9STTlYYnY1RkZWdkJRd0R4YTlESGpMSXpNbXhpRm9HdHZTSmxHTHh3cUlmajNQVlFJQlROT1otUGpGNkM1MDZZNVZxdDZMR0lKeG5IdnpsY0VpaDVDRnl2bVEtX1FLZi15R1ZuNHFxc0JFMFk?oc=5",
+      "source": "Cyber Magazine",
+      "published_at": "2026-07-17 23:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "0d003a6c95ed3757",
+      "title": "Coding Agents: How Agentic AI Is Changing Software Development - Snowflake",
+      "summary": "Snowflake 报道了「Coding Agents: How Agentic AI Is Changing Software Development - Snowflake」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Coding Agents: How Agentic AI Is Changing Software Development Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSHZ5S05SM3FDbnRRV0ZTVm1CVFlIaXJyQWJVcmsxcllmQ2JnLTE5WFdOb0xyY0daeUtpX1Zzd1l5eW1JT2NGUkpPQ3A1TFZoUFVWTHltdUVwbkY5Y0Nsdk1FWXRJb1FjSlZWTkFfeXVPU0t3QXZvTVYzSHY5eHM?oc=5",
+      "source": "Snowflake",
+      "published_at": "2026-07-16 22:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
