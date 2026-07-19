@@ -1,0 +1,344 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T12:38:08.633660+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-19/",
+  "image_path": "assets/daily/2026-07-19.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "970d745274791c29",
+      "title": "Google Cloud's Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite - MarkTechPost",
+      "summary": "MarkTechPost 报道了「Google Cloud's Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Cloud's Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjZtSDFsODhUa0QwRjdXd0QyUmJ1U19JdGJmMnNPLTY1MzdJdVFwQ1R1TkhrVWRUek9RaThtQVppM19zYVlZMDNhTlZ0M19wVy1jN01Xd0FaZlU2SnBGUktlc3VPcFBteWlYUmhKTzZoZ0NvNXpxZDJ4c2F1QkY4RGFCbVdfdTZhckJYLVdLVFhxVWNWbWpQLUdtSC1kOTU2d0dqSzBPa0hrVVpGUkVISUZpdUVMX19panpWdjZEMjR1elc5blViak9hLW1mRXJHMWFLR0YzTjQzM2RZSVVhcm40UnoyMVJVLW1zTEtBX1pqYndEN2RZ?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-07-18 15:57 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "0f1620b55dd433f5",
+      "title": "XPeng’s New SUV Launch Reveals Bigger Tesla Challenge With Level 4 Autonomy and In-House AI Foundation Model Planned By 2028: Report - Yahoo Autos",
+      "summary": "Yahoo Autos 报道了「XPeng’s New SUV Launch Reveals Bigger Tesla Challenge With Level 4 Autonomy and In-House AI Foundation Model Planned By 2028: Report - Yahoo Autos」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel、XPeng。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "XPeng’s New SUV Launch Reveals Bigger Tesla Challenge With Level 4 Autonomy and In-House AI Foundation Model Planned By 2028: Report Yahoo Autos",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdko5NVdzVk5YOF9oVGtIZy03a0dQUGl4b0ZiMEoxVHkydGdGZUdWdWJ1clkwSkxpR1ZVancwX2ZvdV9VWVVncF9tOFA2a2Y3a0NZZzU0Z0dTZ1o2YVppNG5vLUdkUEFMamdSR0NLZkV3Ym5HZHgxdXc5VkxnY2RTc1pTaFYyTWQxVVZBb0hLeW1YSldfY3A3bXhabklPM0E?oc=5",
+      "source": "Yahoo Autos",
+      "published_at": "2026-07-18 20:01 +0800",
+      "companies": [
+        "Tesla",
+        "Intel",
+        "XPeng"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "f5bcd073b35be8d0",
+      "title": "Kimi: Threat or menace? - TechCrunch",
+      "summary": "TechCrunch 报道了「Kimi: Threat or menace? - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Moonshot AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Kimi: Threat or menace? TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Q2tPdkstSDlqZUszdGdKNVU1MVprTjJGVGl6QXR6cEdBOXgxaDhhajhJRDRTcnlrMFRaZUpvSjBRcFR3ZEhZS3BIV0taRkthLWJ3SWt0X0ltX0MzeGVXNFowbElWbEE?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-19 02:51 +0800",
+      "companies": [
+        "Anthropic",
+        "Moonshot AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "75faf4ac21ac0943",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year - TechCrunch",
+      "summary": "TechCrunch 报道了「All the EVs that were discontinued or killed off in the U.S. this year - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "All the EVs that were discontinued or killed off in the U.S. this year TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHkyR1ZkUGlSZHluTWs5TkRsSE9CblVhby0ySFFRcmhHbGtVdEd0LTBVaEtscmwwSlkzN1d4cy1hTDg2czc1bTh1eEk2X05nZmpYQ0ZjckkxeDMyOUc5YU9MQ0JqWjVveXdJai1ZSlljcWRYcjluMEpOek5IdUZqQXlfSUIzLUt3SWQxUVFrOGQwSmdzbjUzU1ZuVE1teGJGc25UbTdwUQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-19 00:30 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a6fb70346b148f52",
+      "title": "WAIC2026 | 从玩到用！百度秒哒全新升级，打通全民AI创作与企业商用闭环 - 手机网易网",
+      "summary": "WAIC2026 | 从玩到用！百度秒哒全新升级，打通全民AI创作与企业商用闭环 手机网易网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "WAIC2026 | 从玩到用！百度秒哒全新升级，打通全民AI创作与企业商用闭环 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OYWxMNHFuR3V5VnFkWUF5dnNIUUxQVGRZcnF4RDdWa2NFNDZWUmxyLTM2UVJsWUFYREFpTklacVpxc3ZXczFnMWJ0UjVkMHVKT2ladmhpbDVhNHctREF0dmF3?oc=5",
+      "source": "手机网易网",
+      "published_at": "2026-07-19 11:34 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1a06a61717115e4f",
+      "title": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 - 凤凰网科技",
+      "summary": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PX2lWVmxacGVMNXUtbXBENDg1c2ZBbTBFZ1g3c1pkbURWOTgyM212bU5YU1NpLXg5MENsV2lLMktGUVJOSDdFcGlvczU?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-07-19 00:09 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "64823621faf68277",
+      "title": "华为云智慧金融专区开启共建，加速金融智能体规模落地 - 新浪财经",
+      "summary": "华为云智慧金融专区开启共建，加速金融智能体规模落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为云智慧金融专区开启共建，加速金融智能体规模落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDBRRk1neWhzUWdJMGZyMm1zRUxOZHFKUVV5SXZyRmtaNmxBQy1fUGpMX1BDRjBmTm95UXZKZW1JdkpENHFGNU5fS05QcXNhY0c0bm9haVBJTXFtZmNTWlNPWWswM3pSb3BQTHltemNKbDNyZmgtZ3Eyai1kUEpHcjE4YTVTU3BBblRvSzJ1a3QycG5CRWxmQVVKRlFsVVZsYTAyNDFibw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-19 11:56 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "810452c1abd972fb",
+      "title": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 - 搜狐网",
+      "summary": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUW9tamFmb1pXb1VBSFZsdzA1aEdnS2tWckV4bkR0bW5PUUplQ2RBLUNTazVvVzVyY0xSSTdpdEhYNTZLeEF2SExQM1dGVktOZms0dHJuYnpRS0FtY01GVjg5UmMtSDg3SC1nSVJXY2NGNU5RTVJYUHlESEMwYTRXeDFZbWVSSVBa?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-07-19 00:26 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bd218ad27cbb9ae3",
+      "title": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 - 手机新浪网",
+      "summary": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“AI第一城”创新成果再涌现，北京大模型企业居全球第一梯队丨北京经济新航标 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSkhCQ24wdm1hNGRENENFM3dUamt4SnI0WnUxMHRqM1BIVkdaS05vR2hnWTVTTWk0UDRyb1ZCQ01nTUVfN215UWhLSm9YR3h1MkNKSWgwaEI5RVdtQV9XdUU5WUh3VW01YjRNRDExeTJIdw?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-07-19 10:54 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4fbe2aa420410fe0",
+      "title": "🔮 Kimi’s positive impact. Why are solar costs going up? AI & copyright ++ #593 - exponentialview.co",
+      "summary": "exponentialview.co 报道了「🔮 Kimi’s positive impact. Why are solar costs going up? AI & copyright ++ #593 - exponentialview.co」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Moonshot AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "🔮 Kimi’s positive impact. Why are solar costs going up? AI & copyright ++ #593 exponentialview.co",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Xb3FjbjFYNVY0dUFCQUFjVnZuTmFOc3dxZHV6bjVSZk0yYzVrVUF0UEJnZ0laNXBkZGduY2VTRDIxWjF3VVEtb2U0T01hejdB?oc=5",
+      "source": "exponentialview.co",
+      "published_at": "2026-07-19 10:37 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "59b2843d3f8645b9",
+      "title": "China Launches Rival AI Governance Bloc as WAIC 2026 Opens With 300 Product Debuts - Tech Times",
+      "summary": "Tech Times 报道了「China Launches Rival AI Governance Bloc as WAIC 2026 Opens With 300 Product Debuts - Tech Times」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China Launches Rival AI Governance Bloc as WAIC 2026 Opens With 300 Product Debuts Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZG9kZ2QyQ0dORnF1VzVYX2lEX0ptTVR1cmRhaGZrLTZjd2J5Zzl1VkI2dnJZR2VKUXVzX25qazJPeXJaV21MT2MtUngxNWFlLUpZTzBIWU5nQko3Y3I1ZDA2RFBYNVdTN3ZsR19GSC15bFJya0Q3UXNab0Vvd0wwMldMaTF5ZGVHbWxjdDdRRS1STW0yckw5NTM3akpJV0JRTnFTOXRQREVZbll3b2dnQXJLdWI4OHJzTXBrWkw5OUdiQWVnSV9aSA?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-17 19:50 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "c70868091877fdf8",
+      "title": "AI agents in enterprise software: Questions to ask vendors - TechTarget",
+      "summary": "TechTarget 报道了「AI agents in enterprise software: Questions to ask vendors - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agents in enterprise software: Questions to ask vendors TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0ZMZU9WTjh6dUl6MTZIVkZRbHVxOFVJWElyVEJtVjdJeXZzOF9lUzJuMGxKQllSU3VwV3llT1p4UW5kMm1FbTZUN0xnS3hnMTJwV0hLR1FxcDVxZTdrby1iYVRveWRoWDhtdjNTQzVoM002UjhrYnJHcjhZWHZuS2l1SHM3T21JZExEWDdBcmplV2NGN3pwSWU2LVVUMjVhLXdYTQ?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-07-18 03:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "e71faf080ac7b91b",
+      "title": "The 10 Coolest AI Observability And Governance Tools Of 2026 (So Far) - crn.com",
+      "summary": "crn.com 报道了「The 10 Coolest AI Observability And Governance Tools Of 2026 (So Far) - crn.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The 10 Coolest AI Observability And Governance Tools Of 2026 (So Far) crn.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWlllb2s2Sk5CVk5PVmNmMUp4MEpFRXFhYjhBNXdiRWVnLVU2T0xKakFaWC1YbGJicUUtNV9qSGZKZ01PYzhYR0NhYUtzYmtSZC1PaHJXNTJwV3VEUUxsb2FJMDAtSE1WSXdvYnd6ODRkM2pUOTU4alZiTUtBb1JkaGtXZWFEaHpnNGc1TjlMNUtUV2cxS09Qd2FDUjdxNURXazdXVkhmSWVtZFE?oc=5",
+      "source": "crn.com",
+      "published_at": "2026-07-17 22:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "f65122684659fa76",
+      "title": "Agentic AI in 2026: Enterprise Implementation Guide | Valorem Reply - Reply",
+      "summary": "Reply 报道了「Agentic AI in 2026: Enterprise Implementation Guide | Valorem Reply - Reply」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI in 2026: Enterprise Implementation Guide | Valorem Reply Reply",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkFCQjhGV2l4QWZLSlhad3piS2k3X0lFTkdqZ2Q4V0docUgta0ViWVUtTC0zY3VKN09FbDhhYXEtYVMwU180TW5hOW9MeEVteWpJb3FkLTh2QkxXRk9CTnhnbVJQNTdtR01FMElJYXZTVWVWTWJJWG9XSzJNN3hCellXXzJzUkpzZGl6RlExNA?oc=5",
+      "source": "Reply",
+      "published_at": "2026-07-17 12:56 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "0a3b0712a075039c",
+      "title": "AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE - futuristsspeakers.com",
+      "summary": "futuristsspeakers.com 报道了「AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE - futuristsspeakers.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AGENTIC AI EXPERTS, KEYNOTE SPEAKERS, CONSULTANTS & THOUGHT LEADERS FOR HIRE futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcU0yQVByUlJDT05jZTlmRFVGTEpBT3dwdTZlcDM1cEhDRVFkVzQxV0UzMVljZDhfeEE1dXM1WU5EdTBtdXpkUDgxRnFGbjZLNXBrdk5sMjBxd1pUV2ZmNDJGMzAwUGw4VEtzdHZ1OUY0bTJwRGhoUmFxVHFDSHYwWmFEYnhZUQ?oc=5",
+      "source": "futuristsspeakers.com",
+      "published_at": "2026-07-17 19:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
