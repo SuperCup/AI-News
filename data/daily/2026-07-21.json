@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T12:34:16.620847+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-21/",
+  "image_path": "assets/daily/2026-07-21.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "42154b32088d4fed",
+      "title": "Hugging Face breach highlights fatal flaw in AI safety guardrails - Crypto Briefing",
+      "summary": "Crypto Briefing 报道了「Hugging Face breach highlights fatal flaw in AI safety guardrails - Crypto Briefing」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hugging Face breach highlights fatal flaw in AI safety guardrails Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGSnNqMGZqQWJ0MHlTdWFvckZqSVF2My1kNEJLY3Eza1M3WUI5UjNRdXYtY1JBdEJVS0wyb0xHN0tEQ1BIV0lYTzU2aG5sVUd5d3RmaWFlMFdOTjdldkxYTWtYdjA5bzdYZG84ZlN1bnlYVi1fdlhv?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-20 23:56 +0800",
+      "companies": [
+        "xAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "cfa64b58b9645b12",
+      "title": "On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsU01GNVA3U3gwemgyYmVBclJCNjdPMVB2YjRMbE9hTGJnSzVveHd2UlpISFhTTjdDbk0xeEEzWllFZm1HRWdrQTA5UGJwZlctY213OUl5Qi1DT1FfRy14eDY1Q0JNZTE2RXFnSkVBdXJkcDQ0MlE?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-07-20 19:35 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ca3316f6a39b174a",
+      "title": "OpenAI is scared of open-weight models. Should the US be? - TechCrunch",
+      "summary": "TechCrunch 报道了「OpenAI is scared of open-weight models. Should the US be? - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI is scared of open-weight models. Should the US be? TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVQ5WFh0T2YxcjlNUVlfN211RkE0VXRwQTdCR0pKdGZDQ1VBLW5EM0JIbFdGMkttbEtSeXRjR3FrQTFOazJ1dld2TDB4MnNDTl9QM1dEeDZzdGxTeHBNaFl2X09POG9PZm9YUFNaOWdCWjdza05DcElSZG01bVl4WGZ2a3pONmVDeE5NQ2NVbFRQTjdN?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-21 03:33 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6c776eca500539e9",
+      "title": "Google plans new chip to run Gemini models more efficiently, the Information reports - Reuters",
+      "summary": "Reuters 报道了「Google plans new chip to run Gemini models more efficiently, the Information reports - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google plans new chip to run Gemini models more efficiently, the Information reports Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-20 22:44 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8d88e1e0a3a322fb",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient - TechCrunch",
+      "summary": "TechCrunch 报道了「Google is working on a new AI chip designed to make Gemini more efficient - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google is working on a new AI chip designed to make Gemini more efficient TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXNRVWtTNGtSaWFOT1JfMDRCenMyZXRybTQ3cVlRbUotRVRtM2NON3hWa1dlaFJGWklVeXBDaTdXc21wU0FfZTAtZEVuRFdENHJuSFhKd1FnTXh1V3BNV0w3NWZtWkNYREpBaXc0ZnZGMU9LdWc5ZjUzT3VhNWloR1VDQjJUdzZqejNvLXdZMDh1SFpWZ1BBTEpxNTl6Z29kdlNVMkRWMExUTk1a?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-21 05:21 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f427672795da6980",
+      "title": "锚定落地实效 百度智能体带来AI产业新标尺 - 中国科技网",
+      "summary": "锚定落地实效 百度智能体带来AI产业新标尺 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "锚定落地实效 百度智能体带来AI产业新标尺 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUXZwa2dtc0JrUWplRXNlNS1DcTRZeXhpbVpSc1h2Y1VvcnEtUTZ6U1VON2xWMnVrQkNVQ2RuT1ZWa0lDbjNkMUFNM3RVMmRXVzJWVjlzV3daSzFJc1VrblM1LTVSS0J6THQzc1ptdGM?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-07-20 15:43 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4c71fb2bb6b76fe0",
+      "title": "交通银行与阿里云成立联合创新实验室，启动7大项目落地 - 上观新闻",
+      "summary": "交通银行与阿里云成立联合创新实验室，启动7大项目落地 上观新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "交通银行与阿里云成立联合创新实验室，启动7大项目落地 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibmIzU0JMXzJYRC1PWko1LWhDYk5iOHNZelNfSWtLSjVoSG1hQUdlOF92eGVHb0tZcDFnTS0zTlJkU3Q4MXVTNTBQYVlpMGV3S2FqSTlsOA?oc=5",
+      "source": "上观新闻",
+      "published_at": "2026-07-20 18:06 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "33cda4d99656de8c",
+      "title": "2026 WAIC观察：AI竞赛进入下半场，落地应用成为核心焦点 - 虎嗅",
+      "summary": "2026 WAIC观察：AI竞赛进入下半场，落地应用成为核心焦点 虎嗅 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026 WAIC观察：AI竞赛进入下半场，落地应用成为核心焦点 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XaXJrMjRWZ29nNFdMUU9WNzM0T1VXWWNIc0dRdTg3MkJ6VHh1MW15TWk1dXJoR1g0d3hWLXl2OXFYTkFBR1pwRjg3R2NnUXA1X19NXw?oc=5",
+      "source": "虎嗅",
+      "published_at": "2026-07-21 06:50 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bdb6cc5bfc2e2deb",
+      "title": "智谱收购中科加禾，并落地1GW级国产AI算力数据中心 - 新京报",
+      "summary": "智谱收购中科加禾，并落地1GW级国产AI算力数据中心 新京报 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智谱收购中科加禾，并落地1GW级国产AI算力数据中心 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RaElEa2RpZWRZTTdzQzJRZmc3OTlBUV9LYzV0V3dZaHhfSUhrR2hIcWdiSFliNl9BYmRpR3BvQy03Z0c2V0NPdmRZT3RSVl9nVDhNV3pYbGxYLW1ob3gwWkczTXQ?oc=5",
+      "source": "新京报",
+      "published_at": "2026-07-21 10:06 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d760d827c144fda6",
+      "title": "智谱AI落地1GW国产算力中心 同步收购中科加禾扩版图 - 驱动之家",
+      "summary": "智谱AI落地1GW国产算力中心 同步收购中科加禾扩版图 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智谱AI落地1GW国产算力中心 同步收购中科加禾扩版图 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSWHhOS1hra1ZlUkVxN0dqRnNycmFEcVp2V3NxZWVQZDVWWndMdFVJYllZdVNscVEzYW81Wld4S1FjTzdHN3BlVk53T0hZT1JqSEVCUjNqZnA?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-07-21 10:56 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6c4c71e36c36eaf9",
+      "title": "WAIC Ends With Two Incompatible AI Governance Orders Locked In for Enterprises - Tech Times",
+      "summary": "Tech Times 报道了「WAIC Ends With Two Incompatible AI Governance Orders Locked In for Enterprises - Tech Times」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "WAIC Ends With Two Incompatible AI Governance Orders Locked In for Enterprises Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHlmMlVpYldJU1lucEdxVWRCT3ktX1lkcFZfNVRZMy1GMXgya0l5N0F4TnZsRkYxY0dRSjU4dVVsYmMxZWlHQVBfZ1Z3ZlFrdWhlaHJqdlNZbkdFY1lCdkNwTGRnOHZHZWlJTVJCWS1LVHFtOURfSjZoM3NhOE42Zk8xamFhMXl4TEtJRTI5QjV5OFBiQzhoSHNuTnhla3RJQVVyb19Xa085ZjZhUXFfbUFCX0REYnc5S2x0UTZn?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-20 18:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "4447ffe533269560",
+      "title": "Neo Security bags $100M to build the secure control layer for enterprise AI agents - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Neo Security bags $100M to build the secure control layer for enterprise AI agents - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Neo Security bags $100M to build the secure control layer for enterprise AI agents SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjRCYXM2TkU2anR1cnlKT0xXZFpBOFdDbzBGbHEwSFZEOUtldTQ0WDFVVjhhb0dNek9OdVRpU01NcmxLclJZejVDTFlYODM2LVpVTG9nLWVxUWE2WnFYQUEwNFZBUTFIOWNHbk90N2J6Mlg1T05DMHlCMWk4dGZSYS1TcWhkZk1SQ0xXYlZzTC1uOElWRGhYQVZzNGpqTjJfSTJ6akFRZnhjNlU?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-07-21 00:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "785c6b0691caa65a",
+      "title": "Your AI Agent Passed Every Eval. Finance Still Killed It. - towardsdatascience.com",
+      "summary": "towardsdatascience.com 报道了「Your AI Agent Passed Every Eval. Finance Still Killed It. - towardsdatascience.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Your AI Agent Passed Every Eval. Finance Still Killed It. towardsdatascience.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaldaVXplRlRnZmtkTkZlbWp5U25DTVVtSnRXazFDaDlMYWFfSjdsQnl4VkZNQ2ZvNXplWHc0M2JjUmxZUjhpcGE4clRYUGFtUkZiTnQyQ192NVB3Tm04SjdhelNUVHcydzEwWXFmeS1FLXJfZFh1blZ0Wm1ybUFUWkoxWGp4M2l2cVlEY2JWS00?oc=5",
+      "source": "towardsdatascience.com",
+      "published_at": "2026-07-19 21:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "82afcadad5e33d66",
+      "title": "Why Cryptographically Verifiable SPIFFE Identity is Key to Scaling AI Agents - Palo Alto Networks",
+      "summary": "Palo Alto Networks 报道了「Why Cryptographically Verifiable SPIFFE Identity is Key to Scaling AI Agents - Palo Alto Networks」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Cryptographically Verifiable SPIFFE Identity is Key to Scaling AI Agents Palo Alto Networks",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGtMRF9yRlo1YmJvcm93aXdKbmx5bmY5YjhKTl8wVmJxVkszcTYtTWdyRmNJOENsNzV3MTR4aGxicHE2ZE5tX3N2TUFEbUZSSjQ0TnppQjZlT3B5b0VwTTlQQU9kM3MxZU1iZ2hUWmdmT243R081cjdid25kOFc3akFvcDdNcTE1VEtDY3VPbjZ6NXZEVHBoeVdJTlpqeHc?oc=5",
+      "source": "Palo Alto Networks",
+      "published_at": "2026-07-21 01:50 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "83c2a501e6d648b6",
+      "title": "Agentic AI’s Real Test Is Process Redesign - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Agentic AI’s Real Test Is Process Redesign - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI’s Real Test Is Process Redesign The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDhDcXVPbnBKRmIxLXY0dmRmejhpSXQ4Z01td1o5TXJmVjI2LXBtaFBhVDlhdnlpbUhtX1dPYTA1NVlwRTA2LVlzbWsteW5ZeFdFbk80d2ZHcmJaWWhOYm9CQzdIRmtqeFpITjdxbVNtVjVMX2ZiUHFxdnNqYlowWU9R?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-07-21 06:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
