@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T12:34:36.629784+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-24/",
+  "image_path": "assets/daily/2026-07-24.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "bc106170ae51bff5",
+      "title": "科大讯飞发布星火Token Factory 打造企业级AI新底座 - 中国科技网",
+      "summary": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pTi0tTTFrVE9KVkUtREFBc2U5YkxXLTQzYi1BSDQtSzl3czQxODh0NGpmQUx4UTNNMHg4VTNQdHlKM1NXaE1ISEt6UF9BR3ptbmo4c0E0NkdNS1Y2ZnZINEF5YW81UUVOUnFaZGZxV3A?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-07-22 16:29 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "9e000fe414d560a2",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 - Sohu",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTVgtUDNRSDNMcEtrdVpETzhBVEEtXzZnc2lENjF4d3k5TXM1UmVOQ2dDcnpCT0RwWjJuWE5FRF9fNDBsY1dMdVQtMm9Bc3k2cDZoVWpuUVNQQnl5TEROcE0zV2VCRXpyMjdNc3hhTm9tb3NMOWlvczJRX0pkcm9FYks3dEp6b21tRmZ2Vw?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-07-23 10:09 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "d02ff46ec6b6ad17",
+      "title": "Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions - The Information",
+      "summary": "The Information 报道了「Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEVxN1FUYkkzUVlKVjJGejVuNFMxSUZ1ZVhVbDNCWU9qbmlidUtvWENWUHVYZWxjMlUyOFRTZGxpV0ZCS3ZYUHlEcVV2bkJqUHhZeGZjWWNOUm0tOHlIM2R1RlR5VkdzUmJQWTlFQjYwZ25HOUxjb3VBTmcyQWJsSzNUQWZ2cnVTQUVPWTBOOFhELWpZSW9KNW5vdw?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-23 23:30 +0800",
+      "companies": [
+        "Microsoft",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9bf600c18531945b",
+      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents - Fortune",
+      "summary": "Fortune 报道了「AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents - Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、AMD、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-07-24 07:06 +0800",
+      "companies": [
+        "OpenAI",
+        "AMD",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "979dfcf304f16ec7",
+      "title": "IBM Bets on Multi-Billion-Dollar Open-Source Patch Business - BankInfoSecurity",
+      "summary": "BankInfoSecurity 报道了「IBM Bets on Multi-Billion-Dollar Open-Source Patch Business - BankInfoSecurity」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM Bets on Multi-Billion-Dollar Open-Source Patch Business BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGE3b2VtdG91NVFzSmdXeldEeVRrVUNYR1BDYjVBZHNhaDN2a0RSU194cnVZbkVXMjdOTnB4Z2ZMTUlEa3gxcUR0M1l5dk55akpQdjRTcDdNbm5hbUdjR3ozNW5tYWZtSHBQSWRGRWxaakpiMFBMV19OS2JnRUpZYUVXYzBsdHlLOGdrbWdmNFd3Vjk3VEJCaE5vak5YUmVOM3c?oc=5",
+      "source": "BankInfoSecurity",
+      "published_at": "2026-07-24 06:19 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4933788d40b85c00",
+      "title": "Sierra Acquires Agent Startup ‘Takeoff’ to Diversify Its Business - The Information",
+      "summary": "The Information 报道了「Sierra Acquires Agent Startup ‘Takeoff’ to Diversify Its Business - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Sierra Acquires Agent Startup ‘Takeoff’ to Diversify Its Business The Information",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjNXTi0tMVEwR215U2MxTXF6bXhMYlQyeGlYMkZhb2lKWTVIZFh3TWpjcGl6alZwTFBVWkVWc1M1U2Jab0twSERSNE9OMVpobU9zalZzcUMyTl96WnhFMjlkLWRYc0dzdTMwSm02QThlRTNIQy1nekoyZGpVT3N6RlY4NmFKLW1Yd3RHdEwtOHVKaFctUkJjUVg4NkhNRF9PbFFuM1JrN2gtZGNtYUE?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-23 22:01 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9bc959568ed3a166",
+      "title": "新华网财经大咖说丨专访李开复：产业AI落地千行百业，究竟还要走多久？ - 新华网",
+      "summary": "新华网财经大咖说丨专访李开复：产业AI落地千行百业，究竟还要走多久？ 新华网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "新华网财经大咖说丨专访李开复：产业AI落地千行百业，究竟还要走多久？ 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZC1hVGRORUp2NHpiQjI1MDA0bnppSWl2MWozQ3FFV0YxR0hZZEE4bEpHbkdCSXFNWm8yUjNWUjNQMWxuM25OMHVPajhnTEI0RDFZbHVlS0dtUTFXRDVRLXJWT2xLa2JJUmY2amVrakNVWF9JcC10U1Bma0l6X3lQZF9qTUNjUQ?oc=5",
+      "source": "新华网",
+      "published_at": "2026-07-23 16:44 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f1ee57b2ce202ca3",
+      "title": "《时代》杂志封面聚焦宇树科技：中国人形机器人企业引领全球浪潮 - PANews",
+      "summary": "《时代》杂志封面聚焦宇树科技：中国人形机器人企业引领全球浪潮 PANews 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "《时代》杂志封面聚焦宇树科技：中国人形机器人企业引领全球浪潮 PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yaVJ6QnZOUHJlcTZSaWhBT2JQRnJUUGxOODV2UVN1SEdDUy1fZk9GUEVGSUozRG9wam10Ym5WakJBYkhadGFoTHBuV2h3M0ptd3Y5T1ppU2E1NUoxUHN4Z2dOOURfczZoTnRLZGdmYk5IRkJSZ1pJN0RZanJiWms?oc=5",
+      "source": "PANews",
+      "published_at": "2026-07-24 10:24 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e2ed04ef3ec49917",
+      "title": "What is open-source AI? A software engineering researcher explains - The Conversation",
+      "summary": "The Conversation 报道了「What is open-source AI? A software engineering researcher explains - The Conversation」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What is open-source AI? A software engineering researcher explains The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3Y4U2t5T2I0cDVaYzM1eHBxZ2RHZVV5SzR3bHR0WkFPLXFzMWRDSW40TW4tdEJ0S3BwVkkxVkZsMko1RTd0NTVsRlJmVjZOaDluS3UtVV9TRG82ZVNUQkhNT3RCTF9vUFhIaEozMXhPNGhjb3QyX0p1bGhobXlONEZXYkdXdkZnN1hXZUprMk9vUE54UzlZaWZwOXJLNEpUV3c?oc=5",
+      "source": "The Conversation",
+      "published_at": "2026-07-23 20:24 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "3fc80735ed1d5213",
+      "title": "港投生态圈企业阶跃星辰发布全球首个大模型原生AI终端品牌 - 新浪财经",
+      "summary": "港投生态圈企业阶跃星辰发布全球首个大模型原生AI终端品牌 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "港投生态圈企业阶跃星辰发布全球首个大模型原生AI终端品牌 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1pBRHVtYlE5dXZwNTNyT2Etb0l2cTJTdi1kRGFRNkVGRDFfLXozOXFGdTkyZUFvZWtoSHlHN0w1bE9QWFk2NENpczBWbFdzaEFsOGc4Z19DU3BpR1dRYjFvSjFRdkpYUWZrNllTS0ozYkFTajNhb2NlaHhNeWkzR19RSkZ4OHIwMGQ3djJRbw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-22 16:17 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "112834d07c88aeca",
+      "title": "When the AI Agent Becomes the Adversary: Why AI Governance Is Now the Hardest Problem in Enterprise AI - Security Boulevard",
+      "summary": "Security Boulevard 报道了「When the AI Agent Becomes the Adversary: Why AI Governance Is Now the Hardest Problem in Enterprise AI - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "When the AI Agent Becomes the Adversary: Why AI Governance Is Now the Hardest Problem in Enterprise AI Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0hfLUlHLUpOQU1GRnRtejE1Nm9URHZMTFhQaXJTUl9HaElpY281LWlLRHc0TWJ1UGVaUGFkalgxWkVTN1lDVkxEU1JIWkhGZ3p3TVJ5cWc3dUI5b1FWMVZ0MHVtOTlhWGZCaEFWY0x4YkdVcG55SW5ldjVTZUc3TldKY2NPQVRwME9fVVVCcHBGS01TNm1jSGtiR2dDMzVJUzdveE8tS3REX2pfeUMxWHhldGlISHhGSVg1QVEyQThDdVd3UmNCOG1veTNlemVGS1NGeUZjaw?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-07-24 01:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "8eed0aff6f585c0c",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+      "summary": "VentureBeat 报道了「Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-24 01:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "858ca62c2077a994",
+      "title": "Product Showcase: AppViewX Agent Identity Security - Help Net Security",
+      "summary": "Help Net Security 报道了「Product Showcase: AppViewX Agent Identity Security - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Product Showcase: AppViewX Agent Identity Security Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZlYWVTLVppbjlOMlBzV1B5dGtGUEpWY1M5UmxwbURGYk1MeXVvN2I2RGw5ZGFOa2poOG9jR3VfdEdpaUg2UDZXTC1IcDFTMU9YMWhyUU9KTC1CTUtvb0RuOGp3SGl1NmV6ZXFySEpBOHdJYlFGNmt3N1poalJxdGVvZ0VwdER3RS13cGJaRVJnbFNFajB1Wg?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-23 13:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "3aed1feea98c1438",
+      "title": "Insurtech Klaimee secures $5.5 mn to certify autonomous AI agents - Beinsure",
+      "summary": "Beinsure 报道了「Insurtech Klaimee secures $5.5 mn to certify autonomous AI agents - Beinsure」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Insurtech Klaimee secures $5.5 mn to certify autonomous AI agents Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxVG5FVXlHYWN3ZC1ZQ0prenJwRWxaWERyUFJ4YnVWVFBRV1RmWXdGWFZ1SXhXZlhYaWwxS0hHNlFLSkp0UWJ5Z1h6ZUZHM0ZFa1JBdjlObi1mRUtrbzZvd2NVZ3hJWUkzcmc?oc=5",
+      "source": "Beinsure",
+      "published_at": "2026-07-24 02:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "2f4c68e13c9d6683",
+      "title": "Hyperlink InfoSystem Accelerates Enterprise Productivity Through Custom AI Agent Development - PR Newswire UK",
+      "summary": "PR Newswire UK 报道了「Hyperlink InfoSystem Accelerates Enterprise Productivity Through Custom AI Agent Development - PR Newswire UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hyperlink InfoSystem Accelerates Enterprise Productivity Through Custom AI Agent Development PR Newswire UK",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjQzckxXWk9jZS10MzJZZ3hwOXp5Zmc4WGFzWUE0SWIxdFdTb2VlUFlXUmRZdE1iN3pXVTlOY0JjZkMyQW5zTGk4blN5c3E2bUpTczlSRVBSbkRuVFJvcDY4NDlmaXJta1Z2a2FqeDFfeVNieGJ6UENXMHlzZ25CM0hHcEhFekJITk5kMUNHQ2xWelFjNVNna282b2o5SGE1QkFYVzJXMUstYUdoU3g4dkhhOTE3U1U1VHQ3LWZsTmppb0twYlgxd2hxVkNpR0FKLUNVdkpDN3JtYS1LS2xCeGZ0Wlk?oc=5",
+      "source": "PR Newswire UK",
+      "published_at": "2026-07-23 21:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
