@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T12:30:07.336012+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-25/",
+  "image_path": "assets/daily/2026-07-25.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "7b5486bbc16e16ac",
+      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
+      "summary": "Reuters 报道了「As AI grows more powerful, a US-China feud threatens safety efforts - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "As AI grows more powerful, a US-China feud threatens safety efforts Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-25 06:19 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "e87d3534656534c3",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 - 新浪财经",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTZvakNuT1kyUExmM0NqZGl6SUxKQXIzS1JyNDl5NTNHelg1NFVpaDFJb0tFckN1UXRocUNVVWpmejlydV9yUkpUa1JYRVNzb2pfMS1qeWp3MjZmWVd2U0hZVGpuaTZORU5yZV9xblozaXR2OVFmbHdMblF3NGZYTnlCWFJrdmx1Nk5kcGlKSkM1MUlqUm0zUW5ycDd4ZkVSYm1KckppSWRUWXpkU21mSGlB?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-24 16:05 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "085a1fd506d0469e",
+      "title": "Google gives developers an AI bug hunter that also writes patches - Help Net Security",
+      "summary": "Help Net Security 报道了「Google gives developers an AI bug hunter that also writes patches - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google gives developers an AI bug hunter that also writes patches Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjl4ZnZzMmlHbnJGMGpMelQ5TUtEZGt4NzE4M0l2VGo2NDFpaG81XzE5bzZ1VWZNa0hWSmFFS3pLZnpSUGNRT2xwZkpjTEtIWjRSSjFzSmNJT05Lc05yRzlBUm1nd3NQLTMyZUtpZFNkX2Jxb1ZzMWhzUGJ3WmxBMmdKZEY4bWFGYktQZg?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-24 16:53 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "87ec139db53e2847",
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
+      "summary": "Reuters 报道了「Nvidia, Microsoft and other tech giants back open-source AI models - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia, Microsoft and other tech giants back open-source AI models Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-25 02:07 +0800",
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "42ba84f5a314075d",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions - TechCrunch",
+      "summary": "TechCrunch 报道了「As US weighs response to Chinese AI, industry urges against broad open-weight restrictions - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXQ4N2g2d1NMOTBTTGpzaEk0MjA1SmhhYUhQaWh5SnF4eVZCdkFscUZkSUlMenVzNUlLRjdBWnAxTUdzdzZJTVVDUjV6RTBBVzZBMVJObkwwMXpPMHNzNFNzQzNORzktYzI4Yzh6VXVSVjN2RkVLa1FjcjZrSFV0X2N3WjA1UHZrNEhTUURZSmRtRXoyTDJxTThySlUwVDNVUTZyWjRtN3lfNklVcWFBUk85ZWprdFVCQmZYdWlCLVNsdw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-24 23:51 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a0e16af97d8f4054",
+      "title": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Anthropic Unveils More Cost-Efficient Model for Everyday Tasks - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVU9Uajk3emszZjY1dWVrOG5WSzBwdjVpYzBhU0JseXpWZzFEc0hXaVpLNU9VTXU3Yjc2YjVXWDZaRjhHNHZ3MjIwdUFhRUdHTXN2bDM4Q2J3WmxtVklTWHRaQVBjYnhWTmdyWTgweEcteVNuLW9tU0tqM01aZXlRdXV6a0hHSUM3OC1yRGQzZ2VCeHowV255NVUxUWtKYzdLQ0NQU2VTRXZjdkVQV0RqaVVDUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-07-25 01:00 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0d951f52cfd58bbf",
+      "title": "阿里云调查：95%亚洲企业拟加大AI投资 香港云端AI模型使用率低于亚洲均值 - 观点网",
+      "summary": "阿里云调查：95%亚洲企业拟加大AI投资 香港云端AI模型使用率低于亚洲均值 观点网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里云调查：95%亚洲企业拟加大AI投资 香港云端AI模型使用率低于亚洲均值 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBST2w4bnlOWmo0YzlXeDVIdmlXSkJuOUJqclRwMWRIaUxReWtCWDJFVGxacUpJVlZEakU3ZFNqY0dtaDVnUG5iSllUZTZpUQ?oc=5",
+      "source": "观点网",
+      "published_at": "2026-07-24 16:19 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0e60fcb0d79f2ea8",
+      "title": "调查：95%亚洲企业计划加大投资AI产品 - hkong.cn",
+      "summary": "调查：95%亚洲企业计划加大投资AI产品 hkong.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "调查：95%亚洲企业计划加大投资AI产品 hkong.cn",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjUHBHOVlFb3c4Sm1QRVlPRFZWWUdIY0pJR3VXcGNoVVU5NjRFMXhuNjFSaGhWN0d4emsteFhMQjFXUlF3N2YzY3V1cEVNMjg2T3U5UQ?oc=5",
+      "source": "hkong.cn",
+      "published_at": "2026-07-24 17:17 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4af8d09aa1daeb6b",
+      "title": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 - 新浪网",
+      "summary": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOakd5YW9JZUNwR2phcnlMT0tIVmRjajV4dFFiSUxRMWhnV1p6Zm8tS3VIQUFFT2NUTWdGaFZIWHpvNEtGMjNFQUE1LWVLN0Z6bzJ4VFdPQUY5VmpYNjJZWWRHU3o4S0YtSU9zRm9OT0dvaExwb1VwV1FaNXJkSW8?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-25 10:22 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "113567baf521c44a",
+      "title": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 - Sohu",
+      "summary": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026 WAIC 直击｜MiniMax发力全模态AI，落地为王 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXV0Qm9MLWlMM0VRcmI1bFVpNUFKSTJCU1NTU0I5clE0dDlVMVhLZ0hBRDBlTGdxYUdMMnRlaXFzUUxRaUJmUmdHblB2amFnTnU2aTRmQ2RRZE1oek9DMmpmbXdINm9sUEI0a1R0ZS12TFV6bENPc1lEUVhtcVR4WW5oOWZsaDhF?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-07-25 10:03 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a858b56307dec715",
+      "title": "New AI, who this? 4 areas to consider when adopting agentic endpoint security - SC Media",
+      "summary": "SC Media 报道了「New AI, who this? 4 areas to consider when adopting agentic endpoint security - SC Media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New AI, who this? 4 areas to consider when adopting agentic endpoint security SC Media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnB4SDV0S2hrMUF0STkxNWRjeTJmZVFyNEtIeDVET3dMd0ZPRy00TUJIT2dZSnFkQUY4MGlkWUNqTHhyeUx2UFM3blNBd292MTByZnhxUThJUXNEOWVqc3E2Tl80cjM2YjRqQ2l2SWY0VVM3UGVjZy1BQUw0LVdIZHFneU04ekp3RTJjblFYSzhaUWpfaFBYU1JmWHpBQ3VObVMzY2dKY2Zrdw?oc=5",
+      "source": "SC Media",
+      "published_at": "2026-07-25 04:29 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "858ca62c2077a994",
+      "title": "Product Showcase: AppViewX Agent Identity Security - Help Net Security",
+      "summary": "Help Net Security 报道了「Product Showcase: AppViewX Agent Identity Security - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Product Showcase: AppViewX Agent Identity Security Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1ZlYWVTLVppbjlOMlBzV1B5dGtGUEpWY1M5UmxwbURGYk1MeXVvN2I2RGw5ZGFOa2poOG9jR3VfdEdpaUg2UDZXTC1IcDFTMU9YMWhyUU9KTC1CTUtvb0RuOGp3SGl1NmV6ZXFySEpBOHdJYlFGNmt3N1poalJxdGVvZ0VwdER3RS13cGJaRVJnbFNFajB1Wg?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-07-23 13:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "8eed0aff6f585c0c",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+      "summary": "VentureBeat 报道了「Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-07-24 01:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "cdd94540080ff812",
+      "title": "Is the SaaS Business Model Obsolete in the Age of AI Agents - Kavout | AI",
+      "summary": "Kavout | AI 报道了「Is the SaaS Business Model Obsolete in the Age of AI Agents - Kavout | AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Is the SaaS Business Model Obsolete in the Age of AI Agents Kavout | AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEk5ZDNPXzhQVWJqYVNvSGFaT0FCdXloMmlpaGxyZmRfeGFDeG5SOXlORjhvc0c2UU8zWmdiWGhLSmU0RjM2RWItVk1iZEpkdklBdE5waFJiY1hBVlNCd3ZVWmlPRll1RlZzOTVnMUpmNXJEdTBORk9EZkZQMmhWWVpKYzFFbXNiNF92SERPUkZudzNyM3FWUFpR?oc=5",
+      "source": "Kavout | AI",
+      "published_at": "2026-07-24 19:26 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e27f9c6cde976c77",
+      "title": "Big funding rounds save slow week for FinTech deals – Here are the 12 deals this week - FinTech Global",
+      "summary": "FinTech Global 报道了「Big funding rounds save slow week for FinTech deals – Here are the 12 deals this week - FinTech Global」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Big funding rounds save slow week for FinTech deals – Here are the 12 deals this week FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkhkWE1yVktZc2xBZmtuaktsWlExLUI1dk41S0hLMU5kNlhYMTlmQXZkM2VkWWxXcmZtbDJCUTdpSWtySWJTbU8tYUFfeV9YZVEyeUNwM0ljWmxhc3VCYkoyamNNY3ZNSzh5WG9qT1lXQVlsV3ZTVG9ZTWJmaU5oZldXZTNvM0VFWmhsc0FrOA?oc=5",
+      "source": "FinTech Global",
+      "published_at": "2026-07-25 04:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai"
+      ],
+      "importance": 91.0
+    }
+  ]
+}
