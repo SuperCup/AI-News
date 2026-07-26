@@ -1,0 +1,268 @@
+{
+  "week": "2026-W30",
+  "date_range": "2026-07-20 至 2026-07-26",
+  "generated_at": "2026-07-26T21:55:53.087039+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W30/",
+  "image_path": "assets/weekly/2026-W30.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 7
+  },
+  "items": [
+    {
+      "id": "7b5486bbc16e16ac",
+      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
+      "summary": "Reuters 报道了「As AI grows more powerful, a US-China feud threatens safety efforts - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "As AI grows more powerful, a US-China feud threatens safety efforts Reuters",
+      "impact_reason": "Reuters 报道了「As AI grows more powerful, a US-China feud threatens safety efforts - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-25 06:19 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "879420cca132bc00",
+      "title": "最新封面报道之二｜AI疾速落地 - 财新周刊",
+      "summary": "最新封面报道之二｜AI疾速落地 财新周刊 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "最新封面报道之二｜AI疾速落地 财新周刊",
+      "impact_reason": "最新封面报道之二｜AI疾速落地 财新周刊 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5SUxwWlJWWUxYYTZ3Vm5XOVp1dXRmQkstWGNDS0dHaFIyaUVyME1JNmdCWHpNcVNFbVNUQzQtb3JxN2hFSkFGeFM1UW9vSEl0Nmw2cHRrSW9GTE5wc0ZBUw?oc=5",
+      "source": "财新周刊",
+      "published_at": "2026-07-26 05:58 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "42154b32088d4fed",
+      "title": "Hugging Face breach highlights fatal flaw in AI safety guardrails - Crypto Briefing",
+      "summary": "Crypto Briefing 报道了「Hugging Face breach highlights fatal flaw in AI safety guardrails - Crypto Briefing」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hugging Face breach highlights fatal flaw in AI safety guardrails Crypto Briefing",
+      "impact_reason": "Crypto Briefing 报道了「Hugging Face breach highlights fatal flaw in AI safety guardrails - Crypto Briefing」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGSnNqMGZqQWJ0MHlTdWFvckZqSVF2My1kNEJLY3Eza1M3WUI5UjNRdXYtY1JBdEJVS0wyb0xHN0tEQ1BIV0lYTzU2aG5sVUd5d3RmaWFlMFdOTjdldkxYTWtYdjA5bzdYZG84ZlN1bnlYVi1fdlhv?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-20 23:56 +0800",
+      "companies": [
+        "xAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "bc106170ae51bff5",
+      "title": "科大讯飞发布星火Token Factory 打造企业级AI新底座 - 中国科技网",
+      "summary": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网",
+      "impact_reason": "科大讯飞发布星火Token Factory 打造企业级AI新底座 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pTi0tTTFrVE9KVkUtREFBc2U5YkxXLTQzYi1BSDQtSzl3czQxODh0NGpmQUx4UTNNMHg4VTNQdHlKM1NXaE1ISEt6UF9BR3ptbmo4c0E0NkdNS1Y2ZnZINEF5YW81UUVOUnFaZGZxV3A?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-07-22 16:29 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "9e000fe414d560a2",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 - Sohu",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 Sohu",
+      "impact_reason": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由新底座 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTVgtUDNRSDNMcEtrdVpETzhBVEEtXzZnc2lENjF4d3k5TXM1UmVOQ2dDcnpCT0RwWjJuWE5FRF9fNDBsY1dMdVQtMm9Bc3k2cDZoVWpuUVNQQnl5TEROcE0zV2VCRXpyMjdNc3hhTm9tb3NMOWlvczJRX0pkcm9FYks3dEp6b21tRmZ2Vw?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-07-23 10:09 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "e87d3534656534c3",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 - 新浪财经",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经",
+      "impact_reason": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTZvakNuT1kyUExmM0NqZGl6SUxKQXIzS1JyNDl5NTNHelg1NFVpaDFJb0tFckN1UXRocUNVVWpmejlydV9yUkpUa1JYRVNzb2pfMS1qeWp3MjZmWVd2U0hZVGpuaTZORU5yZV9xblozaXR2OVFmbHdMblF3NGZYTnlCWFJrdmx1Nk5kcGlKSkM1MUlqUm0zUW5ycDd4ZkVSYm1KckppSWRUWXpkU21mSGlB?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-24 16:05 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "acad4ff91d8f894e",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 - finance.sina.com.cn",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 finance.sina.com.cn",
+      "impact_reason": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNdFp2c2xkZW1xTnc1MVhDbWRCbHVHVDNiNnYtN29aUUxFdE1QTzMxUkgyRUFfODdlQU5PZDRCMVU1Qm84dUd5UWVFaG1UWlFOa0xqSGFXS2RCam1HQnA3cjBfSl9PZEhlQno5ZWFIRGZ6ZXI2MGJkc0l2QkNVenFtWEUzZk16SGpMNTY0NmFYYVVjTjFrR0xqNG9zNk9sTEVaMndid3o1QjRCXzZiQUF5Z1lHM09vX1dRbkJNQXJuVHppcnpiRlhyWm1YbG9jb2FfVUhKeDlHZGo2YkRBM1loX1lrSGlIOXdnWFlWRWJ6WDNxdWZ6X3Zuenkzc1RLRWFvNEZGbkMtVmJmZ052U1VjT2VaV3R6X1doZTRpYjYtTmw1cUdxVE03VDhJWkZPME1yYVIwbURZV0xSczhKcndRdDBFX0V6ZG5lVFc5ajBWZzhlOHQ3dzZObFVWOUJjZEQ2TzVNVk4yX2V1UC1hUS1OZ2pKcFFiYXBwcUZPR1hHSWlRa24zS0lJbkludzBmdlJPREdjc0VoM1lOd1NpWXJvWjc2Y0ZiSFpqSmM1ckFZbjZkR25BNFpMU3ZIemhfSWdUTG9mYVFqbGZjSUE3WGpvQmJmUkkyVE1JQmc0ZzZUTUMyQWp0bktnSU8xVlh2U01QS2xIZm9CMnhxWlk?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-07-25 14:00 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "dfdb492dcc01f0a5",
+      "title": "WAIC探展瑞芯微：AIoT 2.0时代打造“中国端侧AI CUDA”|2026世界人工智能大会|Agent|开发工具|SoC|大模型_手机新浪网 - 新浪财经",
+      "summary": "WAIC探展瑞芯微：AIoT 2.0时代打造“中国端侧AI CUDA”|2026世界人工智能大会|Agent|开发工具|SoC|大模型_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "WAIC探展瑞芯微：AIoT 2.0时代打造“中国端侧AI CUDA”|2026世界人工智能大会|Agent|开发工具|SoC|大模型_手机新浪网 新浪财经",
+      "impact_reason": "WAIC探展瑞芯微：AIoT 2.0时代打造“中国端侧AI CUDA”|2026世界人工智能大会|Agent|开发工具|SoC|大模型_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWpMSHd3VW9RY1d2bmhIWHg4VHFTWGcyLXFDZ3pUUUE3N3dLdmhLZFQxMXBHa25OT3I4RXhlbWlNdVVCMUpKVTZTVmpMV1RsamwzV08yUUJJdi05TWx6R05jbXB4M0pYMWxrVE5kdVJwTkNIZTd3RjdmNUI2OGdEdmYxWVBpUklPY1VMRjZSaC13b2pOcFVwR200d2dJMHZiVlJpT3hjQQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-19 23:29 +0800",
+      "companies": [
+        "NVIDIA"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "cfa64b58b9645b12",
+      "title": "On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket finance.biggo.com",
+      "impact_reason": "finance.biggo.com 报道了「On-Device AI Ignites WAIC 2026: How Compute-in-Memory Chips Are Stuffing 100-Billion-Parameter LLMs Into Your Pocket - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsU01GNVA3U3gwemgyYmVBclJCNjdPMVB2YjRMbE9hTGJnSzVveHd2UlpISFhTTjdDbk0xeEEzWllFZm1HRWdrQTA5UGJwZlctY213OUl5Qi1DT1FfRy14eDY1Q0JNZTE2RXFnSkVBdXJkcDQ0MlE?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-07-20 19:35 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "d7761eb5a8ceec14",
+      "title": "李开复：未来一年AI将改变大企业的财报 - 财新",
+      "summary": "李开复：未来一年AI将改变大企业的财报 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "李开复：未来一年AI将改变大企业的财报 财新",
+      "impact_reason": "李开复：未来一年AI将改变大企业的财报 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KaUozWmZ1LUZrbVkzZHFNcUVQZS1yUjhSWEg5S2FrTFlEaHR0blJuc2FLaHhtdDZHdEVTYVEzenVHZXg3TmhtRFl6VkRUa1JBcE1UVjJ6WkkyNWluQktIZDM3M2NLTmM?oc=5",
+      "source": "财新",
+      "published_at": "2026-07-21 17:38 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.0
+    }
+  ]
+}
