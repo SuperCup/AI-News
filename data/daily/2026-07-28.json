@@ -1,0 +1,348 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T12:31:10.966150+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-28/",
+  "image_path": "assets/daily/2026-07-28.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c3ffc46a4abaf422",
+      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters",
+      "summary": "Reuters 报道了「Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia forms industry alliance for open AI security after Hugging Face hack Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-28 05:36 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "2d42eda205397791",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
+      "summary": "The Verge 报道了「Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Anthropic、NVIDIA。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-07-27 20:06 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Anthropic",
+        "NVIDIA"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "a6cbed9c3e8d4a35",
+      "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
+      "summary": "CNBC 报道了「Microsoft touts cost-saving AI model for cybersecurity - CNBC」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft touts cost-saving AI model for cybersecurity CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnZFX2lLV3Z4VE5EX25vQ2ZPREJ2bTFaVVRXTnc5dXBqNWNaZE9nWnVUNklzaTFabFFVbWk4UXowc2ZRdndPZEt1NDdGU1Fpbk9fOF82dWFMVlNibU9wUWdsZ0NXQTBYZnd0SzJDVE1aMzFKUGtuOVFjWFI5UlJWcGVkR3NxR29PSkdScTh0MDZlQUVlREHSAZsBQVVfeXFMTU5GWlQ5MUNid1Bnb2JxRzZqd2VyYTZiYjgxeGZrUUZsaHBqSUlVX3pmVHE0QnJUM3hJSzBDRXRiRFdpOTVqdl81Z3JMM1VvLXpwbVUtNWpvaEd2X2N5ZHROOVVZNzJWOXdDanp2TFJJVXoxQU9XLVFkNmt0SnY2ZFdjcjNjajc0VnhKVEZ2VzhXbjRkaG9pdjZ3UjA?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-07-28 07:46 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "cf9e8af74e96f2ee",
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security - NVIDIA Blog",
+      "summary": "NVIDIA Blog 报道了「Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security - NVIDIA Blog」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jbERSYTYzMDlvaExvNHBYWTZrU2Zfd210S2U0NHAyMDBqWG5DS0hkenZPaUgxVDcxcEtPUUhrbVhObUpvQzV2b0VKSzRjOF9sMW9WdW03ZVhyUC1TaG5XVGdHS3Q?oc=5",
+      "source": "NVIDIA Blog",
+      "published_at": "2026-07-27 17:06 +0800",
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8edac0ff0eb7b400",
+      "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety - The New York Times",
+      "summary": "The New York Times 报道了「Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety - The New York Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBybm95R3VLeDJSQTB6OURibnFodldwT1FhWmpVOHlOQVZPN3BMQ0s2RE1hQlozZjUybElLdDV1MmdjNTQ5Nkw5ZmdfWFppWVhldEpoNFRfeE9BLUZLSnRDZlVHSmRjNWg4enpXSDd1ckhVWjVHU2lzRUUtSkc?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-07-28 02:32 +0800",
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "aac4303ab09deb90",
+      "title": "中国人工智能模型快速崛起，但企业如何赚钱？ - 纽约时报中文网",
+      "summary": "中国人工智能模型快速崛起，但企业如何赚钱？ 纽约时报中文网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "中国人工智能模型快速崛起，但企业如何赚钱？ 纽约时报中文网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fV3o2bzJmZGVSUWk5c0ZhZXhrZGlRNzN3b2RwWWxiN3lsTDBPMGtqaDZLcHBGWF9MTTBIZWUyV2ZEOUNmTEtHdFhXRVZiV1I3ODZuczFBMTBVaDBXWTByTEQzNVRsSnN1TFlrMi1UVVdVdm1oX1pPeTNB?oc=5",
+      "source": "纽约时报中文网",
+      "published_at": "2026-07-28 11:03 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "eb742089dfceb8aa",
+      "title": "手机巨头 AI 落地，为什么做了同一个选择？ - 信息化观察网",
+      "summary": "手机巨头 AI 落地，为什么做了同一个选择？ 信息化观察网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "手机巨头 AI 落地，为什么做了同一个选择？ 信息化观察网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zTjlsUTNVV2VVNHRNNnJOTnB5aDRmUGxVeF9HemZlMWVZeEtlcVVxRUFOVlhNajlwdDBFXzdLdk5sMjRFMFRpUTVUakNIcDhZc2QyUUo2S0RJaUlNQWJkRg?oc=5",
+      "source": "信息化观察网",
+      "published_at": "2026-07-27 16:10 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d2c41b17644e23b2",
+      "title": "互联网龙头Agent密集落地，腾讯WorkBuddy上架鸿蒙电脑应用市场，低位港股互联网ETF华宝（513770）涨近2% - 新浪财经",
+      "summary": "互联网龙头Agent密集落地，腾讯WorkBuddy上架鸿蒙电脑应用市场，低位港股互联网ETF华宝（513770）涨近2% 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "互联网龙头Agent密集落地，腾讯WorkBuddy上架鸿蒙电脑应用市场，低位港股互联网ETF华宝（513770）涨近2% 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMElRay12SnV1c0dMZ3JWbTBuWERjbzNlaGJoSW1rM0lfZ2RLNE1uNndENjJEQnEtSkVtWFRtbFh1bGQ2d3R3ekRyQkVLM2ZZQ1hqdE9VUXJxWVJzUVAzMHZ0VUVVUFdhTTJIeWRHMmlrWmVJZk55THpSZFZfSVBkRFRvYlk?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-28 11:33 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "34b37fd7f0b8a845",
+      "title": "大模型企业正在走向K型分化 - 新浪财经",
+      "summary": "大模型企业正在走向K型分化 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "大模型企业正在走向K型分化 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fVGdPLS1rb0JVNHA0R1FWa3VFTTBMblpwbGFxSGdGNUZwcFFLYko3TDFfbjduNHRnWC1ZVFg4bGNkN1h4MnJBOG9SMEdCMW9nQ2Z1SUpXU0pNMF9aRXYwd2IxQ25DeWdzNWxoNXFIaGxHTHZNY3c?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-27 20:42 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "08820062ff17b921",
+      "title": "零一万物转型企业AI，李开复的\"金钱豹\"新故事 - 虎嗅",
+      "summary": "零一万物转型企业AI，李开复的\"金钱豹\"新故事 虎嗅 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "零一万物转型企业AI，李开复的\"金钱豹\"新故事 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyVTJ5dm9zdmJMcFhvWEUxeWU4X3Y5Sk9WdzBOS0RSbEtxZ1dKNFV6TGRla29WVXlWNHlxbVA2c3QzQjAzMnc2Tkp0eFM0MG9iQWU3Qw?oc=5",
+      "source": "虎嗅",
+      "published_at": "2026-07-27 14:40 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "750efd9ddb69698b",
+      "title": "How Does Synopsys Use AI in Chip Verification? - AIM Media House",
+      "summary": "AIM Media House 报道了「How Does Synopsys Use AI in Chip Verification? - AIM Media House」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Does Synopsys Use AI in Chip Verification? AIM Media House",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1U5MzI0N0FtOUhZVzBJOTJkbGxRaVlrcGpRYm1OM1ZVNDlWa0MtVV9ibl9udE1UVnJaTUI1aHV5ak9aNDZmbEN2eFF1aGIzMnA0Y2hhZ0xwQjhWdHk0VnVGbTlMVDdqUnJPM2xVdmlHOEdTbXI4Nmg0ZHNiVnpTcXVCYW83NndITEZRN01qUWpnLUsyS3VOVjVvYldkTEVWWk9tS0IzQ1Y2X2sxbVZ1OG1pZUhFTVAtV1dCbENzTQ?oc=5",
+      "source": "AIM Media House",
+      "published_at": "2026-07-27 18:21 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai"
+      ],
+      "importance": 101.5
+    },
+    {
+      "id": "cd4ac10a057756e1",
+      "title": "Zenity Introduces the Industry's First AI Security Platform for Autonomous Agents - Business Wire",
+      "summary": "Business Wire 报道了「Zenity Introduces the Industry's First AI Security Platform for Autonomous Agents - Business Wire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity Introduces the Industry's First AI Security Platform for Autonomous Agents Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZExESnpBQmNEdXlYM1NNNGtJSnV4a18xMjFnRjZmZHBiNkFEcDJYNjNKbkxPbDZjX0JKSElIMUF4Sk16eXljNGlDMmNYV3hxTG1zdjNvZGl5eDBuX2xtNk01NmxRM1FGMVJFTTFJdUM0OTBaMlZINTM3V0VSMHBSTXVHOHRTaEpzZVJBLXBEbW1sWWM5Y1JlZUtOZmFUdnkxXzJOdlllTng5dmt5Snd6YlNlaUlPb2tuUVJoOTh0REhrZUo3WlB6eVBEZUZ0ajlRZ3NB?oc=5",
+      "source": "Business Wire",
+      "published_at": "2026-07-27 21:02 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "26ccc494ed8ec5e1",
+      "title": "Siemens adds characterisation AI agent to automate design iteration - Electronics Weekly",
+      "summary": "Electronics Weekly 报道了「Siemens adds characterisation AI agent to automate design iteration - Electronics Weekly」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Siemens adds characterisation AI agent to automate design iteration Electronics Weekly",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVU4zdGRhVWV6dWIzcE9qWFhXZTlneFpmZHkzTEoxZ1VlR1dSek9MZGJfVU4xTV9fbjAtTFRkMkU3Yk1MaGpocDM2ZG84VUxqMlMwNjZIZjFrM0JsdEU3ZGxldzZNaHJiQzlPaTBGd1Q3N2FVZ1pZSHNYTkZWSzBEd0F3b3JkUnhBd0tCYkRYM0lOaUFuM3FfYVgwMHhZc1ludVZ2YlotNi1vRjMzQTNhU3ZjNmxZUQ?oc=5",
+      "source": "Electronics Weekly",
+      "published_at": "2026-07-27 16:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "eb032eb609a567f5",
+      "title": "AI can write code. Now comes the hard part. - Frontier Enterprise",
+      "summary": "Frontier Enterprise 报道了「AI can write code. Now comes the hard part. - Frontier Enterprise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI can write code. Now comes the hard part. Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFJuMUtMaDJHWmVoU21ySE55SVdwUXFUQmhDS2Rub1dUTXZRZWowSi1uY0NickpDczVocTBGWHNJRHRkM0l5SGxYVmhyUUNIVHk5UUZTMTlHRWtmTWFGSjBoNEhuQUhaYWZMajFoQVBUVGhoMnNtOUxOU3BDVEs2dWVWb1Q?oc=5",
+      "source": "Frontier Enterprise",
+      "published_at": "2026-07-27 20:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "1051b241ce4e0b3b",
+      "title": "AI is pushing composability beyond software - MarTech",
+      "summary": "MarTech 报道了「AI is pushing composability beyond software - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI is pushing composability beyond software MarTech",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05ckVFTWJLMGZKSzV1anVCcHo1YWFMMkExV3ZEVG5xSk8zT3BNSmNzWDlPeTk2SC1KY050M05XWEdFWk1YUy1HOW5tQXNaUnpNSzB4YXl1TUN2ajFSLTF1Mzk2cmpLWWpadDYwSUZCallZdw?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-07-27 20:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
