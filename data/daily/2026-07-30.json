@@ -1,0 +1,342 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T12:23:56.069724+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-30/",
+  "image_path": "assets/daily/2026-07-30.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "6e8c1db62e7ca4e5",
+      "title": "Nvidia Bet on Reflection for Open-Source AI. Now the Startup Is Playing Catch-Up. - The Information",
+      "summary": "The Information 报道了「Nvidia Bet on Reflection for Open-Source AI. Now the Startup Is Playing Catch-Up. - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Bet on Reflection for Open-Source AI. Now the Startup Is Playing Catch-Up. The Information",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkZKWGtOOWVlZmNaWW9pVHhHLVJYc2ctbzFGbmNuRlp5SU4yQUNlZE9KbEtoeHU1YXVvY2ZkRjYyUFNvWTFudzZsUmNBV18tLWY0N0xGMkhuTjE3dmdrLXNFQm9ZdG05eWNqNlFCR0pLM1Q4dUVfZUhVZTV1OUZEYm1CbzZubDFyWXZFNWFaTXdRbWw0TFlBMkpfWnc3TXM5N09WMw?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-30 00:53 +0800",
+      "companies": [
+        "Google DeepMind",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "52c5e08e4213ace0",
+      "title": "Nvidia Leads Tech Giants in New AI Security Alliance - Investing News Network",
+      "summary": "Investing News Network 报道了「Nvidia Leads Tech Giants in New AI Security Alliance - Investing News Network」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Leads Tech Giants in New AI Security Alliance Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tQkp5eThmbExNbGpPYkZrTGV4bkNEM2p5ZTI4bG9UZGxNUHpzMmtvN1JRamJZSnQ4TlhoYTFqVWV1VE84WFJoZDBRMzUtQnRqMUs1MVp5emNDSkNTdDBDQzFpbTJlSTZxOGY3endB?oc=5",
+      "source": "Investing News Network",
+      "published_at": "2026-07-30 02:00 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0b78724f6baddad1",
+      "title": "What the latest alliance for open source AI means for cybersecurity - IT Brew",
+      "summary": "IT Brew 报道了「What the latest alliance for open source AI means for cybersecurity - IT Brew」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What the latest alliance for open source AI means for cybersecurity IT Brew",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16ZjE5R2JJcUYxeUFlV05EcmFHdEo3Y2VRd3NQeHlreXBtRDA5QmVROFdTa2JUUWVqYU9xbTBNdlRGU1FDVmtvSVFQVEl1QXdwWkcwdEN2NUdPSVE1b2FKa0ptSndaQ0JEcUltdkl6TklTWXZzdzUxNmQ2LWM?oc=5",
+      "source": "IT Brew",
+      "published_at": "2026-07-30 02:32 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0ad98d9f8c56f663",
+      "title": "US bans foreign-made humanoid robots, targeting China over national security - WKRG",
+      "summary": "WKRG 报道了「US bans foreign-made humanoid robots, targeting China over national security - WKRG」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "US bans foreign-made humanoid robots, targeting China over national security WKRG",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlhMVp3bTdrYVJBVndJZHBHVFNSanFwNDJTR253cThib0tjMHd1a01kbS1RRUp2UFlGN1ZLanVoOVBkMlR1SElsNFN0SnVmWkR1YWlOdEY2cnpWVnBjYUxBdmhzQTNzLUEwYm5Na1VZbGRZd1VNRTNqTVdqNWxhWURSQWJDd1U1Q2pOVFNCQlhGRjdGWDRYbEQ3MmtsZm1iTTN4bGpjVlJ4QXo0QlBpeVZYYlk5N2NKR3fSAboBQVVfeXFMUHo5YTFad203a2FSQVZ3SWRwR1RTUmpxcDQyU0dud3E4Ym9LYzB3dWtNZG0tUUVKdlBZRjdWS2p1aDlQZDJUdUhJbDRTdEp1ZlpEdWFpTnRGNnJ6VlZwY2FMQXZoc0Ezcy1BMGJuTWtVWWxkWXdVTUUzak1XajVsYVlEUkFiQ3dVNUNqTlRTQkJYRkY3Rlg0WGxENzJrbGZtYk0zeGxqY1ZSeEF6NEJQaXlWWGJZOTdjSkd3?oc=5",
+      "source": "WKRG",
+      "published_at": "2026-07-29 15:15 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0696f825f8f2b702",
+      "title": "US bans foreign-made humanoid robots, targeting China over national security - The Korea Times",
+      "summary": "The Korea Times 报道了「US bans foreign-made humanoid robots, targeting China over national security - The Korea Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "US bans foreign-made humanoid robots, targeting China over national security The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnRGV3FRcV94RnFXMUNfZ0F0Zko1bzRMYWxDMFhDdDAtSkhUM0F0NnFhMUNxZ3RDVEpnWFJ6bkg2YkhhRUhNbWdubU9yRWFGeEoxdWNMXzhBTnBJYTdfYWlQZ2Y3bl9jYjU3bkJPTVRjTUJQWGdETVFpb2w0dVFqeDh3cmRzSmF2LW5kaHp0eWlMVkRsWlEzMTcwTmtZcGFUTmplWjZMUVlmSDc4WFRNVXpHd2Y1S3czUHVuS1NJT27SAcABQVVfeXFMUFJ0RldxUXFfeEZxVzFDX2dBdGZKNW80TGFsQzBYQ3QwLUpIVDNBdDZxYTFDcWd0Q1RKZ1hSem5INmJIYUVITW1nbm1PckVhRnhKMXVjTF84QU5wSWE3X2FpUGdmN25fY2I1N25CT01UY01CUFhnRE1RaW9sNHVRang4d3Jkc0phdi1uZGh6dHlpTFZEbFpRMzE3ME5rWXBhVE5qZVo2TFFZZkg3OFhUTVV6R3dmNUt3M1B1bktTSU9u?oc=5",
+      "source": "The Korea Times",
+      "published_at": "2026-07-29 15:01 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "86cbb6c65c1f6a92",
+      "title": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 - 华尔街见闻",
+      "summary": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 华尔街见闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSNzBNTVRYdkRDQzBHNUJCeW9mZGZMaTlKUm5BNlpqb3NsQmtMYUY0UWlOaDUwVmZURTRvSHlHMjJwQzhwdUd0ejIzM2tocldQZXJv?oc=5",
+      "source": "华尔街见闻",
+      "published_at": "2026-07-30 11:50 +0800",
+      "companies": [
+        "Alibaba",
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0527b1cca98f65e0",
+      "title": "三个转变、两项计划，华为押注AI落地下一战-人工智能 - 至顶网",
+      "summary": "三个转变、两项计划，华为押注AI落地下一战-人工智能 至顶网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "三个转变、两项计划，华为押注AI落地下一战-人工智能 至顶网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TMkpPYXdSNXl3ZkNocnFvMGxhRnNqc05OUV9WbmxnOHNVQW15OTE4cVg5Wl9pa09RQ0gzVVpiZFRVRVZybE9mWVJ2OUI0SzljSDgxck5DeVFwZnJjakE?oc=5",
+      "source": "至顶网",
+      "published_at": "2026-07-29 17:04 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2c4c3aa04eea4589",
+      "title": "华南理工：“两层云架构”破解高校AI落地难题 - edu.cn",
+      "summary": "华南理工：“两层云架构”破解高校AI落地难题 edu.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华南理工：“两层云架构”破解高校AI落地难题 edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91N0xScVdlOTFsNDQ3YjFpOTlwSk4tWTRlTThsN2IzU3J0RmlQOWdMNldSVGVKN1dmTG82VW1oaTJKS0dUd2JIMWxuUlpyZXIwb05mMExSWXYyZW1YQkQyTWRuUTNHMnc?oc=5",
+      "source": "edu.cn",
+      "published_at": "2026-07-30 09:51 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "83cc8b1a2d07e2b5",
+      "title": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ - 新浪网",
+      "summary": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ 新浪网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1l3N0ZnTGc0cFVnTlhEemVnLVpoV0VYdkFmS0ZZZW5YNlV4akktdUJUOHNJZlduVzlqalFyaVNlcGVacngyRjVzRVJNc1ZUVS1rQjVZclFtbmxDRHhyQ2hZbldhbUFzV1JKMnVqWWd0S1hOR3FCdFhPOVRlQXlWUl9XWW5ZVWlVQmRvMXoyUDZZcHZS?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-07-30 11:44 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2d36b8c2d57bbe8f",
+      "title": "美团上线AI Agent平台CatPaw，已在内部大规模落地 - Sohu",
+      "summary": "美团上线AI Agent平台CatPaw，已在内部大规模落地 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团上线AI Agent平台CatPaw，已在内部大规模落地 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdEU3U1U1BjZEoyOGUyR3htNHNkVTJrLXFjVFIzM2xsNFVXMm9ZMGFSakI5Zmh4WXBNWGVsc0NHbm5iTTNmZGV3d2dQN1dLLVhvbk9JNlFzU2xGbWJwV3ZTUHZkWEVDZ2RWbXh4SFptUU4zLXJrX0hBYkR1TWtaQTFfZ1N1M09KR0ZMRA?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-07-29 15:32 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "faebb96851038b0e",
+      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy - Venturebeat",
+      "summary": "Venturebeat 报道了「Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy - Venturebeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy Venturebeat",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkxyZHVsYUhUOUVwaDUtMDNsQmRHb2hCOFN3N3J6REV1Xy1JZERXVzZJVUNaVFFfdmNPem9iNFIzZmV6RzF5b2ZOVUJVLXN4SUFMbzhveEJlbHVrQzhzLU1XMWd4ck9uRVhPUkNhOWVnQjVKSm1nSTZ1ZkNNQ2RhbllvNUstZVEyTTNURTNnX2RGMk5hQUU2ZkRZWE5wUjJvbDhSQlI3R3NpRm9DbFFFYlBvWGFjSzVzVkxGU3o5bjlHWjVpNXhtRkRYLTJHM0gxWmxNZEFmWmFKQ2pMWksxenlrZWpla1RsZkE?oc=5",
+      "source": "Venturebeat",
+      "published_at": "2026-07-30 01:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "f7613a9243177f47",
+      "title": "Snowflake Launches Cortex AI Gateway and Advanced AI Security at Black Hat 2026 - Snowflake",
+      "summary": "Snowflake 报道了「Snowflake Launches Cortex AI Gateway and Advanced AI Security at Black Hat 2026 - Snowflake」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Snowflake Launches Cortex AI Gateway and Advanced AI Security at Black Hat 2026 Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzlBTHBTNFNIdG9JSGdJMUN4V2ZZV1BtNEotaS1qRVB6X3d0M1NNWTFIQW9NVm5vQXhuUnA0QXpMVFd4dzNFYWhzNnoyZFcxbGtrWUJ5MmItVkJqeHJ0Vjdjcm1hbUtJanJvUXBCZjhwNFFscTZhdzk1SGNtZjhXZE5sU1VMYnc?oc=5",
+      "source": "Snowflake",
+      "published_at": "2026-07-28 23:04 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "4a05f2064aa036b5",
+      "title": "Meet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI - Oracle Blogs",
+      "summary": "Oracle Blogs 报道了「Meet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI - Oracle Blogs」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meet the Supervisor Agent: Build Multi-Agent Workflows with Oracle Select AI Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3hXNUNWSTNHRjVoSDZ4THZmTUxQN2F0STZzTnpHQl9Hd0VjWUgwOTVsUzlxYkN0R2ZOazBVZ25hU2c1LVlXNTVnbnozTWdQRHVuTENRQzR3eGV6ZnVham8yelpxMk5ENlpCNGNnNUdEeVlnRzNQUHpDbkRCa3QyRkdSTjdTdTFzT3pXRnZXaWpQVksxSlhXa2hic3lFY1pRMkxpWmllcUVlS3I4SmpSRDlScGI0cjA?oc=5",
+      "source": "Oracle Blogs",
+      "published_at": "2026-07-29 21:47 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "65c838119747bde5",
+      "title": "AI Agent Authorization Gets First Patented Three-Layer Trust Stack From Daon - Tech Times",
+      "summary": "Tech Times 报道了「AI Agent Authorization Gets First Patented Three-Layer Trust Stack From Daon - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Authorization Gets First Patented Three-Layer Trust Stack From Daon Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazZVYXdTTHVWeTFfbWFEeHU3NlJ1ODNPQWpZOUFvTDZweVI1dVcwT2lPaEJwem5rWEhPX0tsNk1tLU1GTjhYUlZMVWhZT0laam5OdlpOOUtwWnNuNFFmU1VnY0hQd0FmNF83VmhrazZSNjJocERUVThhUWpGTkdXQVRVc1pkVHZONzF4aENnaFJDM2k2QmRWeTFDN2dENHVzOW9UWVAzWUZtOF85M2l6TEFITWMtR0dnSDBLSjFlTDVhM3RX?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-29 21:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bed573a933b87492",
+      "title": "The chatbot era is over: Sam Altman’s case for persistent AI agents - The Cryptonomist",
+      "summary": "The Cryptonomist 报道了「The chatbot era is over: Sam Altman’s case for persistent AI agents - The Cryptonomist」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The chatbot era is over: Sam Altman’s case for persistent AI agents The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZNlBmSXBhdE5GY2Z3Y3hiN0J2eG1WaTJ3VTgyeWdVRDFJaF9FNGJzZzRSUDYzTDVUT2VPMDRONkxUTEtDX0hGMWpGR3paeHJjVVoyZjF1cEpsMGo1eEFVb1p2clZJMkJVNS16SlJRWDY3Nng5YmtVeEJn?oc=5",
+      "source": "The Cryptonomist",
+      "published_at": "2026-07-29 19:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
