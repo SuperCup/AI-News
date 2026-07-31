@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T12:45:03.140637+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-07-31/",
+  "image_path": "assets/daily/2026-07-31.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "ca0090efe858a8fc",
+      "title": "Anthropic says its own AI models breached three companies during security tests - TechCrunch",
+      "summary": "TechCrunch 报道了「Anthropic says its own AI models breached three companies during security tests - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic says its own AI models breached three companies during security tests TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNBMlpSYTRYVlFfN25yZjdMQzY3M0xHelhiNE5BSGdUTGFXN2Izd01WV2l4eEcyRWo0bXNiUkd3RjFVd2M0MlFFZUVHZEpDZERHM3E5QktlQnhucWg2VHhfa3dtNEJwYVNDVEpCWFVWY3NIdE92U3hiVFVTb1BaRmpfYmpsb0VtYk5xRnQyRjA4c0RSaUVHZjQ1WFI2NFg1cy1DUk1UVmZyTDJUTUNFOUlvU00?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-31 09:06 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "5b405037cdcdb214",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety - Ars Technica",
+      "summary": "Ars Technica 报道了「Google reveals Gemini Robotics 2.0, promising improved dexterity and safety - Ars Technica」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTNydXp1elFONkotRWM5X3A3NGF5dk9fOHN1ZVBKaWdLOUZFODV4V0owLWNBSnk0RUZLcE1adkJqZ1pTMWhKamtzaDNaTzRKeUxRZGJiVE8xOWxPRFhCTFNmVUJHUFB3eGRiNGxSZUV6bWpvd25oT1VwZGdGUV9USi1VTS0tS1dpODQ1cUNHelBlSlhLS0ExVWhGQTRJYVFBVHVLaVh2TmxWTlRJTnJF?oc=5",
+      "source": "Ars Technica",
+      "published_at": "2026-07-31 01:58 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "63caa19ea5e0cf35",
+      "title": "Safety Filters From OpenAI, Google, and Meta Missed Every Romance-Baiting Script - Tech Times",
+      "summary": "Tech Times 报道了「Safety Filters From OpenAI, Google, and Meta Missed Every Romance-Baiting Script - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Safety Filters From OpenAI, Google, and Meta Missed Every Romance-Baiting Script Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejFFZkhiaHB1bjVfallQWkx3SUdaaV83endBbEF5X2E4TmdIVU8yNm9ZbWJtZjhDNUdqck5UTjJSamdBWlppU1VnS3FWYVA2UXRFQ1ZvT1dEN01HaWpzX1MydTl0aDFqYl9xQ2ZPLVczeTQ5ZDhYdGNDTkVoRU1RZGNDTmhGT0QxZ3VwenpOSTFDaW5hOVpjcU9VdGpUb1VTZTVwUnNFNWltLXJxQXFxdFBfczBXXzc4cWR2RmhHcTFIZw?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-31 09:56 +0800",
+      "companies": [
+        "OpenAI",
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "c7fa44df94f037b5",
+      "title": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend - Reuters",
+      "summary": "Reuters 报道了「OpenAI cuts prices on smaller models as businesses scrutinize AI spend - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlV6ZXZOeE5EZHRqQ0V6RUZXdVpiNnoxRUNHbDZVdnhocXNJTW1SMDVGZnI0d0hzdnhXLVZCcGIxb1lWdFVmV1V3VjVuWVlULWhHQmI4WWI5ZTJ1TWYxLVV0Q0pScTR6S0Jkd1RJYzRTaTc3bGN6QVJXcXdKa3NNMGxINmEzQnE0WHp5TGV2YXhldFhXeUs5Vzc5Qmc4ZkVqTms1YWZmSWltcVJhajBta0RIdHRfaDhrSGM1OXlhblFHRzQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-31 01:01 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5a47b4bebdeb06b5",
+      "title": "AMD’s ROCm.AI Bets Agents Can Beat CUDA: Internal Cluster Shortage Is Its Biggest Risk - Tech Times",
+      "summary": "Tech Times 报道了「AMD’s ROCm.AI Bets Agents Can Beat CUDA: Internal Cluster Shortage Is Its Biggest Risk - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AMD’s ROCm.AI Bets Agents Can Beat CUDA: Internal Cluster Shortage Is Its Biggest Risk Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDFtRWpCc01mNkR5T0hHcFQwUW11Z19OQ3o3OUJuV04tUFB5aUhLWmZ2b29CVF9VcldvSUwzcE45MHZQTFBRd1Q4cDRNNjY1MkRmYlpheFhCbENXcmdGMlB6djFHWmhLMTBRNzFmcFhnM1ozTWtwM0dzNFV1RkpCNjF1SGhhcXNxYnR3OTVtdVBOampYeHhBZkJWMkhHN3Z4b0NBWFFaUmNjdFgwSkpOZVRZNkZvVnoxVDVWcHE5ZVE5TVkzNVN6Sno4MDlNTU92?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-07-31 00:15 +0800",
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "87fa93e848d1cd2c",
+      "title": "“人工智能+”场景需求集中释放！10月温州人工智能展为制造企业搭建具身智能“解题”桥梁 - 中华网",
+      "summary": "“人工智能+”场景需求集中释放！10月温州人工智能展为制造企业搭建具身智能“解题”桥梁 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“人工智能+”场景需求集中释放！10月温州人工智能展为制造企业搭建具身智能“解题”桥梁 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBudU5hT0tQT0xSMVM3UnlCRXpVSW9pMHlZbXhOMjh3WkpoVlNpWTg3S3ZkdjJiMzdySTVnZTg1cGg3VGxkX0xOWUw1anNXVWtWTzN1UWdUdmlUekpic1pqczhfUldGNzlzRzVidg?oc=5",
+      "source": "中华网",
+      "published_at": "2026-07-31 09:42 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e8336510d61a039d",
+      "title": "江苏宿迁落地全国首家讯飞玲珑OPC社区，打造AI+OPC创新创业新生态 - 手机新浪网",
+      "summary": "江苏宿迁落地全国首家讯飞玲珑OPC社区，打造AI+OPC创新创业新生态 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "江苏宿迁落地全国首家讯飞玲珑OPC社区，打造AI+OPC创新创业新生态 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RTnpHVHpkTDJBcGlPS3NYcEVMdGNxcXhrVFlIRlBudHhqbHN6UkRtaVFiUmRpSTBsTFFBSU84dGFrbWk2NlFxUERFaFVhNnlDMFlLMVpXb2F1dDlJdk1lTXJYUGlKa2V2WURWRzgyaU9HUQ?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-07-31 02:31 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7ba379c5c37314d4",
+      "title": "算力紧缺利好国产芯片企业，群益证券(香港) ：维持寒武纪“买入”评级 - SOHU",
+      "summary": "算力紧缺利好国产芯片企业，群益证券(香港) ：维持寒武纪“买入”评级 SOHU 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "算力紧缺利好国产芯片企业，群益证券(香港) ：维持寒武纪“买入”评级 SOHU",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjRMc1RJdHZCdFhmYlFNeDZYVmkxemdHcngxNjRaUmhLTGNNRzlya0VMaGZ0dkZCZFlFVnRHekVnbUhyRjlWM1pYeE00TGd1SEdqYmxjel92a2hlTHlQcjhpVjN4UWhkUGV5Y3MwM2kxd291cVNGWXVWb09ndTJxZGRNTG91OU5PX1lTdg?oc=5",
+      "source": "SOHU",
+      "published_at": "2026-07-30 15:27 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "86cbb6c65c1f6a92",
+      "title": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 - 华尔街见闻",
+      "summary": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 华尔街见闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "抢夺企业Agent入口！腾讯、阿里、字节新一轮大战一触即发 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSNzBNTVRYdkRDQzBHNUJCeW9mZGZMaTlKUm5BNlpqb3NsQmtMYUY0UWlOaDUwVmZURTRvSHlHMjJwQzhwdUd0ejIzM2tocldQZXJv?oc=5",
+      "source": "华尔街见闻",
+      "published_at": "2026-07-30 12:05 +0800",
+      "companies": [
+        "Alibaba",
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "2681f85bd2a55b97",
+      "title": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ - finance.sina.com.cn",
+      "summary": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkxicDE2U3BvUzdtbEgzdklJQ0tBbnVzbDJNaEFJTmI3NG80ZXgydDM0MVFlV0NDNGNIV2ZkcW1pZ2dSVlhrSlBMZ1hRUy1hYVBsamh1TGh2TVkzaDJheEZ6bWswaW9wSlpWSTFfbFB1N3VZWjFnRVctNl9xSjRmckc4eEVKaDFqenJZNFhxTEFrZHNTcDZrUEFuUGxZOGl3LTVR?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-07-29 21:29 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "95dab43767f53e76",
+      "title": "When AI Becomes the Attacker: Understanding Autonomous Offensive Security Agents - Resecurity",
+      "summary": "Resecurity 报道了「When AI Becomes the Attacker: Understanding Autonomous Offensive Security Agents - Resecurity」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "When AI Becomes the Attacker: Understanding Autonomous Offensive Security Agents Resecurity",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkJIVlk1a3RPSnBGUktmLW5faVY4T0taM0I3dG1kcnk5Zmo0X055TlZkczBqNmpsQlFrN1RsamdxUVBkSWhCWTJOWGtOXzg0SUVqYTJpYURJQ3AtczNYdms1MExjX18wYXpvWTgyU1lzMmhVVTF5cXM1TGhMUUp5NEZCTWNPYWdQdWk5TXlXVWdhQ1pVdjlDWGpDbjlValdBTHd1QjFkejRGcWJNTHFfRThzUzgwcDQ5UTZF?oc=5",
+      "source": "Resecurity",
+      "published_at": "2026-07-31 01:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "d1eccc79f9904503",
+      "title": "SailPoint’s New Connector Addresses Security Gaps in AI-Driven Development - The Futurum Group",
+      "summary": "The Futurum Group 报道了「SailPoint’s New Connector Addresses Security Gaps in AI-Driven Development - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SailPoint’s New Connector Addresses Security Gaps in AI-Driven Development The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVFaVW9TWVF3TFJPUXA2LThpZzBuSmFZeXgyQmMzY2s5WG11NnBOTG43NWF3bU13SGM4ODc5WVdwMllIbFlLNGFjN0J2NVFHc2lkUWJpNGI3UDRWOHZrcnZBVWhsVi1KQks3cjh6bjJuQUlBNnJyQ3ZBS2QzYy1jOWdLa2RJelBwS2FtdHVUa3diWDBiWUViSXdESU1JVzhrbnhIOTNLcUxNSWZx?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-07-30 22:10 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "920bfaa875e54b92",
+      "title": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service - Via Ritzau",
+      "summary": "Via Ritzau 报道了「Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service - Via Ritzau」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service Via Ritzau",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZkt5WjdxdngwdGhjTFV5YjFsNEI0d0tsbzYyX1lrcmZCM3BxWmtmal9LOVZ2NFNPUjN5UjgxYVpER0dSaTBoaWs4aXpzZ2t5U0RTLXIzbURWRlFjRkpyTmNxSTk3OGl1X0luSl9WYnhhQXZEcXJkRTVtZjhWX3lCY2U4ejJURzdTdVJEZklvSVA1dzk0TnN4bHRpZHJUYk1NU09CaXBfcVBXamtiMDcybFl6VlhFV01hUXNza0JYWHZMeHZDaTNId0YwaDMtVXBCaXB2SjJ2YjEtbnlOZkprb2FLMmIxR1F2TlYwaFRaellnVlRNb3lfemF3MG9TVFJaLURYMDBpQTBMSWtCSGJwdE1EMzM3U2dQWFVfbW55T2Mxd0JROEM5Y2xQeko3a2sy?oc=5",
+      "source": "Via Ritzau",
+      "published_at": "2026-07-31 04:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "19a1f0346354df6d",
+      "title": "7 Types of AI Agents to Automate Your Workflows in 2026 - Reply",
+      "summary": "Reply 报道了「7 Types of AI Agents to Automate Your Workflows in 2026 - Reply」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "7 Types of AI Agents to Automate Your Workflows in 2026 Reply",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU13cjVYWkVGWFBQWmVKckdNcTRTc0pEdXlTNjVHZDE2TlZVZ1N6WndhenhsLXhKb3hCWU9FcnlQN01BWkdadDdRakR4MV83LTR3bXp0b29WWGM2Sjd2elhoWnViXzdIcHNFT1VxcTdfdzg3bkFQMXBmQUJHUFZySW1BanpKM0dqQzhyQ0NtWWl0XzdpX2hxVUpoWk5ScUF0eWZ5amlmb3lTeEZGUUFF?oc=5",
+      "source": "Reply",
+      "published_at": "2026-07-31 10:29 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e0b628265543df7a",
+      "title": "Securing AI agents through platform controls and shared responsibility - Oracle Blogs",
+      "summary": "Oracle Blogs 报道了「Securing AI agents through platform controls and shared responsibility - Oracle Blogs」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Securing AI agents through platform controls and shared responsibility Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU9Cd05KR1lpTEg2Y2daV2xhNjhjTGZpa0pfWThVblQ5RjI4SEpyTXJPRDFTMFVwUWZodFhMa0xvRmNoLWw1TmtGMWpzMFNvQ21oVE1zSnVNUjcxMUd5WThSRHo5b0s2c0pGUnlPYVNkZnh3Ui15QmktWl9RS0N5cHBvellyRTUxd2l3d2JB?oc=5",
+      "source": "Oracle Blogs",
+      "published_at": "2026-07-30 23:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
