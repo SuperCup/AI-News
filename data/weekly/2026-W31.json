@@ -1,0 +1,274 @@
+{
+  "week": "2026-W31",
+  "date_range": "2026-07-27 至 2026-08-02",
+  "generated_at": "2026-08-02T21:53:29.087811+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W31/",
+  "image_path": "assets/weekly/2026-W31.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 7
+  },
+  "items": [
+    {
+      "id": "ad6291f982d718de",
+      "title": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information",
+      "summary": "The Information 报道了「New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets The Information",
+      "impact_reason": "The Information 报道了「New Microsoft Copilot Security Flaws Show How AI Can Leak Customer Secrets - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUhROXNQYUtJSHFqY2R6eVhZNWhoZFpIN2xNaGdISVV3TFpGZmRYZkhzRFRoQ0dwTHFETEFyVko2bGctQ2JpZlBPS3Rja25qQTlUNVFXLU96R3dabDd6VTJQaXJJOFhIcmlNa2JwbWxoaDdpbGlzTWpXZ3lDd0pDVWh2SXZBTy1zb1hyQjV6Z0xkeWxuTWk0T2lKVTBacVEybTYxYkdRd3RrSHFhX3NiTkNhM2RaNm5RWUluZEZTaG5lQQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-07-31 02:57 +0800",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "09a73d78eea3bcb5",
+      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost",
+      "summary": "MarkTechPost 报道了「AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs MarkTechPost",
+      "impact_reason": "MarkTechPost 报道了「AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblN0X0JDZ19rRThhempmMDFURVp5Q05aN3BUNGhITFMxLWg2QXJUTlBtelFUYkxZR1BkV3RVM3BDSTVZNVhxY0FsN2dkR0hQYmNFUlM3OXQxMkJqbm92dGlCTjNyN2pCa3oxSWZ2bW5SQll5bGc4cGtlc2NrRWlIY3dBcE5XVEppcjd6U1NJV0RBVy1kVEFCT0pjMjZLUFVk0gGmAUFVX3lxTE5zYnRIa043cDRvVUFxbFVjem1OejJnd29tMzdTU3ZIVkFtVUJ1TWRrUW5UUUhPRVBxODNCQlRUUkdQeFlhZ3lLci1wRzZLY3JWR282MThaa0xBeUozVkdOeHVqMzF3RlRma3BBbXRGZE9ycTh5cXR3b2RFYzN0My1BUjZvUHhQTFAyQS1Oc3EzT3BDOTdsSGNwZUsyWVJseldINXE4WFE?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-08-02 03:01 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "c3ffc46a4abaf422",
+      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters",
+      "summary": "Reuters 报道了「Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia forms industry alliance for open AI security after Hugging Face hack Reuters",
+      "impact_reason": "Reuters 报道了「Nvidia forms industry alliance for open AI security after Hugging Face hack - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-28 05:36 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "2d42eda205397791",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
+      "summary": "The Verge 报道了「Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Anthropic、NVIDIA。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic The Verge",
+      "impact_reason": "The Verge 报道了「Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Anthropic、NVIDIA。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-07-27 20:06 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Anthropic",
+        "NVIDIA"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "4058f8020ba088d7",
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "summary": "Reuters 报道了「Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Tech employees call for US-backed global effort to manage risks of advanced AI Reuters",
+      "impact_reason": "Reuters 报道了「Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-29 06:30 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "ca0090efe858a8fc",
+      "title": "Anthropic says its own AI models breached three companies during security tests - TechCrunch",
+      "summary": "TechCrunch 报道了「Anthropic says its own AI models breached three companies during security tests - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic says its own AI models breached three companies during security tests TechCrunch",
+      "impact_reason": "TechCrunch 报道了「Anthropic says its own AI models breached three companies during security tests - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGNBMlpSYTRYVlFfN25yZjdMQzY3M0xHelhiNE5BSGdUTGFXN2Izd01WV2l4eEcyRWo0bXNiUkd3RjFVd2M0MlFFZUVHZEpDZERHM3E5QktlQnhucWg2VHhfa3dtNEJwYVNDVEpCWFVWY3NIdE92U3hiVFVTb1BaRmpfYmpsb0VtYk5xRnQyRjA4c0RSaUVHZjQ1WFI2NFg1cy1DUk1UVmZyTDJUTUNFOUlvU00?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-07-31 09:06 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "879420cca132bc00",
+      "title": "最新封面报道之二｜AI疾速落地 - 财新周刊",
+      "summary": "最新封面报道之二｜AI疾速落地 财新周刊 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "最新封面报道之二｜AI疾速落地 财新周刊",
+      "impact_reason": "最新封面报道之二｜AI疾速落地 财新周刊 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5SUxwWlJWWUxYYTZ3Vm5XOVp1dXRmQkstWGNDS0dHaFIyaUVyME1JNmdCWHpNcVNFbVNUQzQtb3JxN2hFSkFGeFM1UW9vSEl0Nmw2cHRrSW9GTE5wc0ZBUw?oc=5",
+      "source": "财新周刊",
+      "published_at": "2026-07-27 09:32 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "8780e20ba7cf4b94",
+      "title": "Microsoft's new AI model beats Mythos on security benchmark - ZDNET",
+      "summary": "ZDNET 报道了「Microsoft's new AI model beats Mythos on security benchmark - ZDNET」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft's new AI model beats Mythos on security benchmark ZDNET",
+      "impact_reason": "ZDNET 报道了「Microsoft's new AI model beats Mythos on security benchmark - ZDNET」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZbVc4OUF4UDljUWlLcS1VdTdGMVFnR0pkWjI1LTV1UlRaUVQxS1RZSmg3NTRCX3FBMlRnc0JTSFAxYWxTSm5RZ2ExckVjMklnNGlnQlhDZVY4TGpWTjFFQmk0TF9jUQ?oc=5",
+      "source": "ZDNET",
+      "published_at": "2026-07-29 00:59 +0800",
+      "companies": [
+        "Microsoft",
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "ecfe3de01fe41ca9",
+      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research - SecurityWeek",
+      "summary": "SecurityWeek 报道了「In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research SecurityWeek",
+      "impact_reason": "SecurityWeek 报道了「In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXVqa1lqTFA2QUJkaHJsWldDRWNMZ1M0ckNtSlpkdG5TTmQ4c3JkbVdiLXVmQUg1UTRSNlJjLURKb3pLaE1ZMTN3clBCeUZBWjFjU2FfMDd3TTBqLUdrN0lwaHRZa2tMUUZKanlJNXREbmxaWEJsZ3dwYzEwUW4wNks2Ym1VUHdSR3NKaFJ6b1dwdVBBWkFqdFZnZndiX3pubzUwQ1NodmpiZ1g2X0JiMHdaYXpDSzhfUEpHQkNuUTVDczTSAcMBQVVfeXFMTU11amtZakxQNkFCZGhybFpXQ0VjTGdTNHJDbUpaZHRuU05kOHNyZG1XYi11ZkFINVE0UjZSYy1ESm96S2hNWTEzd3JQQnlGQVoxY1NhXzA3d00wai1HazdJcGh0WWtrTFFGSmp5STV0RG5sWlhCbGd3cGMxMFFuMDZLNmJtVVB3UkdzSmhSem9XcHVQQVpBanRWZ2Z3Yl96bm81MENTaHZqYmdYNl9CYjB3WmF6Q0s4X1BKR0JDblE1Q3M0?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-01 00:10 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "cbf1da5c68c760d3",
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 - 新浪财经",
+      "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经",
+      "impact_reason": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座|大模型|开源模型|管理|成本|数据_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNdFp2c2xkZW1xTnc1MVhDbWRCbHVHVDNiNnYtN29aUUxFdE1QTzMxUkgyRUFfODdlQU5PZDRCMVU1Qm84dUd5UWVFaG1UWlFOa0xqSGFXS2RCam1HQnA3cjBfSl9PZEhlQno5ZWFIRGZ6ZXI2MGJkc0l2QkNVenFtWEUzZk16SGpMNTY0NmFYYVVjTjFrR0xqNG9zNk9sTEVaMndid3o1QjRCXzZiQUF5Z1lHM09vX1dRbkJNQXJuVHppcnpiRlhyWm1YbG9jb2FfVUhKeDlHZGo2YkRBM1loX1lrSGlIOXdnWFlWRWJ6WDNxdWZ6X3Zuenkzc1RLRWFvNEZGbkMtVmJmZ052U1VjT2VaV3R6X1doZTRpYjYtTmw1cUdxVE03VDhJWkZPME1yYVIwbURZV0xSczhKcndRdDBFX0V6ZG5lVFc5ajBWZzhlOHQ3dzZObFVWOUJjZEQ2TzVNVk4yX2V1UC1hUS1OZ2pKcFFiYXBwcUZPR1hHSWlRa24zS0lJbkludzBmdlJPREdjc0VoM1lOd1NpWXJvWjc2Y0ZiSFpqSmM1ckFZbjZkR25BNFpMU3ZIemhfSWdUTG9mYVFqbGZjSUE3WGpvQmJmUkkyVE1JQmc0ZzZUTUMyQWp0bktnSU8xVlh2U01QS2xIZm9CMnhxWlk?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-07-25 14:00 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.0
+    }
+  ]
+}
