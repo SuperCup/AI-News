@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T12:41:41.774442+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-02/",
+  "image_path": "assets/daily/2026-08-02.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "09a73d78eea3bcb5",
+      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost",
+      "summary": "MarkTechPost 报道了「AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblN0X0JDZ19rRThhempmMDFURVp5Q05aN3BUNGhITFMxLWg2QXJUTlBtelFUYkxZR1BkV3RVM3BDSTVZNVhxY0FsN2dkR0hQYmNFUlM3OXQxMkJqbm92dGlCTjNyN2pCa3oxSWZ2bW5SQll5bGc4cGtlc2NrRWlIY3dBcE5XVEppcjd6U1NJV0RBVy1kVEFCT0pjMjZLUFVk0gGmAUFVX3lxTE5zYnRIa043cDRvVUFxbFVjem1OejJnd29tMzdTU3ZIVkFtVUJ1TWRrUW5UUUhPRVBxODNCQlRUUkdQeFlhZ3lLci1wRzZLY3JWR282MThaa0xBeUozVkdOeHVqMzF3RlRma3BBbXRGZE9ycTh5cXR3b2RFYzN0My1BUjZvUHhQTFAyQS1Oc3EzT3BDOTdsSGNwZUsyWVJseldINXE4WFE?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-08-02 03:01 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "ecfe3de01fe41ca9",
+      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research - SecurityWeek",
+      "summary": "SecurityWeek 报道了「In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXVqa1lqTFA2QUJkaHJsWldDRWNMZ1M0ckNtSlpkdG5TTmQ4c3JkbVdiLXVmQUg1UTRSNlJjLURKb3pLaE1ZMTN3clBCeUZBWjFjU2FfMDd3TTBqLUdrN0lwaHRZa2tMUUZKanlJNXREbmxaWEJsZ3dwYzEwUW4wNks2Ym1VUHdSR3NKaFJ6b1dwdVBBWkFqdFZnZndiX3pubzUwQ1NodmpiZ1g2X0JiMHdaYXpDSzhfUEpHQkNuUTVDczTSAcMBQVVfeXFMTU11amtZakxQNkFCZGhybFpXQ0VjTGdTNHJDbUpaZHRuU05kOHNyZG1XYi11ZkFINVE0UjZSYy1ESm96S2hNWTEzd3JQQnlGQVoxY1NhXzA3d00wai1HazdJcGh0WWtrTFFGSmp5STV0RG5sWlhCbGd3cGMxMFFuMDZLNmJtVVB3UkdzSmhSem9XcHVQQVpBanRWZ2Z3Yl96bm81MENTaHZqYmdYNl9CYjB3WmF6Q0s4X1BKR0JDblE1Q3M0?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-01 00:10 +0800",
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "55afe758a795273c",
+      "title": "Alliance promotes open AI for cybersecurity - The Manila Times",
+      "summary": "The Manila Times 报道了「Alliance promotes open AI for cybersecurity - The Manila Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Alliance promotes open AI for cybersecurity The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXE4a1RfTm1zTUJFbTZYdEtZV09Bb190TGlOa2dMTXd5S1E1ODJzLUpiLWx5NDhxUXFoNGY0SmhrS0pjZkI2TTFoWU1Gcm5EcmxVWV9zVkgycnRZaGFyN1dId01VODhGektXSEFCOWVpTVlsTmxiWGNwcGV3eHI3eElmRHoyMHdmcG1pNWJheXNrdVdVVUNLUnI2OVdMOWVidVE3WWVIMlNLNmkybEF3VU9zY1hUU1I4eVHSAb8BQVVfeXFMUEZvWFZGdWFMRWo3ZVJGckw4blFDcFBBR2VoVXhVbDljSk1MSUJJdUJRd1dpeTd6OFIxank1QXRBQW9UNHR2ZEpweERvTHRxRUJIY09yWlMwLWk1WmxTd3djMmdkVlQxQ2VERHlmVEVuZk91ZVR1aFhiTDRPdF85YUhZc2lrVU9ONHVTZHRCOVMyQ2xVVEFkaEJtQjNRTVBMQ1hOVkdpZWVldDU3TUt4ZTBWaWJhMmhxNmtnVThKLTg?oc=5",
+      "source": "The Manila Times",
+      "published_at": "2026-08-02 00:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "892f8e991d1b3696",
+      "title": "Unlocking AI to strengthen cybersecurity - Escudo Digital",
+      "summary": "Escudo Digital 报道了「Unlocking AI to strengthen cybersecurity - Escudo Digital」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Unlocking AI to strengthen cybersecurity Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGtVWHBfWG43Uk9SWnlhQUN3eGRhSHQxYWZTeGdYZXh0RjNkMDNuSFV1N3NkOXVwMVd6SVBfZFdacURybkhFS20zbTJ4U3NyYjZSQnFnUjdtcGdEVy0xazFkM0M1c19FUUtlSEVJTHJvNjZnM0NvNnF1NkZXalAzc2pzckw4STRzVVdSVThvNnY3U01XZDc2Q3RR?oc=5",
+      "source": "Escudo Digital",
+      "published_at": "2026-08-01 13:15 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "01c0bfdd72d96564",
+      "title": "中国人工智能模型快速崛起，但企业如何赚钱？ - 早晨报",
+      "summary": "中国人工智能模型快速崛起，但企业如何赚钱？ 早晨报 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "中国人工智能模型快速崛起，但企业如何赚钱？ 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vc1RLY2xmN3l5ekl4d1NGWU03Mkl2OUxPamYyT2t2U1Njc1JaLUwzNVdvQXNiRDM2YlN5TTM5cVZnclJSQndOclFmVlkxdHhOTjhxVzRUSGZRUGJhaUJQYTdMRTJOOXFF?oc=5",
+      "source": "早晨报",
+      "published_at": "2026-08-02 09:12 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4eb56224ab5a5aa1",
+      "title": "今日视点：科创企业为何迎来股权激励密集推进期？ - 新浪财经",
+      "summary": "今日视点：科创企业为何迎来股权激励密集推进期？ 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "今日视点：科创企业为何迎来股权激励密集推进期？ 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXNQenRmSXM4MVc4Tm95U1ZMa1N1NGpzT0hzeVlnd2c1MGg5QnhBckF3Uk40V3pyRnNGajBic016enpUeHBCVkU5MWFYN2ZzUXplY1BFVmxPbkhtV2VRZThweUdQRDJsWXFDNFFYVjBBejdRMFlxanVFdXRwTi03UjRyemVwenpCUGZrbzF0dWpOVF9OYUVMMA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-02 06:58 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6567f7b0c7ce53b8",
+      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks - MarkTechPost",
+      "summary": "MarkTechPost 报道了「Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU43a3ZKT01Nd0ZmMjVZNFJVdGw0OUJENWZna0piUTIxTmxvUVJxTHNzazdzVGxNbVhMa0pkYVVvUGN6VW51a0lhS3VUeEhIMnpZM2diT25tcm96MUhfeVB2Z1NQbnBzaHVkN00tSDIyNDVRamwwdWVIT0dJem16dVZXSVo5WlExUkowN24zTEt5M3ROVVRzNzZwdkZpNmFSY1YwVWFlQXdsaC1XeEUwMHNiZXhMN3FFUUJEX0FIR2ZrS2Q5UTljZHBHdzZTbmcwSkdPYmdxcm1weEJvUUZ1cWdwajVKYnpJQUZZ0gHwAUFVX3lxTE53ZlphMkZ0NHFzVXh6eFJ5LWd1R1dhV0xGaU9MZVc5ZU03RC1LRldpcFhwLXRnUmwxS1NSdjI3c0FVTjJ0VTR6Wk45ZEwtMkFHV29NSjU1UDJ6Y2ZZUWpobW8tci0yTU52dm5ZTF9QdmpVRm1wbGpVNUtPVG5uZEhPMHM0ZDFVQU1uZHlMMjVfSTduakdSQkVUNjVrUjdEMThmU0hZVEVWWG1kNFU5U3Vkc21hdDZUakM1YVlPMU94bk5GWDdDUlpndGM1djhLLTJnRFBGd0M5U20waXM5Z19xSDBibHhGTG5zQy1JRmVBVA?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-08-01 17:52 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "c7bef9c88dbd8b7c",
+      "title": "真实场景驱动创新：央企与百度智能云共探AI仿真落地 - 中华网科技频道",
+      "summary": "真实场景驱动创新：央企与百度智能云共探AI仿真落地 中华网科技频道 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "真实场景驱动创新：央企与百度智能云共探AI仿真落地 中华网科技频道",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kb2tiSmtfVEx2SE9wclJRWV95SXF5ZWE4bEZsR1hGNGFnSEc2T3dYbUctYXNwNHViWU9mZVh4cWlxcU54ZHRNM2xGMDVDNkpIX1NVTUdUQ3BDM0VLWVpKMW1rbmtDbjZRWkM0UUt3?oc=5",
+      "source": "中华网科技频道",
+      "published_at": "2026-07-31 14:50 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "c141034836af0e35",
+      "title": "从“技术突破”迈向“规模落地” 2026智博会推动AI赋能更多新型工业化场景 - Sohu",
+      "summary": "从“技术突破”迈向“规模落地” 2026智博会推动AI赋能更多新型工业化场景 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从“技术突破”迈向“规模落地” 2026智博会推动AI赋能更多新型工业化场景 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2dVMTFLWVRYVXR4Q1RaVW5GeXVXRTdsdUVPVHBtZXVBN200WVUyNndjZWpnZjdjbnhWdGE3VFU0cnZMdkE0dDFMNkFkcmluTXdPVEFNTi11VzZjeEY3X3B6OC1hSExRQW5VdGZvRFd0WkEtZVN0R0Z4U21JRTNfQnN5ZnpUaEdmQ1h0bg?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-08-01 07:48 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "28c2d74f86675efd",
+      "title": "中国AI初创企业MiniMax发布多模态生成模型H3 - 联合早报",
+      "summary": "中国AI初创企业MiniMax发布多模态生成模型H3 联合早报 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国AI初创企业MiniMax发布多模态生成模型H3 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTTJHRXRQUV92elBGZXRBQjA3bDkwQUZMV3hxYWdoaEppbExjaDFVdDZMZl9ueGNuYzF6MzlhejJGYmUwSXFSSTQ4eFBYTTc2ZmVEX3N0WXk3aU9DTW1LaDZDcDZBdzZ3bXc?oc=5",
+      "source": "联合早报",
+      "published_at": "2026-07-31 16:11 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "f5890fd116984f61",
+      "title": "NC AI Lands Korea’s $34M Agentic Enterprise Mandate With Gabia as Live Testbed - Tech Times",
+      "summary": "Tech Times 报道了「NC AI Lands Korea’s $34M Agentic Enterprise Mandate With Gabia as Live Testbed - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NC AI Lands Korea’s $34M Agentic Enterprise Mandate With Gabia as Live Testbed Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWRyLWZ3LUtXdzhwa1o2Y0tFZ2FnR3FWMFBadjBPMjBFWDlBaWpJOE1HdWhybDFDMUdZbWJmZ0VRM2tEcFFick5fd0hiQmdoNkozM1hRVXlvQlNHSHkyaUhBUmNYV3hrVUxzME9OX1VNbjBKVWZxcTZkLVdjeURZNWdwZUdKTEFBRnpvR0pGS1pHS3JRQlVRRzE1djFtS2hDVW5GWlRtVWZVbE5yN2VDRG1veDZSdXFZczU2LV9NNTc?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-08-02 01:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 106.0
+    },
+    {
+      "id": "a4c9c8646c221067",
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud - VentureBeat",
+      "summary": "VentureBeat 报道了「How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckNzVkwtaDlHTENrZG5TdnlMRV9WZjhSVVZVOGZRcDIyTklWMk1tS19ibjlTVWgzektoa0VURXZtNzBHMXZlc25XcEVHX1hoa2lSbFFwZU81TnNFMzVRNnRPTUh4eENqbno3T2hhZElPbzNTV05KdW5yaW90VWFQcTlONlhOU0txYkx3LVJtYVdSY2RXYWpJd1RFR1lnS2ZXV1pYUXpCcWhxQUlESEVUZE9vMERCZWt4TFE4cEhzS0d6Q2tKci12eFpicw?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-01 03:20 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "0d0c40e51a02bf5d",
+      "title": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service - Morningstar",
+      "summary": "Morningstar 报道了「Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service - Morningstar」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rimini Street Launches Rimini Govern™ for AI to Deliver Comprehensive AI Agent Governance, Security & Interoperability as a Service Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWEtZTE5tSUdOQkptUHQ4bkdSc2pTUHQ2bVVRWVdkZWl0d0dMczFfOWdOb0JKZUM4NHpjd3ZKYkJmSTRET0hvQzRpTGNnanQwNFdWQ19tMlFuZzJhS2RvSmh5bmlrbmNZajdxMkhvZnprd1h3d2ViVW5NMnExN3RKTENQekZoQ2tDcUEtNXVQd0xfbmNKNWgzTThVbk9HSGtwSWwwekl5UGlobW9lS2p6RXR3MU1YSm45a01INUFxSHNGN1NqNFVWOTA4OHVoQk5Md3VLUVBwd1h6R2tLQnk4Qks3bkVSWWxyZDFhOGRhNVFremdjdDc5WGVsODVfbmo1UGp1aVpxd3BvZlRHQTVsRUN6NmN1Qi13?oc=5",
+      "source": "Morningstar",
+      "published_at": "2026-07-31 12:52 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "5a556b04c5d1949c",
+      "title": "Autonomous agents are a new class of security principal - Frontier Enterprise",
+      "summary": "Frontier Enterprise 报道了「Autonomous agents are a new class of security principal - Frontier Enterprise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Autonomous agents are a new class of security principal Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1FWTjQzRmdDTGp5UUdkYURhc3Y1SEVLSXhIQkVpXzZ5VEFHa1lncVF3aWljLTJTUnpFc2I1TGF2QWplVWlCQWNHVTk1bk5nMk9tbW40Q2tTMk11aTZQdExBdmFJR1ZhMzkxc0ZqUV9Za2gwWXFQQkZ0eEZTU08xV193UTVOSXBzMDc3cXh6UXpxeGo4X2hV?oc=5",
+      "source": "Frontier Enterprise",
+      "published_at": "2026-07-31 13:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "55ad54433a1b31fc",
+      "title": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade - HackerNoon",
+      "summary": "HackerNoon 报道了「From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade - HackerNoon」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "From Generative AI to Agentic Enterprises: Designing Autonomous Decision Systems for the Next Decade HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS1GX3VnX2ZLMlo1MTVkR3A4TS1BeC1GaGI5d2pIUklxNzNqcVdGVGhMUXhwcGs5RjFvRGlZSVIxalpNSUtrZlFSOWhFYk51ZTR3TlAxdURrVGNIZHJNV3ByTHMzb3pWMmJkLXRzM2FNQlh2UkNObnRHTFdaNTNIR2lIUnZBcElGNmRSNGN0MC1KVFdBS1ZJVVZQd0hHRnE0Mnc4MzV5V3ZfR2FON3VaWFlwTFZjc2VDT0QxMVlWTQ?oc=5",
+      "source": "HackerNoon",
+      "published_at": "2026-08-01 16:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
