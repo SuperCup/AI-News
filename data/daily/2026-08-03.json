@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T12:49:27.032159+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-03/",
+  "image_path": "assets/daily/2026-08-03.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3fe70f5fca587b5e",
+      "title": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent - Towards Data Science",
+      "summary": "Towards Data Science 报道了「I Replaced a 15-Minute Booking Process with a LangGraph AI Agent - Towards Data Science」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent Towards Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0tiUk1wUEE3bzJkSVplUkZzUUl0aHYtR3VSX0ZmSWxGMGI3TnlDMXlxSFd0bEFlRTkwU1YtMG81SDdQbFdFbndObVRrOWExMGNIc05Mc0JhN0hha2hBZnRXenNybzEtTkFHOW0wLTZGLXZkYURlbmNCQ2lQd0lBVzdBSUdkNDg5WjFXUnh3d1pqdU5IZ2RiSTNfeE8?oc=5",
+      "source": "Towards Data Science",
+      "published_at": "2026-08-02 21:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "35696958e39a57e0",
+      "title": "头部大模型力拼“降价开源” 企业级AI部署有望加快 机构：AI投资重心或向应用倾斜 - 财联社",
+      "summary": "头部大模型力拼“降价开源” 企业级AI部署有望加快 机构：AI投资重心或向应用倾斜 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "头部大模型力拼“降价开源” 企业级AI部署有望加快 机构：AI投资重心或向应用倾斜 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb05yTFRzRVZaYlR2UlJRNlc2N29SR2dseE5sSFJQa0ZtQVhSMlRqSXdwQWlXMTc4RU11dlB0SVY5YWNVcV9QUA?oc=5",
+      "source": "财联社",
+      "published_at": "2026-08-02 17:58 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "490afc5b08c9cdc6",
+      "title": "科大讯飞亮相2026世界人工智能大会：开·云app官方网站入口如何重新定义AI场景落地-TGBUS - tgbus.com",
+      "summary": "科大讯飞亮相2026世界人工智能大会：开·云app官方网站入口如何重新定义AI场景落地-TGBUS tgbus.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞亮相2026世界人工智能大会：开·云app官方网站入口如何重新定义AI场景落地-TGBUS tgbus.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzX2NCLXE5eVNoSVIxVzVEdXdpNE5fTzZJb1JXNzJmSTFHUld3Z2FaeWJxTDJhWUU0ZEF3d2dKWVhiQlNxSG0yN0VDVzFpTXc1czBSWC1OZExyQ210?oc=5",
+      "source": "tgbus.com",
+      "published_at": "2026-08-03 01:00 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ec7f033fda5c43cb",
+      "title": "MINIMAX-W早盘涨超6% 机构指H3多模态模型成本优势将有助于加速商业化落地 - 新浪财经",
+      "summary": "MINIMAX-W早盘涨超6% 机构指H3多模态模型成本优势将有助于加速商业化落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "MINIMAX-W早盘涨超6% 机构指H3多模态模型成本优势将有助于加速商业化落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamdZbC0wVlMtMnFITWc4dWdqYWJRemxfVHRvRFJZdXNOdTJMMXdYNmdMS1hndUhyTmpkOUFzeW9icENoYnMxc29lUmtMcTYyTThkWnNLUmdqVVhHcU01cnZXbkNabGk0c3VnZWVudkliTFAwemQxazdjekRueXA2THplUVZaWmxtNTZlYnZVb1diQU9ZNFE?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-03 10:02 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a9d229e06048b9dd",
+      "title": "美团“等灯停表”正式上线即日起在全国20城落地试点--经济·科技 - 人民网财经",
+      "summary": "美团“等灯停表”正式上线即日起在全国20城落地试点--经济·科技 人民网财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团“等灯停表”正式上线即日起在全国20城落地试点--经济·科技 人民网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pMmZDZXdYLW9PR2VhRFZkYVpmcGZYNXRhYmUxYVlicnBCS0I0S1dJczRZZEpONTNvcVoxblE3eUJVcWtmRWNLQXN4eVRjU1VOdmJIMFRURFNheS0ta2pOTG5kdml1SXIwc0lhSE1R?oc=5",
+      "source": "人民网财经",
+      "published_at": "2026-08-03 08:43 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b9e3f88dd1e98304",
+      "title": "Claude’s AI Just Killed OpenClaw Metz - Lorient (yyrvVPb3L1) - mshale.com",
+      "summary": "mshale.com 报道了「Claude’s AI Just Killed OpenClaw Metz - Lorient (yyrvVPb3L1) - mshale.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Claude’s AI Just Killed OpenClaw Metz - Lorient (yyrvVPb3L1) mshale.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNNmFUd2dRR0xTQVREbndFUXZwa2NWQm91U1ByUElwRm0wZV90TDdTTDZybGxFdzRrbVNYRW1HWWZ5NVZMNENDYkRKWG1WYVBjWHhBZlptemJmaFk?oc=5",
+      "source": "mshale.com",
+      "published_at": "2026-08-03 01:26 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "ba136ed13a366a74",
+      "title": "Agent Box packs surprising AI muscle into a compact mini PC - TechRadar",
+      "summary": "TechRadar 报道了「Agent Box packs surprising AI muscle into a compact mini PC - TechRadar」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agent Box packs surprising AI muscle into a compact mini PC TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWjBQdGRzT3FCbUJubDgxaVFOLWV4b0lLZGo5TkszdEpYOUN2cmgtd2ZFRnQ4LUVETFFTaUdYeE51c0ZnM3c5VjFyd1BSV3kwNW9ITTF2UjVsdFE5Q2RMbnQwT0g5R0lUNkZvOVB1azZSQUk4WmZTcEtGdWZUaWRza1hVbHROZU90WF9VcTlGT2JqOG93LUhjcGVnRm9LNjFRQVh0QWVBV1BuWVZUTlY3cG5NTnE3eE8zVHZaajVvOFJPNnNhUGc5c2JkYlNNRjFVdmptN2Z3RHJqYmg0cWpabzlXM1NGUGhYOUlpalJGWms2TU5WMXhKVGtB?oc=5",
+      "source": "TechRadar",
+      "published_at": "2026-08-03 02:05 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "41364db6db8860b7",
+      "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier - Interconnects AI",
+      "summary": "Interconnects AI 报道了「Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier - Interconnects AI」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Moonshot AI、AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier Interconnects AI",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LeWFtSnhpUW9yLXMzRWI5SDM3bms5SE12aEZOUnRlRUtBX3FKUmY1RTVBRXRtOVJTSjZnbzVzZVlJa0NKUE9hcVJDR01vSmlLNXVqNVdHbUs1bjhyS2gxNnA0UF9NZHZqOFdfbDBTOGpmUlpQ?oc=5",
+      "source": "Interconnects AI",
+      "published_at": "2026-08-02 21:01 +0800",
+      "companies": [
+        "Moonshot AI",
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "ca11b0a157b8baaf",
+      "title": "Future of CX: Part 8 – 7:40 PM — The Customer Who Never Contacted Us - CX Today",
+      "summary": "CX Today 报道了「Future of CX: Part 8 – 7:40 PM — The Customer Who Never Contacted Us - CX Today」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Future of CX: Part 8 – 7:40 PM — The Customer Who Never Contacted Us CX Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0ZOeHhDeVVRNnJaQ01JbEUzaEE1UV93aXB3ckp4MmZmQUlsYUl1dHQ2SksyOTBBZnEtend4Tjc0VFRFaVRLbFFCUUtUZUxESzZrenFUbEZDaDU5VzBacUJBcUxKWWxLbktqNE9IMGN2amEyWGI4Nld6c0dRUGhlUUZndDFZTVpFcmRtTTZvQi1qWUJ3VjlNekVnRU40bGM5cHFKRHV4VWdONmc?oc=5",
+      "source": "CX Today",
+      "published_at": "2026-08-02 14:15 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "1f336072b083b91e",
+      "title": "便宜90%！美国企业偷偷换上中国大模型 - 新浪财经",
+      "summary": "便宜90%！美国企业偷偷换上中国大模型 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "便宜90%！美国企业偷偷换上中国大模型 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQLV9UdTZPdHdJWUpQWTNnUzNpVzJHcDdOQlJpb1BudVR3NkNQMlFZR2hwbE9pNVB6eGc4dl9PTDdaYjNHVGZoY1otVVBCb0JFdVpwTFFHakpiUkFRaUhVcGUxOFZCb1hTeVlSSTROUlF2V3B0dEgxTWdTcVFuYmpzeUhJSHFRNlNXN0ZhWkV5VmFHak5MLXBwdDZIZktyaXRReVlIQVZlcVFQS0xxcVVFaVlQYmxCTDlpcTVHdm13bmt5VGowV0t6UEp5VU1VVXI3TlpKcGl2N3JFc2I2dVhja0tDTV9LWWh1QXJTUk0teV81b3dwbXpPOHRidlVmSVZvckEzNkRMUWNsalB6TzdGOUlTc3hrTHhxMVlTZUZ6aHFyZw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-02 03:07 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "cb48d1a375df91d4",
+      "title": "Humanoid Robots 2026: Mass Production Boom, Real-World Deployment Myths & Future Industry Insights - 36 Kr",
+      "summary": "36 Kr 报道了「Humanoid Robots 2026: Mass Production Boom, Real-World Deployment Myths & Future Industry Insights - 36 Kr」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Humanoid Robots 2026: Mass Production Boom, Real-World Deployment Myths & Future Industry Insights 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PSlpDVXU5SWc0Qklhb2o3R25telVwUUgtTnFVSUowRGQ2YnY1Yl80bHFTelRkUHp4cFVTTmw3MUs1Si1ncTZ0OGF0dTBQckFQc2VN?oc=5",
+      "source": "36 Kr",
+      "published_at": "2026-08-03 08:41 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "25b299c4a8a74bbd",
+      "title": "Klaviyo’s Composer: A Major shift for Autonomous Marketing Execution? - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Klaviyo’s Composer: A Major shift for Autonomous Marketing Execution? - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Klaviyo’s Composer: A Major shift for Autonomous Marketing Execution? The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtNWDRYZ3UxTmZiZk9vNi1tTnJ3WnV3aWtTNXU2RENuT0JOMkJUNF8yemtYQWFmempwSk5WUDRMem94bnpXZG40eURoVFVpTjFxSXZqdXNlZ0JTMld2dk4tTXdLeHlOUDZ0aXpKUzhpRmpiZWMwTzV5cU9yRExmQmlyM2d0azAzRDdMcmJSajBpY1VCalRNQnhrdVdrTUdBQWRn?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-08-02 22:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "8d694c4926ccc7a1",
+      "title": "AnyMind Group launches AnyAI Agent to help enterprises transform marketing and e-commerce operations with autonomous AI - AnyMind Group",
+      "summary": "AnyMind Group 报道了「AnyMind Group launches AnyAI Agent to help enterprises transform marketing and e-commerce operations with autonomous AI - AnyMind Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AnyMind Group launches AnyAI Agent to help enterprises transform marketing and e-commerce operations with autonomous AI AnyMind Group",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwMi1DRDZZX1pyUnAwX2YyYzd0UFZYTVNtMkVYaFF6NkhpRDVpWlh0MVI3OTBFVGNINWFXTG1ydzVkN0h3UmtNRDVEbnNRNHRKUF9TUlB4cmx4amhJa1B3R0xWaGxvX0V0U1M3Nlo0cGZnR2JUM1E?oc=5",
+      "source": "AnyMind Group",
+      "published_at": "2026-08-03 08:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "b9d95397b74f59c8",
+      "title": "Former Palantir and Torq veterans raise $8 million Seed to secure the rise of AI agents - calcalistech.com",
+      "summary": "calcalistech.com 报道了「Former Palantir and Torq veterans raise $8 million Seed to secure the rise of AI agents - calcalistech.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Former Palantir and Torq veterans raise $8 million Seed to secure the rise of AI agents calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52cjNJWXpQeWdfVEVtMVN1Mk1WblNhckhnWkpRWFJDZTVDS3hWYnd5ZXdqdmthXy1zV2xmOHdKUXM4N09jT0FFV0RpQXY0TEFiQWZsYV81TlVHbVJxWDVGaV9iM0VXQ2pm?oc=5",
+      "source": "calcalistech.com",
+      "published_at": "2026-08-02 18:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "61c13a5b546f0562",
+      "title": "Christian Kleinerman, EVP of Product, Snowflake: Future belongs to organizations who can give AI the trus - The Times of India",
+      "summary": "The Times of India 报道了「Christian Kleinerman, EVP of Product, Snowflake: Future belongs to organizations who can give AI the trus - The Times of India」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Christian Kleinerman, EVP of Product, Snowflake: Future belongs to organizations who can give AI the trus The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNOEl4czdWVjBlVmNOUk95OFMzNGg2NXMxTjcwLTU1b3MzaEFoSV9VME5vNi1LX3ZFU3doX0xDaEVCWU02YkR4ZVBPRk9xWVQ4bTgxbW90TVZ1NzlQVV9UTlpoV0Q0SXNteWtYel9VWTctaEF3WEw3WUdYakJBaWd5SUJack1OYnk4SUVZeV9YTjlLbC1CYW1PQzlfQ0NBNHNjOUhRWTJ4am9YOWVpeGJaaC1iV01pYXlMXzduMjdmRVF3ai1jSHBfWkZGbHZPSGsyYy1KakY4NVJqQnRVTE5yeWctbExyQ0xLMVBFcFRjQjZDRFo1Q1dGVnFjSzhvUW1TbFpsbUswUnFFRUk4NW9vc3h2alBOczZfSzNSXzVLemlvS01PZXh1UXQ3eTRlWFVa0gG2AkFVX3lxTE1JaEZBSEdfQjlyLTJzZkliRjV5emNiSEJBVi1mdlRicDFEWGdYRlU0RTJ4MnlrTmd0S0xudTNfY0lhaDNzSllxSTdmSUdVU3VwaHIyTkdJRDQ2LVQxcUNQd295SExOZ09IVWJidTFRZWNFcUh2TWEzeW5jNC05YnhOaDYyZkpVdFl1eFBxNUFPeDB5bEJTRWZicHdPTUxxVHpRdU14VkZ6LXVQdW9aenZxdG5fa1pwanlVMi1LV0xseGZjUWUtWFR1ZmpHQW1QNEloYmpvM2w3WFdBNkZOeFBEcWtKVjNEcElVRV9Ha2hrcDZkcENFY2pYRE5nSjNSR3RscTRyRzhmZXRrelFsRFI1SXJvQ1pkLUNmaDNJQ29ROGJxWjdqUHFZS1l4ZkZ4elI5VDZNc2c?oc=5",
+      "source": "The Times of India",
+      "published_at": "2026-08-03 12:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
