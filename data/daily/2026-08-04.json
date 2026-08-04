@@ -1,0 +1,346 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T12:33:08.001317+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-04/",
+  "image_path": "assets/daily/2026-08-04.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3971472cc7024532",
+      "title": "The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership - VentureBeat",
+      "summary": "VentureBeat 报道了「The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTE2VmF4U3dYVVlKanR3RGlUVWVmQ2YybUY5bWJtMWd1SHJrOXNCbktpQWFqV3YtR0Y4c3cwcUpTNW9qbTRxQXB2YVR3cTFfODRJM0c2SEJxbkpRYXdYcm9SbUJMVE5STGs3V3RrbHB4MFdWYnpFeWJkRzFQV2RJQ3JuNnFwTGhGTFlaWnU0bzRxZlFvR0IwcjhHa1pUUDE4a3htZmowLU1ZcDNGNkNFdmpPbXZWN1N6TjI0YXFrbmlKck1xeFItcE5jTFdFUXdvd0FJYTByV3lqMGtsdGo4WA?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-04 05:40 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 164.5
+    },
+    {
+      "id": "d73ed4dc044f74e6",
+      "title": "Google DeepMind Exec Says Unprecedented Capex Is Actually a Bet On ‘RSI’ - The Information",
+      "summary": "The Information 报道了「Google DeepMind Exec Says Unprecedented Capex Is Actually a Bet On ‘RSI’ - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google DeepMind Exec Says Unprecedented Capex Is Actually a Bet On ‘RSI’ The Information",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkJSSHpfRlhfd2ZSdVJ0N3lfSHFPbFpwVjBWMW1rYjNUNmJUOHVEd0V0Q1hRWU91TzNYeEppbmNsRVE4Z3VTUGExRTlkQ0lFX1pVNHFBS19OWEtYaV81SFp3am1uVHVDSmZJZnlFTzBRdVlTOHAxRk9kYnQ3UmhZdWxqclRRYmtTbWVvT0hlbmFRcS1udFpzamxhVkh0QmpFRkRqZWJhOEM1NWNtbnBXaXRzYjNLdw?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-03 22:01 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "38fabfc42db5481d",
+      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model - Engineering at Meta",
+      "summary": "Engineering at Meta 报道了「GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model - Engineering at Meta」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model Engineering at Meta",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEdtcE82QVZjWDN6RkFHYkwxRlN0cnM0Vmo3d25VWlhXc0FIS2NlVzluVllZMVQydVdVVDV3a0dzZ2lTY0F1NDBHdWhRSExNaTVwdG9MRnc5UEN6OFEtLXg3QUVIbzcwT3VQMFhaeUhIZlhISVZOLUdsRTJYMURNLWxtb0Rsdzk2QUhRMm12ZkFfUVptNDNtbFlkazZaRkZEemp3ZDNEQllQeWJncURQR2FJNFFhWFlFdm55TTlB?oc=5",
+      "source": "Engineering at Meta",
+      "published_at": "2026-08-04 02:04 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "0518485e004e5cca",
+      "title": "Zenity raises $125 million Series C as AI agent security startup accelerates global expansion - calcalistech.com",
+      "summary": "calcalistech.com 报道了「Zenity raises $125 million Series C as AI agent security startup accelerates global expansion - calcalistech.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity raises $125 million Series C as AI agent security startup accelerates global expansion calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qdUF4bW5xbERQREdxNExQSU1QX2RIeld0bXJudlJBMTlGX1BPWXpic2k0ekpTT3BTcUFMa3VjN0VidUtGQmlWQ0NxMHpWYXVtc3hMMFpWOG1FSUg1cXVWTUVBdjJabm9w?oc=5",
+      "source": "calcalistech.com",
+      "published_at": "2026-08-03 21:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d363edb02a7877e3",
+      "title": "China-based hacker employs DeepSeek in autonomous threat campaign - Cybersecurity Dive",
+      "summary": "Cybersecurity Dive 报道了「China-based hacker employs DeepSeek in autonomous threat campaign - Cybersecurity Dive」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、DeepSeek、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China-based hacker employs DeepSeek in autonomous threat campaign Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHk2YzBweHZGbEwtYTJxUWI3cVJ3MXg5R0htbFF3cDA2S1NqVThZRVM3dzVZbGVoVmExeHFBOGVYa0F5UGEzVVBzWndNYlZJTVA4MGo2b1ktOGdVWjZmQV9tZWZMaVVBcEIyWkcyLUtyamdURzRuSGtpOG9NSXZudXlCU3c2YWVmRHRKelpB?oc=5",
+      "source": "Cybersecurity Dive",
+      "published_at": "2026-08-03 23:37 +0800",
+      "companies": [
+        "Google DeepMind",
+        "DeepSeek",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f2118b234500e464",
+      "title": "猛增20倍，百度搭子想让企业敢用AI - 风闻",
+      "summary": "猛增20倍，百度搭子想让企业敢用AI 风闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "猛增20倍，百度搭子想让企业敢用AI 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOMXZNbmdDNi1rZTZSWW1hbElldlBXbDBJSUo2N2JvRHBpR0VRdkJIbkRDSUtsaTc2RXlqSzdBZ1kwZ1pkeW1nVS03T21yWTJUOWNZZUhkeTFNMU0?oc=5",
+      "source": "风闻",
+      "published_at": "2026-08-03 15:29 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "974a296eab5194b2",
+      "title": "这一届中国企业家，彻底变了 - 金融界",
+      "summary": "这一届中国企业家，彻底变了 金融界 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "这一届中国企业家，彻底变了 金融界",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84XzZJRmJDLTJpaVdoZFoyUUNqZDJlRzRhX1h1dHhxUFlDR3BscFlIdUZHUVJDaTdNTGZ4em14aTc0OFcydVd0cUpDWGROTWhVOUxFRVNseW43ZzRzMUF6a3dDaw?oc=5",
+      "source": "金融界",
+      "published_at": "2026-08-03 19:40 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "18a10592cc888fcf",
+      "title": "老厂区改造成智算中心，汉江湾人工智能产业园引来头部企业 - wuhan.gov.cn",
+      "summary": "老厂区改造成智算中心，汉江湾人工智能产业园引来头部企业 wuhan.gov.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "老厂区改造成智算中心，汉江湾人工智能产业园引来头部企业 wuhan.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjSHBxU01oeUl0NHlRaVlXd3FGOTFVUWs4QUF2MjJEWXVETkFBb0FUbGQySDlReVMySnZxMzFDeTctRFZqZE1zT1FQV3k2M2twdzdUZVBUd1RObDM2ZGtBU0xKWXlMYjl5ZlBjazA0MFdWeklxY0NOWE4wSQ?oc=5",
+      "source": "wuhan.gov.cn",
+      "published_at": "2026-08-03 10:28 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "7b3e8965fd5b300c",
+      "title": "科大讯飞亮相2026世界人工智能大会：欧博官网如何重新定义AI场景落地-TGBUS - 电玩巴士",
+      "summary": "科大讯飞亮相2026世界人工智能大会：欧博官网如何重新定义AI场景落地-TGBUS 电玩巴士 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞亮相2026世界人工智能大会：欧博官网如何重新定义AI场景落地-TGBUS 电玩巴士",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMzJtV3ZQU04zWjNIb0pZZERzSmI4bUZxOTJlRlpPYl8tTE84YzdYQlVGM3I1T3V6aFpTVzVESEtRUldFTmNzUFJhZ1VBVmhLWnk1N0ZFYkJseXRX?oc=5",
+      "source": "电玩巴士",
+      "published_at": "2026-08-03 01:27 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "dbe34ef3bbac577c",
+      "title": "头部大模型吸金35亿美元，具身智能与AI安全成新焦点｜融资周报 - 霞光社",
+      "summary": "头部大模型吸金35亿美元，具身智能与AI安全成新焦点｜融资周报 霞光社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "头部大模型吸金35亿美元，具身智能与AI安全成新焦点｜融资周报 霞光社",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BUUcwVS1IQld5MFNub1pHVllkN3M3VDh2UFdoSVh1a0JzaXRnTFJQVUZ2S3B5SGdza2dqekpYTmdhTkl1?oc=5",
+      "source": "霞光社",
+      "published_at": "2026-08-04 07:56 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "ac09557a441c8eac",
+      "title": "Zenity raises $125 million to expand AI agent security platform - Ynetnews",
+      "summary": "Ynetnews 报道了「Zenity raises $125 million to expand AI agent security platform - Ynetnews」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity raises $125 million to expand AI agent security platform Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qX1NFeEwtTWFFM2RTMTNqNGdSanZ3YUpVYXU0X0JWalN3YXBLM0FxQjhsVHVneHFXMUk3Tmh2WXNKbHZxdk90R0kyRVE2YWFpOXFHbTNxdUlQYzNXd29WcTBrNA?oc=5",
+      "source": "Ynetnews",
+      "published_at": "2026-08-04 12:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "fa30add6ec335c08",
+      "title": "Zenity Raises $125 Million Series C To Expand AI Agent Security Platform - Pulse 2.0",
+      "summary": "Pulse 2.0 报道了「Zenity Raises $125 Million Series C To Expand AI Agent Security Platform - Pulse 2.0」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity Raises $125 Million Series C To Expand AI Agent Security Platform Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzBVYlduVHdnc1Q5ZG9DV3UxUDd1cmVXR1BBWHZkc200bFRNV0hPa1BudnN3cDh6bmxkY0VndjBFcTVqOG1PTER1Y0daSTREUzFVV3gybm9OM2N0VnN5Q0JwSkhWRlRtWWM0SVlLa04wOWRKaEdQbjNJX3dRX0ZBdndfNU5TVFp2TjNRLWFCdE02NXRNRXfSAZsBQVVfeXFMTjZsYkJxYTZoa0p1WjZwMWY4em9DdjBKY21sZlgzS1dIOEtzUE9aX2Y2XzNFMkJWeVVuYnpXeUtsVFJHUUdWOEpKSGR3RmlDd2lJemRRblY4T0ZaT05kdnpkSTZfMFRnaE1WUUtkU1A2TGVVbWxUeWUxcTBjRUxOWnREUW1LcXQ3MW5HMzk4LWx6akRPbTN4YVN3ZHM?oc=5",
+      "source": "Pulse 2.0",
+      "published_at": "2026-08-03 22:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "4a745d687e386e8f",
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) - SecurityWeek",
+      "summary": "SecurityWeek 报道了「Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0llLWVkRjR6QjNGOHc1Mk94SzVpbEJ5MUFrNXYwOFZRajUyUGZwTlFRNzlDZ21JNndnLU1XbkxpY1BKWlNFQng0THdLV3J2bmtCR1pyT0ZQRXBpLUo1RDdLQ3JBbmttR0s3LVgzaFRadGdUQ3pRcERqY21mN2l1SmVhalUyTFhMcmRYRXhTd2dLMWRURXfSAZYBQVVfeXFMTldJZS1lZEY0ekIzRjh3NTJPeEs1aWxCeTFBazV2MDhWUWo1MlBmcE5RUTc5Q2dtSTZ3Zy1NV25MaWNQSlpTRUJ4NEx3S1dydm5rQkdack9GUEVwaS1KNUQ3S0NyQW5rbUdLNy1YM2hUWnRnVEN6UXBEamNtZjdpdUplYWpVMkxYTHJkWEV4U3dnSzFkVEV3?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-04 00:07 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "9822267531e5b5db",
+      "title": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents - Unite.AI",
+      "summary": "Unite.AI 报道了「Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity Raises $125 Million as Enterprises Confront the Security Risks of Autonomous AI Agents Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2owMEc2MGQ4Z0NwVDM4UTI5dldrS3Vva1JkWGQ4RjRVVkxpTElqYVJLRWp2QVNoVHAyQUN3UWYtcEhaSnFrdGIxc041WVJ1OVdjdzMyUUQ2dGNuUDRXaklYR2NSc1pzTHRLMFBaVmc4cG54MllpaHNpRXRyZVdCb3cwUTBjSjkxOUFMNllYVmp3bmJzLUZzLUVLSXdLVm5TdVpRQmt4dmFoME9ldGlwWkswX00?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-08-04 00:59 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "360c60b888fbc129",
+      "title": "Optimizing your B2B brand for autonomous AI shoppers - MarTech",
+      "summary": "MarTech 报道了「Optimizing your B2B brand for autonomous AI shoppers - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Optimizing your B2B brand for autonomous AI shoppers MarTech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvcEVrOEZ1aTZBQUtkOUpUUHdjUE5hMnV2TUtUTmt5WjI1cTVBSkVuUS1KVjRIcE5fclVueldMUlhrZlVlRU8wQVM2MFdRVnAtTlpkMHBUX2FUVkplNTF1MkxGZmh3cnNKT3Q5eHE3S2lhOVgzWDZ3Y0pBODRDdw?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-08-03 20:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
