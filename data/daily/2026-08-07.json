@@ -1,0 +1,346 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T12:04:17.368787+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-07/",
+  "image_path": "assets/daily/2026-08-07.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c56a914501b758eb",
+      "title": "NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index - Counterpoint Research",
+      "summary": "Counterpoint Research 报道了「NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index - Counterpoint Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index Counterpoint Research",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUhhQnZpd2JGQlRzMnlyd3Mtcks5VzNrZ2hEamFlT01ST2cxa2RnVWRvTlNBN3ZzTUJQdkdxZXE3cDJGTEEyaFMxYzk0UXVGV0xROWplVkxTV3d0MzB3V1piWFNBbVdLS1ZVb3pkTmlkN1hEcTh2S1hNRjhiWXQ5UTVFa2p6QkZWX3FGeXZQMHJjVlhZRUR6NUd1NXFfMnU2R3E1MUtDVlZDcVZKMUFJaWlPOE42X0lXTGVtTGFnSVZ6TVZObEpvUmtyUVlTUQ?oc=5",
+      "source": "Counterpoint Research",
+      "published_at": "2026-08-06 13:47 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "6d98c088227f8ab7",
+      "title": "光联世纪携手华为，以AI重塑企业安全组网服务｜直播回顾 - 中华网",
+      "summary": "光联世纪携手华为，以AI重塑企业安全组网服务｜直播回顾 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "光联世纪携手华为，以AI重塑企业安全组网服务｜直播回顾 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xb2tFVnE1Rll4N29ORER4dDA5dVo1RFJjeWZyZENONHhaMlhHdi1CN0ZFNE1hRll6R1NwUC0wd2FwMHl1UzZra2QxSnlvZXJ1cHJ2SGtNTnNyMmd2NHpGMktDd0VkOXpYQUF1WA?oc=5",
+      "source": "中华网",
+      "published_at": "2026-08-06 17:11 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "260dd6b0dc1b1c6f",
+      "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas - TechCrunch",
+      "summary": "TechCrunch 报道了「Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk5oUVNOY2s5bXl0cEp2dktQODJ2X283ekZqbHlaZFFvZ05uZXFuUUVfcll1ZzRxd2tMTmQ4RThWaXIxQWpkZENza3F0N3pQNzJjMXpjWGZYMUh4bnVUYUpCeEdvSm5PSzkxdEpuZ1phVEp5NnVTRnU4YzdkVFdWbTdud0xuQ2ZMT001V3drY2x3ZUw5ekJwcUxLUXFrVGtjNkxUVWtJUEFwWjlUS1h1NXR6LThLMjFH?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-06 23:21 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "ec19080560266ce4",
+      "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information",
+      "summary": "The Information 报道了「A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A Meta AI Model Hacked Another Company During Cybersecurity Testing The Information",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-06 06:18 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "70f8e8e7a59ac96a",
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory - The Hacker News",
+      "summary": "The Hacker News 报道了「AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory - The Hacker News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkl5MnZFSWp6c3QwWjBKdjFrdkhzTmxNN2R2eUo3Q0ZLd09MeHJ3MTJ2Y1F0cjViT0JESFF1NUNwWF8xal9sdDNpM3ZiZWMtM0h0VFpCb2o1WkdKdjFxR1FNdEJaOG05SXR1UldfZ3lvbTdjZGJCa0lZa0pydTdXWUhwaw?oc=5",
+      "source": "The Hacker News",
+      "published_at": "2026-08-06 19:30 +0800",
+      "companies": [
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "6523d0973109717c",
+      "title": "China's Open-Source LLMs Have Quietly Passed a Hundred Billion Downloads - Pandaily",
+      "summary": "Pandaily 报道了「China's Open-Source LLMs Have Quietly Passed a Hundred Billion Downloads - Pandaily」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China's Open-Source LLMs Have Quietly Passed a Hundred Billion Downloads Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkMwUHB0a2x0S2ZrckRLRXVDY21Sd2F3ZWgtTzNUYVJRblZMSVZkSDhFNTFjbENGTWVwMWpZTEhUNUI5djg1T0VWdTlYOGF5d0JmeHpqQTJGRmhnTzlLcnJNT1VBVFNTczdxbjR4YzR1bEoyVlU1YzdWWTdrSk1uMWM0MXVTcnNJT2JwRDJn?oc=5",
+      "source": "Pandaily",
+      "published_at": "2026-08-07 10:21 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "82b54dc2e77f0168",
+      "title": "从Google I/O 到百度 Create 2026：头部 AI 企业集体布局智能体，DAA成为新度量衡 - 富途牛牛",
+      "summary": "从Google I/O 到百度 Create 2026：头部 AI 企业集体布局智能体，DAA成为新度量衡 富途牛牛 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从Google I/O 到百度 Create 2026：头部 AI 企业集体布局智能体，DAA成为新度量衡 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6aUR2SUxQU09qRW11YTlnUWhJY3h5WC11Q2lYOHRfaEJTWlYtbkpUdDdCNjRiSk5tVUJrLUR1aTJkRWZpSDl4TzBSakhZVE1QOEE?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-08-07 08:31 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "471ccd3ff30eac59",
+      "title": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 - Huawei Enterprise",
+      "summary": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 Huawei Enterprise 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 Huawei Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1BySkVqVUlvbjZzdmlPR1JPUkF5M3dYLW5kdXhxM2FjZE9GbUJYUm1OTWIxVG91YklXVjJ3Sk5USUtIaVR4Zk5PTWZQZmNwYXVneUYzenhGSXh3WFM1S01GRXA4cUVqSzNvSEJkRUFjZHJ1RjhRb3ZwNTl3VnpvZ2w2QXNuZjlJSG1OSlI3cXFpV1NaZG56Q0JTa3JlODl3SFEzbA?oc=5",
+      "source": "Huawei Enterprise",
+      "published_at": "2026-08-07 03:20 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5d07a5f6cc8f8d78",
+      "title": "讯飞星辰智能体平台，入选艾瑞2026「企业级AI Agent卓越者」 - 品玩",
+      "summary": "讯飞星辰智能体平台，入选艾瑞2026「企业级AI Agent卓越者」 品玩 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "讯飞星辰智能体平台，入选艾瑞2026「企业级AI Agent卓越者」 品玩",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUanFOQXVLbElaRG0tdHptMGxTV1lNVnVNR09weG5ZaVJRSzNNQVZLeEtHNFFyWTJDWlR2TWxhNHRlSzNtZmJQcA?oc=5",
+      "source": "品玩",
+      "published_at": "2026-08-07 11:00 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "803de2d7a4189c78",
+      "title": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 - chinanews.com.cn",
+      "summary": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 chinanews.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZTQ3VURqaWE1aFRxYkp4Y3RGODVRc0ZEakc2RjhHRjVVRHlnWlBDNFVFMmhlX3RiRGVUSTZYSDliRkJpcUE3S0JXZkw3RjllUmxfQXhPSF9DcGwzd2hlM1RpY3NsRUF5?oc=5",
+      "source": "chinanews.com.cn",
+      "published_at": "2026-08-06 21:54 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "510a24e76029e9d8",
+      "title": "Agentic AI Security Market Size & Share Report, 2026-2033 - Grand View Research",
+      "summary": "Grand View Research 报道了「Agentic AI Security Market Size & Share Report, 2026-2033 - Grand View Research」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI Security Market Size & Share Report, 2026-2033 Grand View Research",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEJQR05ZcW1uU0djYWxiX0hCb1R2RHVEcHloS0NLQXlUUy1Fal8za3JNaWVXV3dKX1A3UGxuYzFTZVU4Z1I2b0xGc2FiUWx4cEQ5ZUFOM19talcyaFc5OF9LdHludzM0T1RPaHBVd1AxVG1vbUppakVOT1dXU29xUFRPZnRONUdhNEU4X3pR?oc=5",
+      "source": "Grand View Research",
+      "published_at": "2026-08-06 20:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper",
+        "safety_security"
+      ],
+      "importance": 106.5
+    },
+    {
+      "id": "7f4068eff53d002c",
+      "title": "As A.I. Agents Gain Authority, Governance Becomes the Primary Constraint - observer.com",
+      "summary": "observer.com 报道了「As A.I. Agents Gain Authority, Governance Becomes the Primary Constraint - observer.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "As A.I. Agents Gain Authority, Governance Becomes the Primary Constraint observer.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTktrZmNxRTh0V01JeWdqbkpMaGxXUlBLMTJfUmlEUGpBN291YV84NUxDZXJHZE9ib2o5ZjFoRU1mdTdIaDh3bWdoZlNzdks5ZUJjSVJ1cWxiN1JfY1BPV0NvQ0t2Nkc1aFZXLTNSNEZUNC1FOFJPajR4WllEcFpoZFpIdHM?oc=5",
+      "source": "observer.com",
+      "published_at": "2026-08-07 02:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "cb48471c2063a73b",
+      "title": "Dreamforce 2026 puts the agentic enterprise on trial in San Francisco this September - MarketScale",
+      "summary": "MarketScale 报道了「Dreamforce 2026 puts the agentic enterprise on trial in San Francisco this September - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Dreamforce 2026 puts the agentic enterprise on trial in San Francisco this September MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON3FtRmdUNUgwSG1jVjEzR3Q3OFFrVTBsX1Z0bld3TmdCUGstanZwbGxLN0RmQ2l6LS00XzhXejZlMGt6Z21NWk5zZDNBRlRVcVVIOEtCT3dTWXZSZUdqSTE3RGx1dVBUUlJxU3ZrYnRNWnRaVGtOSDFJSGx3QS10bmlqX0RiRDBrRGxOSFVKVHU5Z0ozMFJnOFdqd0xmYjNkcEVDdEVRa3ZtQ1BxMUNobHdaaGlsRkV6bEhVNlFhNUs2bHdnOTkwSkNPN1JXZjJaa29weTZQbTJpNjdlTTNkeA?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-08-07 09:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "5ad30b4549ed26bc",
+      "title": "OpenClaw use cases: 25 ways to automate work and life - Hostinger",
+      "summary": "Hostinger 报道了「OpenClaw use cases: 25 ways to automate work and life - Hostinger」相关进展。 该消息涉及AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenClaw use cases: 25 ways to automate work and life Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zc1pDS1ZIdjJIWERrNnpuNEJ3bHFDTmZwZnVwM09QUWJpcVVRcF9PWU1ZVHhVcGE3OUtpU3FRa3lQNnpNUWV5NlJYUURPLWkzTEkzLXlDaXNfVFlFeGtpZkFqTVBCZw?oc=5",
+      "source": "Hostinger",
+      "published_at": "2026-08-07 01:47 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 89.0
+    },
+    {
+      "id": "e5198d2b1f0176c2",
+      "title": "Black Hat USA 2026: Security Vendors Go Agentic - Virtualization Review",
+      "summary": "Virtualization Review 报道了「Black Hat USA 2026: Security Vendors Go Agentic - Virtualization Review」相关进展。 该消息涉及AI Agent、AI 产品、大模型、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Black Hat USA 2026: Security Vendors Go Agentic Virtualization Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm9VbEdSeGExeUFCMEh4bUhKSTNvV2NTeE5kWGU2VXhuOEZSR3V3cmZhR2dxWW9VVzZLZ1BMYlQ3WlZuQk15blVYSTg1UGtKREtVVFp0RXdXemoxQnJBaTNleklrVGtjX0w2aTJsWS1GSEFNS0ZRWHk1ZmdxYkhyaXlBcGl5aGprUUR4dTcxaG1XOUpUdTl1ZHNSekJwZ2hremFYN2l4OA?oc=5",
+      "source": "Virtualization Review",
+      "published_at": "2026-08-07 00:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "large_model",
+        "safety_security"
+      ],
+      "importance": 87.5
+    }
+  ]
+}
