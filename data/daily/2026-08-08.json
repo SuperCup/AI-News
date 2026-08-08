@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T11:01:15.148712+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-08/",
+  "image_path": "assets/daily/2026-08-08.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c56a914501b758eb",
+      "title": "NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index - Counterpoint Research",
+      "summary": "Counterpoint Research 报道了「NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index - Counterpoint Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NVIDIA Dominates With 92% Share in Counterpoint Research’s Sovereign AI LLM Index Counterpoint Research",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUhhQnZpd2JGQlRzMnlyd3Mtcks5VzNrZ2hEamFlT01ST2cxa2RnVWRvTlNBN3ZzTUJQdkdxZXE3cDJGTEEyaFMxYzk0UXVGV0xROWplVkxTV3d0MzB3V1piWFNBbVdLS1ZVb3pkTmlkN1hEcTh2S1hNRjhiWXQ5UTVFa2p6QkZWX3FGeXZQMHJjVlhZRUR6NUd1NXFfMnU2R3E1MUtDVlZDcVZKMUFJaWlPOE42X0lXTGVtTGFnSVZ6TVZObEpvUmtyUVlTUQ?oc=5",
+      "source": "Counterpoint Research",
+      "published_at": "2026-08-06 13:47 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 152.5
+    },
+    {
+      "id": "6c6e17d7d66566f1",
+      "title": "OpenAI delays next-generation AI model over 'critical' security risk - 헤럴드경제",
+      "summary": "헤럴드경제 报道了「OpenAI delays next-generation AI model over 'critical' security risk - 헤럴드경제」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI delays next-generation AI model over 'critical' security risk 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MLW50akszN1RJLTF0aXFoY0JqeHZfRE1femFzN241R2wxNUFlNnVHZXlvQWdqeWgzOGdBS3hXbUpkZHNTRWxmdG1kTlU4bTl0SUJKdVJ5Zw?oc=5",
+      "source": "헤럴드경제",
+      "published_at": "2026-08-08 07:37 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "2315dfd7946e716e",
+      "title": "Nvidia’s open-source alliance seeks industry input on AI safety controls - AOL.com",
+      "summary": "AOL.com 报道了「Nvidia’s open-source alliance seeks industry input on AI safety controls - AOL.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia’s open-source alliance seeks industry input on AI safety controls AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUJnVklhZFY1SlBKeDJpbnM1bVVlb2xKbzd4TFhycXZ2T0dMa1lxVnN5ZVRWbjRlMloza0g4MjR5UnRtclZHRnVsakRvNU9DdTFUSVFBcDFLb0c1ZUdUZEszVEJPbVZXYW1ZeFZYRUJpVzBXZXRFSUhvQko2QnpVYjd5NA?oc=5",
+      "source": "AOL.com",
+      "published_at": "2026-08-07 23:17 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0d515b0d05cce80d",
+      "title": "Retailers tap AI shopping traffic but fight to keep customer data - Reuters",
+      "summary": "Reuters 报道了「Retailers tap AI shopping traffic but fight to keep customer data - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Retailers tap AI shopping traffic but fight to keep customer data Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-07 18:11 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3b3c3b025e0e5271",
+      "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street - SecurityWeek",
+      "summary": "SecurityWeek 报道了「In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXpyajBVTzliZ3N3TlRJcDcyR0NrZGlhTnRVYTIxRnhUZ3V2NzZ2STRHMlhIX25yelBxY1dYWVJibDN4dVplUTRWblN1ZlV0Qmx2SDdpSmlsa1g2cHF6bjBDTTRjbUhTNmw5WHdjd3hLNTV1X0xOOUJsenExdm9DNWtlVE1zbHdPRXg2aC1iSzRRVDRwYTlWajhvSEZNZno5S1I0ejlfREU0RWhKM280UEJSTGVMUUE0Q1JPOEEtSGdkb3B4U0ZZ0gHMAUFVX3lxTE4wYlh0a19SUXhLMFQ4aWZkeG82YV83VjN1QVBLNzVxMUZCczB0RlZPQi1kQTRZVktsMjRLVzZ1ZzFmSTdpV1dnNHlNMm9oSHQyZUx0Ri1CZmRmNVIyVkI5LWpaYW1BTlJHRXlUTGNXaTl6ak1ESU1BTXFQVVh5Q3hrY3NkSFNuY2ZhX0Z2bFdzT2V3X1k0TW1MQWNGNnRTVnBDUTVLZjBtSWRmd0hSblE0YXNMWVdacXFMczYtbmZLTnEtNjJxY25mbE43dA?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-07 22:26 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7bf82fe4e999aa13",
+      "title": "卓特视觉正式携手 MiniMax 共启企业级 AI Token 服务新纪元 - 中华网",
+      "summary": "卓特视觉正式携手 MiniMax 共启企业级 AI Token 服务新纪元 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "卓特视觉正式携手 MiniMax 共启企业级 AI Token 服务新纪元 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtWkJEUjJuVzkzSWRTcEctTUJMSnlvR3prSWpWUmRLc2JHUVVQQ1ZGc1NpbXF6Vk9JNTJ5Nk91UGFtX3RNV2VHMWZlSGxWbmwtUWtxU3B3ZENQTEE5YkFaVU1VV215NTZ5dWpHRQ?oc=5",
+      "source": "中华网",
+      "published_at": "2026-08-07 15:45 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0d8f6c814d327c3d",
+      "title": "再中标国家能源集团招标项目 科大讯飞 FDE 模式验证产业 AI 落地闭环 - 搜狐网",
+      "summary": "再中标国家能源集团招标项目 科大讯飞 FDE 模式验证产业 AI 落地闭环 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "再中标国家能源集团招标项目 科大讯飞 FDE 模式验证产业 AI 落地闭环 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVFkOE42WlNCa2M3VnNVMkJjLXBQTlRhcTNOeHZ2ZGhUYmZxUmVxeXFod1BjNUlvSjFlN0ZKbThxR1N6RC1Mdmg0MzVwcXk1YXRpOG5CU2pWQWtURkpmTlowcEtQeTZZMTJWUjQwMW5zQmhQWWh6aklxc2hobElkdWVSSWY1UGpH?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-07 22:25 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f8a64a267f658573",
+      "title": "华为与科大讯飞进一步深化合作，“昇腾”+“星火”加速大模型应用落地 - news.futunn.com",
+      "summary": "华为与科大讯飞进一步深化合作，“昇腾”+“星火”加速大模型应用落地 news.futunn.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为与科大讯飞进一步深化合作，“昇腾”+“星火”加速大模型应用落地 news.futunn.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ibVVPdGUxcGY5b3pmdUtOMy1hSmh3TlAwT2FmN3VXRjFyRzVxeC1FSGVmbURnTEs0QzV4QWU1U0lIdVRaNXptMDVaSmpLZzJNVnc?oc=5",
+      "source": "news.futunn.com",
+      "published_at": "2026-08-07 22:01 +0800",
+      "companies": [
+        "Huawei",
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "de7bed387161c03e",
+      "title": "推动人工智能应用落地 寒武纪上半年业绩倍增 - finance.eastmoney.com",
+      "summary": "推动人工智能应用落地 寒武纪上半年业绩倍增 finance.eastmoney.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "推动人工智能应用落地 寒武纪上半年业绩倍增 finance.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdzQ1a3I5dzE4X2lIeWR3RDNoY0RSUm9iLU9YeFFhT3NfbXgzOVZyWEdrbC0yaTE3Z3VGX1U5RGdMNEE3eElVRzVJaHFvVER3U1ZJYzFPSFRRbHRfV1pNQ2loZThuZw?oc=5",
+      "source": "finance.eastmoney.com",
+      "published_at": "2026-08-08 03:12 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "471ccd3ff30eac59",
+      "title": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 - Huawei Enterprise",
+      "summary": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 Huawei Enterprise 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "湖北交投：\"荆楚·行\"AI模型为中部交通数智化保驾护航-华为企业业务 Huawei Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1BySkVqVUlvbjZzdmlPR1JPUkF5M3dYLW5kdXhxM2FjZE9GbUJYUm1OTWIxVG91YklXVjJ3Sk5USUtIaVR4Zk5PTWZQZmNwYXVneUYzenhGSXh3WFM1S01GRXA4cUVqSzNvSEJkRUFjZHJ1RjhRb3ZwNTl3VnpvZ2w2QXNuZjlJSG1OSlI3cXFpV1NaZG56Q0JTa3JlODl3SFEzbA?oc=5",
+      "source": "Huawei Enterprise",
+      "published_at": "2026-08-07 03:20 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "aee526778d4b142f",
+      "title": "MSSP Market News: AI in security hits two big questions – revenue and responsibility - MSSP Alert",
+      "summary": "MSSP Alert 报道了「MSSP Market News: AI in security hits two big questions – revenue and responsibility - MSSP Alert」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "MSSP Market News: AI in security hits two big questions – revenue and responsibility MSSP Alert",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3pxTG1nZWxOZHZtaVFjZ0FDb0ZscHEzUFZIVk5RZ1BWWVJyWVR2TnBicmU1dWpHNGVycjNfOGE5VWlDbHp3V0lyVmxhT2NYdEROY2FnLWpUZkRENVp4dnNSeVkzMFpnUVNqNU4wSWxKUV9sUThIMW1NWkVwYnZ3SnFRb1dCT01iS25CT1k0Y3RxLW1XZDF4NkhzemZLaHZuVV9yWmhycUdFTnI2VFV6U2FtcVhZTEpfdk1z?oc=5",
+      "source": "MSSP Alert",
+      "published_at": "2026-08-08 01:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 96.5
+    },
+    {
+      "id": "e5198d2b1f0176c2",
+      "title": "Black Hat USA 2026: Security Vendors Go Agentic - Virtualization Review",
+      "summary": "Virtualization Review 报道了「Black Hat USA 2026: Security Vendors Go Agentic - Virtualization Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Black Hat USA 2026: Security Vendors Go Agentic Virtualization Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm9VbEdSeGExeUFCMEh4bUhKSTNvV2NTeE5kWGU2VXhuOEZSR3V3cmZhR2dxWW9VVzZLZ1BMYlQ3WlZuQk15blVYSTg1UGtKREtVVFp0RXdXemoxQnJBaTNleklrVGtjX0w2aTJsWS1GSEFNS0ZRWHk1ZmdxYkhyaXlBcGl5aGprUUR4dTcxaG1XOUpUdTl1ZHNSekJwZ2hremFYN2l4OA?oc=5",
+      "source": "Virtualization Review",
+      "published_at": "2026-08-07 00:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "73832673a810c0f2",
+      "title": "The Rise of AI Agents in Enterprise Workflows — Global Case Studies - Nasscom",
+      "summary": "Nasscom 报道了「The Rise of AI Agents in Enterprise Workflows — Global Case Studies - Nasscom」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Rise of AI Agents in Enterprise Workflows — Global Case Studies Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWJCY21YcEZ3ZExHeFp2S0I4b2FGLUYtRWRGSlNfZlNHWkNqRENKVnFGT0tWRGdMemtpamN0RzBuU0ZBNWVQZjJfWGFjd0FBRGxhV3J4Wmprbk9iVFV4Yk9mU2QtN2U4a0FPWHBKS2F3dUt0azdaRFdTM0VLeVdHdEwyMEJ1U2IyTEFvdkVRb2tBdGxBdE1IaGRWVGprMExWUzR1YWxNM28tZw?oc=5",
+      "source": "Nasscom",
+      "published_at": "2026-08-07 19:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "a2abb561fa178d62",
+      "title": "An AI Agent in Production Does Not Mean the Business Has Changed | by The Ai Consultancy | Aug, 2026 - Medium",
+      "summary": "Medium 报道了「An AI Agent in Production Does Not Mean the Business Has Changed | by The Ai Consultancy | Aug, 2026 - Medium」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "An AI Agent in Production Does Not Mean the Business Has Changed | by The Ai Consultancy | Aug, 2026 Medium",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRlMHJoU0ZBMmdjWVdSSW1selpWRmlBdFJWZ3gzaHlIS2FQeHBzZldMaGlWUUVSS0lmSlBVU2J0VDAtMWRtZnNhVVdkMTRWNnRwSDR5VkpaZE9XSV9KVGR6dHJjYkVJeE5VX3RkV1BJOWlXWGg4S3ZSNTR3eU9uYTBJZmZyWUxCWWpWWkFZSEhnVjJVZUl1NzhUNmI3RjR2dU9DbXVBQURfUQ?oc=5",
+      "source": "Medium",
+      "published_at": "2026-08-07 15:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9779329d0592e2a9",
+      "title": "AI Engagement Analytics Platforms - trendhunter.com",
+      "summary": "trendhunter.com 报道了「AI Engagement Analytics Platforms - trendhunter.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Engagement Analytics Platforms trendhunter.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2SkxjRmRVbzluTkRCZmhVMXhIczVWX3JpeWdpWnJDWC0xa1dTV09OazZFQy1VM0sydHhJLXRHYlRWemNXR2xxcEYxOGIzeU1lU2ZSUWN4bjdlbWZyU0HSAV5BVV95cUxQNkpMY0ZkVW85bk5EQmZoVTF4SHM1Vl9yaXlnaVpyQ1gtMWtXU1dPTms2RUMtVTNLMnR4SS10R2JUVnpjV0dscXBGMThiM3lNZVNmUlFjeG43ZW1mclNB?oc=5",
+      "source": "trendhunter.com",
+      "published_at": "2026-08-08 05:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
