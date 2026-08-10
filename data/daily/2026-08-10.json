@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T11:19:21.935522+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-10/",
+  "image_path": "assets/daily/2026-08-10.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "492b442b8ad3140d",
+      "title": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 - 凤凰网科技",
+      "summary": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPWXFqREhKX3l3bHNBeE9IeEp5Zms2VmtMeUJEYWd6cDZOelh6cHNiLW9iMkdEdEhXYXJkNE9sSERkOVhVc2txcnpod0M?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-08-09 08:32 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "51699975d94b745b",
+      "title": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUtRdE1LcGU0RXFLcFZxV1R1NGROdmdpSDI3SnFSWFZfeVpHWUllNm42UDRxMlpNdlVsLXl2aTZqQUZuajlQanNrWXE2cG5fY0NCZUlXanlIWFZrcTUwcU5wZGk2eno1bjJUVS1jRmUza2xSMXJtMENXVkFFeTE5QXIyR1VyV0J4LUJsTHJJQmdueHVVQ0YwcFZrRXh0RzBacjZiUHhvRGlVNWZGekRwTWl0cTgxU3JqQTJJUQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-08-09 16:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "1e32d34f8ee9c636",
+      "title": "OpenAI Halts New Model Rollout Due to Security Worries - pymnts.com",
+      "summary": "pymnts.com 报道了「OpenAI Halts New Model Rollout Due to Security Worries - pymnts.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Halts New Model Rollout Due to Security Worries pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjAwQ1RpaFA5QUlhN01jcTlzaGF0cHJxa3pfclozZVdzaV9UTkdZWW8td09hNUd6TkpVbUllTHVCdmtQQ19BaUkzVUJXUnZqNVdqMlJPZ2dTekRGN2lwa3hyUzNhVTFQTHZaeUtTak4wbTg3dzF6S0ZyNjdnZ1dkME5PZUZMSUFpZzlyWHNxNXZ2RlZ0U1A3S0Faa1l5MDJGZ0d1QldaWS1KZUhKVU92V2xn?oc=5",
+      "source": "pymnts.com",
+      "published_at": "2026-08-10 06:20 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7a97d2a5bf0256ce",
+      "title": "OpenAI’s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity - Technology Org",
+      "summary": "Technology Org 报道了「OpenAI’s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity - Technology Org」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI’s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2hRajYySTRxUnY3Y0c3RThvR0g5TzgzQWI3dE45bEQ1UjhGVXV1ZGxXY1NDWGJxeVhyWlFBeHZLYmhMcUNKOFZyVWU0ZWF1RURNb1hTUVg3dUQzWDJCSllZMkJhOTU5RnNFRVljenNXN0tRQ1JaN0I4WXExUng1RFNwaGZsaURVNUNwMkwwRjROVElkbUtGNUp4d25BcmRwazdFRGZESTU5amV0MDZqSHVNbGNiWWlDV09sclZ5OEw1SkpsN2hGTmU0azI?oc=5",
+      "source": "Technology Org",
+      "published_at": "2026-08-09 15:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ce88407d7a388ef0",
+      "title": "Broadcom (AVGO) Is Up 9.9% After AI-Boosting VMware Security Upgrades For Private Clouds - What's Changed - simplywall.st",
+      "summary": "simplywall.st 报道了「Broadcom (AVGO) Is Up 9.9% After AI-Boosting VMware Security Upgrades For Private Clouds - What's Changed - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Broadcom (AVGO) Is Up 9.9% After AI-Boosting VMware Security Upgrades For Private Clouds - What's Changed simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVk1RMk1IMDRNdFM4eUJYeXZLNnZiUEtXdWVkdnNsWFdfYXhRNzEwS2hGTzJzSnFkNnQySGtNRkU5c0JLb3NnVmVKSXZCSEU0c2QtbHFnNXo0SDRRZnV4N1hwbXNGbmJMWVlFUC1KckxDNTR0cmZjMm55VzAzTF9EMl9ENExEZU1qQzk4RWs2RDkzemFUTFp0RzB0Y2hSV2FRbkJkTG5OeWF2YnJEMjBTQWNmbHI0NUthV0ZJaGd5dC1xbjBQUHVNYW5nX2I4d9IB0wFBVV95cUxOQTlFSUJFUGFLdmZ0MExmX2luYUIxMlNnRWR1ck9TbGMxRVhEcnJCRF85RURibXY2Z3M0T3FFdGVrZDR0TWNPRjY0MGJUalRUOG91RVZsT1FydldJVU5wUERPekhvWkNVYktDV2wyNzJnOWNxTjZQTGxaSFZoTFlhaFY2UGFXMDhURFRSWDl1SlNiMXFyNF8wRTVnRWs3cDRXVDV3WVlWb1dmdFg5OXJlRXU4Rkx5bVM0TjV6U3gwTTJEODlKTkdNakpxUk1PNVJVSXRV?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-08-09 22:33 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "867c1750215c4d2d",
+      "title": "苏宁易购腾讯云达成战略合作，聚力AI应用产业化落地 - 新浪财经",
+      "summary": "苏宁易购腾讯云达成战略合作，聚力AI应用产业化落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "苏宁易购腾讯云达成战略合作，聚力AI应用产业化落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWhyOTVQeEQxaFpYbDRhNHM5cXUybS1PSE4ySTFxV3k3ZWtkQmVEa0FkWlFMNS10bDY0cWVWZFowN1NBdTJSZVZVUVZQODdtelY5TFprX04yZFVuamdVWDFhSmVVMlJUQWlZRGpUVkNDS0pEbURoQmN0TWhFMWVSODlRcWx0MTNnYW5iZnVhdnpPbkJUZjd6b2ZlaTNMdHp6NFhBeFNUNlpjb1pfWDNZZFRR?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-10 10:26 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e08285aa8fa3541d",
+      "title": "智赋千企·数拓全球 | 天扬AI新品发布会广州启幕，AI 赋能外贸企业全域出海 - 中华网",
+      "summary": "智赋千企·数拓全球 | 天扬AI新品发布会广州启幕，AI 赋能外贸企业全域出海 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智赋千企·数拓全球 | 天扬AI新品发布会广州启幕，AI 赋能外贸企业全域出海 中华网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByQXZNLWswNjRqNmFwdEVPMURBTTlRdnZKU012NFE4OVV0eGJYUDlYek1UQk9iUmZUT3l1cHh5UW13aEFUTG1VTjZaM1RxVGJxN29KaHE4MkRsZk81Wnc?oc=5",
+      "source": "中华网",
+      "published_at": "2026-08-09 11:52 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7ed1f4304fd3f5d0",
+      "title": "智能互动 Agent 在快手商业场景的落地实践｜AICon 深圳 - Infoq.cn",
+      "summary": "智能互动 Agent 在快手商业场景的落地实践｜AICon 深圳 Infoq.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智能互动 Agent 在快手商业场景的落地实践｜AICon 深圳 Infoq.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhbEk2MEJQeGJldk00WTExU0pLSDUtbmtRVmxVRng2UF9OQXhGX0xhejZmRjM0bEFvUWwwRjRxd19ZZjhfeUJNLXdtSTRTMVlOTi00dU94WXhqYXRzOGc?oc=5",
+      "source": "Infoq.cn",
+      "published_at": "2026-08-10 10:04 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5fb984ba3527ca96",
+      "title": "Amazon names 34 researchers for AWS Trainium Responsible AI awards - EdTech Innovation Hub",
+      "summary": "EdTech Innovation Hub 报道了「Amazon names 34 researchers for AWS Trainium Responsible AI awards - EdTech Innovation Hub」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon names 34 researchers for AWS Trainium Responsible AI awards EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDlpQjBoX20yYU44MVNsTlNfMHZSd05DcUNSendwdVRsZVRZdTBnV2ZFRVBwQVhnY1VHNi1YczlHN09DRW9aYTNNRWRQQkxLN0h3OThqWmhCNmhickI2blVzQzFRaFJmOWp3TS1jdWVPVXp0NEp2MUltdWxqZE53SVJqQldndjRieDNCWnpxN2tGMXZaTE1Md2IyWnltSnBCQzQ5V1F0LTB2bWM?oc=5",
+      "source": "EdTech Innovation Hub",
+      "published_at": "2026-08-10 08:30 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "9ecb5a0692dfe154",
+      "title": "卓特视觉正式携手MiniMax 共启企业级AI Token 服务新纪元-AI云资讯 - icloudnews.net",
+      "summary": "卓特视觉正式携手MiniMax 共启企业级AI Token 服务新纪元-AI云资讯 icloudnews.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "卓特视觉正式携手MiniMax 共启企业级AI Token 服务新纪元-AI云资讯 icloudnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OOXRxWEM0XzhJT0YxNUthd28ydEUxWGpmazhzVnkyRlBKRHpHdWh1alNLV0QwVXRLUE9kb3pwOW5ZSWdsSDFhazdFbk10UXdnZHc?oc=5",
+      "source": "icloudnews.net",
+      "published_at": "2026-08-08 13:44 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "905633093a029f72",
+      "title": "Brain Corp Reports 68% Growth in Global Deployments as Enterprise Robots Log More Than 5.3 Million Autonomous Hours in H1 2026 - AOL.com",
+      "summary": "AOL.com 报道了「Brain Corp Reports 68% Growth in Global Deployments as Enterprise Robots Log More Than 5.3 Million Autonomous Hours in H1 2026 - AOL.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Brain Corp Reports 68% Growth in Global Deployments as Enterprise Robots Log More Than 5.3 Million Autonomous Hours in H1 2026 AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWDVrZ0w1aDhkQmFCTDJGdE11cGdpQ2hsWkhOVWRucnlOYzNCaEVqNnptWThtQ2tRSklfaHJ5cmtrZXNsZzJvN1U5S0hmRi1oWUZFbTJSSDE0emNzNlJBU2ZTdUhRU2xCUjlVQmRtZEpTYU1Ibjg4TG1jTEs?oc=5",
+      "source": "AOL.com",
+      "published_at": "2026-08-09 16:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 106.0
+    },
+    {
+      "id": "526490a8fcc38bf4",
+      "title": "Schreiber Foods Brings Agentic AI Into ERP, Food Safety and Global Operations - ciol.com",
+      "summary": "ciol.com 报道了「Schreiber Foods Brings Agentic AI Into ERP, Food Safety and Global Operations - ciol.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Schreiber Foods Brings Agentic AI Into ERP, Food Safety and Global Operations ciol.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3lLZmRGNmdZSW10dWpyVjBtMFpLYk9QemtxS1d1R1VSeEstODJsYjRaM1lYSDUwZU1NUjl5S1I4WEVYTUVjbXVzSnBrdmJBV2VBWGUtVTJjZkVfOEktRTdpUFBsbVFPOW1uOEJSYTJmM3ZfZXZVWXhxVEtRSmpJR0VDbmxnNGJ6RGU4ZWttUDc5QWhOVTM1b3I0eU5ZR21faFUtVkVxd1YzZVgzRnc2TtIBsAFBVV95cUxOd3lLZmRGNmdZSW10dWpyVjBtMFpLYk9QemtxS1d1R1VSeEstODJsYjRaM1lYSDUwZU1NUjl5S1I4WEVYTUVjbXVzSnBrdmJBV2VBWGUtVTJjZkVfOEktRTdpUFBsbVFPOW1uOEJSYTJmM3ZfZXZVWXhxVEtRSmpJR0VDbmxnNGJ6RGU4ZWttUDc5QWhOVTM1b3I0eU5ZR21faFUtVkVxd1YzZVgzRnc2Tg?oc=5",
+      "source": "ciol.com",
+      "published_at": "2026-08-08 20:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "442dca040530cedc",
+      "title": "AI Agents For Credit Managers - Trend Hunter",
+      "summary": "Trend Hunter 报道了「AI Agents For Credit Managers - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents For Credit Managers Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Xak1VaUJMT3pTWTVMZ2tkbW9Tbmx3MkZVcFk4Wmt3V3l6R3RGYWg1a24yaHRYQUlmeWhIM202LVFGYzJPb01fZWFLeXZpX183Nm1jNE03UnBRekXSAVtBVV95cUxNV2pNVWlCTE96U1k1TGdrZG1vU25sdzJGVXBZOFprd1d5ekd0RmFoNWtuMmh0WEFJZnloSDNtNi1RRmMyT29NX2VhS3l2aV9fNzZtYzRNN1JwUXpF?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-08-10 04:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e2ba612f51da3353",
+      "title": "AI Incident Investigation Agents - Trend Hunter",
+      "summary": "Trend Hunter 报道了「AI Incident Investigation Agents - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Incident Investigation Agents Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44X193VDVxbDB0WHBKSUFDemxwNi02aUZzSkRhZVFuT0JqOHQtM1VHbDc1TG5jRUR4R0Y5eWkyYzl2V05ZSERyNW53M2VwSmRwRmJLMDJuNEYwSGFuQWhQRtIBYEFVX3lxTE44X193VDVxbDB0WHBKSUFDemxwNi02aUZzSkRhZVFuT0JqOHQtM1VHbDc1TG5jRUR4R0Y5eWkyYzl2V05ZSERyNW53M2VwSmRwRmJLMDJuNEYwSGFuQWhQRg?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-08-10 03:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "11d24418ff76484c",
+      "title": "Hyperscayle Launches Scaylr RevOps AI Agents Suite with Unified Command Center for Go-to-Market Teams - markets.businessinsider.com",
+      "summary": "markets.businessinsider.com 报道了「Hyperscayle Launches Scaylr RevOps AI Agents Suite with Unified Command Center for Go-to-Market Teams - markets.businessinsider.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Hyperscayle Launches Scaylr RevOps AI Agents Suite with Unified Command Center for Go-to-Market Teams markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ01yc3Q3ZmVGTFVlNDRFVDluQmZydHRWSWx4a1F6NkJNMU1Zbmo3R2V4WnpJZ2duWjQtVXlGRzBZLW1UTmM1Y2UxZktrWV9OUWlvRmk1WFF6Um80YkxnZ2QtQkY5S2dwR3hqUkJ5UDRTdGpObm5aaUlMcGpHYUZnTWN6VS1zaHVzOHVUTi16cnEyV3pUaTJnVUsyOUU2VU93d3Q3MEhvSmJQV1pUWXEzWGFVbjBjWUJtem5nc0NRQmIwV3h0MWxISE1sY1hodnM1b3pXOXNyZjZOdkFBSEpjWFdneDk2eGcyTEotU0dRWUNQZw?oc=5",
+      "source": "markets.businessinsider.com",
+      "published_at": "2026-08-09 00:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
