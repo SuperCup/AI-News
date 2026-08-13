@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T11:33:36.044104+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-13/",
+  "image_path": "assets/daily/2026-08-13.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "15905b81cd358a09",
+      "title": "Why benchmarking AI models in a vacuum is a critical security blind spot - Substack",
+      "summary": "Substack 报道了「Why benchmarking AI models in a vacuum is a critical security blind spot - Substack」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why benchmarking AI models in a vacuum is a critical security blind spot Substack",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5Mk5yX3ZEcVY1bXhvQ1BySlQ1Qy1xMFdWWUVZN0d5MWYza3lqUnFEUXV0bDJYMWRBYVdVRE1NcXFkMU4zc3RzNzF6QTN2UVZKWUNvaDJGTm9ocXpCbnpnQVNGSmNJUVFfdjVuNDg0Y0UwdGdUZnpQN0paTWJ6Zw?oc=5",
+      "source": "Substack",
+      "published_at": "2026-08-13 02:02 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "c0723a5bcbaa7f00",
+      "title": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 - 新浪财经",
+      "summary": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWhzZF82Vk0wUjdFQlhpOC11MFQ0VE9zazBSR0Rya0Z0dm9vS3hqMmpnRTJDWHdhVGxqeTBIaUhtUjA2U1R6WDVodTdkN0s2NkZKQktFNzk4VEQ5WnJ4eUFSODFMOGtxcEJLbkxOa0x6MFpJWHdJX1BwWFpOOXgwVER2NlltMEFobjhQOHlfTEJMZlVHQmtmdjhac3paOFB5bDhtczVBRQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-13 07:59 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ca7752de2a32d088",
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and vaulting to the world's fourth best on Artificial Analysis - VentureBeat",
+      "summary": "VentureBeat 报道了「SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and vaulting to the world's fourth best on Artificial Analysis - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Moonshot AI、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and vaulting to the world's fourth best on Artificial Analysis VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUWtpRDZFQVo3VzJ0OVNFZ0R6RE15ZURGaXV1cmJHYjdiSUhKQVpSWlNxaFdJYmxHeFNXNkVhRjlEZVdjX1Y4OVpwMXppSy15bElCOU1WX3FmdmtRZWJFZ2ViVkhraS1PLUNacWVGbXlPakxYSVRCLXVycnc5TnY3THQzWlNHeFF5aHdNRENVLW5EbExIRDdMTzcwaVU2OS16RWl5ZWJDMlMtcWtpWEVRNlUtNHFQOFRGMHBPZE1XM2ROU1F1bHp5NUxwVXppazFwQUVaMWhpV1Fyenk0M3hpeHc5TzRXWm1CZk41Rk5jQS1nVjA?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-13 01:26 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b88c6e51ed46c25e",
+      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
+      "summary": "Reuters 报道了「EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-13 01:36 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "149330090d70a2b5",
+      "title": "AI Trust and Security Consortium Launches to Set Peer-Defined Standards for Enterprise AI - HPCwire",
+      "summary": "HPCwire 报道了「AI Trust and Security Consortium Launches to Set Peer-Defined Standards for Enterprise AI - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Trust and Security Consortium Launches to Set Peer-Defined Standards for Enterprise AI HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVUJzS2dnaHFLS1p6M2xTaFJKemZoQ09ESkNMNkdrM3h6cjJSN1FtdU5nX0stci1mTkxMby1oV1ctZVBXTnF3cTFfRmNCd2pyN19idXpRaGlhOURfZTdMTzZVRHNDSy1kQ1VLb0RhdDA4Szl0UUViQ2ZiVVZEbnVlYTVkNlpDWTF4dFo1M2VfejNmUi1uTkhXdGlxQ0RISlJEVWNrcnhROWZQcGtXOTkzdDVxVDI5TkFWU09RWXV4d2RfM2hxRzNTQ2taZ2Q?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-08-13 01:36 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "2985bdf96037854d",
+      "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域 - 东方财富",
+      "summary": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZVRJT3M5VDJtQTVRejNFTU4xMktUSUM5ZXNpMkZmaUhDYU8wS0hLUTBLY2EyNHVVdlNBdTdPU3lTbm1oYUhPRmtxUDYtd3NFTEU2ZEJWT0l0WnFDWDhPMQ?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-08-12 14:46 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f56f66bcf5589cab",
+      "title": "阿里云代理商「聚搜云」:国内AI算力阿里云真武M890超节点落地，Qwen3.8-Max拓展大模型应用空间 - 中华网",
+      "summary": "阿里云代理商「聚搜云」:国内AI算力阿里云真武M890超节点落地，Qwen3.8-Max拓展大模型应用空间 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里云代理商「聚搜云」:国内AI算力阿里云真武M890超节点落地，Qwen3.8-Max拓展大模型应用空间 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aRGRIQlZHelp3TDlRbHFXdlJrTWl6TEF3M19BMWNaUXFqRUhlSzZHMFI5eGxMaDRoU19FWDNXQ2V1QWt6SFJvRDQ5UC1idm44ZVZtLUNuZ08tTXZrZVNVVWFpYk9kZXdITGhkaDZ3?oc=5",
+      "source": "中华网",
+      "published_at": "2026-08-12 21:28 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5be9b9c383220ce7",
+      "title": "百度袁佛玉：AI工作流激活产业优势，成都有望成为智能体落地真实产业的重要试验场 - 新浪财经",
+      "summary": "百度袁佛玉：AI工作流激活产业优势，成都有望成为智能体落地真实产业的重要试验场 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度袁佛玉：AI工作流激活产业优势，成都有望成为智能体落地真实产业的重要试验场 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NTGRIRl9tRDk3blFRa0ViMXotVlRKUE9aQ245SDJzeTdCU0UzbjFOM09pWHo2OHlabksyRTFSbWtpR2pHLXROdDVYa3R6TG1valc2eWlBT0dPTTA2TTM2Z3ItRkhaTXFjVERDNWRxeklRdzdBTFQ1YQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-12 21:41 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3586c22c53f85a16",
+      "title": "华为云与滴普科技联合发布数据智能解决方案，加速“行业智能体”落地 - 新浪财经",
+      "summary": "华为云与滴普科技联合发布数据智能解决方案，加速“行业智能体”落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为云与滴普科技联合发布数据智能解决方案，加速“行业智能体”落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUk1xd3JmX2l0OEpQaXpnVGN0ZlV6aTNfam5lTV8tbVd6VXdIRlJKQXRQWTdUUGZsdGRtM1EwQlJKNXJEYnFoMkh2WWNYNWlsZGtKcEVPVnNvUGQ5N2djd01zdzl2aEFsa0lrSGRlYlRBdUpYSFAwSXlIdmQwMHk1eXJoZFhiTDIxS2x2eFV1cnZrV3VPZHNqcGJOTTBUbEx1VHgtbjlLbw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-13 06:29 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "acbbadc21b403b68",
+      "title": "AWS debuts Dogwood to govern AI agent action sequences and rate limits - CHOSUNBIZ - Chosunbiz",
+      "summary": "Chosunbiz 报道了「AWS debuts Dogwood to govern AI agent action sequences and rate limits - CHOSUNBIZ - Chosunbiz」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AWS debuts Dogwood to govern AI agent action sequences and rate limits - CHOSUNBIZ Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52YVFhV2dxOEU0QlZkRFlHWmZiUVhmbzlFaExWZ1hNTmpaaTM4YzhJYWY3dVFzdkZaZVpQaGRsek5LYlI4TVdxM3NKTjRYTlpXMnNVTndOb1E2cDZvOFNueWZXQS1qUm1YVDZ1RkZBTkJjSUplYTR2ZW5B0gGOAUFVX3lxTE4yaU5uVU54ZkNxemYzSVYweWlZZGlzUHRHY1RnZEJsNE9jWlVXeUplUEdrYm9VTkdMcHo2OVpraFFiS1JabjZjS2F3TC1lYTFpY0R1ZGRUOVphQ0NCUHZlRjVQTlAxNVRJZVU5d1c2WTN4NUpSUDJ4WWotZlFTT0djVEV1c3JCbkRXRzdwdnc?oc=5",
+      "source": "Chosunbiz",
+      "published_at": "2026-08-13 10:38 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "c6c40e95bfad90a1",
+      "title": "Tata Communications Commotion: Orchestrating Enterprise AI for Business Impact - Siliconindia",
+      "summary": "Siliconindia 报道了「Tata Communications Commotion: Orchestrating Enterprise AI for Business Impact - Siliconindia」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Tata Communications Commotion: Orchestrating Enterprise AI for Business Impact Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV29hcDZVaEItSmRwRUNKcFpCMkI1cnZMQ05xamdRemlSRXpoWUhPaHVnNV9qVVNTNVF6Mzk5WGpBMVEtVE5kZXAyYzNQS1VJVXFJVGtZaVlXa2hGc1h1bFVGbk9QYUNCWDBUeVROZGw2N2cydEYzX2pUZTFveWRTbEZ3UGVBamlWUHRyTnAybmQ2aU52MkV4dFZFdzZVQzEwZEFNc293U0puQUhsYk1MSlVBeWZGeDNaTGVXdllVMWtJeXR3THc?oc=5",
+      "source": "Siliconindia",
+      "published_at": "2026-08-12 14:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "2a4dc6b5a7010e11",
+      "title": "Zenity Raises $125 Million Series C to Strengthen AI Agent Security and Governance - CyberSecurityNews",
+      "summary": "CyberSecurityNews 报道了「Zenity Raises $125 Million Series C to Strengthen AI Agent Security and Governance - CyberSecurityNews」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zenity Raises $125 Million Series C to Strengthen AI Agent Security and Governance CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GZUkwVldfa2dCU051TjIxOHZ5aGthLUNPMHotempCLU9NdEFjYVduNTh2WjJBNjhxMzVRTURFUTEyUXRrNmpLU0x5UGVVXy1CT2tkWU5TZ0NTYnhUM05sVHBVVHZpQdIBa0FVX3lxTE9JY2RJd3NqZ2JuSjViVU04STBjNUNsZk96SzZaZFhXOE93V3NObmtQVTdFMXh6VGJjcW1IVHpYVVl4YW1nY2RYRHRUUXNSNGVmUGZ2YnhUb1lvbE1SUGE3QXpuTjMwT29kRmdN?oc=5",
+      "source": "CyberSecurityNews",
+      "published_at": "2026-08-12 00:56 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "c4f0c06b9fb2d4d9",
+      "title": "L&T Technology Services launches ‘AgenticIQ’ AI platform for engineering, manufacturing - ET Enterprise AI",
+      "summary": "ET Enterprise AI 报道了「L&T Technology Services launches ‘AgenticIQ’ AI platform for engineering, manufacturing - ET Enterprise AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "L&T Technology Services launches ‘AgenticIQ’ AI platform for engineering, manufacturing ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFlVNnRVZjVVcFpKOXlmZnNxSzJ2NUgxNEI0aW5KbEpxNkxPMDVuYnVEcWdJejRLMXY3QTBOWmtHTHlMTE5fSVBSWXUyYm40M3V4bFoycmVUUzNqdkhpRkg0akdyZFlCVFNYOGZ4c2xUMktOTV9yUFBTRG5ibHVxSTVxTlA4cG5STVRNeU1NN19Vcks2MmNGaEJfeGxmOVkzUXQyY0M4TlJ1UlM2bGplZDlQOUkxNTR2WGpKRjY1MzlmbFVrb1RyczQzSTB3RzJLWkszcmlmeW5HUTFYZTE3WTNXU1VKSGpuOU9wZ0R3?oc=5",
+      "source": "ET Enterprise AI",
+      "published_at": "2026-08-11 14:47 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "f02976735bd02f0d",
+      "title": "AI agents can now chain cyberattacks, but enterprise defenses still lag - MLQ.ai",
+      "summary": "MLQ.ai 报道了「AI agents can now chain cyberattacks, but enterprise defenses still lag - MLQ.ai」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agents can now chain cyberattacks, but enterprise defenses still lag MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME0wZ0RRc0VuRlFSSXcxcG43dzk2OHRnM3ZiTm9RZjFlN05iQkZkTkNvQnNnbGlSYVRSX3ZJWmkzSlJQWjgzODIwU3FwRi1WZVk0RUprOHpqRFhfSHNIdEF6c2ZFakl5Q2JvbnBYOFNOOWF2SVotckxVRkRPWXpaU2FJczhkbi16bDZNbV9oMFRpZXluaHc?oc=5",
+      "source": "MLQ.ai",
+      "published_at": "2026-08-12 19:52 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "ba5de30f11d9fbba",
+      "title": "Skan AI Raises $63M to Scale Enterprise AI Context Platform - citybiz",
+      "summary": "citybiz 报道了「Skan AI Raises $63M to Scale Enterprise AI Context Platform - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Skan AI Raises $63M to Scale Enterprise AI Context Platform citybiz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHIwcnpEUThDVlV1WnYxQUNGOUpQSm9lYXRsUnJpZklSVWRIblNLeVJyLWIwbXpYc1g5T2g0LWNaQ09kc3FNUVNxZ19jTEpuWUNsVHFQbUpKOWRSTEVXazA4dEpRQktvdEsya3EzV0lZX2hKTnJOLXB5cTViNmVReUJmQVJORDVMZUxpSjFfYi1JeDU1VDFocVFxOXBPZw?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-08-12 22:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
