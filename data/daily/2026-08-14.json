@@ -1,0 +1,337 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T11:30:38.185694+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-14/",
+  "image_path": "assets/daily/2026-08-14.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "a06e803ad7c1f8fb",
+      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+      "summary": "Reuters 报道了「EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-13 22:47 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b18e2ae8ac396cac",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs - TechCrunch",
+      "summary": "TechCrunch 报道了「Writer introduces new AI model and upgraded harness to contain token costs - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Writer introduces new AI model and upgraded harness to contain token costs TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUZCTDZPN0c3QTA3Q3VGZ2RYNVZWSmFiZ3JXUjh4RGpDMERNd29OdlJDcFY0S2JtQ3pCcVdITHNpNGhwYzladWdKRGdjUldPU3ctM0lLNFR6OG5YSjNnS0kwaWFXempRRmtFRUtxd2laMXlaUkFJd1MtTjZIcm4zbnNUeUl5cFpDel9SRTdOSk0wcU5JRDlPdGxVUmFnMUxDaXNScExxb3BMdHBITHc?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-14 05:13 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "19379d50ce606420",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously - TechCrunch",
+      "summary": "TechCrunch 报道了「If Apple sends you a push notification alerting you to a spyware attack, take it seriously - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95czRBckJaMXJUbzU5QUg5cFZjemNjY1hjaExZbWZPNmIzUWh0ZVR2bHR1b1Y1Z2sybGtMeGJEWHkwNDdzYTducA?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-14 05:50 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "82fb3e2f8a4ac985",
+      "title": "ProjectDiscovery Brings Open Source AI Testing to Vulnerability Discovery - DevOps.com",
+      "summary": "DevOps.com 报道了「ProjectDiscovery Brings Open Source AI Testing to Vulnerability Discovery - DevOps.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ProjectDiscovery Brings Open Source AI Testing to Vulnerability Discovery DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenc2QXRfWkhXY1d6Rlo5RUhWWEZxYm5QQllibElfSVQ5YXo1TEdaVUdKQzVQX2pJbFZNQkRuVHV5Z29CLXBqVXd6a0w3OE8xSnhSS0p0QWpWSXFqMzc4T1pGZmIxLTNlTkNzUGNiX25sWkZmODRYcDU0TFEybUU2UzliTFlvbmZVdTEyN3ZwQmRTenlyUnU0WQ?oc=5",
+      "source": "DevOps.com",
+      "published_at": "2026-08-14 04:19 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6fd4552c2ad54109",
+      "title": "IBM and OpenAI Partner on Enterprise AI, Consulting and Cybersecurity - HPCwire",
+      "summary": "HPCwire 报道了「IBM and OpenAI Partner on Enterprise AI, Consulting and Cybersecurity - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM and OpenAI Partner on Enterprise AI, Consulting and Cybersecurity HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0lXZmU2dF9sVlRyNTVFT2hBMW9DOGpNRWE5RVBmUWo0U09jTG1sbGk3MkNoQjdjeWlXemVoYjliVm54SlBVTXFRYWVvMjBhX0taOGRjOGg1YVpEUXk3eGVHNGVlNEpJOUFjM2NfanFaZk5xYU1UZURQWkllRUxzQWswcFJoOHhCYkh0V1hQZVpYSW1YbHNoWFM3UTk0VVJOcU0yQWNtR1VXbUhhSzFLcw?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-08-14 01:10 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "cd5175877b62ad49",
+      "title": "乌兰察布为何成AI算力新枢纽？每经实探：阿里云超节点实例率先落地，算电协同未来两年或爆发 - 每日经济新闻",
+      "summary": "乌兰察布为何成AI算力新枢纽？每经实探：阿里云超节点实例率先落地，算电协同未来两年或爆发 每日经济新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "乌兰察布为何成AI算力新枢纽？每经实探：阿里云超节点实例率先落地，算电协同未来两年或爆发 每日经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ESi1LcC1iTUVYZng5M1pjNzQ5UVVXYjRId3ZseWNzYmNobnNfWmtqR1pFU2d1ajF5ZUNucDlOdWQ5QlhZeWJtc3BkODZXaFctQWJvV2F3SzNXeVFkV0hnQUwzS19FUQ?oc=5",
+      "source": "每日经济新闻",
+      "published_at": "2026-08-13 13:49 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "949299ec926d41f6",
+      "title": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地 - C114通信网",
+      "summary": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地 C114通信网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "共建共享，华为云与滴普科技加速制造、零售行业智能化落地 C114通信网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XeVNJQXdZOTZ3TUtVNEFtNzdRY0dpbHhtakEzdXNvQU1rU0d5UERYNDZacVZOelIxVUhKeEFPU0huOUpjd2RyS01Pd1AxdUp0SEE?oc=5",
+      "source": "C114通信网",
+      "published_at": "2026-08-13 16:38 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7efa20f010f5db13",
+      "title": "科大讯飞发布企业服务全系列产品 - 东方财富",
+      "summary": "科大讯飞发布企业服务全系列产品 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布企业服务全系列产品 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83dXJzSENPWDhoY0p6R1RxVVI0QXpUMFZvQkdzM0x3RVdJaFdHanNtcHJqdkJnMjJGMXBRUGlrWXFwc0k0MERhNVBtOFhJRTJFX3E0Z3FfQVIwaGJtcVVZdQ?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-08-13 18:25 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d9062aacb3d87eb6",
+      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景 - Sohu",
+      "summary": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0xDSmlxd3ladjJwYUxYZXh1OGJZLXVTdURvTjJfN0dIX09iWVIzOXB0TXRMdXJMMURRMTZPeXk5b2tkVFprS0VFUXViWDdGLXNsQjRKVUM0WGJxekctNjZ2VlBGWlNyMU9FOTFCZnBlLVBUTUo3aFFJb2ktb3drbW9qZWZqLWZTV0lWYg?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-08-13 19:16 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "efc132eda1109ff9",
+      "title": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 - ah.chinanews.com.cn",
+      "summary": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 ah.chinanews.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "（活力中国调研行）合肥“人工智能+”多场景落地 为千行百业装上智慧引擎 ah.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdzV5ZmU1Mk9zM1Z2ZW1TTE9ER3N1YlBHYVM2N3htLUlHMkZZZjRINjFMUFhEbmxQQ0hzN1ktc3hydmZ3eVZJVEZIbzc0UEpDMS1RWGJ4WTVrckNuSnUtY1ZxcU1BVDF0QVE?oc=5",
+      "source": "ah.chinanews.com.cn",
+      "published_at": "2026-08-13 16:01 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "980c57df640995de",
+      "title": "Why Agentic AI Could Transform Procurement - Harvard Business Review",
+      "summary": "Harvard Business Review 报道了「Why Agentic AI Could Transform Procurement - Harvard Business Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Agentic AI Could Transform Procurement Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1dEo4dF9ieGE3ZE12NkdTS000cTB4M0RPRDFMVmRYSlc2YmpWZW5xQTFzWVA2VDBDUWJOVU9qdkdtSHYyVmtrMlhrLVRNeHc2NUdKdWkySm05eG1sYlFHaUlZTXVIMDE0Z1dMT19fQ1J1a0pw?oc=5",
+      "source": "Harvard Business Review",
+      "published_at": "2026-08-14 06:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "8185b7999b521e69",
+      "title": "6 AI Customer Support Agents Software I’d Consider in 2026 - G2 Learning Hub",
+      "summary": "G2 Learning Hub 报道了「6 AI Customer Support Agents Software I’d Consider in 2026 - G2 Learning Hub」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "6 AI Customer Support Agents Software I’d Consider in 2026 G2 Learning Hub",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aT2hYa1pWV1RfdmRoVHp1cFdsY0U1a1BRbFlUV1FONXpIME95Mm9xX1lpZkp4TVhnNnJ4UGFqNDRsZl9hUGxHTHFaVzJPNk1hUXdOd0lzczJqV0dtaEN6OWx1ZUZXbXFyd3o4bTJ30gF-QVVfeXFMUDhwN0U2U0dHQldiRGlsXzhpZXlMVlZ1ZnpSOHFZQWViWmEzS1R4OEMzOHFFMFVfMWJORUxvY1B2eXNadEM3RkFHbTdoQTZlTTB5YVU4OFZ3dVJJLXhOUWNmQXJucjYxRFhWeTQzWEhBRzJaaVl5Y0JYcm9VVmF3?oc=5",
+      "source": "G2 Learning Hub",
+      "published_at": "2026-08-14 03:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3788251dbaa6bbdd",
+      "title": "Building an Agentic AI Governance Framework for Enterprises - appinventiv.com",
+      "summary": "appinventiv.com 报道了「Building an Agentic AI Governance Framework for Enterprises - appinventiv.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Building an Agentic AI Governance Framework for Enterprises appinventiv.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZnFZY2Y4cnQ0d3VnMUMzY1ExTmlLUHVWdWY1N1JGT2g1VUlXbzk3SzRyU25WNHZqQ1lXWm95d0NvWVNSX1l6bnB4UHFSZ2JxUXRsd19QcHYzNjJTd3pEcFpZc2ZvNzU5NFlsQ3VjczFpSW0teUE?oc=5",
+      "source": "appinventiv.com",
+      "published_at": "2026-08-13 17:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "a015f106d51b0a26",
+      "title": "Braintrust Review on Quasa: AI Observability & Evals Platform - quasa.io",
+      "summary": "quasa.io 报道了「Braintrust Review on Quasa: AI Observability & Evals Platform - quasa.io」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Braintrust Review on Quasa: AI Observability & Evals Platform quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjUwcTZBNWtHZ29GTDdrWjhqV2tsVUMwRW56ajJxNF80VFhjNlY2RnBFcHBmYzkzY2gyNUNhemh3RGRzdTUyZnRPTVFoaXRqbGh2bWJSWXNzWEt0R3Z1S08wd0VfRUpJaVZub1I4dC1OYmJ3VVpqSmczTU5QM01fR09ZQ2xHa0FQ?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-08-14 00:57 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "41aa79d7722832ee",
+      "title": "How GCCs are powering AI-native customer service - EY",
+      "summary": "EY 报道了「How GCCs are powering AI-native customer service - EY」相关进展。 该消息涉及AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How GCCs are powering AI-native customer service EY",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUFiaE0tTUFyWjZLUURXcXdiazltVmF0TWEwaW5CemhzTC00ZllSWmZYMThBck55YktaWHVmSG5Xb3d6VmhabDBtRlBrcjRaV3d5T2J0Q0xGMVNnZ2JfWG82QmxLU2lNbUVyUGlxQk1KWk9OdjRqcmd2d29fcW95M0w3QUhEVWJHUG1WR2J4bG1HMjVNUjVQMEFOc05mZU11cmtWVXNEZzVIYnRWanYzQ1p1d1NSRG1XR3o0?oc=5",
+      "source": "EY",
+      "published_at": "2026-08-13 19:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 83.0
+    }
+  ]
+}
