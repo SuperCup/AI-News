@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T10:27:24.229098+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-15/",
+  "image_path": "assets/daily/2026-08-15.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "e9415f36fa9cc20d",
+      "title": "I skipped the AI cloud subscription by running a local LLM directly on my Android phone - Android Police",
+      "summary": "Android Police 报道了「I skipped the AI cloud subscription by running a local LLM directly on my Android phone - Android Police」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "I skipped the AI cloud subscription by running a local LLM directly on my Android phone Android Police",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGxBalk5UDZ2MkE2ZU5rdVh0R19mVG9GVk55VEhlZDRNVzJ6UDRseXJLM1Q3SWRMYWhRUl83b2picXBiOGxIV2kxRWJCc1Q4cW0zOVFZa01vdmN1dl9nVFVDdE9pd3UwQ3B3T1hFVXRJVVpFV016dTl0UExpTVA2U3JFS1BlYVo2enJlX2dlYl9WNlBTUkE2bHU5OGk5SGs?oc=5",
+      "source": "Android Police",
+      "published_at": "2026-08-14 20:15 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ff679763e36e29f4",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’? - TechCrunch",
+      "summary": "TechCrunch 报道了「Does Mark Zuckerberg really believe AI is ‘for everyone’? - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Does Mark Zuckerberg really believe AI is ‘for everyone’? TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUxFbWNnOFJiQ1NZTUZIX1FSUGx3OTBqbnp4a1hDS3p1TUpSUEZVanVIdmctdHpsV2U3X05fc3Rsc0o3c21EdTAzZGdyTW5lOFVsanFKTWcxcHQ4UUJWNHFTeWt3RG1aVkdITWpaNzQ4dlVHR0daYVdHeWxxT3pSaFB6Z0FJUGlLTWRFMA?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-14 23:43 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "36e41e1ace96df97",
+      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
+      "summary": "Reuters 报道了「EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Alibaba、Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-14 12:21 +0800",
+      "companies": [
+        "Alibaba",
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d85caea921202312",
+      "title": "Cybersecurity News: Akira’s innovative attack, WhatsApp’s scam alert, White House TCO strategy - CISO Series",
+      "summary": "CISO Series 报道了「Cybersecurity News: Akira’s innovative attack, WhatsApp’s scam alert, White House TCO strategy - CISO Series」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cybersecurity News: Akira’s innovative attack, WhatsApp’s scam alert, White House TCO strategy CISO Series",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWgzU0kyV1RTVmh2VmZJSHU5TDVhSWlxanR2Q2gtVjh4RlIwWmlRUm9LeE1oUFRtMUtHZEVXa21OOWY0WXJCUDNDODFiS1BrM2stbmJLRUZsRmZfN0xvcjhUZG5NYmxhQnNGajd4MzZsZWNPYXVaamF6ZjBxSkd0WWVjYkk4QWdTdnlsX0xCMDZZMTI3SDFfQmdrWnVtVUtkWnRzOHZRd3V1alFlak9YUUM3RQ?oc=5",
+      "source": "CISO Series",
+      "published_at": "2026-08-14 18:00 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "e775c4e716f12342",
+      "title": "China’s Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool - The Information",
+      "summary": "The Information 报道了「China’s Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Zhipu AI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China’s Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool The Information",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXpkbWdJRjRZSEE5UGVhRGdRNnNDd1FGMVNMU0VjcjlGRnJoZlJoQnIwdlhFOHNKdFJQWEwyUmgwRU4yYUZiWkhWcWs3QTJkU04zTF9yYVUxQnZROEdBaFJoa01tY2dWNUx2WHFqVXlVcVlWMlloYUx2amhCVldJcEk2TWJGOEhJcnJWcTRlTmU5N1RvVEphWjg3aw?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-14 17:48 +0800",
+      "companies": [
+        "Zhipu AI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "46445423b61768bf",
+      "title": "豆包启动渠道服务费机制：国内首个AI对话入口规模化抽佣落地 - 新浪财经",
+      "summary": "豆包启动渠道服务费机制：国内首个AI对话入口规模化抽佣落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "豆包启动渠道服务费机制：国内首个AI对话入口规模化抽佣落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTZ3OVNxRFBtNHBSSVM0YlJETmZfbTFJbEhzbVNxVWsxMll4YWVaalh0RU9VTENiRWJWbWFSX2loLVFLYkNGSHY4ZXBBVXhyTXlsT3dYclV3aXdjU1prZUNQa2ZfNUkyNGlHT3dpYmRMck9hNWVXMEd6dGlkYVJyUV9zMERzWGtYblRMN1BfcE1mVTFWOWZCQWR1bWxuZVBmUUJsejFZd0RFNUlrV2ZnUnBKanR2cng5UHhGUQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-14 13:50 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f15ec7a9c0a67ade",
+      "title": "共探AI营销新趋势，解锁企业增长新机遇——2026百度AI营销城市行·惠州站圆满举办 - huizhou.cn",
+      "summary": "共探AI营销新趋势，解锁企业增长新机遇——2026百度AI营销城市行·惠州站圆满举办 huizhou.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "共探AI营销新趋势，解锁企业增长新机遇——2026百度AI营销城市行·惠州站圆满举办 huizhou.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nZnVDNjVUOVlvSkU4SE9FTGxFa3BfZV94WFFPVnN2RHFkMW1Tb2dxOUl4WURiNDBHSU5jLV9LcVFyclV4M0V1QjZHeXpJZWhlbXU3UC14aFpDUUVaOU5tN1p3Zko3SzNua3c?oc=5",
+      "source": "huizhou.cn",
+      "published_at": "2026-08-14 20:18 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "489f497c686fad36",
+      "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - news.hubeidaily.net",
+      "summary": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 news.hubeidaily.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 news.hubeidaily.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12RlM0aGY4Si1RQTB3NnMyMF9Bd0NzYV9CWEF3VTV2VlZPOWJmLUJTZkF5eFBIUl9JaFBvRUpUeWRhWjBfQkNXOGlGb2dpOXlZUlA0LXJSeTNnNDAwTmc?oc=5",
+      "source": "news.hubeidaily.net",
+      "published_at": "2026-08-14 18:18 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5b85938d2651f22f",
+      "title": "恒富证券首席经济学家周聪：宇树科技即将上市，具身智能机器人企业的IPO大潮即将拉开帷幕！ - 中华网科技频道",
+      "summary": "恒富证券首席经济学家周聪：宇树科技即将上市，具身智能机器人企业的IPO大潮即将拉开帷幕！ 中华网科技频道 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "恒富证券首席经济学家周聪：宇树科技即将上市，具身智能机器人企业的IPO大潮即将拉开帷幕！ 中华网科技频道",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiMERSbjQ5LUFUczhJajFLMDZwb0w1Um5sTEhtczluRnBia3BwQVA4NXdvbVJlVGJKWkhtX2EtVm52Wk9LTDBKREpsTUFEWDZOelRXMmlSamN6b3dKVzMwUkQxTGstZlRSQmpIZGJR?oc=5",
+      "source": "中华网科技频道",
+      "published_at": "2026-08-14 10:35 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3f23e7843503c5db",
+      "title": "智谱发布新模型GLM-5.3 强调模型编程与网络安全能力 - 财新",
+      "summary": "智谱发布新模型GLM-5.3 强调模型编程与网络安全能力 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "智谱发布新模型GLM-5.3 强调模型编程与网络安全能力 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVUN4TVNuSmoyRnZESzN0R3RGMXM1RGtyMW50aUNZMF9Pb1FZekFFOGpJb0FRQzBGczYwaTNBNGZ1TjBjX1ZsLVRRMm5lckdYbzlFY3Q2S2xkYV9nTnEtUlNnUlQ?oc=5",
+      "source": "财新",
+      "published_at": "2026-08-14 17:34 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 145.0
+    },
+    {
+      "id": "87ce67aa54cc0ea1",
+      "title": "The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered - CX Today",
+      "summary": "CX Today 报道了「The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered - CX Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Dialpad AI Contact Center and Agentic AI: What Dialpad Agentic AI Has Shipped, Slipped, and Left Unanswered CX Today",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Y0ZVRadlBNeVk1ZnR5dmw0WWktQ1VMamtzdEJlS1hkZ0lDbHhfS21HZjRDbnZQaFNQNVRLb044ZWxNMXVwQi1qTEZJZ0J6aFdvaW9QWGhFaWNMX3RMQkJPV2ZvWGgtMnZod0xlRVBianEwM2Z4NHdhT3ZVS0h4bjFfQU91bWQ2emNyMA?oc=5",
+      "source": "CX Today",
+      "published_at": "2026-08-15 00:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "b22c45c316f85230",
+      "title": "Fiserv and Stuut bring agentic AI to enterprise order-to-cash, with $2B in invoices already processed - MarketScale",
+      "summary": "MarketScale 报道了「Fiserv and Stuut bring agentic AI to enterprise order-to-cash, with $2B in invoices already processed - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Fiserv and Stuut bring agentic AI to enterprise order-to-cash, with $2B in invoices already processed MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOVQ2MVBjM01OOHA4LUZKQXF6TDNGWGduc3loXy1vSHV2MkZoU1ZJdDQxWVc0ZVhmNkE4dTRuS2xyb2txMy1ZS1VfbklfbEFUZGoxa2d3NHktRFVkbTJvVFBKWjFGRndiQ3dTM3lhMGNna1ktbXZjUHp4SDJONTdvWDZISWtZR2VEMjVXaUhWNmVCNVI3b1UzUHV0NWFMM3BsR0NaSnZqcU1jMThzam5vNHdURVRiUTdJM0E0d2tBbUgzVHRrVk5HaDVOVFd6X1puUXFZeU0wU3JZTkxkaGRqWER1bDREczVTMHFnOEtpMHpGYjJlVjFMcC1MVC1KQQ?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-08-15 01:22 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e4a2d0e449f31887",
+      "title": "Graas Raises $17M Series B, Acquires Trustana to Build Data Layer for Agentic Commerce - AsiaTechDaily",
+      "summary": "AsiaTechDaily 报道了「Graas Raises $17M Series B, Acquires Trustana to Build Data Layer for Agentic Commerce - AsiaTechDaily」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Graas Raises $17M Series B, Acquires Trustana to Build Data Layer for Agentic Commerce AsiaTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm90ejlJanRYd0x5ZHNtVnc1UGtCbE1XekVvYlhabWluM3NFajhXenJjTGF3bGRRS3F2R0MwNEVyZ1NsR2FOeXVwRWFOQTltMFlleU5oUWQyZk1Md1IyeVh6dzU0b2FHN2dUalBxYlFMT1VGRW5aelg4R3JuYzBKa0swbU1pRzdSSFlwclVCSUFjVWhST2YzblZqMVlVZUt1akc3WGZqV1BxT3RoRDJSMQ?oc=5",
+      "source": "AsiaTechDaily",
+      "published_at": "2026-08-15 02:21 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bd3a16e424e60ff6",
+      "title": "Rimini Street targets AI ‘control gap’ - Daily Tribune",
+      "summary": "Daily Tribune 报道了「Rimini Street targets AI ‘control gap’ - Daily Tribune」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rimini Street targets AI ‘control gap’ Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80Yy10X0JIOTJqSWZwa1dtTkowRWE2NF9yVUVLeHhWLVRvQ191WnFITW16Q3ViYWZzeVVmdUF1NEwzYjZnekEtZmZHTjRadzFnQnVpT0JWelg4OGdlMVAzeFR2VVhtR0h3bEU1M3dKdzdVUUFmc01XM01R?oc=5",
+      "source": "Daily Tribune",
+      "published_at": "2026-08-15 06:41 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d61371e9f37c56bc",
+      "title": "DEEPX reports $13 million in global orders during first year of mass production - New Electronics",
+      "summary": "New Electronics 报道了「DEEPX reports $13 million in global orders during first year of mass production - New Electronics」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "DEEPX reports $13 million in global orders during first year of mass production New Electronics",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlZDRjFRd2o4SFplUXktWS1GTm16dFJCUTJkWmdFbWxIclYyS0JiZE1sNVd2MkRNVm01UkxzZ0tMb08tSlNtb3VEVHlUOTF2RDhybGFTTzNPRGRmQUJFQlk4Wkk1SzV3Z3h2bU4zeHJlWGpxVl84V0s1LXNVd1RET3UxZ0VNY2Zncm4zYmJiSjJMdWFIbE9WeEFGTHlXVmFvRmF2YVhKdWwxeGcxeEloZm94NlNOOTllUGkzV21GVEx2UQ?oc=5",
+      "source": "New Electronics",
+      "published_at": "2026-08-14 16:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 92.5
+    }
+  ]
+}
