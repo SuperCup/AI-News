@@ -1,0 +1,268 @@
+{
+  "week": "2026-W33",
+  "date_range": "2026-08-10 至 2026-08-16",
+  "generated_at": "2026-08-16T20:59:54.747177+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W33/",
+  "image_path": "assets/weekly/2026-W33.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 7
+  },
+  "items": [
+    {
+      "id": "ec26ee6e81871712",
+      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push - VentureBeat",
+      "summary": "VentureBeat 报道了「AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push VentureBeat",
+      "impact_reason": "VentureBeat 报道了「AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWE9YZmluV0VTOEs0WlV1UDhfZGF4SXRKRkUyZWx5SVRqQ01ld2g5blVyYVo3ckdOUWhhcHNtVDE2OFBKQzZDOS14TnRVUk5qaUVQaHpSUEtKUW44bl8zdXNweTVNU1ZMNlV0bVR0QlUtMnNKZzhmVnBlQzdLdWt5Tkt0YzRBeVVPUTgtNW4zSXdJYUE3N0FtcThveTBXLVFZZWVKd0JhVHlOc2d5Sm1XVUxPaHpza0lmUnBIdThKVzd4eE5YTEE?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-11 04:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "91080af968164fde",
+      "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research - The Robot Report",
+      "summary": "The Robot Report 报道了「VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research - The Robot Report」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research The Robot Report",
+      "impact_reason": "The Robot Report 报道了「VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research - The Robot Report」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2FoX290MFZpbVVVcHZpVmNWMnRibUlCZEk0d01xYlBycmQtY3JMeFhfMDJPcnptUE12YUpMWm04RHI3RGdNTFQwY3VHLVhnc3ppeUVhT3BxaU04MUNKalVSVFdfaEtOT2tGRWNhTEFjcjVzU2NPTnF5YVNXV3JXdExKTXlKVnVtREgtdVBnT1VjM18tcExxQ05YamZkMkIzd1NwSkp4STY5UGxVSG9qY3FUNWhMU2VZakFV?oc=5",
+      "source": "The Robot Report",
+      "published_at": "2026-08-11 01:10 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "15905b81cd358a09",
+      "title": "Why benchmarking AI models in a vacuum is a critical security blind spot - Substack",
+      "summary": "Substack 报道了「Why benchmarking AI models in a vacuum is a critical security blind spot - Substack」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why benchmarking AI models in a vacuum is a critical security blind spot Substack",
+      "impact_reason": "Substack 报道了「Why benchmarking AI models in a vacuum is a critical security blind spot - Substack」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5Mk5yX3ZEcVY1bXhvQ1BySlQ1Qy1xMFdWWUVZN0d5MWYza3lqUnFEUXV0bDJYMWRBYVdVRE1NcXFkMU4zc3RzNzF6QTN2UVZKWUNvaDJGTm9ocXpCbnpnQVNGSmNJUVFfdjVuNDg0Y0UwdGdUZnpQN0paTWJ6Zw?oc=5",
+      "source": "Substack",
+      "published_at": "2026-08-13 02:02 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "a654ff7e76b74fc9",
+      "title": "Trajectory, Founded by Ex-Google and Apple Researchers, Raises Funding From Sequoia in Back-to-Back Round - The Information",
+      "summary": "The Information 报道了「Trajectory, Founded by Ex-Google and Apple Researchers, Raises Funding From Sequoia in Back-to-Back Round - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Trajectory, Founded by Ex-Google and Apple Researchers, Raises Funding From Sequoia in Back-to-Back Round The Information",
+      "impact_reason": "The Information 报道了「Trajectory, Founded by Ex-Google and Apple Researchers, Raises Funding From Sequoia in Back-to-Back Round - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWY0NUMtYk5Wczl5T29sREJaSjM5Xy1LWjhkVzV3NXMwSndqRFJ6NENBUUpNNTg5RXlTMmkzRWZNbzFWZ2E1akE5bkhJbjctaU1FN01kbjVhM3FqbF85Zjd2bV9OazVXZENzRzdhV3Q1azJfZ2RsT29CdlNuUlVLV1JOV1lGNC1yWEdBRTVLcEJVNkQ3TVVwOWJlclJJak01OXE0dE1NX0prNGxocDF3X2o1TVhnenN6bGdZdzhCdlBTQXlwWE5wSi1wMGNsczZVQVZfaQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-11 22:01 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 153.0
+    },
+    {
+      "id": "5ef767a8fa86c4b3",
+      "title": "Adobe rolls out AI-powered product discovery for LLM shopping - FoneArena.com",
+      "summary": "FoneArena.com 报道了「Adobe rolls out AI-powered product discovery for LLM shopping - FoneArena.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Adobe。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Adobe rolls out AI-powered product discovery for LLM shopping FoneArena.com",
+      "impact_reason": "FoneArena.com 报道了「Adobe rolls out AI-powered product discovery for LLM shopping - FoneArena.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Adobe。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2hpbWhJZFo2SGdmcHNsUGVfLW9zdjc3RWxLNmZJckxIaHQ0VHE5ZTFuY1ItODdhWFo5RjN2SDFxUHltYW5XcmdsR0ZwYThNOXppYlNLSmRleDZlN25UQXRoc0JrNGc4X2N1ZGNWbXdIWjZDeWc2ODJKUFE2b0RWQktiaVBHaE0wT1dLWGFaaVpNa1lf0gGaAUFVX3lxTE1xY21lN0oyaFVsRUFST1RJUmQ1SnEyZTFtTERNM1BmLTh4Vk5KNnJyT21sVUs1Yi02VjZjOS1TNzI1YnRJMmZybGhERjZCbjdmUklUQV9Rc24zdFlGQXVoYllLWDNfZzlvalZjX0lUcWczbFdnWnMyMDVvaW9LZnZlSHFNWDk1VU9wN1B4UzEyVDVWQW1vZEVmN3c?oc=5",
+      "source": "FoneArena.com",
+      "published_at": "2026-08-10 19:56 +0800",
+      "companies": [
+        "Intel",
+        "Adobe"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "c0723a5bcbaa7f00",
+      "title": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 - 新浪财经",
+      "summary": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 新浪财经",
+      "impact_reason": "算力叙事切换：全功能GPU周期开启，摩尔线程迎来新机遇|AI芯片|AI Agent|具身智能|大模型|Minimax_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWhzZF82Vk0wUjdFQlhpOC11MFQ0VE9zazBSR0Rya0Z0dm9vS3hqMmpnRTJDWHdhVGxqeTBIaUhtUjA2U1R6WDVodTdkN0s2NkZKQktFNzk4VEQ5WnJ4eUFSODFMOGtxcEJLbkxOa0x6MFpJWHdJX1BwWFpOOXgwVER2NlltMEFobjhQOHlfTEJMZlVHQmtmdjhac3paOFB5bDhtczVBRQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-13 07:59 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "e9415f36fa9cc20d",
+      "title": "I skipped the AI cloud subscription by running a local LLM directly on my Android phone - Android Police",
+      "summary": "Android Police 报道了「I skipped the AI cloud subscription by running a local LLM directly on my Android phone - Android Police」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "I skipped the AI cloud subscription by running a local LLM directly on my Android phone Android Police",
+      "impact_reason": "Android Police 报道了「I skipped the AI cloud subscription by running a local LLM directly on my Android phone - Android Police」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGxBalk5UDZ2MkE2ZU5rdVh0R19mVG9GVk55VEhlZDRNVzJ6UDRseXJLM1Q3SWRMYWhRUl83b2picXBiOGxIV2kxRWJCc1Q4cW0zOVFZa01vdmN1dl9nVFVDdE9pd3UwQ3B3T1hFVXRJVVpFV016dTl0UExpTVA2U3JFS1BlYVo2enJlX2dlYl9WNlBTUkE2bHU5OGk5SGs?oc=5",
+      "source": "Android Police",
+      "published_at": "2026-08-14 20:15 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "492b442b8ad3140d",
+      "title": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 - 凤凰网科技",
+      "summary": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 凤凰网科技",
+      "impact_reason": "黑帽大会热议AI攻击潮：企业最大的风险，是不知道自己已被盯上 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPWXFqREhKX3l3bHNBeE9IeEp5Zms2VmtMeUJEYWd6cDZOelh6cHNiLW9iMkdEdEhXYXJkNE9sSERkOVhVc2txcnpod0M?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-08-09 08:32 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "51699975d94b745b",
+      "title": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 Help Net Security",
+      "impact_reason": "Help Net Security 报道了「Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUtRdE1LcGU0RXFLcFZxV1R1NGROdmdpSDI3SnFSWFZfeVpHWUllNm42UDRxMlpNdlVsLXl2aTZqQUZuajlQanNrWXE2cG5fY0NCZUlXanlIWFZrcTUwcU5wZGk2eno1bjJUVS1jRmUza2xSMXJtMENXVkFFeTE5QXIyR1VyV0J4LUJsTHJJQmdueHVVQ0YwcFZrRXh0RzBacjZiUHhvRGlVNWZGekRwTWl0cTgxU3JqQTJJUQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-08-09 16:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "1e32d34f8ee9c636",
+      "title": "OpenAI Halts New Model Rollout Due to Security Worries - pymnts.com",
+      "summary": "pymnts.com 报道了「OpenAI Halts New Model Rollout Due to Security Worries - pymnts.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Halts New Model Rollout Due to Security Worries pymnts.com",
+      "impact_reason": "pymnts.com 报道了「OpenAI Halts New Model Rollout Due to Security Worries - pymnts.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjAwQ1RpaFA5QUlhN01jcTlzaGF0cHJxa3pfclozZVdzaV9UTkdZWW8td09hNUd6TkpVbUllTHVCdmtQQ19BaUkzVUJXUnZqNVdqMlJPZ2dTekRGN2lwa3hyUzNhVTFQTHZaeUtTak4wbTg3dzF6S0ZyNjdnZ1dkME5PZUZMSUFpZzlyWHNxNXZ2RlZ0U1A3S0Faa1l5MDJGZ0d1QldaWS1KZUhKVU92V2xn?oc=5",
+      "source": "pymnts.com",
+      "published_at": "2026-08-10 06:20 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    }
+  ]
+}
