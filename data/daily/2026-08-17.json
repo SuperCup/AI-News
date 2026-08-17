@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T10:34:54.756678+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-17/",
+  "image_path": "assets/daily/2026-08-17.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "73e4eccdbb69fc35",
+      "title": "泰伯早报| 8月17日：北斗时空安全产业平台落地长沙，三大试点项目签约超亿元；商汤：预计上半年利润5亿元-7亿元，同比扭亏；仅间隔38分钟，SpaceX完成了猎鹰火箭双连发 - 泰伯网",
+      "summary": "泰伯早报| 8月17日：北斗时空安全产业平台落地长沙，三大试点项目签约超亿元；商汤：预计上半年利润5亿元-7亿元，同比扭亏；仅间隔38分钟，SpaceX完成了猎鹰火箭双连发 泰伯网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "泰伯早报| 8月17日：北斗时空安全产业平台落地长沙，三大试点项目签约超亿元；商汤：预计上半年利润5亿元-7亿元，同比扭亏；仅间隔38分钟，SpaceX完成了猎鹰火箭双连发 泰伯网",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vZThQMWlnQ2dMc1B5SVE2ZFVXa0JxUS12TENKbFY5Y1BUN1pLbXU2SjRNREVqRjB3ZHVtUHoxdlNQdw?oc=5",
+      "source": "泰伯网",
+      "published_at": "2026-08-16 09:11 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "617c573f5702a418",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - TechCrunch",
+      "summary": "TechCrunch 报道了「Why people aren’t buying Mark Zuckerberg’s AI future - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why people aren’t buying Mark Zuckerberg’s AI future TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3gtMTl3WVhpRU94aGlhRVZxWThBZ1h1Y1NsMkVBZWdlXzFTSzNQam5hU3dSSGJaS2V4MzFaOHY2dHdzYlJoTW9fcTdFMGFxYnV4TmhQN3drWWRtX2ZENWxxbDh3S1g4cEIyX2p0bC1DZ0ZrZGNsd3U3TGl0czRBNFRVdXhHd1NrYlNMTmdR?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-17 04:32 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8eaeb72de33782d8",
+      "title": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do - The Register",
+      "summary": "The Register 报道了「Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do - The Register」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do The Register",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOel9jLWVQS3RuRExSQ3JSQnluYmVfdVNIdTZoSFB1RzdOMnh1Sy1qdm9jV3M5cjh6blg2aGtsTnh4d3FXWkY1eFhvSUcyS20wZEszRzh4b21JeVRPZWQwNGVYSC1BbXV6WWJjcUc5Y2Nua1p1SXRnRnUzZVFHS3g4SmZzdWdLZjZnVF9ZeW0zcnl5YUk2aTB5ZWdOdHBPUld5VkJva0VTVkdmVFQtM214dkZkQXl3d19FRFVTVXZZa3UxVkZybTdhX2VCcDE3WWhZMkNNb1B2QkR6SmRPY2dQVHg3aUt4UQ?oc=5",
+      "source": "The Register",
+      "published_at": "2026-08-16 18:06 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "22b75eb0985e51bf",
+      "title": "Why Is Broadcom (AVGO) Drawing New Scrutiny Over Hidden AI Debt Risks? - simplywall.st",
+      "summary": "simplywall.st 报道了「Why Is Broadcom (AVGO) Drawing New Scrutiny Over Hidden AI Debt Risks? - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Is Broadcom (AVGO) Drawing New Scrutiny Over Hidden AI Debt Risks? simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeGJRZXBULVRaM0FISG1ucnFNNWJDMDg3TnIwQ05tTzNwSWVCRXJ6bEtlel9fMW1sd2tjdkt3X3BCbDBNOUVNSm5vcEVCaG03ZGc3dGFONHlINk1EOUJPRElyZmlWVVNjaVlKZnREaUVWSlpnbTdNUDdtRXNEbkplbkFzaEh4M2hFOWVldGdFclRsX0pSeGlnNUtLYjc4QW84Ykd2eW1leGhRdFRKVlBDWDliR1Q4VmNoTDJQQkVSY3J5SUJwNGVoQjlZbF92a3FDcGhn0gHTAUFVX3lxTE54YlFlcFQtVFozQUhIbW5ycU01YkMwODdOcjBDTm1PM3BJZUJFcnpsS2V6X18xbWx3a2N2S3dfcEJsME05RU1Kbm9wRUJobTdkZzd0YU40eUg2TUQ5Qk9ESXJmaVZVU2NpWUpmdERpRVZKWmdtN01QN21Fc0RuSmVuQXNoSHgzaEU5ZWV0Z0VyVGxfSlJ4aWc1S0tiNzhBbzhiR3Z5bWV4aFF0VEpWUENYOWJHVDhWY2hMMlBCRVJjcnlJQnA0ZWhCOVlsX3ZrcUNwaGc?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-08-16 13:37 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "094fdbb4ce082e4a",
+      "title": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day - Help Net Security",
+      "summary": "Help Net Security 报道了「Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTUZhcGJjeVBGdmJndXJtZTJPNEkxNzFKUnlxbnIxYUZCUkpuQWZjT05TS05uMnFVX1ZLTGJmdEZoWDY3Szlnc0V4eW41Tlh0UHFHTnJfUTZ1T3Q3MEtJQW5rTmhfLVExcUpWRDM2SzFodnkxRV9maGQySjdWSzBySGM0T01CMTd4dHNXcmpBeGdvMVVwdDZLNzNhZzlvUUlzWnlZeXVSU0E0M29TWXZqaGJQeDRxd0lYaXYzT2trVWtFUVVybGVBZlRKakpXR1hEeXNacmZB?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-08-16 16:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ed99e7360f306276",
+      "title": "一份geo服务商排名前十避坑清单:谁更适合你的企业一文看懂 - 新浪网",
+      "summary": "一份geo服务商排名前十避坑清单:谁更适合你的企业一文看懂 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "一份geo服务商排名前十避坑清单:谁更适合你的企业一文看懂 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2QUJHRThLZ0t1TVVYMHB6MjJBU1hRaU9yM215RmU5YTBzUnVQNElheUw5WURsc08yX1pja25DaVFoT0ZJUGt3MWN1ZmFFTFNqZ3Rmb2pfTUVmOWc0blo3RXdfQU1oVUItM2RmcndZS0FTenFaWFQ4WWE3cjhlZw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-08-16 19:38 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a6c53735789fe434",
+      "title": "2026ng666官方入口网页版定档5月上海：AI落地、沉浸体验与产业未来三大看点引爆科技圈 - womenofchina.com",
+      "summary": "2026ng666官方入口网页版定档5月上海：AI落地、沉浸体验与产业未来三大看点引爆科技圈 womenofchina.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026ng666官方入口网页版定档5月上海：AI落地、沉浸体验与产业未来三大看点引爆科技圈 womenofchina.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ydTZabE0wRXJSbDVYdHFSUFFDSHZsUTF6TUhRYnBxYVVfTlVYanRzcUs4VzJNV3BoaU4ybF92cFAxMU1lYmNNZm85M1BxY0ZoT3dRSVhQeXR2ZHg2bmd0Q01jeEFHWkJ0OVE?oc=5",
+      "source": "womenofchina.com",
+      "published_at": "2026-08-16 12:09 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "90f0731751f76959",
+      "title": "How Investors Are Reacting To S&P Global (SPGI) Embedding AI Data Into Microsoft 365 Copilot - simplywall.st",
+      "summary": "simplywall.st 报道了「How Investors Are Reacting To S&P Global (SPGI) Embedding AI Data Into Microsoft 365 Copilot - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Investors Are Reacting To S&P Global (SPGI) Embedding AI Data Into Microsoft 365 Copilot simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYUtUQ0FBYmlIQWRpTUtLMkVWMDlUMkcwUUgxUWt6cTFpVEQxeHdmbWJPR05OZHBMRzMyU2c3LTNRYk5OV2RqRmlPbkQ1TGFpa2dRTEVsUXc4dktkYkdRRWRRNllleVUxNmx5UTNVZTlCVDlGN3NfT0lOT2UwT1U5TEF0Umx5X1RhV1ZSNDJMai1JLVh1MXFBWEdVbjl6RDlFeGJobWloTUVsMjg4Vkt4U05palMycmluendEUDdnLWVSakZ4M1JjcVQ4SXo4bjFPT1VFN1ZwYm9XM3Bs0gHcAUFVX3lxTE5hS1RDQUFiaUhBZGlNS0syRVYwOVQyRzBRSDFRa3pxMWlURDF4d2ZtYk9HTk5kcExHMzJTZzctM1FiTk5XZGpGaU9uRDVMYWlrZ1FMRWxRdzh2S2RiR1FFZFE2WWV5VTE2bHlRM1VlOUJUOUY3c19PSU5PZTBPVTlMQXRSbHlfVGFXVlI0MkxqLUktWHUxcUFYR1VuOXpEOUV4YmhtaWhNRWwyODhWS3hTTmlqUzJyaW56d0RQN2ctZVJqRngzUmNxVDhJejhuMU9PVUU3VnBib1czcGw?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-08-17 06:37 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "0da73d0bf4a9f91e",
+      "title": "十大企业级AI应用开发服务商推荐，选型不踩坑 - t.cj.sina.cn",
+      "summary": "十大企业级AI应用开发服务商推荐，选型不踩坑 t.cj.sina.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "十大企业级AI应用开发服务商推荐，选型不踩坑 t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZ3pSTzlqNUhZdWJZLTJZWENIcHNEdXIxUEwwM190V3JtN3NWOGptbGlUMWhpZGhSdV9JVTBUTUVzd0RZakhyNzJKcV9pZzE5X1JJWlBla1BiczVoMUl5My01anNudzFxcDM1UnltdTIydw?oc=5",
+      "source": "t.cj.sina.cn",
+      "published_at": "2026-08-15 12:49 +0800",
+      "companies": [
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "b6a7af11df08cbf8",
+      "title": "全球独角兽强势回升：半年新增179家，每两家新独角兽，就有一家是AI丨2026H1全球独角兽企业观察报告 - 新浪财经",
+      "summary": "全球独角兽强势回升：半年新增179家，每两家新独角兽，就有一家是AI丨2026H1全球独角兽企业观察报告 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "全球独角兽强势回升：半年新增179家，每两家新独角兽，就有一家是AI丨2026H1全球独角兽企业观察报告 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUkzSnFfRS1rWWdlWmxEcjUxRE1NYVJGb3RqN1hEYnFsZzhRamNBY1JNX3c4bGREdmczWDhycWpUSWtJZ1JacmpvQmR6LXp6TTE4ZUE1WDAyUld6cTZmOVhudFJxd1U4SUlyMjlNdUJSRGpPS0pVdFRhUEtocGNPTUVjZC1oREYwT2JPdThGRGZ6TzA2V2ZOTVpmUXRxMFphdzg2LVp6TkxMaENEMUVNNTBn?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-15 10:53 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "395a5cc98fa8d30c",
+      "title": "Five9 (FIVN) Launches AI Voice Agent Integration For Regulated Contact Centers - simplywall.st",
+      "summary": "simplywall.st 报道了「Five9 (FIVN) Launches AI Voice Agent Integration For Regulated Contact Centers - simplywall.st」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Five9 (FIVN) Launches AI Voice Agent Integration For Regulated Contact Centers simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmRmN3hiclZHN3Znd0tjZWRBT3ZpZDB5b2xwdzlkdDdTQnItbVJnQVc2cEJlNGt3bVlOdFRBQWZEaVRSZWtVSGptWjA3bVdleHBEUHJmaDVfRFlxNzlJRmZRUW1CQ0VHSjFjeTBPdFdEUGY4TFZFcHJycHkzY3R4OVFSZDljTGh2cFhJNmp0enJ1cjAzaC1RRTdsX3RhRzF5QnZYc011clM3dUlLeHUwWlVIakh2ckVqY2ZPdXpzNmVMd9IBxwFBVV95cUxOXzdYUVE2eHd4bTJHS3dsdThjNl9HMHVCX2hTaEVQaGVUa2pTWl9OcERJV1VzTUJLVXdRdHhpcGtWRTZVQjJIZkZXcEExUHRNSG82c3BZbXNWLXNvekg1Q3FFOEZiZDlrZGtMZE12dVpSQWFadFFMcGJLdTZxdkxrdms1X1lGTm5PQUVOZ2NxRDMyTklJR0QtbGVsaFh0R3FRbE1MenExT2YteC0zWjZadm1mSGZVQzNQcVNtRnRDZVYzSm1sZGJB?oc=5",
+      "source": "simplywall.st",
+      "published_at": "2026-08-15 10:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "e77b4e13eae3b6dc",
+      "title": "How Do AI Agent SLAs Actually Work, and Why Founders Get Burned - Startup Fortune",
+      "summary": "Startup Fortune 报道了「How Do AI Agent SLAs Actually Work, and Why Founders Get Burned - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Do AI Agent SLAs Actually Work, and Why Founders Get Burned Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0w1S2pGOTJNZFZxY1IxTEtSVl91dWRpNHAzNU96U1ZWQkZHV3J4eEZjT243MjRtbnVmSTBWQlJfOHpCcFdTVWlaTjNqVFh1S3BvQzlWSThSand6LUZUQldfeklqcFhhbXNuUW4yQXNCVWM4aGYyLWV4bnZKVF93V05SRWtBRmxibFg4MzhjSDY2Y3Zi?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-08-15 20:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "0b8468dca2d3bff1",
+      "title": "From verifying humans to AI agents: Socure prepares for the next identity challenge - Biometric Update",
+      "summary": "Biometric Update 报道了「From verifying humans to AI agents: Socure prepares for the next identity challenge - Biometric Update」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "From verifying humans to AI agents: Socure prepares for the next identity challenge Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhQdDlXbzMtTVNnSjlYVi1kbjR6enhCdkpLQnBFMkN3blRRVUtUVDhGb2VMV2pneDB3ajBsemF3SjdKYUZxcFR6ZnozcEJLaXZWTnY4S3pDajNvbXVXbXR3bmxJWnV4Y1hKWmI2MkxOWkpucjFGcmFnYjRTQ1hRa2V0OW04NzlPaFdRZ2UzMzM0X0tpWldrOTRSV3NYd3pxSUZHM3lNYnJTX0lvUGhYUl9iNm5hTGNUZzgzRmlB?oc=5",
+      "source": "Biometric Update",
+      "published_at": "2026-08-16 20:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "67163382f2d8c58a",
+      "title": "9 Questions That Expose Fake AI on a Product Roadmap - HackerNoon",
+      "summary": "HackerNoon 报道了「9 Questions That Expose Fake AI on a Product Roadmap - HackerNoon」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "9 Questions That Expose Fake AI on a Product Roadmap HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXy1kUXlJSUM3RDlfSWFjVm52cjN4cXZYQW9TWC1tTndBTlVDS1NoWVYtbDVzZkViUFFsMVV2TFpjdUEtOHppVXhROHIwNjVmdC1LV1hNVlVCQWhZNjNhTkdsVGtPamdNX0tmT1ExNDEtMExzWHBSN0V5czE2MXRNTQ?oc=5",
+      "source": "HackerNoon",
+      "published_at": "2026-08-16 16:04 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4c4293b6c4c5c976",
+      "title": "AI Workforce Boom: Enterprise Agent Deployments More Than Double - Wazzup.PH",
+      "summary": "Wazzup.PH 报道了「AI Workforce Boom: Enterprise Agent Deployments More Than Double - Wazzup.PH」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Workforce Boom: Enterprise Agent Deployments More Than Double Wazzup.PH",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZFhvN0VhTnFZZ1dlY0Uwam5BdWtEcm1vdlpwSXQxUUdMZlc4THdGQXNJYTVMVDVFYWFSamNRV3lrNGoyejZMOXJyM25vN3hqUWM3el9Nb21Yek9KbHJNRlk2SUVPa1kzZnBBcFV2WDNEbGxfQVBkdHdyWWQ4eC1KSQ?oc=5",
+      "source": "Wazzup.PH",
+      "published_at": "2026-08-16 21:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
