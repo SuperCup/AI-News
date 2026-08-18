@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T10:30:13.515625+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-18/",
+  "image_path": "assets/daily/2026-08-18.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c3216bbbe346e4d5",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push - CoinDesk",
+      "summary": "CoinDesk 报道了「Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push - CoinDesk」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0phczI2YWRxRW84SE03aGM4TnpkT1FyTHd0b2NWSjVIYlNBSlpHSVdJWGhYa3hONXgzcGFJZWhMSGRSSlBiRWJ6Z0h0VW1PYlV3NXF1STdxVjNYdTNNRlRUeXlVSVU2bW5YODBnVWFxalFfUnVtbDJWbkRSTGpTdVVkSWJtT1JGUUJncEpLeWgyN0N2X2p3TnlpWWwtc285RWpOSjk5S21weWpuSzRPRW4zdkQtbFAzZkJZ?oc=5",
+      "source": "CoinDesk",
+      "published_at": "2026-08-18 06:12 +0800",
+      "companies": [
+        "Microsoft",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "401cd91b7a059490",
+      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning on a high-end laptop, no cloud API required - VentureBeat",
+      "summary": "VentureBeat 报道了「Qwen3.8-27B runs frontier-class coding agents and reasoning on a high-end laptop, no cloud API required - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Alibaba、OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Qwen3.8-27B runs frontier-class coding agents and reasoning on a high-end laptop, no cloud API required VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2NGbjBLTlVBVkRSckJQaXM3MlVaREhiM2dPWmZVdmhBQ3BOa2VST3AtWEdPVVFoeUxFcGxhenV1R0tybjZndktrVW90OVBXVUc3X3RjZFMtWHZEN2Y5N3l6YmxET3h0Z28tTmFqTGt6U2FfODA3UVNzLVQxdjJ1T3RTY0lXeFBDQ2JPMFJQbkhVSFpKdDhXc0xvNVF5aVo2NExkU1VHblF1a1psaFZFTVlDRlZVdjJnNkw5VlBkeGgzUQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-18 08:07 +0800",
+      "companies": [
+        "Alibaba",
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "00a6e6628f62dc42",
+      "title": "Will Anthropic and OpenAI Stop Selling Their Best AI to Businesses? - The Information",
+      "summary": "The Information 报道了「Will Anthropic and OpenAI Stop Selling Their Best AI to Businesses? - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Will Anthropic and OpenAI Stop Selling Their Best AI to Businesses? The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWS1pQ01ldjR6WTlTVGJWYi10RU9jaUxsbWwyVmx6bTQ3NUtvX1phSTRoXzhRWl9WSE04OEpEVmt6M285QXdSSXhmdXVEVkJQVHVmOGVva0kzeWxWR2dJc0ZNVkxWbG5tbGhvOXA4WC1BaXlyWHlIUnRlUnUtSXB1Y1lqSFVncWZvZ2w4ZXl4Ry13TUY1cW9EYzE1dklHV2hDZnFJWE5hTWh0UQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-17 22:01 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6137e6e4eb3f3af5",
+      "title": "OpenAI Paused Its Scary-Good Next-Gen Model Over Safety Fears—Has Sam Altman Finally Regained the Lead? - 24/7 Wall St.",
+      "summary": "24/7 Wall St. 报道了「OpenAI Paused Its Scary-Good Next-Gen Model Over Safety Fears—Has Sam Altman Finally Regained the Lead? - 24/7 Wall St.」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Paused Its Scary-Good Next-Gen Model Over Safety Fears—Has Sam Altman Finally Regained the Lead? 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmFlb2FkdzFHTFRFaDFocnF2VVBQZ0NkZWw5QU1WTEtjdFlic0tCYWhBc014QU5xNzA5WGJtYU9xMmEydjdWYnd3eEJCRm5kQXJRd21SMlRicGRlOUZ1WGx2RjVQaUE4bXdZT0ExWFIwaENUbXhMdjhoLXJGTG8zd0FUb2Y2TlJmV2pudVIyQUFRdGItNWVua3ZnQU9yaHJab0RUN0xQTExtb09KOUptRmJQT0pmYm41MEc0b0hPeGgyVTBQakVpQ1B1WGVhSFVmcy1jTmJ6d2d2bGRFSHE0?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-18 00:46 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6090380a5a0ba60b",
+      "title": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
+      "summary": "Tech Times 报道了「AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1RFZEl4aHVNdkcwWFhiaTNlbmozSUl4dk04SHM2RXZzU2VJWTJMSjZzcnFMWV9DcjJQem1VT3ROc285Mk1DME9KNmlEbWVQaXIxYll1WDNPTHY2QkEydnljOXJTdW5SQ1FZUlZub3NUaXR0ZVBpYk9WbDRRT1VGcWxqaUx2RTlFQkhjUEVZWWlYRWJnQlRHOUVlX2dicmdKSFQ3ZEp4M25wajdqVGVjX2ppczVxMVlJZGRfVjJJUHdjTS1JcWlqd3VHV2RyaWVWUUV3?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-08-18 01:59 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5ec15c63449c9593",
+      "title": "数派数据联合华为在昆明发布AI原生企业操作一体机 - 昆明信息港",
+      "summary": "数派数据联合华为在昆明发布AI原生企业操作一体机 昆明信息港 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "数派数据联合华为在昆明发布AI原生企业操作一体机 昆明信息港",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVTk4yNlp6UTVVN3pQaUpicG1kTFUzSEg4cmNrRG9HRFYzLU4yY18xZlFaN3FaSTB6SVkzX1pIbnZEYkZqTFJVSUM0OXhzaURYaXJ4b0Q2bGdjQkRYNHdIa2lRbE1jUQ?oc=5",
+      "source": "昆明信息港",
+      "published_at": "2026-08-17 15:32 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6668817b7a94df15",
+      "title": "华为联合浙大二院发布三项联创成果，推动智慧医疗AI应用落地 - 新浪财经",
+      "summary": "华为联合浙大二院发布三项联创成果，推动智慧医疗AI应用落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为联合浙大二院发布三项联创成果，推动智慧医疗AI应用落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjlid0EwQXA1eFd6ckJPbE9WOGlBd1NiQzZxMVBKMUtOSTg0TmFZcTY0Rkx0R3JfY2Z4M2l6R3J0REtnZDl1Q1hIb0xYNUZiNHFvcjVhQlNXdERLRm5WemFpUFdLTTVsX3FHd19yMVo4SFR5eHBSS1E4OWhzRXc2QXRiaUc2Rm1pOVpZaEVwbGNOdHVaaUlxODNLSkY4ejJmc2JwMGxnNA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-17 17:56 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e474d7fd2bf61fbd",
+      "title": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、OPPO、vivo、荣耀、比亚迪、吉利等20余家企业共建 - 新浪新闻_手机新浪网",
+      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、OPPO、vivo、荣耀、比亚迪、吉利等20余家企业共建 新浪新闻_手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、OPPO、vivo、荣耀、比亚迪、吉利等20余家企业共建 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzaWNBRi1hOEFKLS1PVUxuVHJVLXNDZzl0aVpFbXpXYTRxYnZBcmIwc1FydGQxeUNNNFpLMEhjQnQyNS1kLS1wbzZ0TE5JLXZGenV6cE96QWp5N0dhbkpENFNtSUVhSzZQMTJvMXZuZVBGMTZPbUE?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published_at": "2026-08-17 18:29 +0800",
+      "companies": [
+        "Huawei",
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c5000e889208cc6f",
+      "title": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级 - 潮起网",
+      "summary": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级 潮起网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【数智周报】 华为云OfficeClaw升级为OfficeAce；Meta发布轻量化AI模型，单张显卡即可运行；千问办公助理收费；智谱宣布ZCode全面升级 潮起网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdnNQeG5hYnNzSFpMejdnZklnWlRRaHYtYWVLejJVOXpETUFVbkNCRWVmZVNSYlBUVHNOdmpoWWdmT1M2a3hsWVVPdGN5S245SHcxYnpQUDgyRDJiUzBGdDZ3aw?oc=5",
+      "source": "潮起网",
+      "published_at": "2026-08-16 21:30 +0800",
+      "companies": [
+        "Huawei",
+        "Meta",
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 142.0
+    },
+    {
+      "id": "d74b08924d561866",
+      "title": "从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？ - BBC",
+      "summary": "从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？ BBC 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？ BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRUJRUjBGdUJxOUxyU01GZ3pEbkZTOURySEduNUQtT2ZDMXJXY1RsbDU3LWhRT1FSelNtQjhiVFBUM3lkX1ExaUpnMF9YOHAxZ0t5dmNQTHNYcU9wTTVXMW8xWU4xUdIBa0FVX3lxTE1aeGlXQU10NEd4N1VwN3JfYUZlZkFkLWt3T2tLN3p4NmhNUlNIak13NUdoRG9GQ3Zrb1gybHJNSFk1N2x0U21GdVJNbm9sajZkb2hzenVnck90cGIyaFdnRDIzdkxnS2E1dF9Z?oc=5",
+      "source": "BBC",
+      "published_at": "2026-08-18 08:19 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 141.0
+    },
+    {
+      "id": "a42496df615ec589",
+      "title": "Xpander Raises $7.5 Million Seed Funding As Enterprise AI Agent Omni Scores 90.9% On GAIA Benchmark - Pulse 2.0",
+      "summary": "Pulse 2.0 报道了「Xpander Raises $7.5 Million Seed Funding As Enterprise AI Agent Omni Scores 90.9% On GAIA Benchmark - Pulse 2.0」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xpander Raises $7.5 Million Seed Funding As Enterprise AI Agent Omni Scores 90.9% On GAIA Benchmark Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTAyZ1RFUHJTTVBMT255U19rbm5LOTA1TFBoTENxVTluYXpQSmJiSF9oVmhYYUxXUjVpd3FsUW5RVUlTRURHSTh1a3ItYXN5a1FCeFZlTnFZbERyMUsxZzR3aW45ZmNKNHRCcFJBWkR3cjJENFE3SEozd2p0X0FJOFFGSk43UTRQRG5NdmlNODEyY2xEb2ljNExYdTF4VDJNRmw0T1luVDFaRGloZ2fSAbMBQVVfeXFMTUVxbWYtTHRWUHFneG5EbE1JUnZFNDZCQ2JfRXY3SnVjZWtTT2hIcVgyd3lSc1E4RkQ0Nk90MUlvLWJsc3hfQWlYSHlWUnB3bEtBanl6dFlUZkxrQ0Z4NGRQNjlLaklYT2xlbDJGejhrQjJ6cndlczVkSzRNVERoTTRxM0ozYWs0cF9lOVJESmFLTzUzU0EwM2FtMkIwOUFQR2VSNFdCT09nYkl1SU9MQkpxbEk?oc=5",
+      "source": "Pulse 2.0",
+      "published_at": "2026-08-17 22:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 97.0
+    },
+    {
+      "id": "82c4325284d70f1a",
+      "title": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - Fact.MR",
+      "summary": "Fact.MR 报道了「AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - Fact.MR」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 Fact.MR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3V0bXJIaFFUNFZRZXU4VGJ4dEMwd0RHbnBoNzQxM0VRSzF4SUpETk9hODRQZ3hRdUNVeDBDQWlUZk5ndjNVZVpNZ1hXdURaMkFsTVNTenZmaThBajdkYWJpM3RyVHJQWU4wWTE3aWFycHAxR2U0Rkg3WFNtbTVMLW5LT1VveW5k?oc=5",
+      "source": "Fact.MR",
+      "published_at": "2026-08-17 19:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "82df70933e178ff8",
+      "title": "Agentic B2B buying is making structured data the new homepage - MarketScale",
+      "summary": "MarketScale 报道了「Agentic B2B buying is making structured data the new homepage - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic B2B buying is making structured data the new homepage MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3dNQ3FVQUFRajZtVDhkRlFPS2ZPc1J6YnpyTVc3YXVJdXVJcmV5T2RQM2QyNVlCdmdlZFUwN2NDdm5XLTE0T2Jmdl9FMllPR3UtS3J1NnltM1AwcXQ4SE5RRjRoZmZYekZoYjBnOGhTb3E3MHNqSGFNSDRQU1JDSWxueWYzbDdNTHVOU29ybzdWYmRiZXVXMVRnY2tySlJiRG02ODlGNV9SdjNoSk9Jc0VOTWpqdw?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-08-18 07:04 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "aafbd311595c0be5",
+      "title": "Xpander Raises $7.5M to Expand Enterprise AI Agent Platform - HPCwire",
+      "summary": "HPCwire 报道了「Xpander Raises $7.5M to Expand Enterprise AI Agent Platform - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xpander Raises $7.5M to Expand Enterprise AI Agent Platform HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1VPYlEtbFhYdWdMd3lwZjg5YXhhQ3Fqbk1Dd29MYWVfdXFYMUVycGtTb01LS1QxaXdrVnBuSXg0a3BwVktJTjd2OUxsNWQ1QVBGMnJtY1pGNFNVMmJRNFdBblZTSTJUWkUzc0hFWW5CN09kNmZSY1hDa3oxejhqV1Q2UHMzODNuUzVldTRGSjROdkZ0NXJTSUxPS0I3d1hTaE1V?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-08-18 02:21 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "aa44081db6889d30",
+      "title": "Agentic AI Market Surges to $93.20 billion at a CAGR 44.6% by 2032 | Report by MarketsandMarkets™ - sg.finance.yahoo.com",
+      "summary": "sg.finance.yahoo.com 报道了「Agentic AI Market Surges to $93.20 billion at a CAGR 44.6% by 2032 | Report by MarketsandMarkets™ - sg.finance.yahoo.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI Market Surges to $93.20 billion at a CAGR 44.6% by 2032 | Report by MarketsandMarkets™ sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDlyY2xIbThpZHIyYm50WDdNcEdOUUNiLU95UUE1bHdrNk5XeTJiUmM4d3RBemctQk4zYzJScjI1ZGhYRVBXNUt4OGk5UUFZZmJSdmY0alA2anhaRXlZVzMxWUZQWFlDYm5pSGlJLU0wWGVENTdfRktoWmJXYkhYRGVn?oc=5",
+      "source": "sg.finance.yahoo.com",
+      "published_at": "2026-08-17 22:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
