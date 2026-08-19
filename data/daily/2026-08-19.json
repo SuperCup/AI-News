@@ -1,0 +1,352 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T10:34:12.007832+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-19/",
+  "image_path": "assets/daily/2026-08-19.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "8f8e0c68e32a731b",
+      "title": "IU researchers advance transparent AI with support from REALLMS - news.iu.edu",
+      "summary": "news.iu.edu 报道了「IU researchers advance transparent AI with support from REALLMS - news.iu.edu」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IU researchers advance transparent AI with support from REALLMS news.iu.edu",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjAzTW1rdkdpUTYwc0oxUFIxbTItZjZIZmxmWEFCSUpoTUFHT2VrVmpYUm9nNTBHdmd2ZUwxcDJWeWNHczBUa1I3aE15dk1WS0dVRU0tUV9Md0lyQVRkT1hEOWg5c0dhZnZGWnB6UGJwNno4cFVaVHlHOG5nVV9zMTlhbWtPd2JQa01BRmRLVVcwUU0?oc=5",
+      "source": "news.iu.edu",
+      "published_at": "2026-08-18 09:12 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 152.5
+    },
+    {
+      "id": "5f47759619bdf717",
+      "title": "Google’s $10,000 refund test shows why AI agents need zero trust - Help Net Security",
+      "summary": "Help Net Security 报道了「Google’s $10,000 refund test shows why AI agents need zero trust - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google’s $10,000 refund test shows why AI agents need zero trust Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwUDh0TFJuaXh1TnR3UDBkREdWZDlDUEpyUUJNdVZtR1piZnJUQ2FaRGJyR19qbEZpbW5LblBFdjFKbTJMY3oxV1gyb1FSMV9zZUNXSFJwV21ONG9tUDR5SVp3NF9HQndXV3lEU1I3Vk9BR0lZMVJjTy1kRQ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-08-18 19:49 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7ac18e024c06bda7",
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens - VentureBeat",
+      "summary": "VentureBeat 报道了「GLM-5.3 hits the API at $1.4/$4.4 per million tokens - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFR6bW50VXpUSUN4WjF4SDN6aEIzX0lWeE5iXzBfT0dqQk1ZS0pzalRpbEJNVWFDX2F6UkFFY0dzOE5mb0RKNEZTVERGSDVlcmVLSWlINll2VjlKeHVURnlaMGJhZWhYbUFuc1E3Uk5fOExZMFVOajhCU0tyT1dlVTNaMDR3Zk14MmE4NzRR?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-19 10:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Zhipu AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "652e414d0d9df1c2",
+      "title": "OpenAI Overhauls Security After Hugging Face Breach - The Tech Buzz",
+      "summary": "The Tech Buzz 报道了「OpenAI Overhauls Security After Hugging Face Breach - The Tech Buzz」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Google DeepMind、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Overhauls Security After Hugging Face Breach The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlBkendOaUxyWmc2bnQzOHExSnh1SmxUZnRrYmlEMGF3RkUtZGs5RUR6VmVDVlpQeVpRS3dPVXBGc1pLcGxDZVBqcEM5S1ppNU1paXE0X3dWd2VBdXo0Q3pIR1BuVjVzX1RkVDFtRlhwcWNCbzcteDB1VUd0MFJLTTJYeHAzcV9hTElNMQ?oc=5",
+      "source": "The Tech Buzz",
+      "published_at": "2026-08-19 02:29 +0800",
+      "companies": [
+        "OpenAI",
+        "Google DeepMind",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "6f1ae79966a7056c",
+      "title": "OpenAI president urges enterprises to hasten AI security defences - AI News",
+      "summary": "AI News 报道了「OpenAI president urges enterprises to hasten AI security defences - AI News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI president urges enterprises to hasten AI security defences AI News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVFmTUpTRGlEWktZME5JdW9ZY0VKMWZwYV9qRnI1aEltcEZOR0lBT3NwQk1zMUc1M3lsWVlJZnFPRWwxdEYwV0lYUnp6cDQ5T0ZWeEFsNzNhUUc4ek5rYzMyQVgzWlZzckFPNFRYeWpoUHdENG9HQzM1RG92aXBPdkk4Umw5QXA1Xy1iNDZQMlA2MzdjWDlDbXZkTzQyaS01cGJCRk5aVkg5Y0lvRF9QNTh3?oc=5",
+      "source": "AI News",
+      "published_at": "2026-08-18 22:59 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "c2cf1227f4a54899",
+      "title": "以GLM-5为例，探究九章智算云强化学习系统如何落地“训推一致”|Agent|大模型|GPU|Minimax|Qwen_手机新浪网 - finance.sina.com.cn",
+      "summary": "以GLM-5为例，探究九章智算云强化学习系统如何落地“训推一致”|Agent|大模型|GPU|Minimax|Qwen_手机新浪网 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "以GLM-5为例，探究九章智算云强化学习系统如何落地“训推一致”|Agent|大模型|GPU|Minimax|Qwen_手机新浪网 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnRzTWo3cV9BMHBJeUlfb0x4bS0zVUNPbzVNSTNlMXFiX005SUxNeGI3eXdlVFR3aGFOajI4MG1wQVYxVmJ1YWtTWEw3UHBvM0xGUVVVN2hERF9sSmpyR2FnendjM3QtN3hXRHN2MHlUZDdCYjhaWTkxWVFRYXp0bDNjTU1EY0pNX2ZFSmtpUmkxSFl4aWdhdFRJb00yaTVwbzByN2JEMA?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-08-18 23:50 +0800",
+      "companies": [
+        "Alibaba",
+        "Zhipu AI",
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ec4fd9a5ac6a9370",
+      "title": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建 - 手机新浪网",
+      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UaFJVRnhTUTlDM0R5MzZfSExRRlBVRjJ1RlltelBia041M3IxN2U2c1JRVFVZbzV1Qm1qNXAzVEhmWnJWckpROGt5ODBZX3hGUTJCblVsYjZiNzlIVndrd29mVzFtd3pHeXduQ2M0dTM?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-08-18 16:32 +0800",
+      "companies": [
+        "Huawei",
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "30835346b4174adf",
+      "title": "大厂AI资本开支加速落地，国产算力进入正循环，关注芯片设计与制造双主线 - solarzoom.com",
+      "summary": "大厂AI资本开支加速落地，国产算力进入正循环，关注芯片设计与制造双主线 solarzoom.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "大厂AI资本开支加速落地，国产算力进入正循环，关注芯片设计与制造双主线 solarzoom.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XWFExOUpUdzg1dzk5YlhHamYya3l4VHNCbk5tYjZRVFU3cFNqUW8zSmhPSkdCLVdZVDNZSHlmLVJTWEdLblhLVU8tanpsMmFLQmthZTJMOA?oc=5",
+      "source": "solarzoom.com",
+      "published_at": "2026-08-18 14:41 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fad8d99a4fce4f85",
+      "title": "AI落地战进入下半场，美团选择帮传统行业“建底盘” - 中华网财经",
+      "summary": "AI落地战进入下半场，美团选择帮传统行业“建底盘” 中华网财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI落地战进入下半场，美团选择帮传统行业“建底盘” 中华网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5adVkySVQ3UGJMVHp1MHZCNExSTy1fa2RERTJXamZxdFdNanZ2SjJTV3lpUHVBZkV1QUZKLXNOQTd5SXRfUjNRdFVTenVuSFkwenQ2eTBsdW5PQkxYa0hkQUZ4bHJiLUdrN1JvekFR?oc=5",
+      "source": "中华网财经",
+      "published_at": "2026-08-19 09:04 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7c1968e04cbfa325",
+      "title": "推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？ - 四川新闻",
+      "summary": "推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？ 四川新闻 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？ 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUkdKRFNUV3g0TzBhUk9tdENzR0tzZzdLdU1WbkcwYmg3YTh6enBaR1lDQXBhdUtYRTJSd0Y1c1FIYm5JRHVXc3E1Rjc0eFFxZmJSSHFZREdka1hDdmowTmR6WQ?oc=5",
+      "source": "四川新闻",
+      "published_at": "2026-08-17 22:11 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "ca1818e494486686",
+      "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally - VentureBeat",
+      "summary": "VentureBeat 报道了「Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、开源模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck1UOGdORXpubWhHdWdWY2JLa2tiY01yaW9iUmpJMnBNb3dKZHFlTlRYUldMNTNPZ1EwaHNnMllnM3lkYW5OdUc4T1lLTFBGbV9mVVkyR3p0S2gtRzdURi1nYkxHMGRrY1BXVFZsUHVmdkRVUmJmMjFIRGNnaXhOVUZwcjBoNTBsS1JXYVJkWF8xN18wYUQydFpHZ3EtTUs1QkdwLVJELVZIT3VWOGV5WkNBTGJHWTBFUXRsVnFQUHZrWHkwTm1ENkl3OXlOR2tjWS02aDY4eDZYYy1GMUhDZkkzWks?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-19 07:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "open_source_model"
+      ],
+      "importance": 108.0
+    },
+    {
+      "id": "1153cbbbd16a9222",
+      "title": "U.S. Agentic AI Security Market Size & Share Report, 2033 - Grand View Research",
+      "summary": "Grand View Research 报道了「U.S. Agentic AI Security Market Size & Share Report, 2033 - Grand View Research」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "U.S. Agentic AI Security Market Size & Share Report, 2033 Grand View Research",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExIUzh3eTlLM0VkOGR3aV9rdnR1VlJRdmFPYm5lNUVqVVVFTTlLdDFMTTFfb2RlNFpOR2o0SzhhWk9iLVl2a0tfWWhjTXpSTE9aZTE3YmItN21GRlJvb2VLLUNBYnVEcGtRQ2k5cUhUUk5hcEJGaHJCMXpkQXliS2ZTZ2lzSHFkOW1xSGRyVjhIQQ?oc=5",
+      "source": "Grand View Research",
+      "published_at": "2026-08-18 18:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper",
+        "safety_security"
+      ],
+      "importance": 106.5
+    },
+    {
+      "id": "9cf6bb7af4efbf76",
+      "title": "Gartner Predicts AI Inference Costs Per Agentic Workflow Will Increase More Than Fivefold Through 2028 - HPCwire",
+      "summary": "HPCwire 报道了「Gartner Predicts AI Inference Costs Per Agentic Workflow Will Increase More Than Fivefold Through 2028 - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Gartner Predicts AI Inference Costs Per Agentic Workflow Will Increase More Than Fivefold Through 2028 HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcENsM2NaN0hJeVk5a2EyREtoZlRtc3B6WTBFMEhRSEhnbHB3NjUzeU56TGNTMmpQc3QxbUxxTHA2T0ZPblFKbWV0dVdUT3poV0k3N2l1VkpOaE9NaVNZV2Z3OEM4X3FVXy1MRFBOa3FfRTF1ZnNwUUdxaTZxcGUwUDdTdzVjUnNUMEtTd1hzUmpfN2xlME01RXJPRmZRQV82Vm84REs4bEt1Q1NEa2lsRU9WR0stUU9yTXBNSjJ6WVZrbjJ3dkNTTXpUSjduckJUQXp4MkV6bGtsNFljR0E?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-08-19 00:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai"
+      ],
+      "importance": 101.5
+    },
+    {
+      "id": "3a71adeac2cf00eb",
+      "title": "If AI Agents Skip The Dashboard, What Is The SaaS Interface Actually For? - TechRound",
+      "summary": "TechRound 报道了「If AI Agents Skip The Dashboard, What Is The SaaS Interface Actually For? - TechRound」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "If AI Agents Skip The Dashboard, What Is The SaaS Interface Actually For? TechRound",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmFzaFNaZ09VZkowQl9DMkxrV2lkMHRidkR3VFN5ZzRzUlREVG1hU3VZY29WeXFtQzNkOTcwUnJ1Zk14NkVDQVRaaEdSX1NiTDlxc3M4ZXZtRFdsQ2FHTDIwakVvTnRvNk1KOGhaeUs2NnJ4eWtXVG1PYjFFTkhUamtodU5Rd1Z2S0JXcHp1V3R5SXFvajlZVU9FTjFpNEtSR3czUTJGbUlIUmpUQjItc2UtSzR3ZVBEZXJqcQ?oc=5",
+      "source": "TechRound",
+      "published_at": "2026-08-18 18:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "9d4f03cfc0afbbeb",
+      "title": "AI Agent Management Services Market Size, Share & Forecast 2036 - Fact.MR",
+      "summary": "Fact.MR 报道了「AI Agent Management Services Market Size, Share & Forecast 2036 - Fact.MR」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Management Services Market Size, Share & Forecast 2036 Fact.MR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkpLMXZTb2VrcG5lTkh4dHVsbV9kMVVpR0JBWEZ5QXloRDVRZG5RNnpYX0xNRFlGMlJXbzhFVXc0M0g0OTdzTE45RThoT0taQlpmYmszd3hNZEhDVU01bUhBZ3lrSkxjWE9kN0dWRGNQc0k?oc=5",
+      "source": "Fact.MR",
+      "published_at": "2026-08-18 18:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    }
+  ]
+}
