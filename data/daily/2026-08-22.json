@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T10:29:14.828409+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-22/",
+  "image_path": "assets/daily/2026-08-22.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "91eff5c61dad56e6",
+      "title": "OpenAI’s busy summer: security fixes, new partners, data policy - Northeast Times",
+      "summary": "Northeast Times 报道了「OpenAI’s busy summer: security fixes, new partners, data policy - Northeast Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI’s busy summer: security fixes, new partners, data policy Northeast Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0pXNWJlR0phaUxsWXRWOFg5RG52blROVTZIcVNYUkpNc0lXcFZtYnFuaFBudW5UWEF3R1NPaFE2MGJmeUFGTFJJdklYM0lWR0JEUV9OREdDdWhVcEFmRlM3djRYQkZWUjBRT2FPdkhxTm9FRV9aMG5tQUtiSUg2TzV3amxQZ09KRE83djJubU05Sl9KWF9aTTJmdGt4azBL?oc=5",
+      "source": "Northeast Times",
+      "published_at": "2026-08-21 17:20 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "3d264c3c0a8c3c4d",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access - MarkTechPost",
+      "summary": "MarkTechPost 报道了「Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGF4SUwtb0lEdU1rdGg4V1FnN1pXV29YdlJsakFfTklDSDBQdTM3NEpja0pnVHhNMGpINS1mbzZldm9nTHFfSElTUy1Dd2tTVlpEbnlkdWl0cktCdHNlUm9oWEIxMDd5MnJGcDNISldHbzloRHVnN2xrUXp4eHBfdTkxQXg4bG55N2JscHNCS0dzWklwMVlEdzJhckPSAZwBQVVfeXFMUExheElMLW9JRHVNa3RoOFdRZzdaV1dvWHZSbGpBX05JQ0gwUHUzNzRKY2tKZ1R4TTBqSDUtZm82ZXZvZ0xxX0hJU1MtQ3drU1ZaRG55ZHVpdHJLQnRzZVJvaFhCMTA3eTJyRnAzSEpXR285aER1Zzdsa1F6eHhwX3U5MUF4OGxueTdibHBzQktHc1pJcDFZRHcyYXJD?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-08-22 05:15 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "2cb4be07947d92a2",
+      "title": "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund - Unite.AI",
+      "summary": "Unite.AI 报道了「Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Deploys Claude Mythos 5 in Security Tools, $35M Open-Source Fund Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC11eE9YTEhoQmdLQmlvUlp0YkhaaUllc0FMNEJTVUUwcmRKTGl3RzdZOGVTa01aWVhMZmR0QU54R1hZRzRKMlpIbTJNMEZ0U25oN3gzU3NOa2FIZ2hfeVl1emJYR0Z3MDR3ekczRFB5V0V3UEE3djlhYjMxTFBfMU5DQ1VpRlBXNG9NclJPR2psTHNvajA3TEl3?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-08-22 01:48 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3cd8de78cfc5fae7",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch",
+      "summary": "TechCrunch 报道了「Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia just showed that the harness, not the AI model, is now the real hero TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYUhYMWlQcFVnY3ZOSzhwb21sNFEwVlNzS3dJaTl2bHJpYm1sM3g3MHl6S3NoU1Etd2VWakh5b0ZkelB3a2hNNy03akFEN1JybGF5ZTUxcmUzeEw1X1lBd2dqeU5fUWF2NVRHWWpIZXFYTWk1SFhKMlZBY1RoSlRjLWljUE1HMm5xcFN6RkM0NkNYOFlYSTBwWWhReXpXZFVsSVNnOUNIc3dQUlNQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-22 03:43 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "94132185314c6429",
+      "title": "Where Security Fits in an AI Agent Stack - NVIDIA Developer",
+      "summary": "NVIDIA Developer 报道了「Where Security Fits in an AI Agent Stack - NVIDIA Developer」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Where Security Fits in an AI Agent Stack NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFk2TGl4UXNSYTRLaFdpay1xd3QzZUhKMzEzN2JVeWxpWWV2R3JRNmk2c3NKUVJ5aUxGSEdBRFlWWFVXbjBaNG4tN01NTURSenljX3pnN0pjdi1VeG9yRkUwZUtpT1A4Xy1sVEpyZkhFQnd3YlgyZDFSa1NYQmVYNQ?oc=5",
+      "source": "NVIDIA Developer",
+      "published_at": "2026-08-21 21:20 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "41d2e6e0217c899d",
+      "title": "AI忙落地，Harness能否成为“终极武器”？ - 新浪财经_金融信息服务商",
+      "summary": "AI忙落地，Harness能否成为“终极武器”？ 新浪财经_金融信息服务商 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "AI忙落地，Harness能否成为“终极武器”？ 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pbnl4WHVBNkpHU09HNThsQTczUXFWMnBJeWZ4ekVNcnVuLUNnTG1tYXpHSlJEcHlScHFuWUJ2aFRaOUZ5djJKRFBiYThYQUptQW13elBOT2gxajRmNl80MFVkRE1kNWdhLUdsZWd1NWlVRW02bXY0bQ?oc=5",
+      "source": "新浪财经_金融信息服务商",
+      "published_at": "2026-08-22 04:29 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "af4858169d340000",
+      "title": "开・云手机网页版入口风起，深圳成为AI应用落地核心阵地 - womenofchina.com",
+      "summary": "开・云手机网页版入口风起，深圳成为AI应用落地核心阵地 womenofchina.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "开・云手机网页版入口风起，深圳成为AI应用落地核心阵地 womenofchina.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wZldlRHVQMVRxWUlJYWlRT3E2QjNvRjhFcVhXVElXcVdZWUd0Y245eTB5UHJuQlF3VXdCRXpQR1EtTmNHQ1BxS0tvY21tOTR0Sm1NVU40YmMzUVpHeVlSOFRtNTZSUUZZS2lV?oc=5",
+      "source": "womenofchina.com",
+      "published_at": "2026-08-21 17:05 +0800",
+      "companies": [
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "663caac82919323f",
+      "title": "中小企业搞AI：对着大厂的攻略走，不用再踩一遍坑 - 新浪财经_金融信息服务商",
+      "summary": "中小企业搞AI：对着大厂的攻略走，不用再踩一遍坑 新浪财经_金融信息服务商 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中小企业搞AI：对着大厂的攻略走，不用再踩一遍坑 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUFFSzZMWlBPVkxha3RBMjExS1pFU1dha2gxcTFYS1RwYWhkT2Njc0lNMDJ6d3l4dmRJcGRYcXpXN1doMUxnV3VxSUhmWlRGVjZnOElVOFBmd2xCWWlsNGc5bF9vdHgtS0ZtUUZRS2xIS1BhalFYVjFmUTZUeEl0SHpUYVZ3N09MZFNmRmVMSldPaE5rdXZNclFtaDhUdzdMdmpqZnRDNA?oc=5",
+      "source": "新浪财经_金融信息服务商",
+      "published_at": "2026-08-20 23:02 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "9b5fec2d96265bb9",
+      "title": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致 - 财新",
+      "summary": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZSWJUU0phT2RIVDVvdllNRk1LR1lOdzRGSFYyWkJfbGJlalhVYUx3djd4Ulk1em1yTUxzWWw0Ny03dVdYUVp5cHA2V0RrTTZxM2pPdEd0UDlNbFJ4TkVacWgyVjQ?oc=5",
+      "source": "财新",
+      "published_at": "2026-08-21 20:15 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "9c0d72b06aebc7f0",
+      "title": "【禁闻】中国AI绕道海外取英伟达算力 美拟堵漏洞 | AI芯片 | 中美AI竞争 | 月之暗面 | 新唐人电视台 - 新唐人電視台",
+      "summary": "【禁闻】中国AI绕道海外取英伟达算力 美拟堵漏洞 | AI芯片 | 中美AI竞争 | 月之暗面 | 新唐人电视台 新唐人電視台 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【禁闻】中国AI绕道海外取英伟达算力 美拟堵漏洞 | AI芯片 | 中美AI竞争 | 月之暗面 | 新唐人电视台 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMbzdNYktFTmYzdDNlUUwwMWIzYlhnemJYUGwzSVpNeGVaTTg4dDhhY3FSbFRMXzFrdjZkU1dNQldZYlQzM1R3a2U4V1VuQ1F0SU01aFJhMHRwWlBYZUdnekhkS1RlM0pFNFlvVA?oc=5",
+      "source": "新唐人電視台",
+      "published_at": "2026-08-21 15:25 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "0f5249e7f33682aa",
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message - VentureBeat",
+      "summary": "VentureBeat 报道了「NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1lYa2lMREliUTk4b211ZmUzM1RkOWZBcVo0UDNSNW9HQ1E4LXpmRjhici1IQXhIZHM4NlZzaXIzdW80MHlhV2swWVF0MjV4WGdpMUhpU0VIQkV4ckFnRjRtUUNtbUdYbnZZc3g1di0xN1NXNEZoanJBR0pYdUxPLUQyTU9hU3JhSlBIOWU4LVo4Slp4dF9ZanlIZzFpdnIwNzBXRFNXcWMyVnBtdWJPaW9yazNzdlV2ckdmQXJUX3JOVmxueWN1MENPNEp2ZnZWcG53eW9paktheEU?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-21 01:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 101.5
+    },
+    {
+      "id": "135bc87e495ff7e1",
+      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed - VentureBeat",
+      "summary": "VentureBeat 报道了「Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTc0b0lHVFhSVndRVkJVaEI1ZlphWDBoQldXLWNkcl9UbTQ3a0Vtb3JzTlhKOEhoZ29NeWtCamo3dV90OVczQnhZZGpjeHZ3bG9idGRFLXAzbWl6NmtlbWVMMWp6WUF4YWtGUkg0c2RsSUJGRXR6dDBCNS1ZUTc0REpEbGdvVDA4QkhJVm8wZlRrUi1BeElsMGRkVWdwVUJrN2lkeFNHemxkd1FaNmt0M2g4YkRsS1pMeWRGMzlmck0wa1FoTmt6VFFXeWZuRmlVakhldjN5cmNYRW5hY0VRYm5Wclo3X2F5?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-08-20 22:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "cb065db6e80151d9",
+      "title": "Anchor Browser Launches OmniConnect, Eliminating the #1 Cause of Enterprise Computer Use Failure - The Ames Tribune",
+      "summary": "The Ames Tribune 报道了「Anchor Browser Launches OmniConnect, Eliminating the #1 Cause of Enterprise Computer Use Failure - The Ames Tribune」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anchor Browser Launches OmniConnect, Eliminating the #1 Cause of Enterprise Computer Use Failure The Ames Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS1cwWWU0QmdiUFQ4OS0zSkhsdWw0V0M1dnFxdVlSZURCaDlTMDluY1R6aEc5SHZfUDgwWHhBaks5V0NTbXRjNWJBVGNHWXdPQzQ4eVBmMkUyQ2E5eFJMZy1wR3hqSGw3RE5xTVpFak4xRDlhbDlGR2VCZ19RV1JLS3RjMmttYmU0MDdDZ1UwM2V6QmprT2pRb1NnMnYzTktJdkx1RkdTX1cxSE9aM1NESkdwYW5WYU9xdkp1NW5xcFE1NXBxd1REc3ZteXlQUTZlMDdLZ0puRWg2S2o5TGtKVg?oc=5",
+      "source": "The Ames Tribune",
+      "published_at": "2026-08-22 04:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "5dee3069c5087af8",
+      "title": "5 Real-World Use Cases for AI Agents Transforming Industries - KDnuggets",
+      "summary": "KDnuggets 报道了「5 Real-World Use Cases for AI Agents Transforming Industries - KDnuggets」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "5 Real-World Use Cases for AI Agents Transforming Industries KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnM3azBQZGFQMzY0anFpRnlIdURtWEZjTTNiWEFDUkRQOEpGdHJObGd5TWZhTGxtVjBlZ0ZVYWpUaFhkLTBQLWxIVHFuX05NQXN1eUt5UzNjVVJ3YU9JME1pTzFrNkplYzJxakEzZUNtTmdpWl81SEJSOWhqWDNBM21TajM3b3U4NEt5Tkctbw?oc=5",
+      "source": "KDnuggets",
+      "published_at": "2026-08-21 20:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bea72416827bdda4",
+      "title": "Coupa expands AI agents for enterprise spend management - Portal ERP",
+      "summary": "Portal ERP 报道了「Coupa expands AI agents for enterprise spend management - Portal ERP」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Coupa expands AI agents for enterprise spend management Portal ERP",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2pJcmltemNSZ21CX3dfWk5PT3lXaTNTRDVLZjhrQmVNQmFiVklFMVpKY3hwWkgyTllYT1Q3UW5pZFdLMXpzbWg4azNud1I4dXhNLUZCUDN0ZVNabVFTUmx0WDN0V1Y1b2I0RDhqamVlTUMtcXZsOXBuRFc2cFY0YlVIZmFpZWwzNHNiR0dB?oc=5",
+      "source": "Portal ERP",
+      "published_at": "2026-08-21 11:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
