@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T10:32:01.679310+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-25/",
+  "image_path": "assets/daily/2026-08-25.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "cf26585039ffae08",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns - TechCrunch",
+      "summary": "TechCrunch 报道了「Instinct’s powerful AI assistant is raising privacy and security concerns - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Instinct’s powerful AI assistant is raising privacy and security concerns TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUVQbWtwVGxxOHg0VFFqTFFSZmVibVQ0anNYd0x1ME5YTjZJOFhrT1p0cFUtRkZnb2ZHZ00yMm5ZSTh4QjRiZ0R1SUNjMVRXeDhNeDNLMnBibVIzd3A3Z1hiTkpnYzc2eHFvN1ZJLUJTcVNMSkNIamItRjBjNllyOVk5bl9tcUV6aUNCbUtYM0wwS3o1WEF5d045UndZQ1dlZDYwbE1TS0JVNGs?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-25 02:03 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "d53064c8e6bfa748",
+      "title": "Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration - digitimes",
+      "summary": "digitimes 报道了「Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration - digitimes」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration digitimes",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTlBQQS1oZzRhS3lOWm1HZEhXUWJPbUQ4VXpSYXpkWVpGazlfVHVCekxPQjc2Z21FYWhxRk8zdjJFQ3NFTFZnaXItVXNPT0lGLV9lZ0RpNFJMblRoODB6OFRpaU84SV9OSVRn?oc=5",
+      "source": "digitimes",
+      "published_at": "2026-08-24 10:57 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "1e2723334ae8a6e0",
+      "title": "Cybermes - AI Red Teaming Agent for Automated Penetration Testing - CyberSecurityNews",
+      "summary": "CyberSecurityNews 报道了「Cybermes - AI Red Teaming Agent for Automated Penetration Testing - CyberSecurityNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cybermes - AI Red Teaming Agent for Automated Penetration Testing CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pMUZXRGVJbDNXMXNVVEduRzhPRUs5VkJ0b01HYWVlaXc2Mm41dC1WcWpRclJyQ09uQUdTRWxGc2VKYjZ3LVNuSm5rN090V01FcGU5VHFmYnpsQ0lJRjVEN2tySUVRQjFWWFZuQdIBckFVX3lxTE84Sy1NOVZkZGl3eEcxVnlBcUxpLW5nMVdPRDItYTRoNk5NUHRaQXQ3ajlsOXU4cDYtbHNUSi1YcHJQRlhTWXNmTWtZYng4VzBSLTMwSm53dnlOZWZva2Nqb2Zhb0N3M1NHNjM0TE5Nd1AwUQ?oc=5",
+      "source": "CyberSecurityNews",
+      "published_at": "2026-08-25 09:57 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "75381eeb2a25bcd3",
+      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund - SecurityWeek",
+      "summary": "SecurityWeek 报道了「Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOanZLXzZxMW5vY1VGMTJWLTB2eFpqZXROUG84NlI5Y3ZNdjVKUzgxS0hzWDBFV1AzSHNvZVZjSUhjb0thbllQQUVtdVJQakxxYW1ITDVER1RKalFhUl9kaUZWb0kwczF2ZDIxRVZIV0VtRG4wVGZvUHhSYm52VkduNlVITWtQMTdsbjFMUFBsaHBjRFYzVVpWYkIza0YyOGdpSDlkTDhzRjdEb2Ryb3VZMWRfVy3SAbQBQVVfeXFMTmp2S182cTFub2NVRjEyVi0wdnhaamV0TlBvODZSOWN2TXY1SlM4MUtIc1gwRVdQM0hzb2VWY0lIY29LYW5ZUEFFbXVSUGpMcWFtSEw1REdUSmpRYVJfZGlGVm9JMHMxdmQyMUVWSFdFbURuMFRmb1B4UmJudlZHbjZVSE1rUDE3bG4xTFBQbGhwY0RWM1VaVmJCM2tGMjhnaUg5ZEw4c0Y3RG9kcm91WTFkX1ct?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-24 15:31 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ca04428a139eb474",
+      "title": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
+      "summary": "The Information 报道了「Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks The Information",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-25 06:40 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "93ebb6578595192d",
+      "title": "华为中国行2026落地呼和浩特 共绘内蒙古绿色算力AI产业新蓝图 - 搜狐网",
+      "summary": "华为中国行2026落地呼和浩特 共绘内蒙古绿色算力AI产业新蓝图 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为中国行2026落地呼和浩特 共绘内蒙古绿色算力AI产业新蓝图 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDBWMnB5WWtaNjY0RWlTSDB1OUw5RTdJdTZMdWcyQmJhUXN6LTdOSUNDajRIbEJ1ZWRaVXVDUkd2SXVCY2VlQ3VZeUY2VXJpWUZhWmVIMnM5bl84X1BvZGhiY0lCcVYwQ3ZiYlpobTMxX1BfbnRPNW5sSEhxSzJJLWV5NWlpdHNaQzRGeg?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-24 20:47 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "72b2dd48fc7f0456",
+      "title": "非洲企业偏不吃美国那套：中国AI不只是便宜 - 观察者",
+      "summary": "非洲企业偏不吃美国那套：中国AI不只是便宜 观察者 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "非洲企业偏不吃美国那套：中国AI不只是便宜 观察者",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lcklubXFSbGZkdWtfdnVLcHN4NHNhQk5NcFhVc3F6cm56UDdDQUFDb3g0ZjJKYTFqckk3OGNTXzdrZDZLdG1uQkRfR191U2RMV0ZNeDBrLUFEVG4zUFdRNFBoYm9ZeEVEN0E?oc=5",
+      "source": "观察者",
+      "published_at": "2026-08-24 14:36 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bcc98776557db334",
+      "title": "网媒集团联袂商汤科技 启动赋能企业AI转型“十百千万”工程 - 搜狐网",
+      "summary": "网媒集团联袂商汤科技 启动赋能企业AI转型“十百千万”工程 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "网媒集团联袂商汤科技 启动赋能企业AI转型“十百千万”工程 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkx1WHI2MHNSZTF2X1JsczRZRTlnczZwenlxaWNYNXpBZEloZUI1aUtRSVYzODRveE56Vl9nM1QzZzFMQnI5RDZJNGlNQlJBZnhjTFRtSkwtYXY5Wll5T1BVYi1DdXpWbEZzTVo3VGw0RGVyeUwxM1dHNlFXcjh2dnlmcmNleWM3cVBwag?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-24 21:00 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "991302f9ae64a38f",
+      "title": "2026年金融科技SaaS平台解析：垂域自研与通用套壳的模型、治理、落地三维对比 - t.cj.sina.cn",
+      "summary": "2026年金融科技SaaS平台解析：垂域自研与通用套壳的模型、治理、落地三维对比 t.cj.sina.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026年金融科技SaaS平台解析：垂域自研与通用套壳的模型、治理、落地三维对比 t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RMXNIZEtlN0JXS21KeHZOX1d2QUtvZ3VhSkRlS1F3RC1oQXFwNGF3WEhGR3VuODVrLXVqTXlIR2xMLWt0Rl8tUHhsV19zOWp6Y0l3d0dBVWtfTjFSMmY3UWc1dWhDU2FlQjhMRTNDSm1mdw?oc=5",
+      "source": "t.cj.sina.cn",
+      "published_at": "2026-08-24 21:38 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b71e2a2c62b3c8de",
+      "title": "1361亿算力项目落地内蒙古绿色算力大会 - 见道网",
+      "summary": "1361亿算力项目落地内蒙古绿色算力大会 见道网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "1361亿算力项目落地内蒙古绿色算力大会 见道网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44TGNEYzhiVG41SWQxTnQ1UXdldW1RMW9NazN2bWxaMGdGY1dCOTBVelpPUG5hOWpLd1BZMXR3T0ZESGowT3otSk81cVZkdDZWTWxXVw?oc=5",
+      "source": "见道网",
+      "published_at": "2026-08-25 08:55 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0aab9e930e7220aa",
+      "title": "Does Your AI Agent Need Its Own Software License? - The National Law Review",
+      "summary": "The National Law Review 报道了「Does Your AI Agent Need Its Own Software License? - The National Law Review」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Does Your AI Agent Need Its Own Software License? The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclJoR0tIYzk0eGd2bnZ4RWh6Y0pKQ0tGclI4eS1fWTVCeGdBb2Z3dnVpQ2ptZGhlbXJkd2pKQjFjcU11eVE4YVpOckE3SXVEZ3I2SGcxN3pmVC0yQkdYcVFfNEc4S1NsZk9YdGRJUHdRS01YcHU5NUtlMGVVLTZLN0x2QnJzbVNv0gGOAUFVX3lxTE1xSUduUFZ4SW9Td01ic1BjLUQtWS1VejJrYW8yeHlDMVFtUHpxOWNFVl9DdERYaS1xdlNvOXZWUVBnSm9wcnpENUxoRC12TlFLOFIwNHJScGdRelJ6S1N2SmtPTjRrcEYxSXR5aXR5djcyZWFxTVJ0eWg1VENFVmI0ZnZKT0VBMHRvbHJvS3c?oc=5",
+      "source": "The National Law Review",
+      "published_at": "2026-08-25 02:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "62d58316df4f26da",
+      "title": "Dreamforce 2026 is forcing CX teams to move past chatbot containment and into audited AI resolution - MarketScale",
+      "summary": "MarketScale 报道了「Dreamforce 2026 is forcing CX teams to move past chatbot containment and into audited AI resolution - MarketScale」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Dreamforce 2026 is forcing CX teams to move past chatbot containment and into audited AI resolution MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSjA5ZjVJNmdkcWRwQ0tNU1JrNVA5Q0FFcW5tRzhWTHNPREhxYzJTWXdIQXB0QjkybnhheDYyVVJ0T3gwcnNhODdDZFNUMEhFTmEyR2RPTVpLUHpDMHNJdVR6blI3SFQtbVpzVkRwOEY4VlBrbHhqeUR1ZmdnZ3JpREZiSlRWRUZCSm4zOWF6aGJkRmlxdnluWXN0NjJLcE03a2NLMEtvTUpSMXNOejgyN3ZWQkN3RkRBdmIwU1dvSVN3SURrQ0lIMnpsTzlCQ2FLYVJqUDdUR0NUandIdVo3RF95aldKWUhr?oc=5",
+      "source": "MarketScale",
+      "published_at": "2026-08-25 02:38 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "251e8223523d2fa9",
+      "title": "ZINFI Opens Early Access to MCP Server for Autonomous AI Partner Workflows - EIN News",
+      "summary": "EIN News 报道了「ZINFI Opens Early Access to MCP Server for Autonomous AI Partner Workflows - EIN News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ZINFI Opens Early Access to MCP Server for Autonomous AI Partner Workflows EIN News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjhPeW1BbENYS3JDWVpPQTFHeGdVeGRxSUZGeUdKY1p3MGJjeUNtc0NNMC1lb19rdFlJb2QzYTBPX2ZmVXBfTm5PS254MjBib3hxNngzaUFKRUl6eVZIMlV4REE0TldER1BuWnpTSzFBNm5ZYWk4WHhrTmhWdkhYNEtUa090eHVxdG9oWldPN0dnMV95bm9KX3VJUWhON2lyakdOVm1vb0tZd2JGeXg2WDAyYnA5RUk?oc=5",
+      "source": "EIN News",
+      "published_at": "2026-08-24 19:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "418f786a5e630181",
+      "title": "Slack launches code channels for AI software teams - ecommercenews.co.nz",
+      "summary": "ecommercenews.co.nz 报道了「Slack launches code channels for AI software teams - ecommercenews.co.nz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Slack launches code channels for AI software teams ecommercenews.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVZTWkVLV0VROHpKMDlsazRuZEtjUTJ1MzRDWVE4b19ZUnlaTENCLUNFbDNLVjA2eHp0Y1EyVWEtaXRHUWRLaGk3dlhoSFl0QUlGRmd6VFZtYkpJY0NISkxSMjl3Zy1XWW1CaEs0NDNBSWlWRWhqNU1zYUhQRDNDSDduNXBTeUsxdTNxNA?oc=5",
+      "source": "ecommercenews.co.nz",
+      "published_at": "2026-08-25 04:24 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "b9441214ceadf4a8",
+      "title": "Coupa Scales Agentic Procurement with MCP Tools - Procurement Magazine",
+      "summary": "Procurement Magazine 报道了「Coupa Scales Agentic Procurement with MCP Tools - Procurement Magazine」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Coupa Scales Agentic Procurement with MCP Tools Procurement Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEg3YjFROHJrLThEYzhQanB0NVprbFpNMG5aU21xbm9QNV9kX3ZtblhfWFk0eXExS1ZyWHdmX1NTSWZwWm8xMUdDWWkwV0xvR1lPaXFBRTh3OW55RFM3WkQxQW5mNzg0X1VNVE5GOTgwRG5iRjg4RVRFdUFFTUphQ1NsYnpUUQ?oc=5",
+      "source": "Procurement Magazine",
+      "published_at": "2026-08-24 20:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
