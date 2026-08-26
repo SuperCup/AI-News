@@ -1,0 +1,346 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T10:40:07.146129+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-26/",
+  "image_path": "assets/daily/2026-08-26.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "b4edcf24ec21de64",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "summary": "Reuters 报道了「Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google expands Gemini Enterprise AI platform for law firms, lawyers Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-26 04:13 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "78db2001c42fa873",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
+      "summary": "TechCrunch 报道了「OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-25 22:22 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "185c4058ac6e91aa",
+      "title": "Opinion | We Know the Risks of A.I. We Need to Act. - The New York Times",
+      "summary": "The New York Times 报道了「Opinion | We Know the Risks of A.I. We Need to Act. - The New York Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Opinion | We Know the Risks of A.I. We Need to Act. The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SX29feENGYTQ2NEJna3V2Q3ZPaDhXamdjR3ZRV3lLeE5ndnlhYUEwQ3l1ZDRWdzVxcDVnUzJaVmIyYXdPUjFaZExrNjJQVjVLMDY2RXE3WWFibS1HTGF0d0NMLW1hSXc?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-08-25 17:02 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "31174e16c8efe765",
+      "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation - SecurityWeek",
+      "summary": "SecurityWeek 报道了「Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUZ3TEpiN3dBall4SUJCQy1XZmdBQmVZZ1dQQk9XRFlrTVdaLWcyRU1jWFR4YWdMdkN1YXI4b0NhbnJXX2paaGx6Zk82MmRXV2RRcHhzY2JkQUt4SDVVajlkT3pBUHU0RXNhYXc4Njg2dEt2M2JQNlhERTRRYWNENGs4VGJIOW1INE9oWHdWeEJTY2dfbEQyaDQyTThEWVBCc1R6TVg1Y3ZGZ1Y5UUJF0gGvAUFVX3lxTFB1RndMSmI3d0FqWXhJQkJDLVdmZ0FCZVlnV1BCT1dEWWtNV1otZzJFTWNYVHhhZ0x2Q3VhcjhvQ2FucldfalpobHpmTzYyZFdXZFFweHNjYmRBS3hINVVqOWRPekFQdTRFc2Fhdzg2ODZ0S3YzYlA2WERFNFFhY0Q0azhUYkg5bUg0T2hYd1Z4QlNjZ19sRDJoNDJNOERZUEJzVHpNWDVjdkZnVjlRQkU?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-08-26 00:24 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d598676f9597f40b",
+      "title": "Elastic 与腾讯云战略合作升级，共建 AI 时代企业搜索基础设施 - 极客公园",
+      "summary": "Elastic 与腾讯云战略合作升级，共建 AI 时代企业搜索基础设施 极客公园 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Elastic 与腾讯云战略合作升级，共建 AI 时代企业搜索基础设施 极客公园",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0eUo3T3o1bWNYbjJETjZMREJhLUwwcTdleXZJYlZIM2NCNGdEVjhHM2NTcTRUNmZNM3E1a05wZTZpWEVSUTAybmNYX0w?oc=5",
+      "source": "极客公园",
+      "published_at": "2026-08-25 16:12 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3e7323aba5ac08c5",
+      "title": "字节加入企业办公Agent大战：发布“豆包工作” - 华尔街见闻",
+      "summary": "字节加入企业办公Agent大战：发布“豆包工作” 华尔街见闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "字节加入企业办公Agent大战：发布“豆包工作” 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zSlNBV0VMdVRIRjRvb0NKd1dmOTRwc3ptTnpvUmt2TGtDNFVSa0VibW0yc3JHTlRUc3VNTkUyMnJHSmxnVmQ3QlA0b1NhRDNFSHVn?oc=5",
+      "source": "华尔街见闻",
+      "published_at": "2026-08-25 11:00 +0800",
+      "companies": [
+        "Baidu",
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "24c9a52fcbfae88e",
+      "title": "亚信科技与月之暗面签署合作协议 开拓全球企业级AI市场 - 东方财富",
+      "summary": "亚信科技与月之暗面签署合作协议 开拓全球企业级AI市场 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "亚信科技与月之暗面签署合作协议 开拓全球企业级AI市场 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rLUlyYjJQN0xOTml2bWQtV3FGUDJUQ0xwQ05ZZExHSmJWR2owcVg0eEl2X0NGNGJEblkyS3ZBMGxFRHU2eHZEVklmUHFhSC1tZ0g2QmloZkE3Mm9NTUhRcA?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-08-25 22:46 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bcecc75110da4f14",
+      "title": "亚信科技×月之暗面：携手“登月”，FDE攻坚企业级Agentic AI全球落地 - icloudnews.net",
+      "summary": "亚信科技×月之暗面：携手“登月”，FDE攻坚企业级Agentic AI全球落地 icloudnews.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "亚信科技×月之暗面：携手“登月”，FDE攻坚企业级Agentic AI全球落地 icloudnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Q3ByWmxVYTlCT296d0RZMGpzc1dXMGJSdDRyM21vT1lYUVh3OGNBZEV2Rm1SU2JJd3dXRFFFamdyQ2lBMU1jMWNzRS0yaDJDQXc?oc=5",
+      "source": "icloudnews.net",
+      "published_at": "2026-08-26 10:26 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fde31823369aba51",
+      "title": "北森正式发布《中国企业HR AI应用成熟度报告》：成熟度模型揭示八成企业仍处初期 - 凤凰网",
+      "summary": "北森正式发布《中国企业HR AI应用成熟度报告》：成熟度模型揭示八成企业仍处初期 凤凰网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "北森正式发布《中国企业HR AI应用成熟度报告》：成熟度模型揭示八成企业仍处初期 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SzBqOWt2VUduenJ5QkJLSUFwMnZ2TkFrQzdsOHowV0NZZ1RON01aS01kd2pUSEttaDk3Tk1tSERteG1zekszZWFlLXB2b1k?oc=5",
+      "source": "凤凰网",
+      "published_at": "2026-08-25 14:51 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ce09d945be04f618",
+      "title": "Google expands Gemini AI platform for law firms, lawyers - The Business Standard",
+      "summary": "The Business Standard 报道了「Google expands Gemini AI platform for law firms, lawyers - The Business Standard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google expands Gemini AI platform for law firms, lawyers The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZS01MEpaY0loV2dScUNkM2pobHpNUWw2M2oyY3dNR2hVZktTVS1NakVjOXZ0Y2Q5Wm5KOHBGakNoUDNuOGhvV0FTbzdUdEFpZ01mVU9ubTRlTnRIR0tuMmUzalFTMV81U08yOU5lMFhRaEhmYjBaNGdxbXRoYTJ3TWJ3LXZwRFBZZ0J6RnRaWm9DR3VTLWdV0gGXAUFVX3lxTFBlLTUwSlpjSWhXZ1JxQ2Qzamhsek1RbDYzajJjd01HaFVmS1NVLU1qRWM5dnRjZDlabko4cEZqQ2hQM244aG9XQVNvN1R0QWlnTWZVT25tNGVOdEhHS24yZTNqUVMxXzVTTzI5TmUwWFFoSGZiMFo0Z3FtdGhhMndNYnctdnBEUFlnQnpGdFpab0NHdVMtZ1U?oc=5",
+      "source": "The Business Standard",
+      "published_at": "2026-08-25 20:35 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "eeccafb84f4a1d1e",
+      "title": "Autonomous AI exploits raise stakes for vulnerability management - TechTarget",
+      "summary": "TechTarget 报道了「Autonomous AI exploits raise stakes for vulnerability management - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Autonomous AI exploits raise stakes for vulnerability management TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVlSRXZjeWN4TF82Q1NDZTQwLXcyVUM3QkU1SXliSHRiQWM0R0hKZW04NlZLNDBTbUxfLTZnc04zM3d2ellPMUYtSm9MVF84a1N0amhZQmNBRy1pNVZlUWVsYWJDYzJsNkNnQXJJeS1BLTlJcl9zV3BFb2xUMTUyOG9nQW1fTEdDTlNwR2NwaXc2a1RudlJVVlhCam9VTkpudEFMNF96d29QZ3Fid3lRN29ENm8yM3hKUm1jdNIBxAFBVV95cUxNMHVhdlZISjhLVGQtSkNGNmR0UE9ybkdYMm5BYkhDNWNjRW9lTWEzY2dSdTRKYnVwU1hrRVQ2V2tsVUlzRFlRdFQ2WEx2OGlxRTJRVTQyeXdoUTR2YVJvZ29VUDA1LWNMaG9iTnZBZ0FNNEJfd1NoUWEzSE01enZDNk1mSXRIR1FvM1pLUDB2NmZiY255b0M2QUhFa3JIS3Z0V19nM3Z5YTI0dzVtZkJRMi1BNS1wSzZKTjZ5RXgwQXpKX3Fj?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-08-26 04:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "be67ee90651efa9f",
+      "title": "AI supply chain risk is showing up in developer workflows first - Help Net Security",
+      "summary": "Help Net Security 报道了「AI supply chain risk is showing up in developer workflows first - Help Net Security」相关进展。 该消息涉及AI 产品、企业应用、大模型、开源模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI supply chain risk is showing up in developer workflows first Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHh2aVc3TFplcFItd1NFV2dIR29TTUs5eHBiNzB5VHM0d2V6UEU3b2VkbnZrSG12T2ZkTzFrM2JaZDJlaUw4ZFB6clUwVk95anRSYWp6NUQ5cUt6amZoOHhIb2d6UjhvOHNZYXZzQllKRmhBZWFzS3dZRGxsd0oyeEtIcElTSXJydGYyOHZsaF9QdFVPVDdv?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-08-25 14:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "safety_security"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "629530f4ebed292c",
+      "title": "AI Security Operations Center (SOC) Market Companies, Size and Trends 2026-2035 - Precedence Research",
+      "summary": "Precedence Research 报道了「AI Security Operations Center (SOC) Market Companies, Size and Trends 2026-2035 - Precedence Research」相关进展。 该消息涉及AI 产品、企业应用、论文/评测、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Security Operations Center (SOC) Market Companies, Size and Trends 2026-2035 Precedence Research",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qVGFEZ05mNW9RWXVSMjFka1Fsbkl0b0VVTEpJd2phd0ctU3VCNl9iUFNtTlh3emwxVHAzYmZIRHlTYlpmVmN5RGhvMHlad09qbG9tdEp5WFM0SEdVTGhLNzBuel8tYkZ5bWwwcUtOYldqQnFfb0RiZm9jcw?oc=5",
+      "source": "Precedence Research",
+      "published_at": "2026-08-25 21:07 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "research_paper",
+        "safety_security"
+      ],
+      "importance": 96.0
+    },
+    {
+      "id": "59ac0411961f4076",
+      "title": "Okta launches Agent SSO for governing enterprise AI agents - TNGlobal",
+      "summary": "TNGlobal 报道了「Okta launches Agent SSO for governing enterprise AI agents - TNGlobal」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Okta launches Agent SSO for governing enterprise AI agents TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHo3cHdPUU9GcUZGNnM1clN5SkxhRVJPYURvVmw3clRseE5INDVveVNMQkYyQmpja090N09qcG1HZ2JMT0txYzFHelhCRnVaRnFQR0dyUGxKNy1rMTJrbUp4NG4tZ0w0OGV2NnBabnJvMHZyRmNHVWxIZFozaUpZNWtRZFlsQXM?oc=5",
+      "source": "TNGlobal",
+      "published_at": "2026-08-26 08:57 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "29dc9551031c9570",
+      "title": "SK AX, SAP Strengthen AI Alliance to Redesign Enterprise Workflows - 조선일보",
+      "summary": "조선일보 报道了「SK AX, SAP Strengthen AI Alliance to Redesign Enterprise Workflows - 조선일보」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SK AX, SAP Strengthen AI Alliance to Redesign Enterprise Workflows 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHR2ZjFnVU40QXFJeE1jN2VPM0lQQ245eTJNT0J6SHAwcEFlTElydlQ3NDhGbzMxeERuUWZ3a1RFcmVoaTdDZDlsSHlFam9STmJROXVaQXhQcURiR2pISUs4cTliTGs1Qjk3M21LRHkyWW5BV3h4U1B5YnF1VmV6NllTZHlNSjNp?oc=5",
+      "source": "조선일보",
+      "published_at": "2026-08-26 09:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
