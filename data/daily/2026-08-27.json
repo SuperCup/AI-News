@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T19:13:23.999032+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-27/",
+  "image_path": "assets/daily/2026-08-27.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "8ce87a67ab670995",
+      "title": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net",
+      "summary": "thelec.net 报道了「Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSWI1TnhzR21WNG03bWlOVDN4LUZnZkNoNGZodmhXNldoTnpVcGExVzRxVldxbFhuWTZmS0lTZk5ROHp6SW82UzRZVkJCRGtzRnNwd2ltdU1lR3lVTkpoc0ZQOFhzYlE?oc=5",
+      "source": "thelec.net",
+      "published_at": "2026-08-27 16:03 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 154.5
+    },
+    {
+      "id": "b4edcf24ec21de64",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "summary": "Reuters 报道了「Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google expands Gemini Enterprise AI platform for law firms, lawyers Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-26 04:13 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "78db2001c42fa873",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
+      "summary": "TechCrunch 报道了「OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-25 22:22 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "8ce0ea616b36698a",
+      "title": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion - The Information",
+      "summary": "The Information 报道了「Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、NVIDIA、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion The Information",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+      "source": "The Information",
+      "published_at": "2026-08-27 15:04 +0800",
+      "companies": [
+        "Anthropic",
+        "NVIDIA",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "efeacfe0565c8ccb",
+      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters",
+      "summary": "Reuters 报道了「OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-27 06:07 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "71cc498e7fb93e4e",
+      "title": "“智启新质·数赢未来”——企业AI一把手工程暨AI产业链协同分享会在杭举行 - 新浪财经",
+      "summary": "“智启新质·数赢未来”——企业AI一把手工程暨AI产业链协同分享会在杭举行 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“智启新质·数赢未来”——企业AI一把手工程暨AI产业链协同分享会在杭举行 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0hzWUluMlNmOXFJYUQteFFfX29tYnYzcDNKYVhtbUppQ1c2cVZsYXgtdUoxNjgzVEI1MWFsTmMtdEk5N2VOZlFNQ2tlNWFXd2VNZmgxNlo1c3l3SmkwQXBjSVBrcW1EbG82bU5BOGxtdjA0QXBySmNfUHFaUGpZYTdEcmZPU0psQ05OczE2a2gtdlBhNGxhaWllMThhQVMwYWZIXzBqS3h2aEdSR2Q1TklHS0hsU3ZMSVEtQ1RLS1lvWnhoalBoLWxPR1ZmOUh0akhUZ0taNlAwQQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-27 11:07 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b3d264bdac1cd9f7",
+      "title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 - 爱范儿",
+      "summary": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 爱范儿 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 爱范儿",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByVnhaUFhWYW9pUDcxeUhZU3J2UHNIaEY1amNOTW1OcldxdUVqcFF4R09BMUg0S21xQlZFejFfY1E3aGs?oc=5",
+      "source": "爱范儿",
+      "published_at": "2026-08-27 10:56 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fa2d8c7919d64de2",
+      "title": "MiniMax上半年营收增长283%，企业AI服务收入增长703% - 动点科技",
+      "summary": "MiniMax上半年营收增长283%，企业AI服务收入增长703% 动点科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "MiniMax上半年营收增长283%，企业AI服务收入增长703% 动点科技",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQkFwWlpnTGdMN0lUbmJ4dXJmdjItelRLNDdjblpSWmV5VHNOa24tUkFDSlktWDlIMWl0eXdnY2U4QXgtbk16NHNrWHJ2SkhCanlHMms4aERPTE9reEFXU2plSWRhSmxsTDBjNWNnc1Zpb1YwdmY3UHpfLUtUdW5yeW9oTWp2NnZy?oc=5",
+      "source": "动点科技",
+      "published_at": "2026-08-27 15:10 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "790efcbd607e41b0",
+      "title": "国产算力迎利好！智谱上线新模型+千亿项目落地，科创人工智能ETF华宝（589520）一键卡位国产AI核心赛道 - 新浪财经",
+      "summary": "国产算力迎利好！智谱上线新模型+千亿项目落地，科创人工智能ETF华宝（589520）一键卡位国产AI核心赛道 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国产算力迎利好！智谱上线新模型+千亿项目落地，科创人工智能ETF华宝（589520）一键卡位国产AI核心赛道 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFZRaTFERV9PZGJYeVBuam1zRlMwZW9QSjFrLTZQYURwZTRrQkRJYm1uZV9NZEVXWXpQamI1Q3piYlNzeWQ0Wm5tX1l2LWNPWGtBc2tuNUVXdmRUZ2laZmZNbnY3MVF6TXhzcjJkbV9HbnlHS0V2TjgybE5CaHRWMXlNZHVydEhqWXhJeWJlN3p3am01T1FfRXlnWEMzdWZyVHUwbA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-27 16:44 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fd7346fe6a190706",
+      "title": "拼价值而非参数，科大讯飞给中国AI企业打了个样 - 新浪网",
+      "summary": "拼价值而非参数，科大讯飞给中国AI企业打了个样 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "拼价值而非参数，科大讯飞给中国AI企业打了个样 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10SmpmMzZ3OFNmaDNzbTM2aGZ2UTltdUdfOHFzeklkc3IyRjV5NGo4SnAybXBhdjVHX1NZU2pwNEJVTG9OUG5HMDc3QkRHemloZFlLQ0NDRk5NcTlRMHZQVDg5MHBRa2JKNUdONjZZWXNtOXpFaWdYR2stRlE0cTQ?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-08-27 10:40 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "46c2a06d4b282002",
+      "title": "Agentic Market Research Services: Echovane Uses AI Agents to Execute Complex Research… - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Agentic Market Research Services: Echovane Uses AI Agents to Execute Complex Research… - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic Market Research Services: Echovane Uses AI Agents to Execute Complex Research… Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VZWx5MW56Z1JZTWFfY1FwcXB3VzBRY29KRnhYcFZpRXlaWjhNaGQ3WDlld0hrUThrYlFyYnQ0WWpkdW5oVFYwX0lwcU9KTjYxRzY0Tl9nLWhsQ1N3SW9FS0tWdTIwczNQSlYtMTlVcVY1eWdzVFE?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-08-27 08:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "4cc178eb0be427a2",
+      "title": "CommerceIQ Helps Newell Brands Automate Product Content Workflows - Demand Gen Report",
+      "summary": "Demand Gen Report 报道了「CommerceIQ Helps Newell Brands Automate Product Content Workflows - Demand Gen Report」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "CommerceIQ Helps Newell Brands Automate Product Content Workflows Demand Gen Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2xJeElBQWpsVG5SUzV0WENlZ1J2VVhWdlNiRktjRk9HSWl2ZXJXMnlpV2F6ODdSWFNDd3dJMmdUc3dnTkJpb0VhdXFNVUdTS0hBaklkOGo1bjlGRnhrUGVVR1NEXy1zX3ZPWGEza0JGbmw4RmpKbTlVem93R0pLVW1SekdCSHRvWTBQUnB6VklvNnBmZ0FvUGZHN1Y2djZVY1VvTGYzbkdwYXc3TUZHV0w5TXM1UG9h?oc=5",
+      "source": "Demand Gen Report",
+      "published_at": "2026-08-27 19:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4311380909005b27",
+      "title": "Is enterprise software becoming too autonomous? - Spiceworks",
+      "summary": "Spiceworks 报道了「Is enterprise software becoming too autonomous? - Spiceworks」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Is enterprise software becoming too autonomous? Spiceworks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckxNX09CWEZVeGRyaHBfRTJjRWRrQXphai12V0R2REVjbUlEZW1tbUc0empiOWJucW5zR09Wb3FseHVaUzhrc0ozZzBEeGNFa1Vmd2s2VUN4YXVtcnRHMlpUZnlkZUhtRjFtNTlrQ2c5YjBQOE1OcVdGM0RhUTVld0cxUlhuQmtlRXFZ?oc=5",
+      "source": "Spiceworks",
+      "published_at": "2026-08-27 00:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "27574802f11f990b",
+      "title": "New governance challenges arise as AI enters UC workflows - TechTarget",
+      "summary": "TechTarget 报道了「New governance challenges arise as AI enters UC workflows - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New governance challenges arise as AI enters UC workflows TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXBMQWh5X2lYVG5jeS1lb1hJM2FPaWpfNzVUZ1JISVUwb2FFdlphaXhZWDcwejY5UHNCdS1sRm5qVmFkQjBGeXJrRXFfTTFyY3MxT0QwYmk5c29MSV9SNXQwdkszclVYdldvTm1WeU1qYW1rZ0R4VUhhNGJSSFNUWndleklrakJjVkpIMllSUlV5YU9NZHYxV0wwYWpuNnVUWjk1VUVreFRWbEFfYXQwRmpn0gG6AUFVX3lxTE9UaHJMRXF1VF9aV041Q2xHSGNYamNOaTZTZGpua3lEeXltVHNXZjBTVDA3T29WNFg2d2ZJVzZFX21NalVMWThZY1RXd3NmNFI3bDJCN3VWS0lPejlETVByQjFZLTVTSnlfM19NNVUydUtIS28tOWJCc3RyU2tObUY4R2JZY19DYi1YT25NOWN0WmFOVDFONDgtVXF2Vkk4VU5NWUZNNXE0NERMTDJzR1hsa1ZWbDlkT3BqZw?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-08-27 07:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "82298ed093e36893",
+      "title": "CVG, MUC, ADR, MWAA and more discuss agentic AI - Future Travel Experience",
+      "summary": "Future Travel Experience 报道了「CVG, MUC, ADR, MWAA and more discuss agentic AI - Future Travel Experience」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "CVG, MUC, ADR, MWAA and more discuss agentic AI Future Travel Experience",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQd3pPRXh6aWZyVVhTMTV6ekZlS1p3ZnZKb1Q3a0JWdXJiNm5JSWdPTHJlTnJHSjlLclFXdWF3b2tmQnB4VkdJZWZaTUhaT0JNN2YzS1VwQzFmTDA5SXRVTTkyeHMxTkFqbVNsY3dXMDF2NEJGamJYZXRCZnFfM2J6dU5aTVh1YldtYXhJR1NmU2lYNGtwaHg0dVlGS3NQRGFGU180akdNeTB1d21OTzVJazBvWlZXVUlMenRMNy1pZVlZazZjMFZGSlBWMV8wRVBuLTBiOWFQSU00VXQ3LTFrNTZSVkpNSzlTcDJJQ3hlamVvUUpfSElRazRqRjYtcDFGeEJVajVxRXA3d0dmVlQ1RDFhR3lvVW55eHQ1QWpmc2tPbzVwNFVDUVR6bExrYXBDMlE?oc=5",
+      "source": "Future Travel Experience",
+      "published_at": "2026-08-27 15:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
