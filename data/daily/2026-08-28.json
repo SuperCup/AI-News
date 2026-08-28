@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:48:52.058565+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-28/",
+  "image_path": "assets/daily/2026-08-28.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "b818b8862be80514",
+      "title": "AI Cyberattack Risks: OpenAI Warns of Rising Threats - The Cryptonomist",
+      "summary": "The Cryptonomist 报道了「AI Cyberattack Risks: OpenAI Warns of Rising Threats - The Cryptonomist」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Cyberattack Risks: OpenAI Warns of Rising Threats The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM3BYUzI0NFBRaWdHNDZQWkYzNGg1VlBqTmtTenJ4cTFSWTVlSGs3TGwweWJnNlpoMS14ZUw1Rld2ajRxckM5a0dVTl9jR2xmWEVfYnIxbElMWkpncmJ3alQzT2MwRDJXX2JESUMtT0h6WGhsamc?oc=5",
+      "source": "The Cryptonomist",
+      "published_at": "2026-08-28 16:34 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "e75eb8804c3aec45",
+      "title": "Nvidia in Talks to Buy AI Startup Hugging Face, Reports Say - Bloomberg",
+      "summary": "Bloomberg 报道了「Nvidia in Talks to Buy AI Startup Hugging Face, Reports Say - Bloomberg」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia in Talks to Buy AI Startup Hugging Face, Reports Say Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNklMUUtoV1ZqazMzekFNb3kwMUQ2MU5pX3hHZmNDTGFJTzVhSGExZW9GT3YwdWdPOTBOZGc0RlBnblRZZUlOd0ZUTWE4bjRuaFlNNkdMQWUyVE5Lb0xObHRwajc1ZlBhTEdJRlBZek5UbzY5Mk5OVUlpS2FUUTN5R0xjZWw4NkVMNTg1bUIxSUJmbmFrNUlPQlFXUjg2bm9ZTE9DZnNtZTRsMUV1dnRlZA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-28 00:13 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8ce87a67ab670995",
+      "title": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net",
+      "summary": "thelec.net 报道了「Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSWI1TnhzR21WNG03bWlOVDN4LUZnZkNoNGZodmhXNldoTnpVcGExVzRxVldxbFhuWTZmS0lTZk5ROHp6SW82UzRZVkJCRGtzRnNwd2ltdU1lR3lVTkpoc0ZQOFhzYlE?oc=5",
+      "source": "thelec.net",
+      "published_at": "2026-08-27 16:03 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f708ec9644cd366a",
+      "title": "Oracle and Broadcom Credit Risk Spikes as AI Debt Hits $182 Billion - Startup Fortune",
+      "summary": "Startup Fortune 报道了「Oracle and Broadcom Credit Risk Spikes as AI Debt Hits $182 Billion - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom、Oracle。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Oracle and Broadcom Credit Risk Spikes as AI Debt Hits $182 Billion Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcE5pZ0E2dXNEdC1naS1PTXpKbXhUdjd4LTUySlVJMi01S3FzVmVXai1ja19QX2xFQnpVdVRmTHVoZ3BwOWk3dmdacFMxTXhhbHhGUWdCUDNmX1BuZXZKMWxENWpzT0czb1pWUWdPcDlUM1pLellwbnlQZ21xU2dRZ1o2Rm1EbkhQVGNtLUxKTmU4eEJqV09YNmdR?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-08-27 22:21 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom",
+        "Oracle"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8420dd0c8b9fba04",
+      "title": "Red Hat CEO Matt Hicks: AI Has Changed Open-Source Security - crn.com",
+      "summary": "crn.com 报道了「Red Hat CEO Matt Hicks: AI Has Changed Open-Source Security - crn.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Red Hat CEO Matt Hicks: AI Has Changed Open-Source Security crn.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUVvdEd2WmQ4Z3QwV21JTDhGckxfR3g1SGFWcVB6Y0NpdVBjeHd5ZE5FT1pmckp3Mjd1MVFYamFWZEJESTRkVzRhc1UtY1BLQXRYM3ZTM1ltUmstVUdIUHFkQmF4NnpvVXpOX3JrZWNsaXlyUC1La2tlNTRxNUVpNDhSU3dSZ2IxNlN2Nm9WaU1HYnJXYVE?oc=5",
+      "source": "crn.com",
+      "published_at": "2026-08-28 06:17 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "87e186d767be7a0e",
+      "title": "三连冠！阿里云智能客服稳坐中国第一：AI分流率超60%、服务5000+企业 - 驱动之家",
+      "summary": "三连冠！阿里云智能客服稳坐中国第一：AI分流率超60%、服务5000+企业 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "三连冠！阿里云智能客服稳坐中国第一：AI分流率超60%、服务5000+企业 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dmdfc0xFakhSVHR3OS1NUUs5cDBxMFcxcjlJbzJnaUxFRVpwUVZtREgtS3poekJzSGpXVmJCMTJZMm1wS0RCY1gtN1ZMbDFQZV9pMG9ITGM?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-08-28 15:00 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f7479093cc3aa11b",
+      "title": "百度搭子升级，企业版新增15个套件96项技能 - 三易生活",
+      "summary": "百度搭子升级，企业版新增15个套件96项技能 三易生活 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度搭子升级，企业版新增15个套件96项技能 三易生活",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hM0dORUt4RjQwT045RHo5RlNBMEJ2NDU5SlRlWFZQekNNN3ladHdnZERkNjRnRWxDRGZWU055bXdXc2FvaUN6Q0ZxTGVKeHNlT3lvX3NHSjFVaHc5dXZrY3pRVk9XalJ3?oc=5",
+      "source": "三易生活",
+      "published_at": "2026-08-28 19:52 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "cfbd90e578640794",
+      "title": "从“满天星”到“未来星” 华为云828企业节上的OPC舞台 - 驱动之家",
+      "summary": "从“满天星”到“未来星” 华为云828企业节上的OPC舞台 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从“满天星”到“未来星” 华为云828企业节上的OPC舞台 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fWXFVYmJVOTV0VXIxcWN4ZEhxYXp1Z09UTnFWaTlJUGJfdWxqa2gzX1F6aXUtQlBxM1BSclNKTnBDRjFkQlVnX2FROGpicXZGc0c0dGx6bU8?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-08-28 15:13 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d677337e2e571073",
+      "title": "第五届828 B2B企业节开幕，华为云要让AI像水电一样，走进每个行业 - 搜狐网",
+      "summary": "第五届828 B2B企业节开幕，华为云要让AI像水电一样，走进每个行业 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "第五届828 B2B企业节开幕，华为云要让AI像水电一样，走进每个行业 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHlBUnpYOWZCZDBZeEJod0RiX1F4dU9KRktORVRPMmdaclg5Z1AySVRWT2lBR0ZzcEh2NVl3SDdSczVlX0tENm5IMll2WGdycFRWMDZuVkJuS1ZVT0Yyenl1TkJtbWw1RkpPZmstZ2d6d19IeXlaUElESVJ6cXJ2X0lFaGx0Q0RDeVpGOQ?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-28 11:45 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b3d264bdac1cd9f7",
+      "title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 - 爱范儿",
+      "summary": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 爱范儿 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的 爱范儿",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByVnhaUFhWYW9pUDcxeUhZU3J2UHNIaEY1amNOTW1OcldxdUVqcFF4R09BMUg0S21xQlZFejFfY1E3aGs?oc=5",
+      "source": "爱范儿",
+      "published_at": "2026-08-27 14:32 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e190950918e8ab3e",
+      "title": "Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI - forkast.news",
+      "summary": "forkast.news 报道了「Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlJiSXdVLTFpYTVlcDlCUzdObllzb2hjQmlaR3A5MTRIYnRQRGJ2cWlOUzRXT3E2OEpuUlUzZUtKQmswWUxvV1VJQlZ4VnFyNDRfUF9nb0VGbEMtTGJVZjU2cDhKMHFJLUVtVHItdk5ZN0Jrb0M5aW9XVmZZa0tXRFUyeUVMMG12WklkOFZkaGM?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-08-28 02:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "f3078f1dfc2143ac",
+      "title": "Xelix: Preventing Payment Fraud with Autonomous AI Agents - FinTech Magazine",
+      "summary": "FinTech Magazine 报道了「Xelix: Preventing Payment Fraud with Autonomous AI Agents - FinTech Magazine」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xelix: Preventing Payment Fraud with Autonomous AI Agents FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTRmVW1QeFNsVTdhd1E2U0xJU2MyNGFsRU93THptamR1cWdCTkFIVXA4Ymk4SzdadU4zYXFCSU5lRDV6ak5QY0pmTVJNc2Z4bmVrY292ZThSRkJNV1dFX1NjUTR2bUdnb0JyRzB5YkN4MlN5NUxabXhkaHVXVWx0VE82eFBJVlVXdzNua3pMUTJscWM?oc=5",
+      "source": "FinTech Magazine",
+      "published_at": "2026-08-28 19:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f31cc121ebec8de8",
+      "title": "Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms - PR Newswire",
+      "summary": "PR Newswire 报道了「Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNWd0XzJrVkZHX1JkVFlHRXNiSU83WjNydTdfY2JQRDI2aGN2SHV4dHJMTmNtYno3bWlyMXRrX2dHc1ZjcmlSY05mRlZfeVlTZXdtS0NTRlpuUk5pTGxTX0JrcWVteUlzTjJTY3Y5Znd2MDZwRzFNQXBHUHpNa25uZGxDdU1aTldnRE1rdWJYRHNHaTJTRGFGSGdkck1waWlOY3lnMTdXQWVpU2ZaTmZUMTFLS0x5OUZiOXY1ckRPVElINVFkVVhUeFNOS0dpMHFYVDlRMnkyNzVGX0hrdXRKbXdDNDhoc0tQQzhHNVJaQk9sZDk1RjJUNHdVQXA1RnAzX0taNVJtLUFETzhscUhTUzdDcGRPeG15dnY3VHFiZjNhMnZDS002Y1VYNXhTdXI2bkUxTU1rX0duMTd3YTdJVXdtWjJQN0tlMkVJem5MSEVLVUQxQmlXbW1VZzA0eWF3bU5MOG1vMUZENWVoZWJ5cEVTZWZ1OGdKOUZ2WDBR?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-08-27 23:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "339034e614d44e03",
+      "title": "GBG launches Reach to verify AI agents' address data - IT Brief UK",
+      "summary": "IT Brief UK 报道了「GBG launches Reach to verify AI agents' address data - IT Brief UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GBG launches Reach to verify AI agents' address data IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDRBbUFXci1FS1J0ZG1DcWltaTVQak9IeXNZbkhJdzFJNzZWZVY4bzR2OEh3eTRZVHcxaW1fWHg2Q2Flc1kzV3h6VjhfeXhNVVpUNFVQbnU3S2dzRlFYbWtHdmJvdDBmN1k1MnM5MS1kUXoxbU9vNWZEa0ZZX1Jab3NLbV84Zw?oc=5",
+      "source": "IT Brief UK",
+      "published_at": "2026-08-28 15:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "cddce5308655e68c",
+      "title": "The latest AI-powered martech news and releases - MarTech",
+      "summary": "MarTech 报道了「The latest AI-powered martech news and releases - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The latest AI-powered martech news and releases MarTech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-08-28 10:55 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
