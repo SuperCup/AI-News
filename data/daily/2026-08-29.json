@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T15:54:41.207369+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-29/",
+  "image_path": "assets/daily/2026-08-29.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "a9c3c7e3f5ac9e3d",
+      "title": "Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation - SourceSecurity.com",
+      "summary": "SourceSecurity.com 报道了「Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation - SourceSecurity.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation SourceSecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1psRkhsX3Bja3BQOGdyR29QRG44TE5wSmRrNmhjTkhQRmpibFp2bWZWMlJjOUZmMWgyU2M5ZWM0SEFEbjhObUtTZWFuVHdwR2NsN2piTEJEVWk1NWxLdXd3b0M1S215WUM1U1p2a3ZEY0J0R0QzNUN6c0FfYzBqVmR2WVRJaUtEamJyU3czM1l2VTUxNzRlQUk3YW9qNERvYThOM0dMdEhaOEJ0cTl2bEZEUQ?oc=5",
+      "source": "SourceSecurity.com",
+      "published_at": "2026-08-28 21:14 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "e9f437df44878c6d",
+      "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Zacks Investment Research",
+      "summary": "Zacks Investment Research 报道了「Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Zacks Investment Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3B2ZnhVNzdzcGE5enR5SEM0WlUxQ3R0c1FfYXNrNUlaZ05BdzZIbnd1R25wR3FDelpYSVRucW11S3FTcV9Pc01jcUxFNjNzdXdxcFdzVUVsMktCSkQtR1FIcF9hMWo4SVFjckdLa0lxUDJWTDBiRDMzaTFTel8yczR4eDhLcmV6MlVlWDk3Z19zM3dMMThJNUFxLU5ZZEJHbTRnaXpR?oc=5",
+      "source": "Zacks Investment Research",
+      "published_at": "2026-08-29 02:32 +0800",
+      "companies": [
+        "AMD",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "04b84c5fe278eaa4",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine - TechCrunch",
+      "summary": "TechCrunch 报道了「Chinese automakers are following Tesla’s bet that robots are the next big profit machine - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMV9ramtIOV9CWUxsTFlHSXpZQzg0WEpTOXA0UVRQUXRJUE5RMlhEOU16Zk5va1VjcGFBeTdBenJjMmNGeEJvQnZBYmgyX1k2Xzc3bTkwd0ZXMlhMOXc5dXhSZWdVWklkdlY4dzFWY0ZBRTBYZnM3ekVpdTV1UHBlUC1UOWo2ZWVKZUluZTF5ancwNDIwVjcxbExQZy1XYXoxSE9HaXdIcUtHUGM0X2pjWnF5TUNEQUxvVjA5ZmsxTQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-29 07:24 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8ce87a67ab670995",
+      "title": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net",
+      "summary": "thelec.net 报道了「Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities - thelec.net」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Lam Research Breaks Ground on New Oregon Lab to Strengthen AI Chip Manufacturing Capabilities thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSWI1TnhzR21WNG03bWlOVDN4LUZnZkNoNGZodmhXNldoTnpVcGExVzRxVldxbFhuWTZmS0lTZk5ROHp6SW82UzRZVkJCRGtzRnNwd2ltdU1lR3lVTkpoc0ZQOFhzYlE?oc=5",
+      "source": "thelec.net",
+      "published_at": "2026-08-27 16:03 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "5553ee5fcc516e23",
+      "title": "Does Nvidia or Broadcom Have The Greater Core Vulnerability? - 24/7 Wall St.",
+      "summary": "24/7 Wall St. 报道了「Does Nvidia or Broadcom Have The Greater Core Vulnerability? - 24/7 Wall St.」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Does Nvidia or Broadcom Have The Greater Core Vulnerability? 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXBTbkkxY2JBbmcwODVBMW9idGhBQVp1STdXWDlUWHhaYzhXSzY5SHdCWGR4c1Jfa0JDdXFtV1VDVEdwa3QzOEVlRE5sRTF1UVM2ZTk2dHhScE9JVUoxbzhlU1ZpWWoteGsxVVZBV2tsdXNMQWZyUERleU1xYk04UVNWZmd3SVBNVzNZQjZjLWluNWZBa2ZKQndfV01FM3Rha0k0dW5n?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-28 21:27 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "18d15c43df35362a",
+      "title": "2026年828 B2B企业节开幕 华为云携手生态伙伴打造“行业AI梦工厂” - finance.sina.com.cn",
+      "summary": "2026年828 B2B企业节开幕 华为云携手生态伙伴打造“行业AI梦工厂” finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026年828 B2B企业节开幕 华为云携手生态伙伴打造“行业AI梦工厂” finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFJZckNDYk5KOVNSU0RFNk9zOEU1b2pBWmQycWJBSEx3ZVpxVE5vV0hNckhXS1NVMy1BREY2S0JaZnVWSWdTeTBPbUJpYnBoMnBTUExNRU1wbFdPaTRYR0xGeE00cnY3dVhQVUJXX3BfZDczRmRhS2FtZnRvOUlLOS1kQkVtOUtIOC1KUEFqSWtSeWxnZDVSZnp2dUxidUVkQlhRcWxXOA?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-08-29 09:33 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "add7a22f9aa5ec3b",
+      "title": "声网携手 Gemini 3.5 Transcribe，加速对话式 AI 应用落地 - icloudnews.net",
+      "summary": "声网携手 Gemini 3.5 Transcribe，加速对话式 AI 应用落地 icloudnews.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "声网携手 Gemini 3.5 Transcribe，加速对话式 AI 应用落地 icloudnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fTm4wUXpfMEYtZElILTEwcEprdjdnWVVvODdFWURqZnBDRkhFbzFaNmdYZmhkUnRnSlpITU1UQ1RyZmxJMjBqamdTUUNibmVEdkE?oc=5",
+      "source": "icloudnews.net",
+      "published_at": "2026-08-29 09:01 +0800",
+      "companies": [
+        "Google DeepMind",
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "cfec4d82ff99dc7f",
+      "title": "当人工智能帮人决策“买单”，如何筑牢支付安全底线？ - 京报网",
+      "summary": "当人工智能帮人决策“买单”，如何筑牢支付安全底线？ 京报网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "当人工智能帮人决策“买单”，如何筑牢支付安全底线？ 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IbEI2UkhySHVncF9XR204ZmtVclJ6bWVPSlNzQ1NaN0ZQUDFDYnFPTXE1TnRsYWZJSVV5aTkxLUZuYWNYTVgzeFZFdFVzQ0twN0M3eW4yS1Vfb01tMVE?oc=5",
+      "source": "京报网",
+      "published_at": "2026-08-29 11:36 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "e4085c7686a55b51",
+      "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 - 财联社",
+      "summary": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45UTNLTFBBOUk3T3ExVGhUaDZzdUdhWERldmVzRzVHZjJZZUJoSWZKbkZsZlZ3UG82a0hid1ZSZmFIaXVrN25VeQ?oc=5",
+      "source": "财联社",
+      "published_at": "2026-08-29 12:26 +0800",
+      "companies": [
+        "ByteDance",
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "788f36ce9f2d6510",
+      "title": "小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 2026 - 驱动之家",
+      "summary": "小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 2026 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 2026 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGVUa2gxQmRqNVVGM1ZIa0ZHbmhWYXkwM0pMZVBoZWFZZ2tKdWlnTGRvTFlPSXZlRGFKZmFzWW5PTmdGSmgzZXo5b1dueWJ4bjZ5V1VuWEk?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-08-29 13:53 +0800",
+      "companies": [
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "f428c67c54bc4993",
+      "title": "GBG launches Reach to verify AI agents' address data - SecurityBrief UK",
+      "summary": "SecurityBrief UK 报道了「GBG launches Reach to verify AI agents' address data - SecurityBrief UK」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GBG launches Reach to verify AI agents' address data SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkVaSy1yakFlbzF3SlZDN2NEMEUyQjJCY3lxckFPY1NDQUNNd19KcHhVMktHdEVlakRxZG8xclktdTUxVGlSeEVwMlpxc0ZGRmwxaEVHTGZ1OGZlTEpDUnpaSDJoNEtfcWVlZ2FMZzRPWkxUd1paWWxKaWVVQ2Y1dElGNGhYWkEwdXdOZUR3?oc=5",
+      "source": "SecurityBrief UK",
+      "published_at": "2026-08-28 15:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "e190950918e8ab3e",
+      "title": "Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI - forkast.news",
+      "summary": "forkast.news 报道了「Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Epic’s Agent Factory Is the Anti-Horizontal Play for Enterprise AI forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlJiSXdVLTFpYTVlcDlCUzdObllzb2hjQmlaR3A5MTRIYnRQRGJ2cWlOUzRXT3E2OEpuUlUzZUtKQmswWUxvV1VJQlZ4VnFyNDRfUF9nb0VGbEMtTGJVZjU2cDhKMHFJLUVtVHItdk5ZN0Jrb0M5aW9XVmZZa0tXRFUyeUVMMG12WklkOFZkaGM?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-08-28 02:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "47df24ed0fd85c57",
+      "title": "You.com Turns Real-Time Web Search Into a One-Line Agent Capability - The Futurum Group",
+      "summary": "The Futurum Group 报道了「You.com Turns Real-Time Web Search Into a One-Line Agent Capability - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "You.com Turns Real-Time Web Search Into a One-Line Agent Capability The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZWeHdxaUNWZTJEOW5YQTRpeExIQkw4X242R29ZMzZsNGpyN3VMZERPUmhOWHdCT0ZSWlFmXzJFNHU2U2E3TlBReHg5YU80YnNFamhvUGNza2I5ZUE0NUhyc0VfcWZ3Tk1hSTlUVDg5dnVzaGMxRnpiZlRDcUt1ckZpWXBSNFFfWFo2WG14MDFSaVJNMjlnNUQ1R21OSEdBVmx3?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-08-28 21:07 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f3078f1dfc2143ac",
+      "title": "Xelix: Preventing Payment Fraud with Autonomous AI Agents - FinTech Magazine",
+      "summary": "FinTech Magazine 报道了「Xelix: Preventing Payment Fraud with Autonomous AI Agents - FinTech Magazine」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Xelix: Preventing Payment Fraud with Autonomous AI Agents FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTRmVW1QeFNsVTdhd1E2U0xJU2MyNGFsRU93THptamR1cWdCTkFIVXA4Ymk4SzdadU4zYXFCSU5lRDV6ak5QY0pmTVJNc2Z4bmVrY292ZThSRkJNV1dFX1NjUTR2bUdnb0JyRzB5YkN4MlN5NUxabXhkaHVXVWx0VE82eFBJVlVXdzNua3pMUTJscWM?oc=5",
+      "source": "FinTech Magazine",
+      "published_at": "2026-08-28 19:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f31cc121ebec8de8",
+      "title": "Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms - PR Newswire",
+      "summary": "PR Newswire 报道了「Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Redwood Software Orchestrates the Enterprise, From Hybrid Cloud to Agentic AI -- Named a Leader for the Third Consecutive Year in the 2026 Gartner® Magic Quadrant™ for Service Orchestration and Automation Platforms PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNWd0XzJrVkZHX1JkVFlHRXNiSU83WjNydTdfY2JQRDI2aGN2SHV4dHJMTmNtYno3bWlyMXRrX2dHc1ZjcmlSY05mRlZfeVlTZXdtS0NTRlpuUk5pTGxTX0JrcWVteUlzTjJTY3Y5Znd2MDZwRzFNQXBHUHpNa25uZGxDdU1aTldnRE1rdWJYRHNHaTJTRGFGSGdkck1waWlOY3lnMTdXQWVpU2ZaTmZUMTFLS0x5OUZiOXY1ckRPVElINVFkVVhUeFNOS0dpMHFYVDlRMnkyNzVGX0hrdXRKbXdDNDhoc0tQQzhHNVJaQk9sZDk1RjJUNHdVQXA1RnAzX0taNVJtLUFETzhscUhTUzdDcGRPeG15dnY3VHFiZjNhMnZDS002Y1VYNXhTdXI2bkUxTU1rX0duMTd3YTdJVXdtWjJQN0tlMkVJem5MSEVLVUQxQmlXbW1VZzA0eWF3bU5MOG1vMUZENWVoZWJ5cEVTZWZ1OGdKOUZ2WDBR?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-08-27 23:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
