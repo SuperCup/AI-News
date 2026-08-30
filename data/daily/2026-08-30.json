@@ -1,0 +1,344 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T14:43:49.346977+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-08-30/",
+  "image_path": "assets/daily/2026-08-30.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "a9c3c7e3f5ac9e3d",
+      "title": "Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation - SourceSecurity.com",
+      "summary": "SourceSecurity.com 报道了「Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation - SourceSecurity.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Aetina launches MegaEdge AIP-RQ87 2U Edge AI System for private LLMs, AI agents and intelligent automation SourceSecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1psRkhsX3Bja3BQOGdyR29QRG44TE5wSmRrNmhjTkhQRmpibFp2bWZWMlJjOUZmMWgyU2M5ZWM0SEFEbjhObUtTZWFuVHdwR2NsN2piTEJEVWk1NWxLdXd3b0M1S215WUM1U1p2a3ZEY0J0R0QzNUN6c0FfYzBqVmR2WVRJaUtEamJyU3czM1l2VTUxNzRlQUk3YW9qNERvYThOM0dMdEhaOEJ0cTl2bEZEUQ?oc=5",
+      "source": "SourceSecurity.com",
+      "published_at": "2026-08-28 21:14 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 153.5
+    },
+    {
+      "id": "514516f6c12bf4cd",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label - TechCrunch",
+      "summary": "TechCrunch 报道了「Anthropic gets its first court win over the Pentagon’s supply-chain risk label - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa09yMVhMdS1vQWlmbE9Qc0w4TDFNdUFGYmljZUhJRWtMMGpReFdtd0x4Skh5Sk9ZX0owYzBTX0lZZVNpcHNqNGoxbk1zR3NkaVNuOXJ1WlhkczZYeU1RTlVJSTBlT1Q3NUQ0RkI5Ujd0bVJTQ0M1U2dmWGozMGo3RF9ieWhfdGxmVGlFNUwyZ1c3ZkNCUmFVNldJVXJ5Q0xXZGIxclhZRVUzVXV5d2x5NkRn?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-28 20:46 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "37d7fbfc29b9f48b",
+      "title": "vLLM Becomes Production Infrastructure at PyTorch Conference 2026 - The Futurum Group",
+      "summary": "The Futurum Group 报道了「vLLM Becomes Production Infrastructure at PyTorch Conference 2026 - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "vLLM Becomes Production Infrastructure at PyTorch Conference 2026 The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ1B0TmZJN0s5Qm1GMndjekRYTEVjTlVRY3lGQUU1ZjlhcHJCU1N4T2NQRmdhdFFPaXRLMFR6SzF5ZmdDekN3MmozTTZKYmxkMDY5a3djSy15SzRBNE0wckdWU2RDV1BaRVBWa3Rfb0RFajZLMldPMC1XN2RUbjd0Wi13ZkVWeGFUTG1tWG1pZzNLRG5zS1NNS2FLY2FTUXhfbUE?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-08-29 20:27 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "f9a5d6caa546d547",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU - TechCrunch",
+      "summary": "TechCrunch 报道了「Nvidia’s AI advantage is moving beyond the GPU - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia’s AI advantage is moving beyond the GPU TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3NWOXg4X1dBMmtBMlVxVnAzOEktMHdrdHo2M05SVWctNGktUmxEMkJOMUdvRXhWWllQbnZmbGxZY0JKRjhtT2lGaTlKTG1wdGVLODB2dklZcmU1QzFxNlNGNEJNSEJFclNyb3JqRDRpSm1qY2x2ZGhYZmhzN3Bza3hCdnExMXc?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-08-29 21:00 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f0e8e6f25d296819",
+      "title": "帮助企业把数据用起来|Agent|AI模型|数据治理|数博会|华为云_手机新浪网 - 新浪财经",
+      "summary": "帮助企业把数据用起来|Agent|AI模型|数据治理|数博会|华为云_手机新浪网 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "帮助企业把数据用起来|Agent|AI模型|数据治理|数博会|华为云_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBURm9GWWp2bTNYd0ZEVzV5N21yWjFieTFYYkxFcDM3dGFEc1VOZkRuV2J5UEVpanlieGZRU0hpQWdKQ0xrT2ZwVjFld0N6VU9EdHFWbHh6aTdZYW5FdW45WUxId2NwNWxWUi0ySHpKQnllU3kwU2FfNA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-08-30 06:07 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6149a44e82b4be65",
+      "title": "Agent开始“吃数据”，华为云助企业全量数据为AI所用 - 搜狐网",
+      "summary": "Agent开始“吃数据”，华为云助企业全量数据为AI所用 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Agent开始“吃数据”，华为云助企业全量数据为AI所用 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkNFVE1JU1o1cjlTWFJsTUd3a0QyLUxSS0dkY0JCendjaTVRVVlZbElsaHMzcHRXVTdxX3B2cUU5TkpibjVjazJRUmhIazhBVy1tUFhlS25XakRjc3p2V2k1VlpZa3N1cE5XcVp6NDNNeHJienFGRnlTUE45WUFHaXBVN0N1QUZEVnYyXw?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-29 21:05 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4dba3c3389f0baa0",
+      "title": "长鑫科技上半年净赚776亿元；比亚迪第10000座闪充站落成 | 一周中国企业要闻回顾 - 搜狐网",
+      "summary": "长鑫科技上半年净赚776亿元；比亚迪第10000座闪充站落成 | 一周中国企业要闻回顾 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "长鑫科技上半年净赚776亿元；比亚迪第10000座闪充站落成 | 一周中国企业要闻回顾 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlBBZTI3QkVWc0hyaXFGZzlYQ2gwc2o2N0REcUtxdFVFblBaQm9jblFDM2dIRWoyREZSa3lzaTRBMmVVcGp4QWhZQ01sWDhoQW9mQVBMMGVkY0Q4cDN4ekp4WktJc3dfc0RzdFZQeENiVkpKcDQ2T25sSkU1UkFXMkpDVXI4cURsWFhTag?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-08-30 13:31 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8e0da8ad0d3369c9",
+      "title": "堵远程算力后门！美国拟推新规：禁止中国AI企业通过泰国新加坡调用英伟达芯片 - 驱动之家",
+      "summary": "堵远程算力后门！美国拟推新规：禁止中国AI企业通过泰国新加坡调用英伟达芯片 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "堵远程算力后门！美国拟推新规：禁止中国AI企业通过泰国新加坡调用英伟达芯片 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BTDZZZ3h6eEI3Vm1sRk1pNWh5ZmZjM3JfOHhDeFRHaDI4TFJUZkZRd0hLMGJ6bXNuc1gydEN3Vk0wRWwyNWVjVmMxQnRMSEprSkZ5QVc0d2s?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-08-29 20:21 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d14d634c9992c1e7",
+      "title": "关于AI，华为、苹果、蚂蚁集团、腾讯云、中兴通讯等头部企业带来最新研判 - 新浪网",
+      "summary": "关于AI，华为、苹果、蚂蚁集团、腾讯云、中兴通讯等头部企业带来最新研判 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "关于AI，华为、苹果、蚂蚁集团、腾讯云、中兴通讯等头部企业带来最新研判 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qNFpBb3ZsWmxlQkE2Qzh1VzdLQWtKV0FJaHc4VlQzMXZDNlZnblZJaUVFZk04dHhFQ1AwOWxIQzRjTTFHcVROUGxuMG1STVZYTUVTSXJ1NWRUNHRiMXdsbWN5WWJHcTA1aGcyWE9PbHhVc3gzSmFVNEZ2QndFdw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-08-30 05:52 +0800",
+      "companies": [
+        "Tencent",
+        "Huawei",
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "93058c44ed34da6d",
+      "title": "NVIDIA优化中国开源模型本地硬件兼容性 同时披露监管风险 - 天极网",
+      "summary": "NVIDIA优化中国开源模型本地硬件兼容性 同时披露监管风险 天极网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "NVIDIA优化中国开源模型本地硬件兼容性 同时披露监管风险 天极网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PX1J2dWxkaXE2WXhIT043QzZPU29xamZMVHpTT3pQbWotR0pfZ0ZFbGpSdnA2M1UwYV82NnJ3WFgxNlpHc2NwTUVZcXM3SDd6V1E?oc=5",
+      "source": "天极网",
+      "published_at": "2026-08-29 08:00 +0800",
+      "companies": [
+        "NVIDIA"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b4dec34aa581255e",
+      "title": "Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium｜AI Engineer - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium｜AI Engineer - finance.biggo.com」相关进展。 该消息涉及AI 产品、企业应用、大模型、开源模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Which AI startups actually land enterprise contracts? — Brian Lewis, Millennium｜AI Engineer finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uVjBpdjdSMHpwOGU3RXk2SmNWcTBrdThSdTM5X2laOUhMWEpLeEhqY19EMjBTc21UbkhSM19DcFRwZUp1N0ZGRlRDMDMzUGo0NEhpWW00eVZEZ05FaXBN?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-08-30 01:44 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation"
+      ],
+      "importance": 98.5
+    },
+    {
+      "id": "0018aae575071b25",
+      "title": "Arga Raises $10M for Stateful AI Agent Sandboxes - quasa.io",
+      "summary": "quasa.io 报道了「Arga Raises $10M for Stateful AI Agent Sandboxes - quasa.io」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Arga Raises $10M for Stateful AI Agent Sandboxes quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQXA2Z2FkeE14SjhuejJpbUlEaS1FeXB0NDZoR2ROWDFSYmNmdDBjUy1CTl9xRE93eC1tSDNTMnd0QWlwbG5PRXV5WW43M3BaMjVselBIcG5EZlNpTGEyQU1jTWZnY1FlejBtSlZPMFBxd0o4SmRJY3J1dTBkbml0SzB6VF94VHJGcXc?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-08-30 10:28 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d6cabc047c1ab5d3",
+      "title": "Transforming the EHR from Static Repository to Autonomous Command Centre: Architectural, Predictive and Governance Dynamics of Epic Systems' Enterprise AI Transition - healthcare.digital",
+      "summary": "healthcare.digital 报道了「Transforming the EHR from Static Repository to Autonomous Command Centre: Architectural, Predictive and Governance Dynamics of Epic Systems' Enterprise AI Transition - healthcare.digital」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Transforming the EHR from Static Repository to Autonomous Command Centre: Architectural, Predictive and Governance Dynamics of Epic Systems' Enterprise AI Transition healthcare.digital",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXZXQk1RZ2c2eU1UR2tzMFMtY1JDZUlPdXNhVG9HTWE0Z3l4bmpBeU54VHB4UENqekpLcTJzWEVtd3hNSm5UeURGSmZvV1NTaGpXZkUwNVd2WXNWeFpkQ0E1MzZyUkNrUkhISGtpODN0RFJLbEo5dHVYdDl4b1lxRF9CZFF0NXZWeTFYVVBHdFJCOExjU2hzMTBpMFpQdFV1MkhRaThGUmlFTnZsRUN1YXlEaGROaFh6dGhwd21YM0ZhaHV6eXZPZzdma01nMW03NDViOUNCQQ?oc=5",
+      "source": "healthcare.digital",
+      "published_at": "2026-08-30 07:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bfc6fafaff34c7da",
+      "title": "Owner Bets Goldman Sachs Can Validate the AI Agent Model for Every Local Business - forkast.news",
+      "summary": "forkast.news 报道了「Owner Bets Goldman Sachs Can Validate the AI Agent Model for Every Local Business - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Owner Bets Goldman Sachs Can Validate the AI Agent Model for Every Local Business forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXB3ODJncmtUcWdHN0dFVHVpcWlRcDdNVk1FYnZ6d0xxc1ZzMHdEZ1NjN1JBT1BMOVRpNVotR0dtT0xIbWNFaEhJZXM0UEVhbFZKY0lqVTlwMU9YXzZkZHNnMVplU2Z3djR3dURUcFJISVo3Vmd3M0tkN0ExLXVGVUZBM0t0Y0tub0pldnhZMjQ0WlRUVkE3MDdESllsMWJoOFBDS1R3?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-08-29 17:29 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c059c270188e1bb5",
+      "title": "AI agents can bypass the pipeline. JFrog wants to control the exit - dqindia.com",
+      "summary": "dqindia.com 报道了「AI agents can bypass the pipeline. JFrog wants to control the exit - dqindia.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agents can bypass the pipeline. JFrog wants to control the exit dqindia.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHFCX2VGSUlhYjZUZnJaVXJXWUZ6QkJfTzJGRnk0NkZncDhFNjhIanpoOHRzTVFoNHNXQk02ajJtU19iRHY4N2NnQmVRa3Zjdmc1R2pBQmVMS1VGb2xfV09nek5fSm5zRjVyMDBIRktIRnJoTHNFeFZhbzg0LVZlVkE4cXpvQmgtaF9oVzVjQTBXYjdMVFFkbTJrWkNHSjlyMzFrUEpR0gGmAUFVX3lxTFBUcUJfZUZJSWFiNlRmclpVcldZRnpCQl9PMkZGeTQ2RmdwOEU2OEhqemg4dHNNUWg0c1dCTTZqMm1TX2JEdjg3Y2dCZVFrdmN2ZzVHakFCZUxLVUZvbF9XT2d6Tl9KbnNGNXIwMEhGS0hGcmhMc0V4VmFvODQtVmVWQThxem9CaC1oX2hXNWNBMFdiN0xUUWRtMmtaQ0dKOXIzMWtQSlE?oc=5",
+      "source": "dqindia.com",
+      "published_at": "2026-08-30 03:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
