@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T14:16:28.886358+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-01/",
+  "image_path": "assets/daily/2026-09-01.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "e7ac4dc2c5aa1c0b",
+      "title": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+      "summary": "Mashable 报道了「OpenAI wants California to strengthen its newly passed AI safety law - Mashable」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI wants California to strengthen its newly passed AI safety law Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+      "source": "Mashable",
+      "published_at": "2026-09-01 00:54 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "c57b6ad3d542a0c8",
+      "title": "FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk - techtimes.com",
+      "summary": "techtimes.com 报道了「FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk - techtimes.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk techtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2l2SnJXeVJ5X3hBNUZTM25GOHdVY2tnRmEzbWN6d1ZnZmpNRkl3aXFVWXk0bFZ1dDYwa3lJNHhkMEhVV2w4RjQzb0tDU01VLVJ0ZVEyckZzX2tUTElmZmJkXzJFclhHdjhuWU5ia2ZRc1NLUnZobi1uLVRqNms2TkVTcVZwRU9LcjVwX3o2dDBlNDE1Sm80dWRvdkM0aV9oTWxxdjJUR0xvYVNRVFQ0SDNnS0gxSlkxRDlFRnkxMkJLWExyMWtqYXpNd2QxNkpWMTNFSnBENzU4Rzg?oc=5",
+      "source": "techtimes.com",
+      "published_at": "2026-08-31 22:55 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "c727c0318796691f",
+      "title": "China sees opportunity in America’s recent AI security scares - The Japan Times",
+      "summary": "The Japan Times 报道了「China sees opportunity in America’s recent AI security scares - The Japan Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China sees opportunity in America’s recent AI security scares The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYWtNVmJsd25WWmRXMzh0VDNzVTM0dDZ2MFc3SVBrejg0NTVaOUwya08zeE5GZjFKTHZOMUJyNjhzWmsxcTJ0UlFMWnlXQk92WjFoY3M2RHNyMmt4ZDg2Tzl4OXFQXzh5eGplVV9ZTTBReHMwSkw5R01fNF9BWU1GaEo0cEhpb0U?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-08-31 16:08 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f1598616ca3ea31c",
+      "title": "China sees opportunity in America’s recent AI security scares - The Japan Times",
+      "summary": "The Japan Times 报道了「China sees opportunity in America’s recent AI security scares - The Japan Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China sees opportunity in America’s recent AI security scares The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pmTkllM2RqcmVsTHVrQmlxdHFaUjhKRm9sN0lpM0k2Qm1DX01ZRkRjRnR5eFJrYjFmX3FoTDRBdk92ZkRyVkhDQUFuX3IwNlVwRDNBWjV0V2htV1kxTTZPMmM0NHBsNmxfYmx1QnJBUWp6MXZNbm9NR3FkN1FJVXdoZTlIUmZVanQ2WkZvOFhQaVdsRXphRjlpYw?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-08-31 16:08 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3ca619588b2307fd",
+      "title": "Open-Weight AI Model Licensing - Reuters",
+      "summary": "Reuters 报道了「Open-Weight AI Model Licensing - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Open-Weight AI Model Licensing Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWpLNkJLRk5LcXVJN2x3dHJ6bnVtMXQ4VGU3c0c1b0MtR0ZGRTBwLS15TzdISVdyck04d3B3amd6bFB6aGtMVndHekw4Q09OTV9IWDN0YWlUeWtZZHdHeWlGclBLRVFlRDFQcHljRlBuTWV5ZmlWazQ1QjJCazMwWlc5NkNSQlFzcmU5RHNJZTFJMlJGZTE4TXN2eERuaFMwRmhZd0FHWWtRQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-01 12:22 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0b1c6cbdd5b55bfa",
+      "title": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 - 凤凰网",
+      "summary": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 凤凰网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQXlmRW1BbWxXeDlKUzRLLXEyN0pxMlNEZjh4bEJnY1ppMjlja3VmSVJfbnVyYURWX3p0R3V6ZkRSLTd5UF9FS0R1LV9TTVk?oc=5",
+      "source": "凤凰网",
+      "published_at": "2026-08-31 15:21 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ff86cf7f4f816aa3",
+      "title": "百度AI漫剧创作基地落地临汾，三方共建赋能微短剧产业升级 - 新华网客户端",
+      "summary": "百度AI漫剧创作基地落地临汾，三方共建赋能微短剧产业升级 新华网客户端 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度AI漫剧创作基地落地临汾，三方共建赋能微短剧产业升级 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFRRnZ6WGEzdEZiMW81TzlLWVh2dXhVVmJWaVVnLXVqYWU0VTV0RlJvYS1KckZuek1OeUdKN1g5aHNmUDI4d1lDbFZxRFd4ZE1LdG9ON044YnF0MmY1MXhpVnNGcGVzMGo4WklSN0JBUm9HdUIxRWo3N2xLZU9jOFBDSGppcVpUNVYwNkRpQ2sta1VWRDJoVGh3?oc=5",
+      "source": "新华网客户端",
+      "published_at": "2026-08-30 21:18 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "8f94e4e9d9b8c971",
+      "title": "沐曦上半年归母净利润6.12亿元扭亏为盈，国产AI芯片企业盈亏分化加剧 - 电子工程专辑",
+      "summary": "沐曦上半年归母净利润6.12亿元扭亏为盈，国产AI芯片企业盈亏分化加剧 电子工程专辑 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "沐曦上半年归母净利润6.12亿元扭亏为盈，国产AI芯片企业盈亏分化加剧 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lUkdFT21WRGFGc2VGYWMwTjVsZnAydzRGMWRtY3h1a0I1ai0zRkZZdG9PTVZIdFJvc2VJLWo2d2dackx0YWZqSk9ZS29MZ0w3ODBZY2VFX1drNG1t?oc=5",
+      "source": "电子工程专辑",
+      "published_at": "2026-08-31 09:59 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "09b0e42c21c78983",
+      "title": "当AI帮人决策“买单” 如何筑牢支付安全底线 - 新华网",
+      "summary": "当AI帮人决策“买单” 如何筑牢支付安全底线 新华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "当AI帮人决策“买单” 如何筑牢支付安全底线 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82T0EwWWJSaUlpNkRHQ0JqSi1OMjE2LXctRjNyOHpCSEFDVjNXTm55T1lLUjAwNFFzZmY0cy1ia0tzWDJCd3psd2NobEN0RjNoX3FVeVVvQkFNLVhZR0toVG1tZnhGQjNqZkFkd2lzbzFKMTdmRFZDc0o4Z1E?oc=5",
+      "source": "新华网",
+      "published_at": "2026-09-01 09:23 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "e4085c7686a55b51",
+      "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 - 财联社",
+      "summary": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45UTNLTFBBOUk3T3ExVGhUaDZzdUdhWERldmVzRzVHZjJZZUJoSWZKbkZsZlZ3UG82a0hid1ZSZmFIaXVrN25VeQ?oc=5",
+      "source": "财联社",
+      "published_at": "2026-08-31 19:13 +0800",
+      "companies": [
+        "ByteDance",
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "3d3d0d1edafc76c7",
+      "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises - VentureBeat",
+      "summary": "VentureBeat 报道了「OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjZma1l3OWgwRi11VW5uTUVYdTVVd2JiWkt4UXRtM2FRVXRrdTBYN29mU05LaXkxR2tkNFZmX2xVZ29Mb3FVWjVWYlNEOTNIT2xla3dIaFNfa2NyY0xQYkJacTF2VkRSR0dmTzVMNk1JVEljbGp2SUZjWTZqRHhLTzEycmFBVHp3OUFGNjB3?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-01 11:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 106.5
+    },
+    {
+      "id": "f61f4e47c48abcb0",
+      "title": "Botsync's Rahul Nambiar on scaling autonomous mobile robots beyond pilots [Q&A] - TNGlobal",
+      "summary": "TNGlobal 报道了「Botsync's Rahul Nambiar on scaling autonomous mobile robots beyond pilots [Q&A] - TNGlobal」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Botsync's Rahul Nambiar on scaling autonomous mobile robots beyond pilots [Q&A] TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTlqTE9jWDV6UWxNcDhaVWl5QlNRT0ZxR2hNWVczaFhNMzhhSHdfTUZFWEptNlpYTWg4ZlVfcW1Tdm5EVEVrMjZfREh6bzA5ejBiTUN1VmgzemhlX1dvcXNCTmUzanEyckZFYUxPS1dBTGpPcG5OTFRON0VpTGd1WnBDRVhDTVFOeVQtbF9MRkd2b3ZZYWppZVJFaWtqeTJQN3I5QzA0b1V3aU0?oc=5",
+      "source": "TNGlobal",
+      "published_at": "2026-09-01 08:22 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 102.0
+    },
+    {
+      "id": "11fdb9219c5595fd",
+      "title": "Four in Five Enterprise AI Tools Lack IT Oversight - Security Today",
+      "summary": "Security Today 报道了「Four in Five Enterprise AI Tools Lack IT Oversight - Security Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Four in Five Enterprise AI Tools Lack IT Oversight Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGpISkFiQ28zQ3V1SlZ6ZHlyNzRJUHQyNTVzV0JQWTFkb2hMd0hEUDNHbWkwR2dzMGxBUnlkZHQxUHZoVTVUREFHNUgxMFdmWExRVldlcUg5RC1JVWdNNlFLRXc0WEpJc2xfQkJCeDY3al8xX0FMYnM3T2lWLTZfckdXbjRtcnB0MTF6NklidXJwQzdZS1NycHRhWUZMRnA5UnFN?oc=5",
+      "source": "Security Today",
+      "published_at": "2026-09-01 04:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "6b2d34382003f31b",
+      "title": "Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 - Technology Org",
+      "summary": "Technology Org 报道了「Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 - Technology Org」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHp0eUxabldMSV9pczBrR0hCU3lnTXgtcmlYekMzQ3p5TVdTUlhweG1jdFBnbzllWGdCbDVRMHVKQm9YM09DaHNzaXJjMFAwUzFtV1lFLVhlMzA3VE43TktlVW1lazUtUzhRSjRUbm1Pcjc2QTNxc3JhZWgzZlBuTjBEZFpiRmNEUi1NVmVMc2dGR3htUWtHNlgyckZRUXdSTlE2ZC1FaXBCdXhSRDh3M0FqMEI1SVV6RmFCN0R6eml0V3hx?oc=5",
+      "source": "Technology Org",
+      "published_at": "2026-08-31 21:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "466c7acdafcba77d",
+      "title": "Model-Based Enterprise Market Size Report, 2026-2033 - grandviewresearch.com",
+      "summary": "grandviewresearch.com 报道了「Model-Based Enterprise Market Size Report, 2026-2033 - grandviewresearch.com」相关进展。 该消息涉及AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Model-Based Enterprise Market Size Report, 2026-2033 grandviewresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXptWnhBTVhReEJ5a0xnUDB6Tld2ODRkN3llNGdGUUFfYTVsSW9PNWkxS0F2TjJjSWNwU1lDc3lFX3N0WjJNc01zRGV3TUhlbWZXTG1hZWo2ajlRX2dNTWJId3d1ejBkY05ENjRqOGFaZFd2bzkxclpoemxxS05LLXMxa2YzckNzQkp4SHliRk90QQ?oc=5",
+      "source": "grandviewresearch.com",
+      "published_at": "2026-08-31 19:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 89.0
+    }
+  ]
+}
