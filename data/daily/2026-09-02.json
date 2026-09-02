@@ -1,0 +1,339 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:52:15.743114+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-02/",
+  "image_path": "assets/daily/2026-09-02.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "ba3a45a849cc4c1a",
+      "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns - The Information",
+      "summary": "The Information 报道了「OpenAI Technique in ‘Astra’ Model Sparks Security Concerns - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns The Information",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
+      "source": "The Information",
+      "published_at": "2026-09-02 08:40 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "bb43c7b452aba906",
+      "title": "FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk - Tech Times",
+      "summary": "Tech Times 报道了「FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk - Tech Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "FCC-Banned Chinese Robot Vacuum Brands Pivot to IFA 2026: EU Buyers Face Same Intel Law Risk Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2l2SnJXeVJ5X3hBNUZTM25GOHdVY2tnRmEzbWN6d1ZnZmpNRkl3aXFVWXk0bFZ1dDYwa3lJNHhkMEhVV2w4RjQzb0tDU01VLVJ0ZVEyckZzX2tUTElmZmJkXzJFclhHdjhuWU5ia2ZRc1NLUnZobi1uLVRqNms2TkVTcVZwRU9LcjVwX3o2dDBlNDE1Sm80dWRvdkM0aV9oTWxxdjJUR0xvYVNRVFQ0SDNnS0gxSlkxRDlFRnkxMkJLWExyMWtqYXpNd2QxNkpWMTNFSnBENzU4Rzg?oc=5",
+      "source": "Tech Times",
+      "published_at": "2026-08-31 22:55 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "10943b91132314e0",
+      "title": "Google Pics is like Canva, but with even more AI - The Verge",
+      "summary": "The Verge 报道了「Google Pics is like Canva, but with even more AI - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Pics is like Canva, but with even more AI The Verge",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSnlUbmxPV3h6eWtFUmhjUmtiZmlMQnJ3bzlNTXJ1ZnlXTlZNcjFBVG82OEZGY1FtdVJweHF2SzhsS01LTE9fX3lSMlhSRUZEYUpOMlpSUS1KVTc3cFpqRDh6OTRpT2JWTFRObVY3a2RaUjRYMFQwVGJvOGQ4cDA?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-09-02 00:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9ccc3a498746bb94",
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads - VentureBeat",
+      "summary": "VentureBeat 报道了「Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWthd1kzYVd1aVdMV05kS1JTUFFCRGdhalRUOXlyUE5nVVJPMURrSGZ1SzdBMkw2eG5CLTJQZnRPSEp5QzR3T0x1SG9TRlFGa0h3NUVDNVZ6b0U2VGJhcHJPZ2g1MnptckE5dUd1dnZ3REpyMXg3RnQ1eHJCME1JTEhiVVVteFMyTVlWaW56RDZMc2ozV3NtZzc4ODk1NW10MGM4dUNBX0VBLUhPcjR1YW1BUTBjdC1vTHB1cUpyVTFsdmpZRFlnV0RQQQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-02 02:41 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b8c436d3c88b2f08",
+      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "NVIDIA Developer 报道了「Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron | NVIDIA Technical Blog - NVIDIA Developer」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron | NVIDIA Technical Blog NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUlvQ0hSbzJEQnFkTjFBTGFOMVRUSVY0TVhnZXE3WXRkMDUtU3VkcjJaSnhGTlZ1NUZ1b0JyT01VVUhtMFpUOFZ2dWVlNGJEQ0hYcENQVm1WWmpqTUtkbDh3c0hrNDZTUnZLcVM5b3RhQWtyZWtsQVR6TEE4MXZYMXdOV3ZsclNpaWVrSFRkSkxsT2paT1FOV1ZlZmlnVThXZG5yc1VKT2Q?oc=5",
+      "source": "NVIDIA Developer",
+      "published_at": "2026-09-02 01:27 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a0521853359d10d4",
+      "title": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 - 亿邦动力网",
+      "summary": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OR1B6M0pJUU8zYU9hN0hIeThuS0FLMFpaTDUzb2dnUHZiUDlKRlNGdHZTa0kxYjc1N09hQlVVNmRMU0FTcDJGb0hsYVBQa21jTElzb1hn?oc=5",
+      "source": "亿邦动力网",
+      "published_at": "2026-09-01 17:00 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fed5736cac2e49b3",
+      "title": "商汤分拆芯片企业曦望完成20亿融资 估值达200亿 - 亿邦动力网",
+      "summary": "商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXT3JBV184QmhJenlYMUdVM2FGSy1LZUxtYTlqd3BLREJXZmFncVVzeERDdjQ1UTJ4d2tBUmlNNlE1d3h6YTN6bWV4NUV1VTQzZmFvUEh3?oc=5",
+      "source": "亿邦动力网",
+      "published_at": "2026-09-01 16:55 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b6cf0cb31b348287",
+      "title": "扩散语言模型产业落地加速，DiffuSpace与Acrab合作可将端侧Agent提速5倍|端侧AI|AIPC|智能家居|适配|芯片 - 新浪财经",
+      "summary": "扩散语言模型产业落地加速，DiffuSpace与Acrab合作可将端侧Agent提速5倍|端侧AI|AIPC|智能家居|适配|芯片 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "扩散语言模型产业落地加速，DiffuSpace与Acrab合作可将端侧Agent提速5倍|端侧AI|AIPC|智能家居|适配|芯片 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxDZmFsZHBmVG1mU0RKSVdHMTFCSEU0SWRKWnd3UWdDZlJEcjN5UDlJcUVneWFyYUFIQUFTUndfU3VLMS1tZHFLWFZNaVhBTzhLZVQ0Q0E3QWttUFdrd3o1c09TZHIwUVlkUEJmUGcwZXZqZVNuWmZlelZlWVh6aXNNSV9pRkJXaUdnSmVxbWl3bEFwODdVbXhPWFVEUzNM?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-02 06:54 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6e1ad608118e0f3a",
+      "title": "主动进攻、但不做Token工厂，美团要让AI真正落地 - 新浪财经",
+      "summary": "主动进攻、但不做Token工厂，美团要让AI真正落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "主动进攻、但不做Token工厂，美团要让AI真正落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aT1hqR256dS1YOTdYQ2VJNy1lcVlEc1BzRzNpTlBNOVRCV29MbWFyT1J1SmZjVEZFZFR1TUtRMjRxVVAxUXR6SWF6NDRWZGNObGU5anltVmxoR3FWWUpHejF1Zy1OUkpleHl5ZEpR?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-02 12:00 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0b1c6cbdd5b55bfa",
+      "title": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 - 凤凰网",
+      "summary": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 凤凰网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026宣传GEO稿件优选媒介行指南：AI采信优先、可直接落地投放 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQXlmRW1BbWxXeDlKUzRLLXEyN0pxMlNEZjh4bEJnY1ppMjlja3VmSVJfbnVyYURWX3p0R3V6ZkRSLTd5UF9FS0R1LV9TTVk?oc=5",
+      "source": "凤凰网",
+      "published_at": "2026-08-31 15:21 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e4db9a8d2d43ddf1",
+      "title": "Boomi Delivers the Critical Infrastructure That Brings Control to Enterprise AI - FinancialContent",
+      "summary": "FinancialContent 报道了「Boomi Delivers the Critical Infrastructure That Brings Control to Enterprise AI - FinancialContent」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Boomi Delivers the Critical Infrastructure That Brings Control to Enterprise AI FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2RyU3BhOE5vTzNFODd0aVlqcUowRUI1NWVPcW5zbFQ1OEJpSFlNcWdwbWtycTVPWlNzMXJTU2huanlVU0laOS1DUTM0eW9RYTd3RC0xR2JGQUhHYUNFQjdaRkZLdGkyMFJVMGZUOFp3RDcwZERCb2ZwWHhsVGtGM3M0TDFENF9hbFp5X1NtTlp3UEp6Z2FPVXhKRE5uZGNONGpHQlVTYkVNOVFEUWMyd1V5UFhVX3diZHV0d0tXSXlXOVFNb1kzLTdkb0EzQTVlXzZj?oc=5",
+      "source": "FinancialContent",
+      "published_at": "2026-09-02 09:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "6b2d34382003f31b",
+      "title": "Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 - Technology Org",
+      "summary": "Technology Org 报道了「Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 - Technology Org」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Beyond Basic Chatbots: The Top 7 Agentic AI Platforms Reshaping Customer Support in 2026 Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHp0eUxabldMSV9pczBrR0hCU3lnTXgtcmlYekMzQ3p5TVdTUlhweG1jdFBnbzllWGdCbDVRMHVKQm9YM09DaHNzaXJjMFAwUzFtV1lFLVhlMzA3VE43TktlVW1lazUtUzhRSjRUbm1Pcjc2QTNxc3JhZWgzZlBuTjBEZFpiRmNEUi1NVmVMc2dGR3htUWtHNlgyckZRUXdSTlE2ZC1FaXBCdXhSRDh3M0FqMEI1SVV6RmFCN0R6eml0V3hx?oc=5",
+      "source": "Technology Org",
+      "published_at": "2026-08-31 21:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "e8a7f6296d435b23",
+      "title": "Crypto.com, PYMNTS Team Up on First AI Event Contracts - Casino.org",
+      "summary": "Casino.org 报道了「Crypto.com, PYMNTS Team Up on First AI Event Contracts - Casino.org」相关进展。 该消息涉及AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Crypto.com, PYMNTS Team Up on First AI Event Contracts Casino.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVFUdTk5YzUtOHdyR1lMNGFSTnBjb1hQWWFTcW5jM05fR2dneDBHR3d6dy1Ma0FOZDlnYXZXMnZFcmdnWFREc0JteTVhQmcxYXpFSFo1Ml9MWVFzc2EyNC1MVnY0SVNrX1lPZTdWRGJ5ZHN3ZXJGekJRSmJwVUo5S2tIa0VfWC1WQXc?oc=5",
+      "source": "Casino.org",
+      "published_at": "2026-09-01 02:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 84.0
+    },
+    {
+      "id": "ca5421f522c11e46",
+      "title": "Open-weight AI models overtake proprietary rivals in developer usage, Citi says - Proactive financial news",
+      "summary": "Proactive financial news 报道了「Open-weight AI models overtake proprietary rivals in developer usage, Citi says - Proactive financial news」相关进展。 该消息涉及AI 产品、大模型、开源模型、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Open-weight AI models overtake proprietary rivals in developer usage, Citi says Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWxDaloxUW5uRG5GM195VXdla3FwYV9WSE0wcnZvUmZpUVEzc09vdXExejNiODBkTDQxaUl2d3M4ZzRJX0paZmY4NGNNTWFsYzdETDMwWldoNWswRkk0OHUybHJFVi1QcEFmRmczN2hpODZidlZLamUtZFZwYzNmazlnMnRYOVVCWFdaeFpjMTFSMzVZcHM4VFR5dUdUZG5ycHhrQkhuM3Q1eEczUEJaVzZrblpJSHZGOFBWbjFmRkRzcEZTY2RyUV95aU9hWXlnNUlFbHJzcXd1ZWlEWmJQRHBqRQ?oc=5",
+      "source": "Proactive financial news",
+      "published_at": "2026-09-01 21:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "open_source_model",
+        "regulation"
+      ],
+      "importance": 80.5
+    },
+    {
+      "id": "86038c6037fc486a",
+      "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+      "summary": "gatesnotes.com 报道了「The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com」相关进展。 该消息涉及AI 产品、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The turbulent AI era is here. The choices we make now are critical. gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "gatesnotes.com",
+      "published_at": "2026-09-02 10:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 77.5
+    }
+  ]
+}
