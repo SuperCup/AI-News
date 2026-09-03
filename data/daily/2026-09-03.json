@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T13:52:05.086688+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-03/",
+  "image_path": "assets/daily/2026-09-03.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "668667ad8d90291f",
+      "title": "Enterprise LLM Deployment: Factual Accuracy Dilemma [In-Depth Analysis, 2026] - Klover.ai",
+      "summary": "Klover.ai 报道了「Enterprise LLM Deployment: Factual Accuracy Dilemma [In-Depth Analysis, 2026] - Klover.ai」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise LLM Deployment: Factual Accuracy Dilemma [In-Depth Analysis, 2026] Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGxfTThTR2t0LTZoZWgyb2VTQ0ZTTHRyTkFEMHg3R2NlbjlQVFN3MnQ5SkszeVFFWWxVRkptZnlWTkJQeHBKRDBtM1Y5VnI5cGxUUHdWZmlMWTM0bUVVTy1OSGUyWXpSR3NObk1yRmVoUmdPM2hzM2ZJaHVJTC1mRVZOS3VlZFdlMFBEbHBCOE82SHI1T08yeFlyNA?oc=5",
+      "source": "Klover.ai",
+      "published_at": "2026-09-02 18:48 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "8694dcf687dd88c1",
+      "title": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry - Microsoft Source",
+      "summary": "Microsoft Source 报道了「How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry - Microsoft Source」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Kier Group’s Louisa Finlay is using Copilot to drive safety and productivity in the construction industry Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRjRGVUdDWFBmMnN6ZnROZEFEdnpVTkJBRnlaLVI2aEU0WksxRzFjVmQzZXR2NDJIRWF1WmJoRkx6MW1SUE14QS1tQlN0QUU3RFlRRDVwaWNkVDJOcEV3ZlV3d2JlN1hyR2R6NTF0N3RZLU5nMy1KQnFpcWhxYXUwbjhvNTFkdElaakZMX3FRczY1OHJYdEwzZl9NS1BYN25US3BJSXRZTG92VkVoZzI5cFBnM0psTVBMZkNqcGRhb2JBVDVsN3JjYUY2cUwwTW5pMl9NNEIyNmtVd3Rray01eWFudXpRSkhjWTFjVE5R?oc=5",
+      "source": "Microsoft Source",
+      "published_at": "2026-09-02 18:04 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "37367c8daea77b3c",
+      "title": "The Road to Astra: Illumio on OpenAI’s Security Guardrails - Cyber Magazine",
+      "summary": "Cyber Magazine 报道了「The Road to Astra: Illumio on OpenAI’s Security Guardrails - Cyber Magazine」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Road to Astra: Illumio on OpenAI’s Security Guardrails Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk03OGd4UEhzQXBhWE5JT0QtNGpQMXA1NFlGSk1RVGFIOVVXckhVaG5jbWFUQ1lqOFNSUUxvZW82ajBOaGpnRTVRSkhBWkJPRC1SRkNSTWhEWmsxRUtmQWJmVFNaM3pDX0FBWTVjdE1Kc0Z1MFZFZ0JmT1c2UGpINzEzQlByLUZWTXJGQWNGbXo?oc=5",
+      "source": "Cyber Magazine",
+      "published_at": "2026-09-02 22:50 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "aedd609f4c44e3ef",
+      "title": "Meta Unveils New AI Model in Accelerated Effort to Catch Rivals - The Information",
+      "summary": "The Information 报道了「Meta Unveils New AI Model in Accelerated Effort to Catch Rivals - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta Unveils New AI Model in Accelerated Effort to Catch Rivals The Information",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzJVYllCZUJybVNXTFVBN29ERVEzcm9yTlI4UkI5Y01NVXJnMWpWSW1VVWRjSk8xTHAxRVhGa0VCMjdWMl82YXpidndhWUI3YVU4UlJodXA4WjFnZXA1ZHZmNE9fVy1pejVDY1NiTEd4eEZwR3p6TmdURzh3eFY2T0pJMFpnMkVnX2FYcWVQd0wwX2lQMXhVZHd0MElObEk?oc=5",
+      "source": "The Information",
+      "published_at": "2026-09-03 06:39 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a7884bf2e8cb98a1",
+      "title": "Find, score and scan every AI model across code and cloud – FireTail Blog - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Find, score and scan every AI model across code and cloud – FireTail Blog - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Find, score and scan every AI model across code and cloud – FireTail Blog Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVTg0Tkh2dzk5R01GNlhac2FYdVc3S3YyZDdMVG9iWHZnYTJ0XzRLUmxTcjJXYjhKZ2lBNE5haGYzSGxRZFdmdWxteF83bVpyOHI0RXZINGdkRy1NaTZGZlVzRjRycUlZM2xzYlhaVUtzbjBsQ3JTOGNTZnJxejRCZGhLQy0xdkd3aU5ZMzkzckx4OFRjcEhval9CdGdKYUhySEFyNF8tVVVpNFAzcnc?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-09-03 01:29 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b145e5f54ecee8b4",
+      "title": "范式智能超10亿元采购华为昇腾950芯片，国产算力进入头部AI企业生产环境 - 电子工程专辑",
+      "summary": "范式智能超10亿元采购华为昇腾950芯片，国产算力进入头部AI企业生产环境 电子工程专辑 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "范式智能超10亿元采购华为昇腾950芯片，国产算力进入头部AI企业生产环境 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDcmtWNTJrU1g2Q3UtaEg5VEl6M1Ntd2lpc2R5SDc5Tk5lOThtYlBSTmphNE9qQ3FfMXJBTFVmZEVGd0RMemJSRzVUeG5vYTRkWERSTFFScmJzX2pW?oc=5",
+      "source": "电子工程专辑",
+      "published_at": "2026-09-02 14:35 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5c9a54564b2654cb",
+      "title": "详解美团AI：不卖Token、死磕真实场景落地 - 雷科技",
+      "summary": "详解美团AI：不卖Token、死磕真实场景落地 雷科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "详解美团AI：不卖Token、死磕真实场景落地 雷科技",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3MTBJa2RfSmIxSE4tc1IxT3NLODh5M3dwMFFpRDBjeUxuOEV4Q0dxTFBmRHlOeXNzLTh5RUIySFU3R0p2MXNzYUFhN0Z2Zw?oc=5",
+      "source": "雷科技",
+      "published_at": "2026-09-02 23:22 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0fc70e8e233767d9",
+      "title": "美团做实AI，模型之外、更拼落地 - t.cj.sina.cn",
+      "summary": "美团做实AI，模型之外、更拼落地 t.cj.sina.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团做实AI，模型之外、更拼落地 t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uQmJsUzRHakQtWTFMQk1NeWZ6NHJucS1EbEVfWEkwY045X0owNXRuMlhzQlNaRjhNcnpTT2k5ckd3eWctZElseHc2XzVTbmRWZzVtMmRtQWg1dnpfU2FjSy0yQ19vejEzVFAxNXUwT3Ntdw?oc=5",
+      "source": "t.cj.sina.cn",
+      "published_at": "2026-09-02 18:45 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dc5ceef51a36f867",
+      "title": "机器人、VR、飞行汽车，APEC中小企业代表在广州玩嗨了 - 新浪网",
+      "summary": "机器人、VR、飞行汽车，APEC中小企业代表在广州玩嗨了 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "机器人、VR、飞行汽车，APEC中小企业代表在广州玩嗨了 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS09LWkJxNmVMS1prYzFQTWU4OTZyb0RyTjJub3A1YzB3ei0tWTdnemZlOVdhWHJkbVI0d2dfLS0xM2NRVW5hZy1OX1Y1TDFHQUhGV2F5bktabGg1cGZBbjQ5NUhmdTZtZHVoZ1BVNllYa1Frb0djMDRWZFZETlVLNA?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-09-02 17:39 +0800",
+      "companies": [
+        "XPeng"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a0521853359d10d4",
+      "title": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 - 亿邦动力网",
+      "summary": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "17点聊电商：商汤分拆芯片企业曦望完成20亿融资 估值达200亿 亿邦动力网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OR1B6M0pJUU8zYU9hN0hIeThuS0FLMFpaTDUzb2dnUHZiUDlKRlNGdHZTa0kxYjc1N09hQlVVNmRMU0FTcDJGb0hsYVBQa21jTElzb1hn?oc=5",
+      "source": "亿邦动力网",
+      "published_at": "2026-09-01 17:00 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "cd81a9d4c1bcdc60",
+      "title": "Palo Alto Networks Acquires Console to Bring Autonomous AI Agents to Security Operations - cyberpress.org",
+      "summary": "cyberpress.org 报道了「Palo Alto Networks Acquires Console to Bring Autonomous AI Agents to Security Operations - cyberpress.org」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Palo Alto Networks Acquires Console to Bring Autonomous AI Agents to Security Operations cyberpress.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWxIQ3NoT1JVajJQOTZCblYwcWE3WUVpbmY1eXl2RWdvRWhmbHBTRXBKRVhxNGw5LVQ5b2RfaXcwQ0pyYnloQlhsXzZjUEZZcVluRGVaZnhvVVdycnU2cHZMajYzVThqM0ZGRm5SekstRDNsQ3l0ME5NaW9lSkM1cEhGa3VwaGE3NFlSYUJsMXd3XzlscU9YMXp30gGaAUFVX3lxTE4tbEhDc2hPUlVqMlA5NkJuVjBxYTdZRWluZjV5eXZFZ29FaGZscFNFcEpFWHE0bDktVDlvZF9pdzBDSnJieWhCWGxfNmNQRllxWW5EZVpmeG9VV3JydTZwdkxqNjNVOGozRkZGblJ6Sy1EM2xDeXQwTk1pb2VKQzVwSEZrdXBoYTc0WVJhQmwxd3dfOWxxT1gxenc?oc=5",
+      "source": "cyberpress.org",
+      "published_at": "2026-09-02 18:56 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "90cf455e2ec95f41",
+      "title": "Who’s Actually Responsible for Your AI Agents? - Built In",
+      "summary": "Built In 报道了「Who’s Actually Responsible for Your AI Agents? - Built In」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Who’s Actually Responsible for Your AI Agents? Built In",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84SWNzU2s4Nm93RkJaUlFocVV5N3ZrUXM3RkxmaDBpdTIwWnNiMnhJeGpZamN4bWV3ajJVRkJ0YloyVUFHT2ZQOXk5OE5xMXpzdTU0SFhOVW9jVjdhVXc?oc=5",
+      "source": "Built In",
+      "published_at": "2026-09-02 22:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "ccc36e2abe6bc592",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation - Unit 42",
+      "summary": "Unit 42 报道了「An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation - Unit 42」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation Unit 42",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlNCWksyM0pIS203YkZuOUFOT2M3NkhZZ1ZGUEN0UmRqQ1pZY2lOUFJIc2dkaWROcC02eGVFemtzWGk0TVNPUll6TG9vM1ZYOER2aFp1SllKQndaLWdwOFJEa1N1dHR6c2FpNTlKTm9kWWhKVVFxUGNzenJwbjZYb1U5bHlsRlpiRTBrQTIxZGMwMmdvcHlR?oc=5",
+      "source": "Unit 42",
+      "published_at": "2026-09-02 18:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e9e2054681cf6723",
+      "title": "Genesys unveils AI tools to orchestrate customer journeys - IT Brief Australia",
+      "summary": "IT Brief Australia 报道了「Genesys unveils AI tools to orchestrate customer journeys - IT Brief Australia」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Genesys unveils AI tools to orchestrate customer journeys IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOempLd1h3VVJhYUNZYjlWV1RrX2RNY3Z2Q00tT2ktVkN1OU9CRHdlclk1MkFVWVpiYmtZOU4yM3luZVRRZjZYZGlfejZEY2pHYjJaRVBiSnByVzNKa2c4dDNFcHh2cHNFUEEzaEFjZzlwNWVKZ3pGVldLVUxSdkFLZVJLNEM3aWprSDhoTEJ6UQ?oc=5",
+      "source": "IT Brief Australia",
+      "published_at": "2026-09-03 08:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e6e2e139ec40dac0",
+      "title": "NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions - TradingView",
+      "summary": "TradingView 报道了「NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2t2blBVa2h5MXFhQXQ1Y3YzamJIbFhLNjRoMk1HbmxrRk5fVGN3YllyU2ZTem5VMkFKbHJDelRYS3g5VmFMMG9MNmREeGxLY1QzOHRIQ2NxdXdvMDlVVzk1QWNsb1F6UHY3VjI5MEx2cE4tUWpXdUFKUjFJNk9yYW9vNEVYUUNneWRzZnQwQlpQYXpQeldQV1ExRENITXczemljaGlyQXdOVVVyTVJPUUJYTFZwanY5ODFQWg?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-03 00:05 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
