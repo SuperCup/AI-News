@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T14:00:09.460749+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-08/",
+  "image_path": "assets/daily/2026-09-08.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c7e44cb4505598fb",
+      "title": "Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs - shattered.io",
+      "summary": "shattered.io 报道了「Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs - shattered.io」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydzFWNGl0M1V1Mmk0aVRma1J2UEgwVTlCaVN2enZlMjA5dlZjRlFpUFJfVWtpZzhrdm9icTktUWx6LUJ2TTR6V0dPdG9SV01NWFlkYmh5M1lqNHhKVWhuS0x0SjhuWnBJVlVBVExRUQ?oc=5",
+      "source": "shattered.io",
+      "published_at": "2026-09-08 08:05 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "95a2185423d9db92",
+      "title": "Oracle's Biggest AI Risk May No Longer Be Spending - Benzinga",
+      "summary": "Benzinga 报道了「Oracle's Biggest AI Risk May No Longer Be Spending - Benzinga」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Oracle。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Oracle's Biggest AI Risk May No Longer Be Spending Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHVjdzdGczFKcmh2Z3lnVEZKQXNFVFlZaThaWVBYek5ZREVwMm80QnFOTFhYOVJzeGRPOHZWeWJXancyRm0yRWljY0ZiaTJwOU96N05xNGNDQk9mV2l2R1pkZ1VmbWloNmVnekoyLXlNbDY3VHJlbjNtclZrMXNzdC01VjZjUQ?oc=5",
+      "source": "Benzinga",
+      "published_at": "2026-09-07 23:50 +0800",
+      "companies": [
+        "Intel",
+        "Oracle"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "cb20b6a3a663783d",
+      "title": "UN Rights Chief: Advanced AI Poses Existential Risk to Humanity - Mexico Business News",
+      "summary": "Mexico Business News 报道了「UN Rights Chief: Advanced AI Poses Existential Risk to Humanity - Mexico Business News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "UN Rights Chief: Advanced AI Poses Existential Risk to Humanity Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmJwYnNHbEV2dm9sdEwxOW1HNnkwdFpYT281SFMxekJTY3JXc0xIa3VnZGN4aWJBM21tRTRIS3k1aDdjaWZ3WXo3NjRDZXp3c3ZmNW5FM1pRYTBkSm1TcTU2djJieWpUU2J2UDByOUdfRWFzaFpVanZhNmpnN3h0SmNuVXRmTWQ3TzRUa0lZZFk2ZTRLM1BMbG1vaG9OdEdEcDRjU1cwU0dMQmFfOG5rekhubVhyUDdidlpyXzFsQmI?oc=5",
+      "source": "Mexico Business News",
+      "published_at": "2026-09-08 01:10 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "92e6ab87d56e28cb",
+      "title": "30天企业用户过半，千问办公将AI办公的生意做成了 - 21财经",
+      "summary": "30天企业用户过半，千问办公将AI办公的生意做成了 21财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "30天企业用户过半，千问办公将AI办公的生意做成了 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmhBZzRRY0VQR0F5ekZ5RDFyS2FlbW5rWms4OGNrTWEzZUV5SHluTGs0MGc5ckF1MW1taGhUc2doNURaOGtYU1JHOG9yNHhIeVJ0YUlNNnBkcjVVNWdKc0hEQThfR1NMYmVaUnlsaWc3SkFPSFdtbWNuSnp1eGFGc3d3eDdCWk9tcWlVUg?oc=5",
+      "source": "21财经",
+      "published_at": "2026-09-07 16:44 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1957e3400664fe17",
+      "title": "AI智慧落地全场景，华为WATCH 6解锁生活的N多可能 - 凤凰网科技",
+      "summary": "AI智慧落地全场景，华为WATCH 6解锁生活的N多可能 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI智慧落地全场景，华为WATCH 6解锁生活的N多可能 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IVkNpTGV1YTJsbmtKbnhYS05acGpxaEJHV2puSHBhOFVYZV95eGtXbnJuOXkyUlk1aTBrVzRKWFpfR2VaMEpwUUo3Nlc?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-09-08 11:32 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "aa606b2a6ed7eff1",
+      "title": "科大讯飞联合华东师范大学正式发布“狗万信誉好”智慧课堂AI助手，推动教育数字化落地-体坛网_体坛+ - 体坛",
+      "summary": "科大讯飞联合华东师范大学正式发布“狗万信誉好”智慧课堂AI助手，推动教育数字化落地-体坛网_体坛+ 体坛 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞联合华东师范大学正式发布“狗万信誉好”智慧课堂AI助手，推动教育数字化落地-体坛网_体坛+ 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFM3RjlrV1cwMDRsR2M5ZzRlYmU0dXVJZWEyTEttd180MHJacXEtQ0Nydm1wS3pSZUZTcVh3bnhhaFBUVDRFV2NESjJaU2RSZ0F1WWJaaHVRcF9aUVE?oc=5",
+      "source": "体坛",
+      "published_at": "2026-09-08 07:19 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "28dbfc087b218d6e",
+      "title": "中小企业如何应用AI，美团向行业开放了自己的解法 - 新浪网",
+      "summary": "中小企业如何应用AI，美团向行业开放了自己的解法 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中小企业如何应用AI，美团向行业开放了自己的解法 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLenZ6MlNBM0FIVWtONVBZeU5WWHhGMWRUYndNZl9pRmk1NXJ6M2NDYUNPLUtESUFiYVZQVDdNUWM2LUQ2VXhrdzBObC1JaVRmVkthMjhlMzJreTZRS0dCUVlST0l4cUNDVzljQ29Oa2k?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-09-07 23:55 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1c20e1c80a84fbda",
+      "title": "Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer",
+      "summary": "Artificial Lawyer 报道了「Harvey + Legora on OpenAI’s GPT-6 Astra - Artificial Lawyer」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Harvey + Legora on OpenAI’s GPT-6 Astra Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+      "source": "Artificial Lawyer",
+      "published_at": "2026-09-07 15:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "6eef262354ebd579",
+      "title": "A small, high-performance, and Japanese-language AI model, the 'MiniCPM5-2B,' made in China, has appeared. Despite being a 2B model, it achieves benchmark scores equivalent to the Gemma 4 12B. - GIGAZINE",
+      "summary": "GIGAZINE 报道了「A small, high-performance, and Japanese-language AI model, the 'MiniCPM5-2B,' made in China, has appeared. Despite being a 2B model, it achieves benchmark scores equivalent to the Gemma 4 12B. - GIGAZINE」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A small, high-performance, and Japanese-language AI model, the 'MiniCPM5-2B,' made in China, has appeared. Despite being a 2B model, it achieves benchmark scores equivalent to the Gemma 4 12B. GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZThRa19JYlBnNm5lcmwwQ2lYX0RfLTZBUnE3dThwanFOaUpIYUV3SVpndnBoZEpMZnhxSGlTemtNTlA1aE9zbFZhdDZJdl9EYkZMdjlrNGtpczJaMEw3aC1hV21Tek01V1psNF9Dcw?oc=5",
+      "source": "GIGAZINE",
+      "published_at": "2026-09-08 10:37 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "ca2fb768b950a7bf",
+      "title": "阶跃星辰首席战略官李璟：迈向智能体时代 全栈能力成大模型企业竞争核心 - 中证网",
+      "summary": "阶跃星辰首席战略官李璟：迈向智能体时代 全栈能力成大模型企业竞争核心 中证网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阶跃星辰首席战略官李璟：迈向智能体时代 全栈能力成大模型企业竞争核心 中证网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ld2V6dmdIWXRDeXF5cDFST1RHdEI0S0JsVFFibHUwVE5EOU5zSnZvM0xub0pJdkFES1lCZUlwUmtabXFYOE41a25CdTdNM2NTbDg2Nng2eXBVdENnZ2pMSTlPZ2pWV29lYU1NTExNWEdaeVdRVVJIcw?oc=5",
+      "source": "中证网",
+      "published_at": "2026-09-07 08:16 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "edb515a43a4fb427",
+      "title": "AI Agents Redefine Banking Software Development: Finomnia - Mexico Business News",
+      "summary": "Mexico Business News 报道了「AI Agents Redefine Banking Software Development: Finomnia - Mexico Business News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Redefine Banking Software Development: Finomnia Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSm9VSXU3cDJGd19HMktOQi02Tm1DT2VWamNnM3p4SUV2bGxFUzJURjdtVlhnY0owWUowclNtU1Z5SFJBcE9sMUxFSFUwREZmOHRqOVdZbGRtYkIwVGVDVHZIYlNRcnVRaVNGd3FGMTMxY09HbVdBT1JVRHdSUWxoekpLU2ppUld3dzlBQzJEUHJtdkNfcTRPMjkySkZQdw?oc=5",
+      "source": "Mexico Business News",
+      "published_at": "2026-09-08 06:20 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bbcc9a013d1abf5e",
+      "title": "Wavespace Unveils a New Design Approach for AI Agents: Moving Beyond the Chatbox - USA Today",
+      "summary": "USA Today 报道了「Wavespace Unveils a New Design Approach for AI Agents: Moving Beyond the Chatbox - USA Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Wavespace Unveils a New Design Approach for AI Agents: Moving Beyond the Chatbox USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWZVZ1pyZS14OG9Zbk5rSXRNbVFqaTZNQlotcG9vTGRlZHF1dEZkZmM4SFJZNUxBSE9MLU9QOW53WGUyTWNfajFGM1ZrVEVDNXIyamJOaDhYb1pNLTVkMDc4bmVyS1A0eXhEc1pBdmJjNlR4UEdFY21SZXM1VUZ3RlZ4OGhPaV9nczZNbDcxbEd1N2lfZHoxN3BOT2V2MlhsOTVyNkhQeDZfS1E0enoydXRTeDFySkFZcnUzM1ZDV2hzRzdRRVZ4MnU2TQ?oc=5",
+      "source": "USA Today",
+      "published_at": "2026-09-08 09:11 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9cb16c79a7cc75e9",
+      "title": "To scale AI agents, enterprises must strengthen governance - Frontier Enterprise",
+      "summary": "Frontier Enterprise 报道了「To scale AI agents, enterprises must strengthen governance - Frontier Enterprise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "To scale AI agents, enterprises must strengthen governance Frontier Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUTZKQ3QtZU5HMk9namFSVG1ZWWcycVJUQUdJdXFOamZRVGc0c1lHZ1ZvMGNQbENTRnY0ZDhTcHJtNDVueGYtdjJGNlhRd29XaDMyRkFoUWdwZFFkZ3k4TlZRbkY0WVN0MFJoWmtmNHB4S1U1aDI5bGI2SWJBc0tMYVNIMHFwUDg2cVAycjVUZUEtQ0F2dXlaZGl3?oc=5",
+      "source": "Frontier Enterprise",
+      "published_at": "2026-09-07 18:29 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "929c9742ecaad806",
+      "title": "When the telecom buyer is a bot - Infosys",
+      "summary": "Infosys 报道了「When the telecom buyer is a bot - Infosys」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "When the telecom buyer is a bot Infosys",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDlqZV9Sc0RBcTlXZ0FNLWdjNUtpRXd1aS0yclhrUzE5T1RDWnVJdEhnV09PSEEyWmdfT28xeTZwaTFtaGoxbm9TWWtBdHRNdTUzRTl2bTYtUzBOSkVoSEV3LXpCLTEtQXBaRTdEc0h6ZGI4WUVtZUszbFREMU5CTzJkQUFOaUU?oc=5",
+      "source": "Infosys",
+      "published_at": "2026-09-07 18:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "7fcfc0694b8d0c6e",
+      "title": "Genesys Ships Four Agentic Products—And Enterprise Buyers Face a Familiar Trade-Off - forkast.news",
+      "summary": "forkast.news 报道了「Genesys Ships Four Agentic Products—And Enterprise Buyers Face a Familiar Trade-Off - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Genesys Ships Four Agentic Products—And Enterprise Buyers Face a Familiar Trade-Off forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYURsYWZhSzhFYUllMUp5bFJQMmp2ckZCZzY0a09GRVBvZEVGZ0RxanpXdXdWYTBWSDR4eVB4S1hwbDQ5YnRuSnl6Z2NNS2NERDJsdndKOHhiU0swOS1ab0cxMWhpZWlyYUdBd3k1VXJMbEphTUtvNThVcnRmUEZzZUZVT2l4UWt0R2FCeUR0MkN5Y2FRVW53NUVTbFBNQlpNZ2Z6dDBraUM?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-09-08 02:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
