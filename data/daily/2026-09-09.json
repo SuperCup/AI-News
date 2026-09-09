@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T14:01:40.414882+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-09/",
+  "image_path": "assets/daily/2026-09-09.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c23518073cfc43b5",
+      "title": "How llm-d makes the most of the hardware you already have - IBM Research",
+      "summary": "IBM Research 报道了「How llm-d makes the most of the hardware you already have - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How llm-d makes the most of the hardware you already have IBM Research",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmY2sxRFdZX0NFLUoxUXVFMkxjaEhhcloyVGRkeEsyaDJ2YWxVaVkwUlJocDkxSU81Q0Y0ZDJhQkYwN0w4OHdUUk5fbHRGbzd5aW1HZ203cU5CU2lwb2h6cWY3d0FtdkxLVmUwUXV6NDlJT3Y1ZGo1a3FaQzU?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-09-08 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "8e384650698ea903",
+      "title": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 - zaobao.com.sg",
+      "summary": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 zaobao.com.sg 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 zaobao.com.sg",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cXk0VldyakpadUdMaEVnYzZZclZQTVY4QklBMmEzYm1YZzBtamxXS0Y4dmZFNUpaRHdhaE9NSWtfVk4tYkw3LURUVUJpMGRLUUJuQm51NnhHTnhmZlktLTV4a3pIZzNyb0E?oc=5",
+      "source": "zaobao.com.sg",
+      "published_at": "2026-09-09 10:58 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "428fc518a322db31",
+      "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says - Reuters",
+      "summary": "Reuters 报道了「OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-09 08:43 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4a9cabed1a8ec1fe",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "summary": "Reuters 报道了「Meta launches AI agent that can access other apps to send emails, make payments - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta launches AI agent that can access other apps to send emails, make payments Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-09 05:29 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3d56e34cfc65fb4e",
+      "title": "Meta bets on AI agent Muse to catch up in AI race - The Verge",
+      "summary": "The Verge 报道了「Meta bets on AI agent Muse to catch up in AI race - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta bets on AI agent Muse to catch up in AI race The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0RtbWlkWWU2NWs0TWhieEFJdmlzVVUyQTlfNy1hR1U0TTladUJLdFZpakNrUUNJaHYzRlFHd0ZZMjdRV0t2bGpFbmZIaGU0TFNVNnJUTWZCYlprTF9YLWk2UlZtZ2RhQjBhOFhEZ2ZtTmFsb1NDd0RfOVAtX0ZxQ2twN3JWdTZxZnhTX2t4SDQ2TjBTWUx6S0hMR25JT09FMXZ2XzRwTW9vaVU5?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-09-09 03:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ad6a8bc7d50fac9e",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it? - TechCrunch",
+      "summary": "TechCrunch 报道了「Meta debuts its Muse AI agent. Will consumers trust it? - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta debuts its Muse AI agent. Will consumers trust it? TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2RNUUJzRXdDUURWemZraEM0ancyaUMtZmVfTHZ5NnV5WHEwYXd6bkpCNWJUVVBidmI4OGZiaEkwWUhYZkxicmkwbXI0NFNocWpwU3VMWURpTkk5dDlJU3JNdGpvaWFKb0t4bm82a25lWDIwMTd4eWQzTkRIcV9VdFJ0YjVfT0lTVTVsWUZsMldSZw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-09 03:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "0840cde984934ad8",
+      "title": "国产大模型开源提速生态卡位战进入落地周期|阿里巴巴集团控股有限公司|腾讯混元|智谱华章|GLM-5|Qwen 3_手机新浪网 - 新浪网",
+      "summary": "国产大模型开源提速生态卡位战进入落地周期|阿里巴巴集团控股有限公司|腾讯混元|智谱华章|GLM-5|Qwen 3_手机新浪网 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国产大模型开源提速生态卡位战进入落地周期|阿里巴巴集团控股有限公司|腾讯混元|智谱华章|GLM-5|Qwen 3_手机新浪网 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtWjQtWDVKaEdJdzh2N3Z3eGVKbzdfd3RXMk5vbTdYb2lNSEI5WVM4V3NacUxUYmtzYXBwYThzOHBwczI3SkFaWDVQLTA3TlRXVHY5aTQ4Q0luSnAyUW1PWi1aQldYNkUwa21adlZjQlg2Z3NmOGJyVw?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-09-09 07:02 +0800",
+      "companies": [
+        "Alibaba",
+        "Tencent",
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dd1a1155d476ec75",
+      "title": "江淮汽车值不值得买？AI质检已落地，制造品质正被抬升 - cb.com.cn",
+      "summary": "江淮汽车值不值得买？AI质检已落地，制造品质正被抬升 cb.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "江淮汽车值不值得买？AI质检已落地，制造品质正被抬升 cb.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfTDF4TVdSQTJtS2FMWjV1SHJQNlpfS1BFQkxXZUJQVkxEc3VfbGxubUxHNFFla0lXblZBYVBHZXlyakJhaVBaR0xQMmo3ZXNyR0tUZUI2Ym9jVmloYkFkRU5CSQ?oc=5",
+      "source": "cb.com.cn",
+      "published_at": "2026-09-09 09:49 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3db6b3231d551619",
+      "title": "美国指中国企业恶意复制美国先进AI技术 - 8world",
+      "summary": "美国指中国企业恶意复制美国先进AI技术 8world 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美国指中国企业恶意复制美国先进AI技术 8world",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmYyVG4yalNib1JSb1RKblctNUt6QXhtZzFsRlhxeHpIaEhRaUZfZGIwa09ETG13MDVZdDBFMl9yNjJmVVF4cEQ3ZG1saDNXaV9yc3F1UmYwaklLeGxxZEFnM0p0dU1TTXhTTXpzU1FTbC1jN1Q0dkhJTkNhQ3psOEVIV0g2VGs3eEppUGMycmZHMWJBOEVrZmNtOVZ3akVIcHlV?oc=5",
+      "source": "8world",
+      "published_at": "2026-09-09 08:27 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9cffcb8f6ffda8f7",
+      "title": "开源模型不再免费，月之暗面、阿里开始要分成，“大模型税”能落地吗？ - Sohu",
+      "summary": "开源模型不再免费，月之暗面、阿里开始要分成，“大模型税”能落地吗？ Sohu 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "开源模型不再免费，月之暗面、阿里开始要分成，“大模型税”能落地吗？ Sohu",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTmZvVFQ4eEtIUGhUXzl0QkFXVjBJWEpneWd1Q0Z1b2dQZ3pSZkdoRDJYMnhYNUFiSFRndjhDVlNfb2ZrVHVJZkZmdGpWNkc2aFpJOV9BNTdMUUNxU3g3dENNVnBJM2RCMVhHUkg4OG9yQUVNb2xST19PUVdfTjF4Ng?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-08 18:04 +0800",
+      "companies": [
+        "Alibaba",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "32ca91da935eabb8",
+      "title": "Frigade Launches Assist API to Give Enterprise AI Agents Product Knowledge - citybiz",
+      "summary": "citybiz 报道了「Frigade Launches Assist API to Give Enterprise AI Agents Product Knowledge - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Frigade Launches Assist API to Give Enterprise AI Agents Product Knowledge citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDFYMTlwSjI2dE94a0NDdEdvM3dYSHBrUC1IYmgwblhIem1FY2pVU2phUk9ra0tLNUVyN3kzMHJTb2xuTWN6d0VRWWR0aGRoV0pvZ19NQ2lQLVQ4Zk9oQ0NOdFhXSVIwc2hNZnZWNFo1MWFTLXpSZllyeFhzZE9sVzg4MU5mMXA1RGtib1R6UzZwQXg3Tm5fbXgtNWpRY20xb2VMZ1ZWYUZXZDJNZzkwTFpwUQ?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-09-09 04:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 98.5
+    },
+    {
+      "id": "8434261336a94b68",
+      "title": "Harnessing unleashed AI agents - cio.com",
+      "summary": "cio.com 报道了「Harnessing unleashed AI agents - cio.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Harnessing unleashed AI agents cio.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icUEwTFZGWC1KN040eGhuRGh4a0t2MUtZdi1nUzRWVjdnMjM3bFRjNGlUUmxLY2lFRDk5V054djFOUlV5VnZDT3FTeUdOa1lpNWxHOVJJNk1UYnRDNGhqclpBY0FyTkw3Z0xYVkdhWERaek5OMzIxWUEtTQ?oc=5",
+      "source": "cio.com",
+      "published_at": "2026-09-08 19:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9faed5f37b0e98ea",
+      "title": "Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations - Nasscom",
+      "summary": "Nasscom 报道了「Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations - Nasscom」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTVDeXJBVGhXQXJkREx2Sm04OXRlWFhBUlA5a3pJamxNSmdLVllsWWozbExBcS1ycGxSbkpXYUZGeExkSDhFcmdvZUFqMjlqZWtZQlVwalI1eUlJVEFMSXlncTVpUFdUbzJCWkZ4eURhSF9raW5GQVdEVEM0S042RUdINDNDYzBMN2lZMWZITUFKWWNJZ0JPRjJ5bUQzREUyMFU3a2xUQlQ2UlpFVUgtN2tvc2d3RjdKV3RQOTR3WQ?oc=5",
+      "source": "Nasscom",
+      "published_at": "2026-09-09 12:44 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "02f9a310f249f856",
+      "title": "The Autonomous Business Handbook: How AI Agents Are Transforming Enterprise Workflows - TechBullion",
+      "summary": "TechBullion 报道了「The Autonomous Business Handbook: How AI Agents Are Transforming Enterprise Workflows - TechBullion」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Autonomous Business Handbook: How AI Agents Are Transforming Enterprise Workflows TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUdGOEtiY2tJRnpGcHZGVWhYRWZiSThLZTRWdnBSeFA0V19uR2F6dW9sSjNWVHdTLXRaMjdwb1hlM2FZdjJkYVFHSjMzc0psZFpWaG96Y0s4M3V4ZVNpTEYxM0k5SHVRcjZaMVFSRkpRZ3ZUdzZxT3JkOGJiM2hWLTBpcHUtcFJnaHJ3V0tYSTNOdmdmelNndUJadE9zaGtWSl9jRUh6QnQxczZrZ1E?oc=5",
+      "source": "TechBullion",
+      "published_at": "2026-09-08 19:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "514135a4274ad0f0",
+      "title": "You com Review: Search APIs for AI Agents - quasa.io",
+      "summary": "quasa.io 报道了「You com Review: Search APIs for AI Agents - quasa.io」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "You com Review: Search APIs for AI Agents quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGazBrRFVXSFBSakZkM2V3TzdNOFF0b0RzUEJnc3NDQWtxNnFXMWtnZ2drZ1RTQTNqOVFDUnprX1ZJUXFVMnJrUndTendOeE9kVEgwRkNsRy1LeGc3Zk03WlVVOW8xb0tzM3cyb0Z6d2U?oc=5",
+      "source": "quasa.io",
+      "published_at": "2026-09-08 22:38 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
