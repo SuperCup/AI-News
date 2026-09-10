@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T14:01:22.923464+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-10/",
+  "image_path": "assets/daily/2026-09-10.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "15b09e8c10c6cc44",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch",
+      "summary": "TechCrunch 报道了「AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-10 08:00 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 153.0
+    },
+    {
+      "id": "3bf249b666d6cea1",
+      "title": "Mercury 2.5 vs Gemini Diffusion: 10x Faster Diffusion LLM - tech-insider.org",
+      "summary": "tech-insider.org 报道了「Mercury 2.5 vs Gemini Diffusion: 10x Faster Diffusion LLM - tech-insider.org」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Mercury 2.5 vs Gemini Diffusion: 10x Faster Diffusion LLM tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00YlpPdnNuQzQ4NElvekdOazNUdkVaS05FZkFzM0dnSGVCM3p6VHhqNHJWY3BzZm53Qy0zTjlBcWo5NF9HVXlEYU9jbnZ6TU1GcVV3UlR4NE1Rc0hvclJRMU1mbDd3NE5CNHllZ3E4SHdXTlB2NEFYcnVPam0?oc=5",
+      "source": "tech-insider.org",
+      "published_at": "2026-09-09 20:14 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "4a60dc7f49ff0e54",
+      "title": "AFT, UFT and Microsoft announce ‘National AI Safety & Privacy Standard’ for schools to protect students, families and educators - Microsoft Source",
+      "summary": "Microsoft Source 报道了「AFT, UFT and Microsoft announce ‘National AI Safety & Privacy Standard’ for schools to protect students, families and educators - Microsoft Source」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AFT, UFT and Microsoft announce ‘National AI Safety & Privacy Standard’ for schools to protect students, families and educators Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmNKZTltcDZfN0FiMkRwTlBoOHFreWxRQk5zcTROb0JUeURrb0VILUNQSnZXV3JadXZuYU5NQ0NCQXRRcE1Wa29rM1lub2EtUl80bl9aLXJhQjJkY2tOcWJLUFJMR1VSYlNibXpmN0JJQmoySkV1blFqcUFza3o4cDZsak41eTVlV0JuMWV0Sm9KczNUaGk3NEVDd0FLVEYzcUhHZUtiaG9MVWZ1R19rZkh5ZDZtX0MxUTh1eldsQzVzNHhJZkliN19wYmVtM3AtV212WHY2REJOU0FWc1pqZ0NUMU1sRkRNUFdpU1lkLXE0dzRtRmdSLXNadw?oc=5",
+      "source": "Microsoft Source",
+      "published_at": "2026-09-09 22:15 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "2beb04f6c3cc2577",
+      "title": "Meta launches Muse AI agent despite internal safety concerns - BetaNews",
+      "summary": "BetaNews 报道了「Meta launches Muse AI agent despite internal safety concerns - BetaNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta launches Muse AI agent despite internal safety concerns BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vRXdlZ011VXBqeXVXaXlfNVdSLWZDN1lWYUp4d1ljOG5ZZE9QRllONG84bW9aZVZOU1ZRNVNxRmRLZXhFdmRWa1VkbnVoX2lFRjllaEQ1UlBDOXE2dF9kWjlaU3ZNUQ?oc=5",
+      "source": "BetaNews",
+      "published_at": "2026-09-10 01:12 +0800",
+      "companies": [
+        "Microsoft",
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "eeb099d9bff961e9",
+      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns - SecurityWeek",
+      "summary": "SecurityWeek 报道了「AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns - SecurityWeek」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1lrTGlEZEE5aHF5OXFxNjl2akVTa1lWNHpNUDBzTnM0eERlWlk2UEk4SVZsdTF3WlBSekhIWlEzajNfQUtKZmxtZEVQaHhoMklDUk1vdDV2MmU2ekVXV0xnbmdjaDNFWm5QZWtvRE1sYWQxZ3hVZTdlRnFoejYzcV9wTEpYVnpHbnplc2p5TkJOUURGNWpMTXFLdUtLSVFFc01QMUlPZzVMTlJBZEhuNtIBsAFBVV95cUxPR1lrTGlEZEE5aHF5OXFxNjl2akVTa1lWNHpNUDBzTnM0eERlWlk2UEk4SVZsdTF3WlBSekhIWlEzajNfQUtKZmxtZEVQaHhoMklDUk1vdDV2MmU2ekVXV0xnbmdjaDNFWm5QZWtvRE1sYWQxZ3hVZTdlRnFoejYzcV9wTEpYVnpHbnplc2p5TkJOUURGNWpMTXFLdUtLSVFFc01QMUlPZzVMTlJBZEhuNg?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-09-10 01:14 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "952f8aaf1eca3922",
+      "title": "国产大模型开源提速生态卡位战进入落地周期 - 新浪财经",
+      "summary": "国产大模型开源提速生态卡位战进入落地周期 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国产大模型开源提速生态卡位战进入落地周期 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pR1ZpdEpfN1Y4cnZQbFgycl80US1xU2JpOTdDX2FuRUNBTzJ2Z2xKTDNMMW5SRnpqZkt0ZVJrTlhkekY4b1NlcDNpM05sY2ppTnZkZXNxNUV0MUpYSUlOTElmaEQwaTdIWEx4UFAxczJocFNOQzdIRA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-10 13:59 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9e820eddc20794b2",
+      "title": "腾讯云吴永坚：个人 Agent 向左，服务 Agent 向右，合力支撑企业高效落地 - Sohu",
+      "summary": "腾讯云吴永坚：个人 Agent 向左，服务 Agent 向右，合力支撑企业高效落地 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯云吴永坚：个人 Agent 向左，服务 Agent 向右，合力支撑企业高效落地 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRE1idnVvdk1YcTBJVXpkaEdrOXJ4VHFPYVBrdXhOUE5fX1dJSWFZcl91ZE96dTV2Q0RjV2hiSzY1VEVhT2sxMXJlTm14WGFUN3lOempsSGdTUTlpWndQR180MzFGN3d0ckx5QmlkVFNCZHl1U3F5Qzc4ektUdHhFd3dZR21YNnpvaWhv?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-10 13:55 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3634446a35f5e98f",
+      "title": "京东发布企业AI全家桶JD JoyWork；阿里巴巴与顺丰达成战略合作｜未来商业早参 - mrjjxw.com",
+      "summary": "京东发布企业AI全家桶JD JoyWork；阿里巴巴与顺丰达成战略合作｜未来商业早参 mrjjxw.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "京东发布企业AI全家桶JD JoyWork；阿里巴巴与顺丰达成战略合作｜未来商业早参 mrjjxw.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTzd2aWNDYWZxeHdhVmJHMTB0eU5kTDVQWVdOYXNWX3JQc0dSSHFPR2hsZ1piZm8xQm5VNTdzVHVqTDZRdG5ScVUzaDB1X01uN3h1bDdONVllekFsYl9QWERfTnY0QQ?oc=5",
+      "source": "mrjjxw.com",
+      "published_at": "2026-09-10 07:00 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a90a4b2cfadd2675",
+      "title": "百度石清华：2030年智能体普及率将达90% 已服务江苏超3万家企业客户 - 紫牛新闻",
+      "summary": "百度石清华：2030年智能体普及率将达90% 已服务江苏超3万家企业客户 紫牛新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度石清华：2030年智能体普及率将达90% 已服务江苏超3万家企业客户 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQk9RN0RkQWVoNER3NFdxQmNCWUdRQkd6aU5sWWZDUHFpSXdNWUdSR3JSY2xINEdGVVhJXzlIdnM2WWlFbjlYN2hna2NqekdmQndlTHR6d2x5QUVTLV9wNkdiLVdGdWlU?oc=5",
+      "source": "紫牛新闻",
+      "published_at": "2026-09-09 20:06 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2607c6f68ef18773",
+      "title": "中国企业发布全球最大规模的开源模型Kimi K3 - k.sina.com.cn",
+      "summary": "中国企业发布全球最大规模的开源模型Kimi K3 k.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国企业发布全球最大规模的开源模型Kimi K3 k.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYnlqOU9mOWJzVGdGQXJDX085a2hnWjFGLTlJVXhhSk9qc2RmMjk3UC1sTTJabTQzN0RPaTFoVWVnbXM4RTZkSUFRMDlTeW56dHBfQnBqV2FpcWpyT0NyZVVZM2Nkd29SQTNNRmwwSQ?oc=5",
+      "source": "k.sina.com.cn",
+      "published_at": "2026-09-10 08:05 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1482bd27398c2e3e",
+      "title": "Cymphony Launches With $30 Million for AI Agent Security Platform - citybiz",
+      "summary": "citybiz 报道了「Cymphony Launches With $30 Million for AI Agent Security Platform - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cymphony Launches With $30 Million for AI Agent Security Platform citybiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDEwQkljZVRoYUJVYmlaY05xOHh2NGNuc1NDV0JSTW40WlFRcEd5R2RhRkFrbkNhSWliakRRbGw0WFhWWC1xNVV1eGtncDlZTWJhNWNEcVJKN3VkSVVZcXZEMlBPUDFqTldMVEtwS3RSeDRjYm5GSDlZS3hSMHJTQldFNk5BVWZ0dXJFMjYwWGx4ZV9KWWNPemd6NHJCOGo3MXllU2hB?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-09-10 04:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "af554df010cdf5e9",
+      "title": "Orchid Security targets AI agent risk with drift detection and kill switches - Help Net Security",
+      "summary": "Help Net Security 报道了「Orchid Security targets AI agent risk with drift detection and kill switches - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Orchid Security targets AI agent risk with drift detection and kill switches Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0xyeDZYaC1GbFNhRjZiU3hrcVg0U2tZYThkU1Z2Wnlwc1J4ckZqYXNjemVURjdDenpnaVJBNWtWQzZpTUFmb3djdE16bTVxLW05VjkzX3FBdldBUmY3X1ljMjhBSDV6NDRoTnZkQmhqa2F0NmZYLThweGMzVi1jalV4NW1LT09SdmQ5ZGtCak9CTEYyU3EydXVrWm5TbjRVX2Iw?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-09-09 21:29 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "8d735e3c9167d879",
+      "title": "Contact Center Modernization Has a New Risk Profile - CX Today",
+      "summary": "CX Today 报道了「Contact Center Modernization Has a New Risk Profile - CX Today」相关进展。 该消息涉及AI 产品、企业应用、监管政策、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Contact Center Modernization Has a New Risk Profile CX Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeThxX0FvY1AtbDR1cl9RV0hteVdFVzBWWGxYblhpR1FnVDU0T05mNHliSGk2c0c5eTFQaGNFWDFHUzVJWkR1UkJaVEtWYjh0Y0ZLWWF2REJYWWFNQmE1NXhwaGNQdExwX293Tmg3UkNHZlhZQUJTb3lMY1c4SVE3S2lFR1B6VWY1clhoVUxPUkVyMDdoSWc?oc=5",
+      "source": "CX Today",
+      "published_at": "2026-09-09 16:48 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "regulation",
+        "safety_security"
+      ],
+      "importance": 96.0
+    },
+    {
+      "id": "79b602a1ef3da1a4",
+      "title": "Nutanix gives enterprises the freedom to run production agentic AI their way - Zawya",
+      "summary": "Zawya 报道了「Nutanix gives enterprises the freedom to run production agentic AI their way - Zawya」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nutanix gives enterprises the freedom to run production agentic AI their way Zawya",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSElHTzl6a0VROXNLWFhiRHVIUXBDeUtPZlU1MkVIMWlVZGdILVp5Z2VJT2k4UkREWElxOTRlejhEZUJCSDczeDd0OUR4S3JxdVE5YXpWZlpIX1dRU3FGeE1rTU9rVzZibHc4WlQyRTJULUpJWjlTOVVMWWZ0T2lKTEZBV2JqS3FuR2RXUzdFWE41MHFVY2FrYjhpaS1FTEs5VElXS24wRGhkUHdWemdyQ3Q0UnJpWnpfcExOUnlEVTgzVEpRbHUzTmg3ZndtSXhXLTgw?oc=5",
+      "source": "Zawya",
+      "published_at": "2026-09-09 17:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9faed5f37b0e98ea",
+      "title": "Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations - Nasscom",
+      "summary": "Nasscom 报道了「Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations - Nasscom」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Generative AI Services and Agentic AI: Designing Autonomous AI Workflows for Enterprise Operations Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTVDeXJBVGhXQXJkREx2Sm04OXRlWFhBUlA5a3pJamxNSmdLVllsWWozbExBcS1ycGxSbkpXYUZGeExkSDhFcmdvZUFqMjlqZWtZQlVwalI1eUlJVEFMSXlncTVpUFdUbzJCWkZ4eURhSF9raW5GQVdEVEM0S042RUdINDNDYzBMN2lZMWZITUFKWWNJZ0JPRjJ5bUQzREUyMFU3a2xUQlQ2UlpFVUgtN2tvc2d3RjdKV3RQOTR3WQ?oc=5",
+      "source": "Nasscom",
+      "published_at": "2026-09-09 18:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
