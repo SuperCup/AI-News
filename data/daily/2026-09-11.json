@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T14:03:50.402077+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-11/",
+  "image_path": "assets/daily/2026-09-11.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "b0f79dbc5fa6abcb",
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)",
+      "summary": "NASA Science (.gov) 报道了「NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5",
+      "source": "NASA Science (.gov)",
+      "published_at": "2026-09-10 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "062faaa352b37e99",
+      "title": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 - 新浪网",
+      "summary": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDc5TkthTm53cEpZMUlKUDdUODcwWHROcEVyb2F5dEJYSU9GXzlUT09sNDRoTTJzQVBVM3hOUWlKekZTSkU0SFRmSWJXbXBGN2g5RHhhMVZRcXY2WHZVTHQwdWtuOW5sMkZmRmRnNmxvQlUtN1NLSTVwd2RzTHJZV3RtOUNaSkk?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-09-11 12:07 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "14140628dbc35869",
+      "title": "IBM and NASA release an open-source lunar foundation model - The Next Web",
+      "summary": "The Next Web 报道了「IBM and NASA release an open-source lunar foundation model - The Next Web」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM and NASA release an open-source lunar foundation model The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TWmhmYVoxQ2tMOVBEOTluVlJOZkxOcnZXNTlWYXpJX183amNPQS1PaHVvenI1VEpCYjZyY0lzRnQ5RXBBSG5YTnFyb1BqMVpQV3JnQzMyS1RYRllPcWFJOXdsenZXbW45aWtwR3ByZ1B1dVdrWnFuRTZSWQ?oc=5",
+      "source": "The Next Web",
+      "published_at": "2026-09-10 20:20 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "5019797c69ce35b4",
+      "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters",
+      "summary": "Reuters 报道了「Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-11 10:33 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d0d02b88cfff8c05",
+      "title": "Nvidia's Jensen Huang Says Cybersecurity Is the Next Big AI Market - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「Nvidia's Jensen Huang Says Cybersecurity Is the Next Big AI Market - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia's Jensen Huang Says Cybersecurity Is the Next Big AI Market finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWk5UaXdNdkNPUTdLV1BvcHZTXzdZZ2ljV2YyLUp5RXdaMjE2TVhyUm5YNDFrRTFBX0NDX1ZuSnlKUGlTNlYwdl9EbWE5aGRMUktKQzVoYzJCaU5wZEdOUTZzOU1RY2J6dzM5UmhMakE5UDAxUXc?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-11 03:05 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d7ecdd838a7f3950",
+      "title": "Qualcomm's Massive AI Chip Deal With Amazon Puts Nvidia's Lead at Risk - MarketWise",
+      "summary": "MarketWise 报道了「Qualcomm's Massive AI Chip Deal With Amazon Puts Nvidia's Lead at Risk - MarketWise」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Amazon、Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Qualcomm's Massive AI Chip Deal With Amazon Puts Nvidia's Lead at Risk MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwQVB0cnlUVVMxeVJad0FBbFlINDRJa25vLUtzcTZSaWFjRUNHMHRIbWxJS0dVWFRoU1duWmNUZkZac2g5aUtURGNMMVNRS2Q3N1RadERqbmRzTWg2NUtuUkdkUU1IN01xMVJwMExvVQ?oc=5",
+      "source": "MarketWise",
+      "published_at": "2026-09-11 01:36 +0800",
+      "companies": [
+        "NVIDIA",
+        "Amazon",
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f4e65718288edf71",
+      "title": "腾讯Agent Day首站落地香港AI双层巴士巡游展示AI Agent实力--经济·科技 - 人民网财经",
+      "summary": "腾讯Agent Day首站落地香港AI双层巴士巡游展示AI Agent实力--经济·科技 人民网财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯Agent Day首站落地香港AI双层巴士巡游展示AI Agent实力--经济·科技 人民网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybzNBS2pkdlV4YmdENFV3d2pWSEFzN1gyQmxVRHp5dVZjTXcwVE00YTVDZm5oUjJWaG8tRGxOQVdTSUcwZkFwd0l2YmZ3dkpmWlZ5b2tlMU9yWVMxaC13VWNrRXg5VTI0ZEs5bnJn?oc=5",
+      "source": "人民网财经",
+      "published_at": "2026-09-11 08:54 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f096fa7c1bd9ab68",
+      "title": "腾讯云厦门峰会：已服务福建超5万客户，WorkBuddy加速产业落地 - 新华网",
+      "summary": "腾讯云厦门峰会：已服务福建超5万客户，WorkBuddy加速产业落地 新华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯云厦门峰会：已服务福建超5万客户，WorkBuddy加速产业落地 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zY2l3M2NiNjVfVWVlS2RzTXNqRG9DOEt1VkdXTEdOV3pIcldteDJ6MFdrbFJFdWZhY2x5RnFkTF9JNWpNa25EdWwyelpNeVladHFCN0paLUUwMWJvZ2N0ZWxycUZmQml3YldwWmEzLWlwa196ZVFrY1Rja2k?oc=5",
+      "source": "新华网",
+      "published_at": "2026-09-10 16:03 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e529cae4863e5b0e",
+      "title": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 - blog.csdn.net",
+      "summary": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 blog.csdn.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92c3VUazFCRTlubThmWDJNWlp2QS1VX0ZLbUU4RV94Z0h4NW8zRjBxOENWX01mbDFYTXVQV0c3aGxGbG1COHBxN3BCQ29rb2tuMjhJb1V4UU5XX19wQlhJbVoyLWxvbEkxTXVj?oc=5",
+      "source": "blog.csdn.net",
+      "published_at": "2026-09-10 17:18 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "63e8c2fa80ee48cc",
+      "title": "月之暗面推出Kimi企业伙伴计划 FDE共建模式有何看点？ - 财联社",
+      "summary": "月之暗面推出Kimi企业伙伴计划 FDE共建模式有何看点？ 财联社 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "月之暗面推出Kimi企业伙伴计划 FDE共建模式有何看点？ 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iajM4eDdHd2U4SF9YSHV5aTV1X09IOGlZQmpJM2RCdGoyRnJXdlN3OEt3RGFkVDZNM2FmRVV6eGZPMU9hNUNJcA?oc=5",
+      "source": "财联社",
+      "published_at": "2026-09-10 20:25 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1482bd27398c2e3e",
+      "title": "Cymphony Launches With $30 Million for AI Agent Security Platform - citybiz",
+      "summary": "citybiz 报道了「Cymphony Launches With $30 Million for AI Agent Security Platform - citybiz」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cymphony Launches With $30 Million for AI Agent Security Platform citybiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDEwQkljZVRoYUJVYmlaY05xOHh2NGNuc1NDV0JSTW40WlFRcEd5R2RhRkFrbkNhSWliakRRbGw0WFhWWC1xNVV1eGtncDlZTWJhNWNEcVJKN3VkSVVZcXZEMlBPUDFqTldMVEtwS3RSeDRjYm5GSDlZS3hSMHJTQldFNk5BVWZ0dXJFMjYwWGx4ZV9KWWNPemd6NHJCOGo3MXllU2hB?oc=5",
+      "source": "citybiz",
+      "published_at": "2026-09-10 04:13 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "80ff66af4dc8b1fa",
+      "title": "The Agentic AI Revolution in Biopharma - Pharmaceutical Executive",
+      "summary": "Pharmaceutical Executive 报道了「The Agentic AI Revolution in Biopharma - Pharmaceutical Executive」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Agentic AI Revolution in Biopharma Pharmaceutical Executive",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eFF1eHBTYmdxbXVPQWR6TEJqeXN0NHlYdm5GS1F4V3dwN3RsdFdySldqNzBsYm9JcE5ld2tZNGI4S0NDV3hrczRZVkJkeUZGdzhpeFRrUjEtNHVpYTN3SFJORmlWUm9GX1FUUlVlaw?oc=5",
+      "source": "Pharmaceutical Executive",
+      "published_at": "2026-09-11 02:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "08e3b067cfb2b1cc",
+      "title": "Why the next competitive advantage in Hi-Tech is the ability to grant autonomy - ET CIO",
+      "summary": "ET CIO 报道了「Why the next competitive advantage in Hi-Tech is the ability to grant autonomy - ET CIO」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why the next competitive advantage in Hi-Tech is the ability to grant autonomy ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkU3eG5JVnlXazFwNFF0ZEo4R0d4dHpUcDYxcndsYWdVSU9ocnUxaldUcFI3andDSmx2TVM3c3VhQjVPeURTVjdjS1hyR1BtaElFTHViV0FXc2w0QTdRQ1JGSFRpMWtHOVFPMXk3S0xubFVESk9Yb1pZMEl1eFZiVHhYTjZaR0I3UHYta1lrcS1pQjNiUlF1YlRZVmJCYW5DSzg1V1NmUU84M0c3R1VoaXFmOW12TlJnOU01NzE2YmUtZjl4SmRiYVY1U1FpUVNmZl8xM1ZZRzVqRkFXaVZld0Y1ZE1nTHgwbFlwc9IB8gFBVV95cUxPd3l2VDlPZ0dtMV9vdkZxc2MwRHZFNnFfZUxXWHNLak93cmd5OXdFZjB0UUN3Vk8xdDBsN25oTjhiX3BIRjBxTDJpMXFCTU5Sc01FMFB2T1B4YnRiT2dnQXhac0YzZmFQQ3J4cUZCTU9yckZwMTJnUE5BRm1HRkRPM0k5bkN3WHpackFQaGhZdVMwM1EtemhpUU5QNDlqX09KOEFyaWJiUDdNajVMZGRmX3dmaWFWT0FpaG5XejF5X0dDVUs2elZIbFp0cUQzTFZrNC1RMjBRUjN5NnB0SS00UldTaU4zS2tia1dfQ1hJaWRTdw?oc=5",
+      "source": "ET CIO",
+      "published_at": "2026-09-11 10:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c6ceda343f1dc2f5",
+      "title": "Cognition AI Raises $2 Billion at $48 Billion Valuation as Coding Agents Scale - konsulteer.com",
+      "summary": "konsulteer.com 报道了「Cognition AI Raises $2 Billion at $48 Billion Valuation as Coding Agents Scale - konsulteer.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cognition AI Raises $2 Billion at $48 Billion Valuation as Coding Agents Scale konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjFRVzBQQXktekpjZFFmZ1hpeDlRelhsWjdqeExKY283ajVRMVVnc1RSNXFLeGJnaHZrNHNvaFJLV0JDSlhxSXFydlRZX0JtUm5YQUVoSHlHa1pWSUdaVFQwZklWX21UT3UxZ1ZvbUx6OFpxbTRranpNandLMF9JNDdTZjVEb0k3T0NVRF92MENYYzZuZmQ0TE9wX01VS3g4Wm1WcmFnUkhGX0pLM2FTQQ?oc=5",
+      "source": "konsulteer.com",
+      "published_at": "2026-09-10 21:37 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 89.5
+    },
+    {
+      "id": "3a4d5141645e836e",
+      "title": "How multi-agent AI is redefining enterprise software - The Next Web",
+      "summary": "The Next Web 报道了「How multi-agent AI is redefining enterprise software - The Next Web」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How multi-agent AI is redefining enterprise software The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeFdnb1lxQ0FiVnNTNmdzeURUNmJHYlMwcmEwNFRpSWxBVjV6M2xMNDc2RVE5N0pJMzNFSHdNaTFXRkpUcUY1SzFya2pkTGtzTWZMYTNRRXVxQURhT254UUdHSDhkZ1NNZGdOT2RBZ2hHQ1RpMWJWUTlWUUd5Uk1aZ0g2WWM0bmM?oc=5",
+      "source": "The Next Web",
+      "published_at": "2026-09-09 21:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
