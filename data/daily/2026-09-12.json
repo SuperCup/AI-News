@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:51:56.272267+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-12/",
+  "image_path": "assets/daily/2026-09-12.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "1a8f87f8ae69e9d2",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters",
+      "summary": "Reuters 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-12 06:41 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "983ddc71da5d1f36",
+      "title": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider",
+      "summary": "Business Insider 报道了「A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0hNcHBlSGV4cHRCVjI2WXMxdXlGVTFrU1JvQWtaNzV1M3Mya0hiYXk3bXhPbkwzUXlxczVQemQtaTE4b3ZMQnFDY2xLc2FoaERuM2hwZTEwUFRZSGFTOVRzRzFfWkljYjg2SVU0a01hNnZNdW5SRmFZYUU2TTM2Q1VmY3VKejRSQktNQTVKd0tmUDNlS2hfM1ZOSnc0RnZlMWNyQTZfUQ?oc=5",
+      "source": "Business Insider",
+      "published_at": "2026-09-12 01:21 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "e286d06f4c103969",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - BNN Bloomberg",
+      "summary": "BNN Bloomberg 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - BNN Bloomberg」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ280UkYzWkhPR0Z2UmFOTExVSGEwYVQ1TWcwYk5qN2pyNDgtYkdBTGIzendsWTFubUIxT0lSSUV4eHhoRm9PTjBuVHhzWTFOS2JXVTZHdW0xazY0VmEzcWFJV1JwSjRpNVFwa1g3c0F0X0lhZkRiYmJQNGoyYV9rcGZDX2pLY2dZenpHemxDVmc2bUQ3VkxnZWFOM2hKV1Z4VjNUbkQ4VWZvSzRPT2N3YXdzTzdDenZuek1EZTdsd1VjdmdMRVRHT2pFLWdhMUtQNlhXMmdMOWdvd1lrVi00bFA5bw?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "2026-09-12 09:09 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "b0f79dbc5fa6abcb",
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)",
+      "summary": "NASA Science (.gov) 报道了「NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5",
+      "source": "NASA Science (.gov)",
+      "published_at": "2026-09-10 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 153.5
+    },
+    {
+      "id": "195b655b672c5672",
+      "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+      "summary": "Reuters 报道了「How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Anthropic says Claude was used for weapons, spying and cyber operations Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-12 03:25 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "cfefa0257fc0d20a",
+      "title": "百度秒哒在杭发布无代码应用商单平台 连接企业需求与OPC创作者 - China Daily",
+      "summary": "百度秒哒在杭发布无代码应用商单平台 连接企业需求与OPC创作者 China Daily 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度秒哒在杭发布无代码应用商单平台 连接企业需求与OPC创作者 China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yWVV3MDFlVFc4cUFiSFQxazBNZUs0R0l6ZVJCRzl5NjhlZHpxdUNSR3VqdTVLd2w2Q1JVMUQ2YU0xNkZsbG9IczRiYTR1UGZ5cE5ubUc1ZFUwSEJHVVA2OFVLMERiMnpMSHdldko4YW4xbFFiWlNuQnFRd1E?oc=5",
+      "source": "China Daily",
+      "published_at": "2026-09-11 19:26 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "4fe694b582f600a7",
+      "title": "百度沈抖：87%的秒哒创作者没有代码背景，企业是重要用户群体 - Sohu",
+      "summary": "百度沈抖：87%的秒哒创作者没有代码背景，企业是重要用户群体 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度沈抖：87%的秒哒创作者没有代码背景，企业是重要用户群体 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1E1UW5UZXd0UHZocERsU0Njd3oxX0tmYUxZMVB0cFdtZENBLTFzd2Vua0YxUjBhQ3FmSkNwR05jSW10eXlZSThMZXNYY2FwM2JqbGVQWkxET3pGeTFibldqMHlaVjNSejNXdHNIcGlEcUNYbTV1dGc3UWVvWXJPSWxLQnN0Tkpv?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-12 07:21 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "27762b5148298ef8",
+      "title": "美团无人机低空航网落地上海西岸，城市“第二运力网”进入新阶段 - meituan",
+      "summary": "美团无人机低空航网落地上海西岸，城市“第二运力网”进入新阶段 meituan 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团无人机低空航网落地上海西岸，城市“第二运力网”进入新阶段 meituan",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1bjZlTXlON0dUdkZ3NnZsWmVrb1Vjb3NiVnJ5TnFZLVpNakpTVEd4M3RsY2Rfc1p5RVlvUTd2d1NER0N5TG9vMDlOSnFJWHdfNDhpXzE1VGRGUQ?oc=5",
+      "source": "meituan",
+      "published_at": "2026-09-11 16:57 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "70148ab068013bc7",
+      "title": "腾讯Agent Day首站落地香港 AI双层巴士巡游展示AI Agent实力 - 人民网财经",
+      "summary": "腾讯Agent Day首站落地香港 AI双层巴士巡游展示AI Agent实力 人民网财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯Agent Day首站落地香港 AI双层巴士巡游展示AI Agent实力 人民网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybzNBS2pkdlV4YmdENFV3d2pWSEFzN1gyQmxVRHp5dVZjTXcwVE00YTVDZm5oUjJWaG8tRGxOQVdTSUcwZkFwd0l2YmZ3dkpmWlZ5b2tlMU9yWVMxaC13VWNrRXg5VTI0ZEs5bnJn?oc=5",
+      "source": "人民网财经",
+      "published_at": "2026-09-11 08:54 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e529cae4863e5b0e",
+      "title": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 - blog.csdn.net",
+      "summary": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 blog.csdn.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "九方智投发布“股道智航”：金融AI从比拼模型转向服务落地，破解投资者痛点 blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92c3VUazFCRTlubThmWDJNWlp2QS1VX0ZLbUU4RV94Z0h4NW8zRjBxOENWX01mbDFYTXVQV0c3aGxGbG1COHBxN3BCQ29rb2tuMjhJb1V4UU5XX19wQlhJbVoyLWxvbEkxTXVj?oc=5",
+      "source": "blog.csdn.net",
+      "published_at": "2026-09-10 17:18 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "17e39a0a5b392aa0",
+      "title": "How the CIO role is shifting in the agentic AI era - CIO Dive",
+      "summary": "CIO Dive 报道了「How the CIO role is shifting in the agentic AI era - CIO Dive」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How the CIO role is shifting in the agentic AI era CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mVVQzRHVMcjdLS2dHTzVETWJaNlBFbWdlNmZBVUdaWDIzdHZ4Qk9zMERQVHd6OFdqU1U4TU1wRHNfRkNmbTdFMVFKUVJpWHNjRW9odlVDeVNFNkJWYlJxQ082bG1qa1Z0NHRQRDFaUnp4aU9zSWtHTQ?oc=5",
+      "source": "CIO Dive",
+      "published_at": "2026-09-12 00:24 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d97c0c47ea0a4aa2",
+      "title": "Observability shifts as AI agents reshape operations - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Observability shifts as AI agents reshape operations - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Observability shifts as AI agents reshape operations SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0hXS1JzMzNLSmFfRFdzU1A3cGRSQlRyZkp4Y2JHSndIRW1hYXg2dW5sTk5IaXR3VHhodnJGVGtvSFcyZW1KRGNaWkk4ZXFBRU14NXdEU3hlSVhWN1ZQYllSU0RYeXk0bFdVa2lFQV9zSGk5TTdNc0hTWkU5TlA1MVducFYzX3RxUjRTUXY4aWhEUQ?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-12 05:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "6b9248d6c2a3ddf4",
+      "title": "Mobisoft Infotech Introduces Enterprise Agentic AI Engineering and Integration Services - aithority.com",
+      "summary": "aithority.com 报道了「Mobisoft Infotech Introduces Enterprise Agentic AI Engineering and Integration Services - aithority.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Mobisoft Infotech Introduces Enterprise Agentic AI Engineering and Integration Services aithority.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObjZ4bEVyZk5KMzBERzRhSjJYQ184cTBMdUdidlc2ODJLNHRoZmpSUjBwcXdBd0ZlUjNxSGJHY0N4emM4Q0o4ejN1T0NLYm5URkdFNVd0cE9majJjZXdrb0o5RVVGREIzTC1IeW4yeHR2SEVHZGpRN2t3VXdzN2E1b3pTNmE0YlYxNnZGRUVGTUZfVkFUX1hXdUZ5TThlU0RNdUEtY3VDVkI0S1I0amlqWnNCam0tRlJWNXhpdHgtOUVwT3BvWGc?oc=5",
+      "source": "aithority.com",
+      "published_at": "2026-09-11 21:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "a84438c41380ff1c",
+      "title": "How AI agents transform UCaaS workflows and ROI - TechTarget",
+      "summary": "TechTarget 报道了「How AI agents transform UCaaS workflows and ROI - TechTarget」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How AI agents transform UCaaS workflows and ROI TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUhheUdpamoxLXJFaC1TeUJESzFpVWhLSXg2Z1dKWG10QjNlME1NYzI3TEk1UFE2SHFYRmtvYm14SngtNHpxLTlzZmtZcDlLRVJ5SVBhV2NPQmV4UTJfeS1nZE9YS3gySDRXYWFMc1dOSTI2OUFxcDRYMC0zY1owejBvbFh6RmxxOGZYZ1paLUZFZmJ6VFdXQnlqVzRRWm1aRVJjRzl4QdIBpwFBVV95cUxQdUhheUdpamoxLXJFaC1TeUJESzFpVWhLSXg2Z1dKWG10QjNlME1NYzI3TEk1UFE2SHFYRmtvYm14SngtNHpxLTlzZmtZcDlLRVJ5SVBhV2NPQmV4UTJfeS1nZE9YS3gySDRXYWFMc1dOSTI2OUFxcDRYMC0zY1owejBvbFh6RmxxOGZYZ1paLUZFZmJ6VFdXQnlqVzRRWm1aRVJjRzl4QQ?oc=5",
+      "source": "TechTarget",
+      "published_at": "2026-09-11 22:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3348bdcad8269eb2",
+      "title": "Why agentic AI requires a new approach to enterprise software testing - itpro.com",
+      "summary": "itpro.com 报道了「Why agentic AI requires a new approach to enterprise software testing - itpro.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why agentic AI requires a new approach to enterprise software testing itpro.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1NfRFNVLUNvSW5ZWmM4NUNHZ3NpVkhFd3lKeGRaRDRud2c0ajBfNU9ERGdOTzdLNnF5U2RkTjFzczIxMDk0Q2pXYUJvQ1RzWnRycHc3XzhsNjJyQ2VSTTd3TlRvVjdYZ1ZSc2IyX1h4NEpRbHlBM3llWVA4V2JNMHJGcWZDTVJpWUg4azFveHh6dndFV3JlWHhoSkEzS2ptcFR0elpkWUJsRXg1N3puTVUtWEE4QjJMYURGYTR4UTNEak52?oc=5",
+      "source": "itpro.com",
+      "published_at": "2026-09-11 15:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
