@@ -1,0 +1,271 @@
+{
+  "week": "2026-W38",
+  "date_range": "2026-09-08 至 2026-09-14",
+  "generated_at": "2026-09-14T00:16:18.791774+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W38/",
+  "image_path": "assets/weekly/2026-W38.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 6
+  },
+  "items": [
+    {
+      "id": "b0f79dbc5fa6abcb",
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)",
+      "summary": "NASA Science (.gov) 报道了「NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "impact_reason": "NASA Science (.gov) 报道了「NASA, IBM Launch AI Foundation Model for Lunar Science - NASA Science (.gov)」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5",
+      "source": "NASA Science (.gov)",
+      "published_at": "2026-09-10 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "c23518073cfc43b5",
+      "title": "How llm-d makes the most of the hardware you already have - IBM Research",
+      "summary": "IBM Research 报道了「How llm-d makes the most of the hardware you already have - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How llm-d makes the most of the hardware you already have IBM Research",
+      "impact_reason": "IBM Research 报道了「How llm-d makes the most of the hardware you already have - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmY2sxRFdZX0NFLUoxUXVFMkxjaEhhcloyVGRkeEsyaDJ2YWxVaVkwUlJocDkxSU81Q0Y0ZDJhQkYwN0w4OHdUUk5fbHRGbzd5aW1HZ203cU5CU2lwb2h6cWY3d0FtdkxLVmUwUXV6NDlJT3Y1ZGo1a3FaQzU?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-09-08 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "8e384650698ea903",
+      "title": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 - zaobao.com.sg",
+      "summary": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 zaobao.com.sg 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 zaobao.com.sg",
+      "impact_reason": "美安全机构指控六家中国企业未经授权蒸馏美AI模型 zaobao.com.sg 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cXk0VldyakpadUdMaEVnYzZZclZQTVY4QklBMmEzYm1YZzBtamxXS0Y4dmZFNUpaRHdhaE9NSWtfVk4tYkw3LURUVUJpMGRLUUJuQm51NnhHTnhmZlktLTV4a3pIZzNyb0E?oc=5",
+      "source": "zaobao.com.sg",
+      "published_at": "2026-09-09 10:58 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "062faaa352b37e99",
+      "title": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 - 新浪网",
+      "summary": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 新浪网",
+      "impact_reason": "两项智能体安全团体标准启动，商业化落地仍需跨越信任门槛 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDc5TkthTm53cEpZMUlKUDdUODcwWHROcEVyb2F5dEJYSU9GXzlUT09sNDRoTTJzQVBVM3hOUWlKekZTSkU0SFRmSWJXbXBGN2g5RHhhMVZRcXY2WHZVTHQwdWtuOW5sMkZmRmRnNmxvQlUtN1NLSTVwd2RzTHJZV3RtOUNaSkk?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-09-11 12:07 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "1a8f87f8ae69e9d2",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters",
+      "summary": "Reuters 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Reuters",
+      "impact_reason": "Reuters 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-12 06:41 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "983ddc71da5d1f36",
+      "title": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider",
+      "summary": "Business Insider 报道了「A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids Business Insider",
+      "impact_reason": "Business Insider 报道了「A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0hNcHBlSGV4cHRCVjI2WXMxdXlGVTFrU1JvQWtaNzV1M3Mya0hiYXk3bXhPbkwzUXlxczVQemQtaTE4b3ZMQnFDY2xLc2FoaERuM2hwZTEwUFRZSGFTOVRzRzFfWkljYjg2SVU0a01hNnZNdW5SRmFZYUU2TTM2Q1VmY3VKejRSQktNQTVKd0tmUDNlS2hfM1ZOSnc0RnZlMWNyQTZfUQ?oc=5",
+      "source": "Business Insider",
+      "published_at": "2026-09-12 01:21 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "e286d06f4c103969",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - BNN Bloomberg",
+      "summary": "BNN Bloomberg 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - BNN Bloomberg」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say BNN Bloomberg",
+      "impact_reason": "BNN Bloomberg 报道了「OpenAI agents attacked RubyGems before Hugging Face incident, researchers say - BNN Bloomberg」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ280UkYzWkhPR0Z2UmFOTExVSGEwYVQ1TWcwYk5qN2pyNDgtYkdBTGIzendsWTFubUIxT0lSSUV4eHhoRm9PTjBuVHhzWTFOS2JXVTZHdW0xazY0VmEzcWFJV1JwSjRpNVFwa1g3c0F0X0lhZkRiYmJQNGoyYV9rcGZDX2pLY2dZenpHemxDVmc2bUQ3VkxnZWFOM2hKV1Z4VjNUbkQ4VWZvSzRPT2N3YXdzTzdDenZuek1EZTdsd1VjdmdMRVRHT2pFLWdhMUtQNlhXMmdMOWdvd1lrVi00bFA5bw?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "2026-09-12 09:09 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "72c7571fd7a73520",
+      "title": "Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report Security Boulevard",
+      "impact_reason": "Security Boulevard 报道了「Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUF0NEI0VmVTZEhZM05QMC0wYnBJZVBTbmdQcUZzaTNkRlltRHh0bWJZWnNXRDNUNlo4dlE5ZnBpbUtDWTQ3UXV1QnFYaFBJU0VDWklnVDQ3NFJyZkdiVlBBYUpCQWQtUkNiX1FBVlVudFJnbldabkxSMzVWbTViUFFnODFNMW1ZaGdPTkUzLXZ3aEpaNGlEVlo2T294bXM?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-09-13 07:07 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "15b09e8c10c6cc44",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch",
+      "summary": "TechCrunch 报道了「AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks TechCrunch",
+      "impact_reason": "TechCrunch 报道了「AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-10 08:00 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 153.0
+    },
+    {
+      "id": "c7e44cb4505598fb",
+      "title": "Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs - shattered.io",
+      "summary": "shattered.io 报道了「Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs - shattered.io」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs shattered.io",
+      "impact_reason": "shattered.io 报道了「Ryzen AI Max PRO 400: 192GB Memory Runs 300B LLMs - shattered.io」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydzFWNGl0M1V1Mmk0aVRma1J2UEgwVTlCaVN2enZlMjA5dlZjRlFpUFJfVWtpZzhrdm9icTktUWx6LUJ2TTR6V0dPdG9SV01NWFlkYmh5M1lqNHhKVWhuS0x0SjhuWnBJVlVBVExRUQ?oc=5",
+      "source": "shattered.io",
+      "published_at": "2026-09-08 08:05 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    }
+  ]
+}
