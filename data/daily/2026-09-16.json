@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T14:05:26.560214+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-16/",
+  "image_path": "assets/daily/2026-09-16.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "342bf5055e4dadab",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - techcrunch.com",
+      "summary": "techcrunch.com 报道了「We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - techcrunch.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
+      "source": "techcrunch.com",
+      "published_at": "2026-09-16 08:20 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 162.5
+    },
+    {
+      "id": "6b641147e260f32c",
+      "title": "Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce - The Information",
+      "summary": "The Information 报道了「Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce The Information",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkNMdnJvUVE0Nm1hTFF1QUJYa1F4UnpiTTczaDBBbHJLVEV0RUYzbkY0T2lLRHdicG9wT0RTbnlNYjJEU1FKdm96dDk1WUd5YUxWSjZpcUdqTWU1MnZfVmllMGhXLW1YVTlkbFhSc2Iya3Vwb0M5TGFzQWRlTGtUbjZIMnBodjNoWXZGSTdJSUVBbEIyeXpBaXAzdEFQNE5WUzZvNzJ4QQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-09-16 03:38 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "68fe313f325e642f",
+      "title": "Microsoft sets security and safety rules for its AI models - Help Net Security",
+      "summary": "Help Net Security 报道了「Microsoft sets security and safety rules for its AI models - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft sets security and safety rules for its AI models Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWldrZ0stRnZGMkR3SHhjTGYzem5sYlVsdmF5N0JOUl9qMGNuMnFPTVJnME10c1hrRWxraU9ueWl5OXZjdGNyd0czTmpkYzFqVXVOdEkwYS1HN3VfNGJkMW44eWFLVGRwaml6aXAwNHdRQ2U1MlBaaTVCQTA3RS1FNnNkbloxRU1pdWowS2NLVUsxMlowRzZWdVFNSVc1dw?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-09-15 18:50 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "153c4e4c99c3d0c2",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents - techcrunch.com",
+      "summary": "techcrunch.com 报道了「Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents - techcrunch.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2ZRQVhFTGpndGFTdG1wWWY3SGRwWEJybzM2NTBfcjFVbDJSQTZabE00X2ZrUi1Pb3ZYWVlMcjdJZGNVYzNLX3liZ09tYVBTQ19hLVhPU0lpX3lJbTJZd3RIZFRIci1fV1h0ampRWVQ1NklfdTNhZFMxTzJrenkwYTlsbWF5eWZyLVpFUjRfbkhod2JESGg0bzVmYVFRS1R0a0tLVDQ4QzFBeEFPR3g4dV92aTJMdw?oc=5",
+      "source": "techcrunch.com",
+      "published_at": "2026-09-15 21:00 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "63a73c2ee3601e59",
+      "title": "Could AI really wipe out humanity – six experts spell out the risks - The Guardian",
+      "summary": "The Guardian 报道了「Could AI really wipe out humanity – six experts spell out the risks - The Guardian」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Could AI really wipe out humanity – six experts spell out the risks The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-09-16 04:55 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "aa802de720c9b1cb",
+      "title": "迪安诊断联手腾讯健康：一站式AI临床科研平台加速落地 - 手机新浪网",
+      "summary": "迪安诊断联手腾讯健康：一站式AI临床科研平台加速落地 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "迪安诊断联手腾讯健康：一站式AI临床科研平台加速落地 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3dXWmNCc0tjeHo1ODZCUXJCTGtFc1FtVVlxRTF5RW5MMkNqRmZfYmRzZVRzN3UwTUIzOENLQ29uWmUyVWdGOWJNT2tKZjhHSGpEQ3pLb1hKWENvNUlqaDJkZmVFNVJ0b0llbk00eFJuUi1ZSU1TbjBxRWpFQ09BSlpmOFRLUVlJTU1WS2NXLUczd19q?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-16 11:58 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "38141d275ba6c820",
+      "title": "炎黄盈动亮相雄安6G+人工智能研讨会，共话通信行业AI规模化落地 - 中华网",
+      "summary": "炎黄盈动亮相雄安6G+人工智能研讨会，共话通信行业AI规模化落地 中华网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "炎黄盈动亮相雄安6G+人工智能研讨会，共话通信行业AI规模化落地 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxR1hGRExiclFsbU85MXR2NHNYTW00N21HQ204M3R1dzItWHBuN2FuQ0wtbmJ3czRXNWhDM3YtdC1ReGtnZ3JlR2JDN0hLbEgwUmI3VnVxNUl4QWVWMlJ0WUFHYzQyRFZma1N2RA?oc=5",
+      "source": "中华网",
+      "published_at": "2026-09-16 10:31 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6c03ef42c0629c2f",
+      "title": "科大讯飞全资子公司落地佛山南海 注册资本1000万元 - 观点网",
+      "summary": "科大讯飞全资子公司落地佛山南海 注册资本1000万元 观点网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞全资子公司落地佛山南海 注册资本1000万元 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80NVhiU0pZV2ZIenc0bS1feGwxNUZucExZb2J5Wl9Db1dOMEpTTmZuQzJuZlVxUXB0aXBWcnBjeDdtUGJ1M0JiNkpqZ2JMdw?oc=5",
+      "source": "观点网",
+      "published_at": "2026-09-15 18:47 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6b3a90a5b338c1e7",
+      "title": "PEC 2026 ：FDE走到交付一线，企业AI开始看成本、效果和复制 - Sohu",
+      "summary": "PEC 2026 ：FDE走到交付一线，企业AI开始看成本、效果和复制 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "PEC 2026 ：FDE走到交付一线，企业AI开始看成本、效果和复制 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGRVOFRjWUtKYUpENjdtb2FvRGxTbWhkVnRXdkQ5anpQM3FwRGlVRVNLRDRNYnZkUkFhRUltR3ZKWS10N0xnVWJienhqRWFrSWVNX0hKazVYSC1YWVM2dlBvcGE0R3NZTGVmQ3BIRU1rR2lObWNrdnJob3VPaUU2STNVZ1hEQjBy?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-15 22:33 +0800",
+      "companies": [
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c54de3ae6bcc6c1d",
+      "title": "高金联合蚂蚁集团研究院发布《2026年企业级智能体商业演进十大趋势洞察》 - Sohu",
+      "summary": "高金联合蚂蚁集团研究院发布《2026年企业级智能体商业演进十大趋势洞察》 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "高金联合蚂蚁集团研究院发布《2026年企业级智能体商业演进十大趋势洞察》 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbE9vOURBSGhvdnpVeE1RVmpQTnFGNVlqcE1yWHR5d0FKd2Z2VUs1SlJhTE5yMDQwNGREdElud1plNE0wcC0xdjc3X1lHeDV2YXBIQ21IbkZzdFNxSmxQZzRnNXhCUTg4T0xmd3NOOXRqWHR4YkNCbHhYcGQ3T045VkVlR3ZHTC11?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-15 16:55 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "af34aa4bad4d7023",
+      "title": "What are AI agents, and how do they actually work - qz.com",
+      "summary": "qz.com 报道了「What are AI agents, and how do they actually work - qz.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What are AI agents, and how do they actually work qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53MjdfRDdpUG11ZF9mRWJybXNMQ2RUZGJVa1dUb01VVEhXVHozOWZUcjZsVjBIQTJFbnV5dmxPY01GV2pFa0JSRnk3YTY?oc=5",
+      "source": "qz.com",
+      "published_at": "2026-09-15 23:43 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "06c0c96bacfb0555",
+      "title": "Zendesk's Specialized AI Agents Redefine the CX Automation Benchmark - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Zendesk's Specialized AI Agents Redefine the CX Automation Benchmark - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zendesk's Specialized AI Agents Redefine the CX Automation Benchmark The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVNSmMwOFcyZTZsMVFnY0pVM1h0UzdNbUxYQ2J1OEp2Y2l2aUJyS2RKZnRHZnpZeVFnMW9FX2lwVTExbDBBRHhFQlRiaGdtSjBEclByV0x0SG1lZTN6TW5FcE9zZTVhSXdaSS1DOFMxc2hUeUZXRklkX0NkQ0w2bDk5bU10OVdZTzM5eWc2dzBlQ3ZUbW5qcHQtTTl2ZU9nYWgtMw?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-09-15 22:44 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "3a5c0fdf551634da",
+      "title": "Imprivata Report Reveals 72% of Healthcare Organizations Run Unapproved AI as Autonomous Agents Enter Clinical Care - hitconsultant.net",
+      "summary": "hitconsultant.net 报道了「Imprivata Report Reveals 72% of Healthcare Organizations Run Unapproved AI as Autonomous Agents Enter Clinical Care - hitconsultant.net」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Imprivata Report Reveals 72% of Healthcare Organizations Run Unapproved AI as Autonomous Agents Enter Clinical Care hitconsultant.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzNrYVJUMzRBUlAzZXN6aV83YnUtZWVPVjZ0WTZqWFdHdXpxU2NwcTU2RzZWNDVDZnJhc1NWM2h1c2R2aUh0MUhCNWg3akI3Rl9xZk9xWkVHeWVOQXJhQXVCck5vUFM4bk1SNDJISGllTzdBWEdTbHFZNTdmTlI5d3FBUVhRd3BiamhrbEFjdmxaTzhMNzMwOC0zWEE1TFhvS0E4cF92RkliT2NTY2tDUjRNRFM0X2FyZXJWNQ?oc=5",
+      "source": "hitconsultant.net",
+      "published_at": "2026-09-16 05:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "b6c2f1c6f5e92c79",
+      "title": "Guided Execution - AI is evolving from task assistance to task execution under human supervision - Trend Hunter",
+      "summary": "Trend Hunter 报道了「Guided Execution - AI is evolving from task assistance to task execution under human supervision - Trend Hunter」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Guided Execution - AI is evolving from task assistance to task execution under human supervision Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ISmU4NUhaOVd4RnZjRUplc04tdU5CNW9ZaUpENDNJcFVQT2dKanI0QTNQaFdnRzJBZVV3eWZNRHFJMDlma0phU01sYjc2bmNyWjFtTC1GVks1VDRZczV2TjQ0OFQ?oc=5",
+      "source": "Trend Hunter",
+      "published_at": "2026-09-15 23:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "fe694917faae9b11",
+      "title": "AGIX Technologies Expands Its Mission to Bring Production-Ready Agentic AI to Businesses Worldwide - issuewire.com",
+      "summary": "issuewire.com 报道了「AGIX Technologies Expands Its Mission to Bring Production-Ready Agentic AI to Businesses Worldwide - issuewire.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AGIX Technologies Expands Its Mission to Bring Production-Ready Agentic AI to Businesses Worldwide issuewire.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNkNnR1JLT0w5ODU2MHE5djBuVlBwQWZtdkJBZ2NlY3cxRjBkZkdSUHZPWmF2NlRRLTRVQVpGSFhxa2FaRzZOVzUyUTJ0bFdaLVlibmJKd0lnbnhNSUZCSDQ0ejVXRmJsNUtpOVM4S212ZlZEUHU2VmFZcW40a1RJM1VVZ01WdTJtQWNwVk4tQjZHX214NkZGZGxYWm5pT3VhV08wc29NendCYXJDZWlxRjlDWDlHMHZyOEQtZlZjYngyaG5jNGVtTDJ4QWMxXzZieEJCaklkVGg?oc=5",
+      "source": "issuewire.com",
+      "published_at": "2026-09-15 19:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
