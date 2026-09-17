@@ -1,0 +1,354 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T14:11:06.498800+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-17/",
+  "image_path": "assets/daily/2026-09-17.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "fb1b88cbede9589c",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch",
+      "summary": "TechCrunch 报道了「We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-16 08:20 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "327793e31e14636a",
+      "title": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports - Reuters",
+      "summary": "Reuters 报道了「DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1lGcGV3bWJhWlJXb2lsX3JDaEtoRnJHRmVCb0FmZFhaZlNtRF9BRVBwNDFRZXdiVXdlc1RWNUN2YlRtb0J6U3RaRURKSVJtdTZNMnNrZW1ldnI4THlxeHl2V0l2S0U0aFNuZWgxY0hTblNhRGN6U2hHZ1ZmMDR1VmhoR2xILXNkWDc1RzNCMDRxUEp5S0xzcU5OYXZiLVlzM2tnOWlrNWR0NmNoV3JJcThmMEhkUkhnNWI3eER3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-17 06:45 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "aa0186a8f8227997",
+      "title": "OpenAI, Microsoft fend off part of software developer lawsuit over AI training - Reuters",
+      "summary": "Reuters 报道了「OpenAI, Microsoft fend off part of software developer lawsuit over AI training - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Microsoft、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI, Microsoft fend off part of software developer lawsuit over AI training Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbUNoRUZpb0NvNUtWS1hEZEt2d3ByaTFxM0w0MThMX2FrR0o2cktvZFdjNTR5dE5iXzN4Mnl1WGVMek1hcVk5bDRvZFZ5VFl4YUtNQnF2X25PenB4em1KZjBfUGNzXzNuNU1fakhlczRtdjRBSUhKZHdlRUFkTEFaemh0MlJ3aV9VbjRyRWVyR1ZweVJXT3F0T1lxdEk3RjZUX1N6aUxfMUN0NF9UQ1hwRXVPZGFKc1ZwUUJlSnlFMnE2eURoUGc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-17 04:35 +0800",
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "eb914ebaea7d62e7",
+      "title": "September 12th’s Red Alert: How International Lawyers Should Answer AI Leaders’ Wakeup Call - Just Security",
+      "summary": "Just Security 报道了「September 12th’s Red Alert: How International Lawyers Should Answer AI Leaders’ Wakeup Call - Just Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "September 12th’s Red Alert: How International Lawyers Should Answer AI Leaders’ Wakeup Call Just Security",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmZYMXFKYzVySmhFaTNzcVloVzloNlBDN202alB4amFwNGVTNzJ2U1RfSG5uZVZ1b3l3MUNRaGdQRmtwX0FzWEhhSEJjT21BUTYzbUhMZEhXa3BYdTRCeW5UOEVpc3lpam5MT2hGZExSZ0NqdGJzUVdVVFNoRnNRRVdldVN4WUxYSkVEZG5rVm51Zw?oc=5",
+      "source": "Just Security",
+      "published_at": "2026-09-16 21:44 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "985836aa370c8c56",
+      "title": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model - VentureBeat",
+      "summary": "VentureBeat 报道了「Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQmFaQzdnY0hTWEtvelZRaE0wYTRyRVFEUmoyTFdJdVR5SDA4WUZqT0w2dkhSelpvazh1V3IyclJLUjFhZUhCekV2aHlldFdtOEd1YkpmTjFfTlp6aEE2UFBtVkM0MURWMmliMkNhNS1sWElpcm92YlFsN2VMeUUzbUxTYkp5dXk5d044Qjk5S2hELUJtSWVkRnJqVEFYZTZPNmFTN1lTVDhJOEo2empVS2pMNlM0WDlERVR4NkJ2REdLdUhQY3pJTm16cm0ycF9FRmpnNEY2Z1NGc2d1eklXeQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-16 22:53 +0800",
+      "companies": [
+        "Intel",
+        "Salesforce"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "5f6248e023ef074d",
+      "title": "从政策创新到行业标杆：m6米乐安卓版如何重塑企业智能决策新范式 - 体坛加",
+      "summary": "从政策创新到行业标杆：m6米乐安卓版如何重塑企业智能决策新范式 体坛加 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从政策创新到行业标杆：m6米乐安卓版如何重塑企业智能决策新范式 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtblBtQzNlTWFXYlp2bWxlMjR1TEhvOVBPMHNvaVcyYzFaSmdoZ0pjbFhDcTMxZ1hwZXlud0lFZmZ5a043TFd3aFZza3VDNmNibm9tLVMtUV9Yb1VqVl9jbA?oc=5",
+      "source": "体坛加",
+      "published_at": "2026-09-17 04:32 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.0
+    },
+    {
+      "id": "7c13ea42825e13ee",
+      "title": "PEC 2026 AI创新者大会：FDE走到交付一线，企业AI开始看成本、效果和复制 - thepaper.cn",
+      "summary": "PEC 2026 AI创新者大会：FDE走到交付一线，企业AI开始看成本、效果和复制 thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "PEC 2026 AI创新者大会：FDE走到交付一线，企业AI开始看成本、效果和复制 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Hc0tUOXJna1YyRHZQc3J1b3U3LTFiaXlHQTVPYUhuMEIzaUxrUFZ6ZW91U1ZpYlhqTUtBSW1HelEwWjB1SlZfTlk4QzV5cjNhSktKMkg0T0tUdGFsRWc?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-09-16 13:05 +0800",
+      "companies": [
+        "Baichuan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "546090182e6ad4e8",
+      "title": "国内企业级智能体头部公司盘点：实在智能、字节跳动与阿里云 - Sohu",
+      "summary": "国内企业级智能体头部公司盘点：实在智能、字节跳动与阿里云 Sohu 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国内企业级智能体头部公司盘点：实在智能、字节跳动与阿里云 Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjMzS1M0T2UxanRmTVNyM0xLS2syQ0VxVGJBc2FZdTRPWE9MXzJNazFaQkVfTGpURE0temprc0Jva2ZhQVNvV2o5N3JyTEVfbDI3Q2ZaT3hwSjV4YTJ6bFlxdjhuQ0g4a0RvSEl4aTZqQ3FHYkRSd19hN0FFYVhBRFdNQUdGQi01?oc=5",
+      "source": "Sohu",
+      "published_at": "2026-09-17 10:33 +0800",
+      "companies": [
+        "Alibaba",
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "60759f8a1ff69fe9",
+      "title": "星空体手机版登录入口_游戏资讯_DeepSeek百万年薪来游戏圈抢人，盘点七大龙头企业的“AI+游戏”布局 - 体坛加",
+      "summary": "星空体手机版登录入口_游戏资讯_DeepSeek百万年薪来游戏圈抢人，盘点七大龙头企业的“AI+游戏”布局 体坛加 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "星空体手机版登录入口_游戏资讯_DeepSeek百万年薪来游戏圈抢人，盘点七大龙头企业的“AI+游戏”布局 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcEpId3hTZkYwMDVTeWJ4MDRnZlRwU0FMNVBlMjAtMTRVQTliTkFLUmVTa0prLVJ5VEdXYnY1dHBlTHpNWXhaUEFaTE5TQTg?oc=5",
+      "source": "体坛加",
+      "published_at": "2026-09-17 00:49 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "50b56d4265f6f7c4",
+      "title": "依托上合平台 中哈企业携手以AI破解区域教育均衡难题 - finance.sina.com.cn",
+      "summary": "依托上合平台 中哈企业携手以AI破解区域教育均衡难题 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "依托上合平台 中哈企业携手以AI破解区域教育均衡难题 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNUmd1eDU5VUVVTm5fRWFwdHdsMG5fdDdfeWpYUmk0am5QSF9fc0xFTDhfWXBmNjgxcXpiRlBhNGk2aWtueFZZTEs5RkQ3eHF3Mm13UDNPNlhlR3ZpTW1RQUd0Q2JVOUFJT2VVQ2tRWW1EanZCdENSaElmeWg2OWZvS1A5Q2diQkRmYUxuQ25OdERITmpJcHRhSFdnbE1Ed1BLUG9kSXRKRE1fS1pKWkpDZkVqYllNbXZwS1liSnYzOUNzU0xxeFZPMlBsekYyN3NVeUpWNWl5ZXNFUXNCcHBWRUdPejlWYUJRRUM0TFJDZEJNeG9Ka0w3MW9Obnh3SWRaRUJhQ0tRc0Q1Tm1rZzRFbWZMRndhLTNqU3ZVT25qOVU3SUlVQXIwUU9XV1lWWk01YVRBa2E5QWh3bXNPQmV0TWg1WDNGQ09saTQxaVdmY09UdEt1ZnVnU0ctR3piaHZQZXV2Qld3bXhISE1hNHZ3VXI5Yjk0eUZKZUtfZnpEWUNWcGViTmQ1N3lnaVlfc3NNSFNNR2dmajkteUpLcC11SjVzRVpIU3dCaENSMXBZMXRybTZxa2V1QnRzVThUbDRTdFBta0RhVnJrR1RYSVV5azV3ZFhyTU5ncjA3NC05c251VFp5X3NHSDMyaHdkcXkwaVFiRXFhcEZtZzRaa2RoQjlOR2FPblNIUzY4RXVjbTBZTDd6UlE2MTNzbkp5MnY5UlczUjF5ckROY3ppQjExTnB2OV8wRXhHdzIxbGx1SG1lRzY3aWZTRUFDZ1VQbU9RZnJyZzcwdUtwVXo5YTVSWl9TTF94NkluSWwzeGNMcmgxdUM0SE1EOUJkaHh4M2NvaFZQMmdYOXR2S2dBeC1Gc1ZUc01ka0VXQ2plS2pjMXNyRlNxd1FGMzdYZ1U3Zm83?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-09-16 17:04 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a56f02bec675d8ae",
+      "title": "Dutch Axelera AI Begins Shipping 'Europa' AI Inference Chip, Validated on Dell and Supermicro Systems - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「Dutch Axelera AI Begins Shipping 'Europa' AI Inference Chip, Validated on Dell and Supermicro Systems - finance.biggo.com」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Dutch Axelera AI Begins Shipping 'Europa' AI Inference Chip, Validated on Dell and Supermicro Systems finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pRlU5dVgxT3E1aS02Yjlsbm9qNnBpZkxJODUtM2dIdkd6Y2FzUUlwQktqS1Y0QVdBd0g4RFBsOXdVZERsUmkzV0w2ZmJIcnU4N0ZXbmpsY3BQMkctOURuRS1DUmxvbzdxYTM1dkZaQlZOXzZ6RGc?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-16 15:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "b9c82271cc10aa40",
+      "title": "Cohesity adds recovery capabilities for AI agents and the data they manage - Help Net Security",
+      "summary": "Help Net Security 报道了「Cohesity adds recovery capabilities for AI agents and the data they manage - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cohesity adds recovery capabilities for AI agents and the data they manage Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUThGRW1TWFJwMjU1cm5pekZTZklfUFZ6VHI5QTZCUmZRMlBYd3FnclI2VTNrM2FEeVM1dU1tSlhDTkszOVhHRVM1cXd3a1lYV2dhQVNXTkxpR0RSX3F3VTNheDc2VmdHcHhFMHp1QUJmSEl3WmJ2d0ljV2g0MFh2aUJKbnU4dzA?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-09-16 18:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "cdb65b7bbe5b163e",
+      "title": "AI Agents Are Becoming a Security Issue: What Businesses Need to Know in 2026 - TechPluto",
+      "summary": "TechPluto 报道了「AI Agents Are Becoming a Security Issue: What Businesses Need to Know in 2026 - TechPluto」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Are Becoming a Security Issue: What Businesses Need to Know in 2026 TechPluto",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVVqMFowWmNvOWpQaUVKMER6QTdzMEJyanpLT1g1RnA5RFdNZ1dRaXRnQVN2dDVMTldIZW5LOXhuU3VVX2NuNzViNHhrQVd1cWx0SmJMQm9MeDdWQjFXcFFiQlVpV1pkSVNhQUdkb2pKek9lVndIVXlWQVN6SFotT1FjY2pvUzcwR0pXMjVFTl8teTNwSXNXb1NSVjhTU0s0MVRrX2p3?oc=5",
+      "source": "TechPluto",
+      "published_at": "2026-09-17 13:57 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "2d7cbf93c725f10b",
+      "title": "5 Questions to ask AI agent development companies before signing a contract - iTWire",
+      "summary": "iTWire 报道了「5 Questions to ask AI agent development companies before signing a contract - iTWire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "5 Questions to ask AI agent development companies before signing a contract iTWire",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjlrUTF3alhuV0YtUXM5Y2kzTklwLWdGaW1INE5ST19yTHJSV2NibmR2enk2VVUxSUhXRXozUlhBUzE4ZUUybDlDY2NRY2p4eWVqR2ktcUlEWXFEOGxrbVY0OXBiQnpPWjdEbGxpb1BodW5jaXdWTGNPVlZvUlJQTnRpUEM5X0tKVnRmT2FldERmeC16RXp4bGVVN2dIUk9Jd1UwZDhmQ0txQXFocjJ2WlRWZ1VzWUYwYnBsdVpaLWI?oc=5",
+      "source": "iTWire",
+      "published_at": "2026-09-16 19:46 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "0554a33a1c257479",
+      "title": "Multi Agent Orchestration: Can It Control AI Agent Sprawl? - kingsresearch.com",
+      "summary": "kingsresearch.com 报道了「Multi Agent Orchestration: Can It Control AI Agent Sprawl? - kingsresearch.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Multi Agent Orchestration: Can It Control AI Agent Sprawl? kingsresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tNUt6RHQ4SGtjXzFCQXV4cU5zN2tyTkd5MmFlUDVlX2ZyY0FHOUFEbExYY3VXdzVyTXh2VDVXX3FUNEFzUmttUExfelJjQk9XLXdDRHp4eHhmb09hcVhWTlJxTGp4MWVhdHJDTkhhNW11RTNWN3dRZVFHVkNxZVE?oc=5",
+      "source": "kingsresearch.com",
+      "published_at": "2026-09-16 21:02 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 99.5
+    }
+  ]
+}
