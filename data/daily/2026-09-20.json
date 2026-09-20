@@ -1,0 +1,346 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T14:21:17.481840+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-20/",
+  "image_path": "assets/daily/2026-09-20.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "280927e0eb616613",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI - TechCrunch",
+      "summary": "TechCrunch 报道了「Researchers used Anthropic’s Claude to hack into OpenAI - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Researchers used Anthropic’s Claude to hack into OpenAI TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0tYS0VHd1I0cEFmd0JuMHh0SEg0NGxoMUprUDFPWVRlWWZvWE9LN0ZWMWd6Z2Utc2dlYWY2elB3Nk1xTGtRZm5aSzFDZlhfR0JRSms0NkJmVDlDY3JJYkxzU0M4ZWFLak1RSnNGNTlzWTJRZmxkbGZfUWppNUVDc3hxQUlVd01Ha1Z1U1ZYUzJReUU?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-18 22:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "4f39b57175771d4e",
+      "title": "AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech - TechRepublic",
+      "summary": "TechRepublic 报道了「AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech - TechRepublic」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHN1b1FDVFp0RTF2ZTgzY2YxekdNUjlvR21Dd290LXdneVQ3UVNJbURZakdWQ0dCVWdSUl95d25lSjVSYzVjS3pURERMTUNNN29rOWVmYmZ0NXNtZ1RnUWJKT1YxOURNQnhPRmtianVxdzNMRlowc3lsd2luN0lXRl9Kazh1QnlsejZBaktnZmRBQ1NyUVZhWlFuaFk4LUlUamllUVEyWHJORkpTZmI3Z0NVME1OZnBPOGN5YWNncF8?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-09-19 00:00 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "d8f3e14a5ed6424b",
+      "title": "OpenAI and Anthropic oversold AI security breaches to pressure feds into protecting turf: insiders - New York Post",
+      "summary": "New York Post 报道了「OpenAI and Anthropic oversold AI security breaches to pressure feds into protecting turf: insiders - New York Post」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI and Anthropic oversold AI security breaches to pressure feds into protecting turf: insiders New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUFRWmlmZ0pZaVBTUHNrZGRJV2pVcFdIc3ZFOWJfN1ViSlZtVVBWcEwzeXdvb3FOaDVyMmxJN2FFUExwQnhNY1JmdkpzcGI1ZWtFcDNwLV9OSi15OTdjU2wzN2ZoZktwUU02eUMyS1p2TEtxMGxXLUFZTENZZktVb1VnaDhJZmx1bUFuTWdfNWF1cFR0UnhHNi1YeU9QUVlOc0FmWG14TmJ2VC14aXVVelhfanFKVFh6bVA5QUZvWFBRVHJ2TjFkVQ?oc=5",
+      "source": "New York Post",
+      "published_at": "2026-09-19 21:57 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "936e36e89ee62626",
+      "title": "Google’s Gemini AI hacked 3 companies during security tests - New York Post",
+      "summary": "New York Post 报道了「Google’s Gemini AI hacked 3 companies during security tests - New York Post」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google’s Gemini AI hacked 3 companies during security tests New York Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkJoMXpka2RtQ2Y4ZTFGQ1hfellDbDBBSVgxR2ZWMW5xeXF3aU5KellVM09aa0hMTnYyZXhEWkRYTS1uZTdGVGJmbHhaZGJXZk95NWQtdkgyVFBaVmlNUFhDT1g0UmpMdTBYSFJjN0gxdVpkTS1YU0tZckQ3Ni1EeG1fd29RUDNIZzhBb184dDVXRVdpR1hXV2lRSEZHdw?oc=5",
+      "source": "New York Post",
+      "published_at": "2026-09-20 01:21 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9ce92d05a91970f7",
+      "title": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business",
+      "summary": "Fox Business 报道了「Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlVBX056RkFDRWd5OVRCMFBsNExBS0VOd19UY3pnRnhFcGd3dGxTQUJCdzV1elVFRkFOQTh3dDJPTlRnLXQ3UEUxYTFRdURXWUQ3SWJLVVpBNXBIcmNqdGF0bXYtMGhYNzVaMVFGdkhneXl1SUhsWDBOTVFZMEdiYm1hOU53RXRPY0JBOGRtd3VaY2RuSFpLT19peGc5ZVJiWk1wSE04WU1MY3l5ZVNR0gG0AUFVX3lxTE9ZcURZSEViQkExbGRlYkFCZFN3SmE3V2FkOEl5ZEt5cWRfeHViTUd5b0p5dktXMTVuS2wwRFVvNGJEckJKeG1GeWtSRmNleDl3U01GVXJudUphYUNjSDVQeWVRSWd1NUxKRnU1S2M5OTR5cFZJandNcEVGQ0s1U3BScHhZVl9nako5c2pRMWdPdmxHTlBVSjJLSlAxbjFsUEdtcVFmXzFkbmt2MTBfaUJ5R2RuSA?oc=5",
+      "source": "Fox Business",
+      "published_at": "2026-09-19 17:29 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3ffa864eb99137f0",
+      "title": "红杉中国成员企业走进腾讯WorkBuddy，共探AI Agent开放生态 - 红杉",
+      "summary": "红杉中国成员企业走进腾讯WorkBuddy，共探AI Agent开放生态 红杉 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "红杉中国成员企业走进腾讯WorkBuddy，共探AI Agent开放生态 红杉",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQUjF6SkpLeGhqYXBLM0V3d1o4Tzc5cW5rWVN3cWJoNEwxWXZ6TW5KdzFaSG1SOHctQ1BfZnBHejM3bFhIX3ZFLTdQc3NDc29JandOYUVfVVpPMy1ZZXFmZFFNbEtHby1nR2ZxQmFqaExtQ01IemxNUTVNRG95WURhVkZobjAxcVA4WnRfV213bWZpYXg0ZDY5S1V4ekd6OWQzM2J3VXhCVXRZMm1ORFBiZmdkUnJZblRFM3hzQWhuMHdxSld2T2pGWWdXVHpWSHBnMDN5dm1hNGd3Z3ZoLXlIT3ZkVm1NVmd6UTBrT0RZRWUzSEsxbFVTYmlBWFpYbm9PSkJKS2NQSVhEQmd1MkR1SFBQNVhTQlpDYWwwcHFWSDJvWUVONjBJVkRXQ3FxQWNOMXRnYTFPZzRhU1J4MVJoX092NjQ?oc=5",
+      "source": "红杉",
+      "published_at": "2026-09-20 11:05 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8cd80bd52f1a0ba7",
+      "title": "2026产业观察：企业级AI智能体定制开发主流服务商能力对比 - 财富号",
+      "summary": "2026产业观察：企业级AI智能体定制开发主流服务商能力对比 财富号 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026产业观察：企业级AI智能体定制开发主流服务商能力对比 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zWXd6aXFSWXdKemV0MFNTMm5OckZDWjVDWGEtTWdVZzlITVVyUE9RdzNidFU2UE5SR1FWME9TLUlyQllXa0V1ZUhNOUJNWWhOd2NHS0g2ai12MXJTaW95ekpjNExHQzloNy13?oc=5",
+      "source": "财富号",
+      "published_at": "2026-09-20 11:08 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "04aab14dbf2e79a2",
+      "title": "锚定AI规模化落地需求，华为携手安永发布《先进数据存力白皮书》 - 新浪新闻_手机新浪网",
+      "summary": "锚定AI规模化落地需求，华为携手安永发布《先进数据存力白皮书》 新浪新闻_手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "锚定AI规模化落地需求，华为携手安永发布《先进数据存力白皮书》 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rVGJ6OGlCRkJaS0JBLTVQNDlkR2tUWlFLaHFWWklHVXNUQ28xTkdVNzJmWjN3eFBtUnVlWHRNNmNYRlhqVk5KeUZQYUZvV21JU3poTXppejJsbklpUDgwcGJvMk9nZUJZSEluMEFDVjdzZWljQlE?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published_at": "2026-09-20 13:47 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "78ab5cf0e7a4fdde",
+      "title": "华为发布制造行业2026全球样板点，为行业智能化落地提供参考标杆 - 新浪财经",
+      "summary": "华为发布制造行业2026全球样板点，为行业智能化落地提供参考标杆 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为发布制造行业2026全球样板点，为行业智能化落地提供参考标杆 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3BxLXl1emUtVnY2cVNnUVBJNG1EbDQwUmx3ampFRU1iSFBFZXdfU1o4dWxaa0x5d2lWN3BRLWh1UHhfX2N6UjY4QUJQRFlYRWtQbEFsUC15M2NlcHNyT1BWZmlib3JYbFpNMC1yYmdTVk43SnRvaE1rS3ppR2c3cjlZR0hwS1Zaem93Mko1OEp3VXgwYnlWX0w5NVlzM0RN?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-20 11:35 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b6922a60d898531d",
+      "title": "AI 新技术如何赋能制造业？临港举办专场活动推动场景落地 - 上观新闻",
+      "summary": "AI 新技术如何赋能制造业？临港举办专场活动推动场景落地 上观新闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI 新技术如何赋能制造业？临港举办专场活动推动场景落地 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96VHl5WE5IOG9VM3I4NldQTGw2X3hXU282NDhZcHB6al9VTzh4bFhCU3JpSkluaFNBcExOTTlaempuaDZVSFZ6NEpjUEh3MkxUSVBDMXQ4YUhVUQ?oc=5",
+      "source": "上观新闻",
+      "published_at": "2026-09-20 11:47 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9b14823a6916d520",
+      "title": "The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wR3VvZWR3ZzZjUzlET2g1MUZod3JiWjJkaWVXVi1DejZpV0RyZW9LWnVYMVJ3SkYxdXlKcHJTeDAydTNGTlhzUzQ5TWJMMUZXMDNVVDE0bmZ2LUxuZWo0?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-20 04:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai"
+      ],
+      "importance": 101.5
+    },
+    {
+      "id": "48cda419ac977c50",
+      "title": "License to Act: AI Agents in Regulated Industries | by Adnan Masood, PhD. | Sep, 2026 - Medium",
+      "summary": "Medium 报道了「License to Act: AI Agents in Regulated Industries | by Adnan Masood, PhD. | Sep, 2026 - Medium」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "License to Act: AI Agents in Regulated Industries | by Adnan Masood, PhD. | Sep, 2026 Medium",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGtOUkN2YjlNVzJ3N2t3WFV3ajRPbldDNkhsWl96Ukp6WnNCREw0bjN6eEZFN3QyWkRjdzVpR3FlUU5SNGd0d054UUE0Vk9jNTFVdGxPREp5SlhvYlhwUUk5Ry15M1A3R3hWazZneFlxeGUxSGhfWHNUX2hIaldRS1luVE1qSl9GZ3haZEhWRlVVNTlENUtnRQ?oc=5",
+      "source": "Medium",
+      "published_at": "2026-09-20 07:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "14fbe2567f392466",
+      "title": "Cloud Manufacturing Market Size, Share, Share Report, 2033 - Grand View Research",
+      "summary": "Grand View Research 报道了「Cloud Manufacturing Market Size, Share, Share Report, 2033 - Grand View Research」相关进展。 该消息涉及AI 产品、企业应用、监管政策、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cloud Manufacturing Market Size, Share, Share Report, 2033 Grand View Research",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk9telUwWFViZk9wRUtzaGQ5bXJRRGUzUDJJSnB1NlVmVG5pRTlwZkp1dkl6OVFReWN1RUZDODhTR21feTF3bWVlRl9ZMkNJUzlZVEFSNzNHbWJIQkpyQlZKZEtnOG5ER3J5MU9LLWpnWWIyVnZKOTdSRTlSeTNwR3EwRGt4U2Z5SkU0VlFn?oc=5",
+      "source": "Grand View Research",
+      "published_at": "2026-09-18 15:11 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "regulation",
+        "research_paper"
+      ],
+      "importance": 90.0
+    },
+    {
+      "id": "0b7fd94e54e9cfa2",
+      "title": "Closing the AI control gap: From shadow AI to continuous protection - SC Media",
+      "summary": "SC Media 报道了「Closing the AI control gap: From shadow AI to continuous protection - SC Media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Closing the AI control gap: From shadow AI to continuous protection SC Media",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFRaYUFpQkFRSFNuTlJWTFdUYVpzcF9kQmlDVjhwMDM4ZlN2LThmdjJSaWxhaTBDSGR0VWVPWUNkYi1lYVpCSlg2cjAweVZCLUFiQkF3UjlZMmszNVhIMVlUYUZjeGI4NnFMd20wUVU4cHRYa0VmVlAwLUtiVGIwSnFmSV9qamh0WmtDbW5WMFF6UWgzRmdMaTR0cHRLVHg5?oc=5",
+      "source": "SC Media",
+      "published_at": "2026-09-19 05:04 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "46232d85a443876b",
+      "title": "Prophix Unveils Next-Gen AI Agents for Prophix One Autonomous Finance Platform - FF News",
+      "summary": "FF News 报道了「Prophix Unveils Next-Gen AI Agents for Prophix One Autonomous Finance Platform - FF News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Prophix Unveils Next-Gen AI Agents for Prophix One Autonomous Finance Platform FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmxVQ2dMWGp6YW0yZHRIT2NaVlBJbHJVM2syeGJsVWxJTEZOX19Pd2NrNTF5WE5OQnZpUGVWNEZUVXNDOTJJYVMwbm9IYlpRU2tEa3NCUnNaWlltYmlabjJ3ck53dFROR3pmTTg4eXlqdXlTUWRVN1dqdTc0MjNUbjFremNUY0RfY1FlNzJfYnpVUml3WnJ0QmF2a2FMZEpsWTZBUDBHS2x4SE1jRV9Md2VYbw?oc=5",
+      "source": "FF News",
+      "published_at": "2026-09-18 23:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
