@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:25:16.116099+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-21/",
+  "image_path": "assets/daily/2026-09-21.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c034e5956a838c2e",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws - The Hacker News",
+      "summary": "The Hacker News 报道了「Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws - The Hacker News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHlQSE9YZXIydDR0eWZqOTRrZk4zbkJBUklNV2lqRW9PLVhxY2dtR01XUTJTOVFCT1ZCbHhtSDNScmUzMV9jdzBaZ1VTcDZMMVJkUHloS1BONndkQTRQa0xhMEJiYTI3ZDhlMHV2M2dNaHZFMXpyQnhyOWdDLUZGY3hn?oc=5",
+      "source": "The Hacker News",
+      "published_at": "2026-09-19 18:04 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f71b93ee8af97f51",
+      "title": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test - cybersecuritynews.com",
+      "summary": "cybersecuritynews.com 报道了「Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test - cybersecuritynews.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Gemini AI Hacked 3 Real Companies during a Cybersecurity Test cybersecuritynews.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91ajFwVkNwQVgycGNzWGhKT3hYWVZyak5Tc3pOY2ItYUhEZ1lFWlFhMk5tWHpCRnB1cmVKMDYwQUZrSVZOVV9Xai1oalEzelNVODV2dzhJeUNKdkhJY3Z5dkNocmdJTmxaUFo1LWt5dFYwVktuU05uYmctSdIBgAFBVV95cUxPb3dGa2M4WWN3ZkpXQXh1RkY4UzRpUVg3MGZJUS1XeUtLSGhYMjk1azFuc2xGSFBNYmxIcERiblQySmhCcWJvejhUTHN4X3ptc2FSYWpuU2M0Y3Ryd1JnRF9VZWlsQkRQNy13QzRjMFJPUXZ6cmVOZVkxVi0ycFRYUQ?oc=5",
+      "source": "cybersecuritynews.com",
+      "published_at": "2026-09-21 14:10 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8dda197b719c8f48",
+      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests - MarkTechPost",
+      "summary": "MarkTechPost 报道了「You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDJmcjM2d05oNkVaZC1BcXdKbVRVVm1DazNvNFkzU1dsNnhsaXNONWVVMzd6WWFCdllGRTQycmZuSEo2ZHlqT013NEdDT3RDVktpb3lsUjhfN0EwX3VySWx0RG10SzJZOHB1WThRMXgweEtycnVVaTAzU3RrMS0zV2YxUUFUMzF4Qmk3TFlpN0RCMXIxaW96aUdqSGV5cHNiVDdsWEhiOWpJcXdtcmRfVDQxaTJKUnJWN2ZaNjZieHluUdIBwgFBVV95cUxObDJmcjM2d05oNkVaZC1BcXdKbVRVVm1DazNvNFkzU1dsNnhsaXNONWVVMzd6WWFCdllGRTQycmZuSEo2ZHlqT013NEdDT3RDVktpb3lsUjhfN0EwX3VySWx0RG10SzJZOHB1WThRMXgweEtycnVVaTAzU3RrMS0zV2YxUUFUMzF4Qmk3TFlpN0RCMXIxaW96aUdqSGV5cHNiVDdsWEhiOWpJcXdtcmRfVDQxaTJKUnJWN2ZaNjZieHluUQ?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-09-21 04:20 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "11591187414ac0e4",
+      "title": "AI Boom Conceals Off-Balance-Sheet Risks: Tech Giants' Residual Value Guarantees Expose Up to $300 Billion - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「AI Boom Conceals Off-Balance-Sheet Risks: Tech Giants' Residual Value Guarantees Expose Up to $300 Billion - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Boom Conceals Off-Balance-Sheet Risks: Tech Giants' Residual Value Guarantees Expose Up to $300 Billion finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CMmFGVnBGdDdjUERmMHVDeEtJd2FHSVUwdmpTb3ZabjFZVGVEODR6blIxeUdVYmxQZ3ZHMnBDblZzdVZpbmtCSmVwNXhGQlNfWDBjTXZyOUR2TmRCNHRCUWlmQzNmVS1Vd3BxZWtyd0pTU0dOb0E?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-21 02:05 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b565576959e0932f",
+      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一 - 10jqka.com.cn",
+      "summary": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一 10jqka.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一 10jqka.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CZzJFRTR6cUxWN1Z3c191NElkNmR3Nk13d1FWZ3BOZzVtdjFWWUNiVVBfalJ4UFh6ejlIcERzSzBMbmZlTmI2dkxlbHBQUThWaUNPekZJRFBPLW5nbUE?oc=5",
+      "source": "10jqka.com.cn",
+      "published_at": "2026-09-20 16:33 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "549d73102006ae76",
+      "title": "首站落地中国科大！阿里高校AI公益计划正式启动 - ahyouth.com",
+      "summary": "首站落地中国科大！阿里高校AI公益计划正式启动 ahyouth.com 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "首站落地中国科大！阿里高校AI公益计划正式启动 ahyouth.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSjhVTi1RQ2ZxdV9fcjVuUGdDeno4TFhFZmVBNnpVUld3NWtRMG0wR0tXcFhlRmVuUkNBYV9LUkVLbDYyMjV5bFl4R1lfelpveTdSOXFZMmVXWkNSQXB5UA?oc=5",
+      "source": "ahyouth.com",
+      "published_at": "2026-09-21 11:20 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bb8aee5044fcc23b",
+      "title": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划- OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+      "summary": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划- OSCHINA - 开源 × AI · 开发者生态社区 OSCHINA 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划- OSCHINA - 开源 × AI · 开发者生态社区 OSCHINA",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ndk1xYVpUWDB1WmZyR1JjMjVyR0dfXzB3Y3lNdkt5WHl4MFRDejJVWlV4V3dTeXB1SjIwemVoajhiMzBOUi0wMHVybw?oc=5",
+      "source": "OSCHINA",
+      "published_at": "2026-09-20 17:24 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e98c61533fa9d40e",
+      "title": "长春AI，正在落地 - 新浪财经",
+      "summary": "长春AI，正在落地 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "长春AI，正在落地 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjE4UlotRUJheGxvcE5tZ2JfaGt5eWtsdDJPRTVQbjV5VHdiNDFiXzhGeGd6M21PNExuTVlsTy1aUF93bjN2c3Q0QjVZamJ1VFB0eEZOanhpRGVWRlFtLUpEOHlxRXV2LXJzc1RIOVFCTzRhU3g0b2JGTExaQlNBNW84elYtSW50cTdUYW9iWEwyZ0xIbE9CMll1emVzSWQwcWV5VUsxdzF1bE81WkNlRTZR?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-21 08:41 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c7d26f8ae1508b00",
+      "title": "长春AI，正在落地 - 手机新浪网",
+      "summary": "长春AI，正在落地 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "长春AI，正在落地 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdjU0Q2NDTkZvUTlfUXU5V3ZSeS1ENDE4X0lMNjNoUTIxTkJIb1h4UThvWVNBWFVYbHZlRG5CMFByUzlLaldDWU5kT21uVXhYUmFvZGNsMGlDNUhGMm82d21qRnU2aWlYZHdRU0w5TGtJOUlXZU1tTmhRSTZGVU0?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-21 08:25 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5e6bd1c95b1bd513",
+      "title": "AI slowdown lawsuit targets ChatGPT, Claude, Grok and Gemini subscriptions - OpenTools",
+      "summary": "OpenTools 报道了「AI slowdown lawsuit targets ChatGPT, Claude, Grok and Gemini subscriptions - OpenTools」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Google DeepMind、Anthropic、Amazon。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI slowdown lawsuit targets ChatGPT, Claude, Grok and Gemini subscriptions OpenTools",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalRDc3lJOVRwajgyOGhnY3FIUUNIbWx4UEYxbEJ5MzNDbnZpVjVUMHd0NmhEd0ZtVTRLTmJCXzEwYURyc1VNYktpMXJRTnhPRjF2eHQyQVNXNzI0bGQ4VFdUbWVFOS1odmQwTVVoZ2dlQmlhamRva25NNXQ0RlltTXdZSVd3ZEliNkE?oc=5",
+      "source": "OpenTools",
+      "published_at": "2026-09-20 21:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Google DeepMind",
+        "Anthropic",
+        "Amazon"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "9b14823a6916d520",
+      "title": "The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI｜AI Engineer finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wR3VvZWR3ZzZjUzlET2g1MUZod3JiWjJkaWVXVi1DejZpV0RyZW9LWnVYMVJ3SkYxdXlKcHJTeDAydTNGTlhzUzQ5TWJMMUZXMDNVVDE0bmZ2LUxuZWo0?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-20 04:09 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai"
+      ],
+      "importance": 96.5
+    },
+    {
+      "id": "3ad0639676970d12",
+      "title": "License to Act: AI Agents in Regulated Industries - Medium",
+      "summary": "Medium 报道了「License to Act: AI Agents in Regulated Industries - Medium」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "License to Act: AI Agents in Regulated Industries Medium",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGtOUkN2YjlNVzJ3N2t3WFV3ajRPbldDNkhsWl96Ukp6WnNCREw0bjN6eEZFN3QyWkRjdzVpR3FlUU5SNGd0d054UUE0Vk9jNTFVdGxPREp5SlhvYlhwUUk5Ry15M1A3R3hWazZneFlxeGUxSGhfWHNUX2hIaldRS1luVE1qSl9GZ3haZEhWRlVVNTlENUtnRQ?oc=5",
+      "source": "Medium",
+      "published_at": "2026-09-20 07:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "4a45da3828dc49c4",
+      "title": "Why Autonomous AI Agents Change Everything About Work - sdcexec.com",
+      "summary": "sdcexec.com 报道了「Why Autonomous AI Agents Change Everything About Work - sdcexec.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Autonomous AI Agents Change Everything About Work sdcexec.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDVLem9oM2VDTjE0X0N3a2k4XzFMRnB2bjVZejV2clNxeFAySERGZFozUV9wbl9DcXNrRERpTDVPcnVJNXptRXd5UDdJZ0FXdFBCT3ZBVENQbFJTSGhmaTlGRU03d0U1MEt1b0Vjd2N5VmJ1Vl9adFU3TFlqYVlwV3BfRk5zNkNWVVRYR25SaU9FaVRHeDE3ZUNoczQwLUxtcnRVUzhPOGpYTlpZcGFxcFN3alc5VjdqdlhpX1VxWEtIYU1lWW90LW1jOFc?oc=5",
+      "source": "sdcexec.com",
+      "published_at": "2026-09-21 01:55 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d0a1a51788edef4c",
+      "title": "Why Enterprise AI Must Shift to Specialised Vertical Agents - technologymagazine.com",
+      "summary": "technologymagazine.com 报道了「Why Enterprise AI Must Shift to Specialised Vertical Agents - technologymagazine.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why Enterprise AI Must Shift to Specialised Vertical Agents technologymagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXJoUE44MEtleWdlLTJMTkFVTGhfbWNqVEtIVWVUckktYzVoTEt5Mk1GSWhvelhJWFo0c0hDdWtIc2tRU2ZweXRJOGVkUm1ld0xNTkpTQzdmV2tsRXFnMjFDZXBxaUh6WWtaZ0JmY3hhOTN4dDhtZzVwQzNkdVF5U3RwSm1JazFzWHpZVllUTG9xbmVzQnBpbmNB?oc=5",
+      "source": "technologymagazine.com",
+      "published_at": "2026-09-20 16:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9deb0a27341769fc",
+      "title": "Sprinklr Service and the Shift from AI Explainability to AI Assurance - CX Today",
+      "summary": "CX Today 报道了「Sprinklr Service and the Shift from AI Explainability to AI Assurance - CX Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Sprinklr Service and the Shift from AI Explainability to AI Assurance CX Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YaTJBbE9nVFF2WFdjVENRSS0xRGdNYkp5YlpDRG5GbkxsU3Q2N2R0LU1iNTl4eGppakF1NXltMjFFQnRNY215WW5vcGs3eURuM0tHZ1BTWWxKX29DWFlFSHNTVTYtMFBMVmpkdHRpWjJOQTU2Z1NNaWdYZW1nZw?oc=5",
+      "source": "CX Today",
+      "published_at": "2026-09-21 00:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
