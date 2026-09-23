@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T14:02:08.222562+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-23/",
+  "image_path": "assets/daily/2026-09-23.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "ea6ce2c278a163bb",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence - TechCrunch",
+      "summary": "TechCrunch 报道了「Meta admits Muse’s likeness to OpenClaw isn’t a coincidence - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOE1GdUMyM1pEZWNnVTIyTlpXSzNWeHhfZFdxazNPcElRejVoVWJSZ2pVUGJ4QnYyeks4YjNMbE1PT1pqYm1NWFhNakhibGQwMFFDNEdkSENDdE02dE43LTdsRHhfWGp0OUtjWVJVemNaUy11aXRzdDhaSFhFZnBLV3Z5bThhS1pwc2podlhLMHJMYkdTN29B?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-23 03:09 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "c797fd2d6abc078b",
+      "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters",
+      "summary": "Reuters 报道了「With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、NVIDIA、Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22 21:01 +0800",
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "635a85175fedd59d",
+      "title": "U.S. AI Firms Launch New Models Despite Safety Slowdown Advocacy - 조선일보",
+      "summary": "조선일보 报道了「U.S. AI Firms Launch New Models Despite Safety Slowdown Advocacy - 조선일보」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "U.S. AI Firms Launch New Models Despite Safety Slowdown Advocacy 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWR4N05KVmNqZ19xZlJFaFprV1hCQk1XYXlJYkFYM2Q5T2x3U0NUX0lxV2NUaHhRb1VOYUpYSFJaajd2QmRPRmpHS2FRa0JLV24zNHZGTFFURkxpU3ZrWl93VS1nWFVMTXljZUN6Z1VncHF3dHpVV2hiSkZPR2tJVU1KWnlyU2hY?oc=5",
+      "source": "조선일보",
+      "published_at": "2026-09-23 13:37 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "a117445a0fd34a4e",
+      "title": "Meta Muse AI Agent Tops Apple App Store: Features, Capabilities & Risks - News and Statistics - IndexBox",
+      "summary": "IndexBox 报道了「Meta Muse AI Agent Tops Apple App Store: Features, Capabilities & Risks - News and Statistics - IndexBox」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Meta、Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta Muse AI Agent Tops Apple App Store: Features, Capabilities & Risks - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXpmQ3hFS0lCOXZZMnF5TnRxZlRJVFlJUUJ1Q09zMi12WmRKRlZ1cFVpUElJQjBYQ2tpdHpDaFFPcVFqNDJkVjRvT29DM2JnVW9WMHp4Z09hcGxUZnNFXzJGSG9FeGI4U2ZKMmRiNDg5Qlp6STJkV1dMQ3lTT0podkVfbmlPZmZEMFY3Y0JTVGRseF9vZEtrbg?oc=5",
+      "source": "IndexBox",
+      "published_at": "2026-09-23 02:32 +0800",
+      "companies": [
+        "OpenAI",
+        "Meta",
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "c1a5a2e2a0dfa1ac",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI - TechCrunch",
+      "summary": "TechCrunch 报道了「Qualcomm launches two new smartphone chips with emphasis on AI - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Qualcomm launches two new smartphone chips with emphasis on AI TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHQybjc4UXF1MmR5X2kzZVZiT0g3R1J0NEl2Q1FTUW1PM3hkZjE3cUhtTVhrY1dOX2dyR25WMUxuV1B2S09kZnQtSTF5VjFMVGtla1RmNEhrcGs2YlBCTXAyLVZ5bGxITnJuLTlyT0tWalUzMnhkSTB0bHhDNEY0M3VYYUJNSTdMeTN5UF9yTVR3aTdtRUsybHFfM0VHQQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-23 04:00 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4de8da9e13883f86",
+      "title": "腾讯WorkBuddy企业版套件化升级 首批接入腾讯文档等产品 价格不变 - 观点网",
+      "summary": "腾讯WorkBuddy企业版套件化升级 首批接入腾讯文档等产品 价格不变 观点网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯WorkBuddy企业版套件化升级 首批接入腾讯文档等产品 价格不变 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHMG5VNEh1T0ZJSUZTTEk5aEVrSW9oenJ6Q2UwOVZoZnNmbHBlWjRPQ3pIMEIwbTA4NF9sVkNBX1BqV1MtcTFuc1dTb2pjbHliWHhKNXZRWlExWVVFZmFZMFR3?oc=5",
+      "source": "观点网",
+      "published_at": "2026-09-23 13:05 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "eb02194a7357e57b",
+      "title": "从个人生产力到企业生产力，阿里云发布企业级 Agent 平台 AgentCore - 华尔街见闻",
+      "summary": "从个人生产力到企业生产力，阿里云发布企业级 Agent 平台 AgentCore 华尔街见闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从个人生产力到企业生产力，阿里云发布企业级 Agent 平台 AgentCore 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4N2x0cHJHOVVFd2VWMV9jaFEzUlNZLVE5Rk9IX3FfU1ZGdkUwQVdhSFlZM01PWlM1TmtJbjBycTE4NGlBQ1hPanE0N0VST0h0NzhF?oc=5",
+      "source": "华尔街见闻",
+      "published_at": "2026-09-23 09:57 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c81f774bd4f07e2d",
+      "title": "财中ETF风向标｜Kimi K3落地亚马逊大模型平台，智能体加速重塑算力基建预期｜人工智能早参 - finance.sina.com.cn",
+      "summary": "财中ETF风向标｜Kimi K3落地亚马逊大模型平台，智能体加速重塑算力基建预期｜人工智能早参 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "财中ETF风向标｜Kimi K3落地亚马逊大模型平台，智能体加速重塑算力基建预期｜人工智能早参 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BaVVLdlJ5MkVocFhWQUFZMHNTNmhjYnlnWDhpVlRINzR0VlI1dUR2dFk0X2t5b0lZU2s0MWprMlhNWk5mY3BWZ1dwOFVFeE0zVko3b0JvWFY2RUhrMVdYYW9lQXYweDZBRnF1Qmg1NA?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-09-23 09:16 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b0393b24c22c83cf",
+      "title": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 - 新浪财经",
+      "summary": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VR0l5czNRT0RqVTc3NXpTaXg1YmtxamdGZWxINW9DSWNlYlhsMV9CcGwwM25qZkdMel8xOEZJRllIMEZFN2x2OHdIU25UNDVmbDktUzFmSGRxdkpkY2RLR0trdHl6NUR3RndUTGRZTDg5WUh3Yi1qUg?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-23 02:05 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "134a990b2f039736",
+      "title": "企业AI应用进入半年考：哪些公司开始把产品做成业绩 - finance.sina.com.cn",
+      "summary": "企业AI应用进入半年考：哪些公司开始把产品做成业绩 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "企业AI应用进入半年考：哪些公司开始把产品做成业绩 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT1lVQzhtREpra3JPc2doX05fMUJvdUltYUd6RkY5UlFEQzJIcnl3WkozbWxadVdkeU1mN0ViUTBONi1QSUl1b3ZQaTAxeEVGYjhncnJJYkZ0bUhZOUhrVVhiZ2xuQnNna25lTjRRWjZZYUl3cVdYbTdmbkxTYWtuNkFNQ3ZFdw?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-09-23 13:39 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "404d89cf6ecc98c9",
+      "title": "Blueprint Alliance targets shared security architecture for AI agents - TNGlobal",
+      "summary": "TNGlobal 报道了「Blueprint Alliance targets shared security architecture for AI agents - TNGlobal」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Blueprint Alliance targets shared security architecture for AI agents TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWM4VEpza0R4WVViU252Q1lmMGtERVBNMU1YUjEteUFmRlE0bFhBOXF4OUFDYVVDV3E1M1dod0VQN251N1N5T1lWTTc0RFdMTVBkT0xfbVlxUTA2UGFIT1dCOXNwZUlyNDZUaG5yRVQ1SlN0SHF0TzBNVHViQUFfdThTUG56U25yalhjLXVLUkdZeVBXZG1POTZB?oc=5",
+      "source": "TNGlobal",
+      "published_at": "2026-09-23 08:46 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "869c8ef89f1d0545",
+      "title": "36Kr Research | 2026 China AI Agent Industry Development, Market Trends & Commercial Application Research Report - 36Kr",
+      "summary": "36Kr 报道了「36Kr Research | 2026 China AI Agent Industry Development, Market Trends & Commercial Application Research Report - 36Kr」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、论文/评测方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "36Kr Research | 2026 China AI Agent Industry Development, Market Trends & Commercial Application Research Report 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pS2gyQ3Rud3doay00LWdKbjdLY2xaVXY5U29QbjdYRWZFdnVSeFRiLTA0VTVoTDkxb09TYTRVWkZPenFKQzgwazRSbFVTWXlMLUVJ?oc=5",
+      "source": "36Kr",
+      "published_at": "2026-09-23 07:51 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "research_paper"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "f201878d8a98de28",
+      "title": "Agents vs. Agentic AI: What Enterprises Need - appinventiv.com",
+      "summary": "appinventiv.com 报道了「Agents vs. Agentic AI: What Enterprises Need - appinventiv.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agents vs. Agentic AI: What Enterprises Need appinventiv.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzZ2VXbE9ZLTRZc1MtOU5raU9tYlNEZnFDM0xOUlhvQV9ReE9NSWVHZGtPTFZFZjVjMDlCVTYxMzhBUktnbm1Ub0phby05b0FhZV9zbjl3Q3oxREZ3TEViZ1hSMA?oc=5",
+      "source": "appinventiv.com",
+      "published_at": "2026-09-22 20:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4030b33b7b9ba26d",
+      "title": "The Company That Knows What to Do Next - Medium",
+      "summary": "Medium 报道了「The Company That Knows What to Do Next - Medium」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Company That Knows What to Do Next Medium",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEVUbHJ3ZHprN2tOUVhELXlMZlJ1U09aWXNFUWZPNEg2ZXJHeTNaaHg3ejFNWlZfR3FjUWplem9zeTRxUTYwU21FVkwxUFBFWTdYc2VXQTlfdkNUZjFweWZqX05lYUU3VTBvZ3IzRmx6emFJLS1LN3ZRTFBWN3IyMWk1bUZEVklnYjg0?oc=5",
+      "source": "Medium",
+      "published_at": "2026-09-22 22:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9b5675bac3bd00f1",
+      "title": "Cohesity launches Agent Resilience for AI recovery - itbrief.com.au",
+      "summary": "itbrief.com.au 报道了「Cohesity launches Agent Resilience for AI recovery - itbrief.com.au」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cohesity launches Agent Resilience for AI recovery itbrief.com.au",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORUNwMFEtb2JfalFNcm5sRVJ1RllrOW1Cano0d3o3eUszdHY0cVhhNmpSSE5jRGNvT1dsNWxoUHk3UUZaM3YwMEJtV012VmFpdzhfdzk4bW5hY0tQWko2U01jR21lcGpFSk9saWZPYWwxbXNVMjJnb3hjRlBYdXlEamdqWEd6QQ?oc=5",
+      "source": "itbrief.com.au",
+      "published_at": "2026-09-23 06:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
