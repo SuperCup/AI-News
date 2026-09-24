@@ -1,0 +1,339 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T14:12:51.856261+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-24/",
+  "image_path": "assets/daily/2026-09-24.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "1e7a8d34b5369350",
+      "title": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - VentureBeat",
+      "summary": "VentureBeat 报道了「Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-24 01:00 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "2ebfeb44f7f4e34c",
+      "title": "Google Nears Release of Flagship Gemini 4 AI Model - The Information",
+      "summary": "The Information 报道了「Google Nears Release of Flagship Gemini 4 AI Model - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Nears Release of Flagship Gemini 4 AI Model The Information",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5",
+      "source": "The Information",
+      "published_at": "2026-09-24 10:17 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "defa71106678061b",
+      "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters",
+      "summary": "Reuters 报道了「Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24 04:20 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3c0aab1aad04b711",
+      "title": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse - The Information",
+      "summary": "The Information 报道了「OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Meta、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse The Information",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHk4c2RWM2lxN3Blc2JIMFJ5YXZ1XzhIVVNxbWJpb181c0wyZjZLVkd2TE1nMDNlT0ZVUDZYU0hqdU1yR0NVTjEtVE56Wlh4MkVvTEFqb3Y1VnpKY1p2NnczRzVlOGFieV9LVy1WS3BmY1YtRjI0WEJ3am53Qk02YXhlQzJmbGlTTDN0OGJtWW5QWC1LRHduSnk4VjNtOXBNTG9xS25wQ0s0M0pXeGo2dHdTYTdXNExGTHB2cQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-09-23 20:09 +0800",
+      "companies": [
+        "OpenAI",
+        "Meta",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4d4a2e3fb6a8ffda",
+      "title": "Oracle puts database security controls beneath AI agents - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Oracle puts database security controls beneath AI agents - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Oracle。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Oracle puts database security controls beneath AI agents SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzV4b1RJeC1yQko4bHd2emRxcHhjalM0bTFabzdZeHBaRXkyVDVNNXRrc2lDdFVxcVItWjlQUDJRQXRKcGl1aDZoZDZmSWVLdUdRdzduTG5PeHIyZVVQOFlYNjdXMkw2TThNV01fT2ZzLVdUQjJodVE3RTMwNzB5cHk1N1Y1cWNfTGN4TWZKM2tsUHpBN3dBS2Z5dGs1N29qOUtCSV92TEFCY0RXcU1LM1dITTAtQQ?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-24 06:02 +0800",
+      "companies": [
+        "Intel",
+        "Oracle"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ca368e2df8657249",
+      "title": "布局企业级智能体赛道，百度搭子发布多项升级成果 - 新浪财经",
+      "summary": "布局企业级智能体赛道，百度搭子发布多项升级成果 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "布局企业级智能体赛道，百度搭子发布多项升级成果 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13RzdyQ1FnZGpBMmpiUmZPbFZKWUlVNkQ4bHM3OGRqYW1ESE4tbThFN0Q3VTJtV0Q3TG9pb0w2bU5yOXRmMWJuM0RRRE5xQUlJa2FIMF9oU0t1NmpwT1ZkR3BEd1UxNGgxZmJCUU5uVnotdlF3dFVkSQ?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-23 18:08 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9b367783c2eb91b1",
+      "title": "大模型上车进入交付竞速期！字节豆包座舱助手首搭量产车落地上汽荣威 - 手机新浪网",
+      "summary": "大模型上车进入交付竞速期！字节豆包座舱助手首搭量产车落地上汽荣威 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "大模型上车进入交付竞速期！字节豆包座舱助手首搭量产车落地上汽荣威 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3JnaHVfVDVPSGVheEduaUZuMlYwOGhqWkdEZVI5ai02RkxIMU01SmoyQmRqeWZ2UWRESnc4M2FxS05vaTh3d0ltM1BtdU9wRXJZZmN6bEhyZmJ4bHJtMjJmY09xbW5hOFFZbG5tTGJGT291QmluME1uc1V0SE5TdGpB?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-24 05:12 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9da2aa0fb31657b7",
+      "title": "国家级名单公布！徐汇两家人工智能企业入选 - 新浪财经",
+      "summary": "国家级名单公布！徐汇两家人工智能企业入选 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "国家级名单公布！徐汇两家人工智能企业入选 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNHhLd3NQaFlVaEFiYm13R3A0Q19aRFZKeGFrMHM0NTNGd0tSazIwQ3RWRllYVVhtUEFzUjYxdUtOMXl2Z0ZKYncxb3pnN0hJSlc2cFJkaENGQ1M0ck1wR2JCbWVNd1B2RFQ4bFo5akhEMllMTS04RUNIaE9GUUo4WWNDcDBYYmdia04xeGxLeWQzRG5FMU9jY0p4Y0NMTFBrdkx0eG1va1FrRkFWSTdfSXM1NHJUYWJlVERGbHd3V0dzaUtLQlMwQkVNR2M1aTN2VEtXSVcwQUg0aHlhRXBRa01iRWlBc0QxTjNzc2hVYXVTdlBwMml3bkw5aE1SaDZ5WXVqbGdCNXdRRWxoSU5tRmN1cEVrTG85TUlmMlpWQWRJV2RpdkFwSTZxdmt4RVl6TzBNQllrSGVDb0R5ZjZRcDRlMWIxWUhRWHhsOUVBS2lqbkdvVTBUR0QtVzFUY1E1S3Y4TFh2UjczcDNWb0V3M0lyQ00wT3p5WmFHMEZFbkdxR2U5RGZHVTByRnBhN0x5dXJnY3NSSUpsN1NySFdZVHhTWVFsNGhLMGxSdElMdU5pbVZRTG1iMGhJRTlMRGltVzk2bUdxMDRnOGFVSklSVHA1UjRVckRaWFJTR0NsWjVudw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-23 20:20 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c9e0fcd5c52f9a4e",
+      "title": "2026 AI大模型上车终极指南：谁在真落地？3大路线实测对比+FAQ - 手机新浪网",
+      "summary": "2026 AI大模型上车终极指南：谁在真落地？3大路线实测对比+FAQ 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026 AI大模型上车终极指南：谁在真落地？3大路线实测对比+FAQ 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NT3EzWDVyUV80RW4tc1VuaUVoMVFOdzhURVllSEZBcFZOcUhZaktCSTlaeTg3VGhYQXJYdWFIQXhlZllfeGdHdHNEUDM3SnlieGFxOGkyWUU2azZ3QXM2TUZzNGF2RFdpYnQzZGE5UFFlUQ?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-24 08:28 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d76d43c887498fa0",
+      "title": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 - 新浪财经",
+      "summary": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2IyWS0xSHJVNzBFUXh6YjNiNmRWSmx4a2l5d2ZvRUVjdE9xTWJxTDROWXRuSGUzRjA0Z3ZPYzROYlBlbkZSM0R6MWNQV0pBdkZ1djd2ckxCcTZaWlppT0xPbmZzMVpmZ1JxS0hvcWRsWkVtVktkN25HaGpPTjF0dGtfVkVXUWc?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-09-23 02:05 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "08949d9a4d5a501f",
+      "title": "Numeral Raises $100M Series C as Vertical AI Agent Play Hits Tax Compliance - forkast.news",
+      "summary": "forkast.news 报道了「Numeral Raises $100M Series C as Vertical AI Agent Play Hits Tax Compliance - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Numeral Raises $100M Series C as Vertical AI Agent Play Hits Tax Compliance forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFhBNjVpTFNoY0RpWDhUc0ZfZzl0RmpWaVpoY01tNGZBTmVQOVBHVks5by0wQlV5dE5DbTQtUGJfbVpETTVQbW55b0pBVFFER1VVazUwa1hWaUpHaFNYMHk2VkxHWHhIbUUyN1BBR1pENHYyNDFzQkE5UlVMa2hBS211cHFCU3B6YWJjM2xZbmJHVHJfVVJNcFdaUk0?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-09-24 01:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9bd09af5bd458233",
+      "title": "UiPath adds AI agents to automate enterprise testing - IT Brief Australia",
+      "summary": "IT Brief Australia 报道了「UiPath adds AI agents to automate enterprise testing - IT Brief Australia」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "UiPath adds AI agents to automate enterprise testing IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm1vUDByY2ViQnM1blY1X0tITkJMWVRPTUdPaW1RdTlnSC0zbzd0dklNRTJBS0JJSnRHdGRSM2xnMzZKTkJYbFF2Z1BRMjdtdnhYZVVUcHNONXJhYlI4ZVlXRVVVc1ZxeFVpNllhd2RCRzVuQkVmMVA1UWVWMVBVUVNwdHN4SjVQ?oc=5",
+      "source": "IT Brief Australia",
+      "published_at": "2026-09-24 06:54 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "5f16f277f1142ca5",
+      "title": "Creatio's $300M Bank.AI Bet: Is Agentic Banking's Moment Now? - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Creatio's $300M Bank.AI Bet: Is Agentic Banking's Moment Now? - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Creatio's $300M Bank.AI Bet: Is Agentic Banking's Moment Now? The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDhrdmR1dUZGODFqakhvbGl1SEN5Y2JSLUVVZlp6b3UyMmpibjFfZV9RQjVTc3puNFpJaDFNTV8zV2RMWnIyN2p2RHRhcmtfdWRyVXhyWjlQVENZdnRlQmV2ZFlMWGxueUNUcGFsX1ppczZxeDYtaHlnbFFTUjhZeGIxc2RxWlp0X1BMTkYtemF5ZGhI?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-09-24 01:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4f9992ab59c5268f",
+      "title": "AI Agent and Future of Software - Vocal",
+      "summary": "Vocal 报道了「AI Agent and Future of Software - Vocal」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent and Future of Software Vocal",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kQ05FSTRuVVV5Q0FuRU5MT2VOTzRiX3c2dmZhZTdjUkw2UGRwaUZnek5CX2dobGN6clR1S3RYdWJTSUtfUFJCRjZ3OXpXb2oxMzd5cjBLTjNkaVVIOURFREdiSno?oc=5",
+      "source": "Vocal",
+      "published_at": "2026-09-23 17:56 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "2c2a7febd38bfbfa",
+      "title": "Inside CrowdStrike’s Move To Secure Enterprise Agentic AI - currently.att.yahoo.com",
+      "summary": "currently.att.yahoo.com 报道了「Inside CrowdStrike’s Move To Secure Enterprise Agentic AI - currently.att.yahoo.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Inside CrowdStrike’s Move To Secure Enterprise Agentic AI currently.att.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJ5U1VObG5RbFhBS28wLUNOZXFxZFdaMDVRYTVKaHQ3Q2dpU3JoTmRUeDZNcWhsQloydUJJWG5VRnJlMWg4QVJ1bWNWaktRY0lzNy1lT3QwekpuTEZ3UHZPbXN4ZTNrYmlfemphdUVuanE2Nkxjd0lmMTZmNDBhVXJ6YUoyLXVCZU12bnBsZjhLV2R6TkJV?oc=5",
+      "source": "currently.att.yahoo.com",
+      "published_at": "2026-09-23 17:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
