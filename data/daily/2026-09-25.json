@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T14:11:11.122440+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-25/",
+  "image_path": "assets/daily/2026-09-25.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "c24ee6dd0016ffb1",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses - TechCrunch",
+      "summary": "TechCrunch 报道了「PrismML brings its tiny LLMs to Qualcomm-powered smart glasses - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDk0MnR6ZFNibDRsdVNyckZDYi14UlRWUTZhME1kVkpxaHRSYW1WdFQ0OUxQUDM2V01GYWkyV2VOMUUzRVJtdEREb1luWmFBYTBvZkdBTTM0VGFUSWlub0NJbUtQVkNGWjNqdWhWTVFNVzFhZHBieFVLZ1F0dXVhVF93RXNvSzRvU2JyWTU2MFMyUWxDbWl5UjBzTndDdw?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-25 03:00 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "e33cb0d6f501e820",
+      "title": "Muse sure looks a lot like OpenClaw - The Verge",
+      "summary": "The Verge 报道了「Muse sure looks a lot like OpenClaw - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Muse sure looks a lot like OpenClaw The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHNFVIbmtPQ2V5SWJVdlRFc1MzaGVhTjlvRHRqbzRwc3JhaFE1QU8wTWVkYjVOUk9oSmFBRTVNdHdtczdlQ1RVenFJd25tUUdBcklEcHpXNjQzMVU5U0RTNjVoRG52RmFHcnlvdWZqZF9EMWUwQ28yZVBnWS0?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-09-25 01:10 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "6d40d182abcd6fdc",
+      "title": "Breakingviews - COMMENTARY: Rogue AI bots expose deep cyberlaw flaws - Reuters",
+      "summary": "Reuters 报道了「Breakingviews - COMMENTARY: Rogue AI bots expose deep cyberlaw flaws - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Breakingviews - COMMENTARY: Rogue AI bots expose deep cyberlaw flaws Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVJna0tFN3VxZXRUbncxZDJ4eDJDVXdkVW5VVVpTeDhkSEVSNnZnMm5nVEE1RzlnbXRyYjk5cDVKOGpKQkxfTlFyMmVXVFFTRVpMQUZYTlNIbnVETEJjVG1XT0VsVXFqaThXNW52UlA1UXZkLXI0cGc5WHdqOUh3eUgyLVF0UzA0amhZTmxOeUF0ZUxvN09ySGhVeXZUd2lMYnVz?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25 01:53 +0800",
+      "companies": [
+        "Amazon",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "49782bd3a070e81a",
+      "title": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
+      "summary": "PYMNTS.com 报道了「OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJ6b0dzel84NjZLVGRhcVM2VHltQW5QVEZwX24wTWJLU0tBc3ZaazZWM2NaSGRSYmhKZmJrd3VXSXh1Q1p3N2ZmbXh1aXBWMW5WZ21DeW1jV294MFVHS0R5ZWI1U00ySk9xTld1b0ZySktfRlo2bmpoWmRnQ05tSmRFOHIwbXViM2VfWm5NaGM1OWJqZXdYTEVERVFwLTRWQlhabE4wbUgwUE1nUFd1U3VTOE1hZUpFZjZXdHZNd045UQ?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-09-25 04:27 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "90392124e79c7226",
+      "title": "UN Security Council confronts AI risks as U.S. rejects global regulator - INSIGHT EU MONITORING",
+      "summary": "INSIGHT EU MONITORING 报道了「UN Security Council confronts AI risks as U.S. rejects global regulator - INSIGHT EU MONITORING」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "UN Security Council confronts AI risks as U.S. rejects global regulator INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU5yVEpLRHNRcTc4R2Y0RzNuWGxMMnNvMVpkbkc5NjhVcDZaMDltYzRVYlZKMkRkNTJiZW81OW9lQVYteXpDQS1oQ3ROWXVNZ2ctN0QxOFhhZVFMMWtwSTdJeU1TTWljd2FrUzRoTEdTUVFhM2pDY3lvYk51ejNmUmg1U19udFNQNHVUMGlwYU5EbWNRMkxoSTRFNGkyV0VsdUl0ci1ROXk4TkU3R2RFcXhkazBFVGlBX2tTdjQ0WWtycURjanJtVXNZdklMbF9rUjN3?oc=5",
+      "source": "INSIGHT EU MONITORING",
+      "published_at": "2026-09-25 04:02 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3f4cb5013d8aa161",
+      "title": "DeepSeek落地昇腾，黄仁勋的预警应验：真正的对手从来不是单颗芯片 - 搜狐网",
+      "summary": "DeepSeek落地昇腾，黄仁勋的预警应验：真正的对手从来不是单颗芯片 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek落地昇腾，黄仁勋的预警应验：真正的对手从来不是单颗芯片 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDVEOUh6RUVWa0pKLW5Uak1hTjVBS0FiWFA2V1B5Ml9UNVdreU1uX2tUdFF2S1V0Tk5DS0F2dFVJQllWYm5LRFF3amlqVTZDQ0dqRWJKLXBoOWNBdWVfRUp3MlhXaVk1WmQtc1RLSVVnWGFMRW4xQWFZWnBIUnE3NHJtR3Ftc0ppTmhZeA?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-09-25 11:33 +0800",
+      "companies": [
+        "Huawei",
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dc0cda6ce77cb51c",
+      "title": "阿塞拜疆总统伊利哈姆·阿利耶夫会见中国和意大利企业负责人- 阿新社 - AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
+      "summary": "阿塞拜疆总统伊利哈姆·阿利耶夫会见中国和意大利企业负责人- 阿新社 AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿塞拜疆总统伊利哈姆·阿利耶夫会见中国和意大利企业负责人- 阿新社 AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfekNnOUpESW5IU1kxSXB2MXNQclNfYkhSYnBIdXc5ZXgzQW9nT3VUb3lLSGV3ZVlJV05lTVdKLVltUkVaTFpsdFYzYXhOb3BYVWd3OQ?oc=5",
+      "source": "AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
+      "published_at": "2026-09-25 02:30 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f7fd68f995674bed",
+      "title": "中国AI探索东盟落地新路径 - 光明网",
+      "summary": "中国AI探索东盟落地新路径 光明网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国AI探索东盟落地新路径 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZDV1Z3VJS3lwMzJQaDBzYjRINVNwZFFrS202andkM0Fsa3lqSy1xbVBJRDlZNldhTXJmUmpSb2ozNTM4Yk0tUS1na1h2VWprbzVQOVRVQXFoNGpvTURoSXROUHY?oc=5",
+      "source": "光明网",
+      "published_at": "2026-09-24 11:11 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "462503ca0882d6b3",
+      "title": "小鹏位列2026中国民营企业500强第141位，较上年提升167位 - 广州日报新花城",
+      "summary": "小鹏位列2026中国民营企业500强第141位，较上年提升167位 广州日报新花城 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "小鹏位列2026中国民营企业500强第141位，较上年提升167位 广州日报新花城",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTQyOHhJMU1WMUgwSXZqTG5DcDVLNFpWY1JjNURYcXBVamZ0azBUMnVSM09OSF84Ym1qU1BHVDg0Z1huek9ZYmZ5UFkwNEFoRDdYQjd6cjBWNWU1dDMwVmtNd2wxWVk0OGlzNkxyOHFOVjZpSTlDZDdyZUxhWjYtaW1RN1BCcHM3a3c?oc=5",
+      "source": "广州日报新花城",
+      "published_at": "2026-09-23 21:35 +0800",
+      "companies": [
+        "XPeng"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "4603aa1bddffd8ea",
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 - 量子位",
+      "summary": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 量子位 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 量子位",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqSG9oR2NZVEdOcmxtTGVmeEc5eGFTRlhueWhOMGtLdXRSelpNdlpsN0tHenotR2t5a09EWGJSOGdwUVo4R0VDemN3bndteFdZc25jTw?oc=5",
+      "source": "量子位",
+      "published_at": "2026-09-24 22:17 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "5b5f170165299bc2",
+      "title": "AI agent security moves deeper into runtime - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「AI agent security moves deeper into runtime - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agent security moves deeper into runtime SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ082REppZXhSa2YzTk0yZVQ3M3VQNFFTSkNHNHZINFM4QS05TWRjZW1nZkVfbTRIajJkQkViTGxaTGh2ak9WUGpWNFVYN21fWUR1ekNzSWdXSTBadUhLcWlWeGIwSTlRV2tzZGhRcXZMMkpFNDhmdjdHV1N6OG9KRDBUcF9NdTducjhwZmlxYy0yY19ZQS1OUTBpczBMSnE2QThN?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-25 01:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "3b52f3b3e062d97b",
+      "title": "New infosec products of the month: September 2026 - Help Net Security",
+      "summary": "Help Net Security 报道了「New infosec products of the month: September 2026 - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New infosec products of the month: September 2026 Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGRaZnlJSzNZUmRaMkRDWHNvdDFwajR0dEFSNHZpU2xSQzN2V1dVazNEZnlRNHZFU0dROHdsMEhldGw1TGF2ZG1UN085WHJiRUZ0M1Fyc1BBNFYzTHhVUmNiQURsT20yTENnWXVabFBBSjY0cExqRmJUTl96UVlVTDFqMkJycllBallYaUFCcmVfZjluS0JJ?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-09-25 12:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "0458047710d4183b",
+      "title": "Silk secures $45 mn growth facility for agentic AI data platform - Beinsure",
+      "summary": "Beinsure 报道了「Silk secures $45 mn growth facility for agentic AI data platform - Beinsure」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Silk secures $45 mn growth facility for agentic AI data platform Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOWxxTnNPeGhXbmlDM3lsckY3TXI4OGY5NFc2WF9tOEFTQTdNWTgzMWdaYlBQQ19OZXltVG9aUGNRWWdMazl1UmFHZEVmdFRfRW9uRXYwN2Q1UXlHeG1ONnBzS1JEdUdVcjdWLWphelVsNmxMUEFTOURyRXhPQzlydi13eHJyNDAzSVRoTER1Nzk3Tk0?oc=5",
+      "source": "Beinsure",
+      "published_at": "2026-09-24 21:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "c9705eb73c02a2d0",
+      "title": "Five Governance Products in 12 Days: The Enterprise AI Control Layer Is Forming, and Dataiku Just Shipped One - forkast.news",
+      "summary": "forkast.news 报道了「Five Governance Products in 12 Days: The Enterprise AI Control Layer Is Forming, and Dataiku Just Shipped One - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Five Governance Products in 12 Days: The Enterprise AI Control Layer Is Forming, and Dataiku Just Shipped One forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclBHWlRENUt6N1Z1bzFkT0xNRkI5STE3el9ad21IRTUyNHpNRF9BQ1ZqNHptb1YxZk9aMm5fWThxUXBBN3E0alpfeTl6ZDBudkhfTkxtSWhhLTVPMjNyczE0MVRyWmRwVGoyUEp4R05wZXhpbHVIeEk1Uzd4VHdDTHJ2VGkyOGJ2VjNxTWdBdzFqcE96WUlDRkRmSjFvX0FSY0g0OXZheGdFZU9wdGNlcUt4NGJwUDczbTJaeUxBSlo4M0E2cG9ZYQ?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-09-25 12:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "a1a69f5e2780380d",
+      "title": "Citrix adds AI browser session insights for agents - IT Brief Asia",
+      "summary": "IT Brief Asia 报道了「Citrix adds AI browser session insights for agents - IT Brief Asia」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Citrix adds AI browser session insights for agents IT Brief Asia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVk5WTUZnYktlbTQ4al80QThmNGlVVW1QMGZJZ3pTbnNnbURSaVdITUlJVkF4SXByN3VKQnk5VnV1SUFKcThlZUIxTWNuOXNuejExWGdrTUFpOVRkb0dZU1E4M1ZrZU1VenpnSHR5VG5mNFBHcW1LMEpUeE54U29rT3RGWQ?oc=5",
+      "source": "IT Brief Asia",
+      "published_at": "2026-09-25 09:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
