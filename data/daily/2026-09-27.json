@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T14:38:24.171898+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-27/",
+  "image_path": "assets/daily/2026-09-27.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "2d2ecead629674d7",
+      "title": "Tens of Thousands of AI Security Incidents? What the Evidence Actually Shows - Kingy AI",
+      "summary": "Kingy AI 报道了「Tens of Thousands of AI Security Incidents? What the Evidence Actually Shows - Kingy AI」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Tens of Thousands of AI Security Incidents? What the Evidence Actually Shows Kingy AI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGOXdzMG43MWkwdmNqY2RoMnRFWVJ6djJkZzV1MzYwQm9IaV9FT3FuaE9LQWhjblVBQ0xrY3VnWXlrT1kxWDV0R1FqZ045YjFMRnc3dDkyNTMwU2JfSm9BdldCU1JwTWgwMDJfc2M0VFI4ME9QZE1oQUFmblQ?oc=5",
+      "source": "Kingy AI",
+      "published_at": "2026-09-27 10:28 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "8603712ca1601cf8",
+      "title": "2026年Q1高性能计算需求激增，365BET第一品牌相关企业注册量同比涨37%，天眼查数据透视区域格局与风险 - 体坛",
+      "summary": "2026年Q1高性能计算需求激增，365BET第一品牌相关企业注册量同比涨37%，天眼查数据透视区域格局与风险 体坛 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026年Q1高性能计算需求激增，365BET第一品牌相关企业注册量同比涨37%，天眼查数据透视区域格局与风险 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNzFGS2JKTlNwOUdrXzRkREdYUDFBeV9tZUdaSTlpdUZ5SUNBbTNFLXNjOGF6SXpDNWlWOW9WT015azFSY3VjLVNDbFVCbnFhbE5WdWk4TzFJZw?oc=5",
+      "source": "体坛",
+      "published_at": "2026-09-26 07:58 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "76459b3afe79d3b9",
+      "title": "Stanford and Nvidia's open CLM-8B caches reusable agent actions and runs up to 9x faster than Jev in tests - VentureBeat",
+      "summary": "VentureBeat 报道了「Stanford and Nvidia's open CLM-8B caches reusable agent actions and runs up to 9x faster than Jev in tests - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Stanford and Nvidia's open CLM-8B caches reusable agent actions and runs up to 9x faster than Jev in tests VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQlNIdjNkOHBld1pudGdrTUhlNjh6WEpFSXE4RFRpZjJ0bW4tcFNkdE9VdGoxcXFsTTZVVERaeERWS3R3d0RLR2dJSjh4bk03d0ctZnBreldFeTBNQkpsdUNSczE5RnQxOGhrVjhoS2lkWWRsa0xCakVfZ2pmV2dIdGNwd0dqdERJc2tUWkh0dDZHZGE4VVBrelJ4d0pPRkZqXzlpdVRGamM3d3BqdVZ0SWxEODBIUjFfYVFXMy1CNnk5eElvbjdENXhTTUdoTkNWWW82bU11TQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-26 04:13 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "c94ccd28a0a0e63f",
+      "title": "Google's AI Security Agent Flags Over 500 XSS Bugs, Only Two in Hardened Apps - finance.biggo.com",
+      "summary": "finance.biggo.com 报道了「Google's AI Security Agent Flags Over 500 XSS Bugs, Only Two in Hardened Apps - finance.biggo.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google's AI Security Agent Flags Over 500 XSS Bugs, Only Two in Hardened Apps finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HZURkdTVaejdLVU9JU1FrSTlpR0dZQ1lTenU2bEwyNEZoYmJnR3hKdVZiQ0lQdU1RdVJ5M0ZZaXhfUnJLOGttdUh5djlqaUpHVGoyTWx0Yi1tYWlKM2NYNVNKejE5a2tjd3dUMkF3VkJBQ3VULUE?oc=5",
+      "source": "finance.biggo.com",
+      "published_at": "2026-09-27 02:15 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "96ab4dc5b1c0890f",
+      "title": "OpenAI and Anthropic discover AI safety incidents on a scale far beyond what they’ve disclosed - cryptonews.net",
+      "summary": "cryptonews.net 报道了「OpenAI and Anthropic discover AI safety incidents on a scale far beyond what they’ve disclosed - cryptonews.net」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI and Anthropic discover AI safety incidents on a scale far beyond what they’ve disclosed cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oc3BhV0F6WEJXVEVpMWhMR29yd19ZUEdybVk2LW1qclh5QjdQLW1Pekc5akREQ0VHZXpJOFQ5NGxNWEFPODBaNnhmWXgxMFJzWG5LQ3JiNUJlQQ?oc=5",
+      "source": "cryptonews.net",
+      "published_at": "2026-09-27 10:47 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "27fe1abaf69ebf7d",
+      "title": "云栖大会：中关村科金携手伙伴加速AI规模化落地 - 手机新浪网",
+      "summary": "云栖大会：中关村科金携手伙伴加速AI规模化落地 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "云栖大会：中关村科金携手伙伴加速AI规模化落地 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DeGtieWo5SlpxQnYwNjRjaXN5dVUySU8xVHNaLWlfeHJ4RlNHMEtmSDU1Z2x6UDdwSW1CcXBINFNjLUViRW53WUx1ZkNJdGdDWHJlc2pmNnFCa0R6WV9vQ3k0bXdGNkpaVTZQd1J6Tm45N0VC?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-26 23:59 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "269a7225f4f92dc3",
+      "title": "Agent完整进入工作流 阿里云助力企业探索 AI 原生落地路径 - 驱动之家",
+      "summary": "Agent完整进入工作流 阿里云助力企业探索 AI 原生落地路径 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "Agent完整进入工作流 阿里云助力企业探索 AI 原生落地路径 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ejJHRkhKcTUyUWhXaDdfaHBGWUN6eXg0SnlMdzYyV3pRd244NFVjVVJmbGJVdzhTQ0RnVHZNdm5xRzFaR2ZPOWdSdnhIQ0NkaEpVYnR6R1k?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-09-26 18:25 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3a10baf26565ee49",
+      "title": "蚂蚁集团在湖南落地健康AI，CEO说了什么？ - k.sina.com.cn",
+      "summary": "蚂蚁集团在湖南落地健康AI，CEO说了什么？ k.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "蚂蚁集团在湖南落地健康AI，CEO说了什么？ k.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uc0xUcEJGV3ZFbmhOYW8tcC1BcXVXRW9mcjVHYTgzREJ6NUxsSE9nZ0RwR0stUFM4dXpBeS1fdnBpa20zMDNZVTlPTEdtNExzU3JmV1U2aDNwVDJxTlQ4TkFyVkVRaU9oc2E2a2gyTzB4QlBpVnltOUt1cHd5REU?oc=5",
+      "source": "k.sina.com.cn",
+      "published_at": "2026-09-26 18:59 +0800",
+      "companies": [
+        "Ant Group"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b6532f0a7d65e7f4",
+      "title": "OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity - CBC",
+      "summary": "CBC 报道了「OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity - CBC」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity CBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hYkN5dGZBNWtMczBXaVNSdEZwVExRdWk3Qmt1a0oxaURzYUVxaDBIOUNZUVItaFZSNHc1d3dsN1lFM2REbTV0Q3NCUk84Sl9LQnUzd3NhaU91b1hWODhicHVLOC1XTmtJQzJ3a19veUlkaVR2UHdiNXJB?oc=5",
+      "source": "CBC",
+      "published_at": "2026-09-27 03:31 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 148.5
+    },
+    {
+      "id": "1dbcccc24d2065fb",
+      "title": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用 - 搜狐网",
+      "summary": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSERNRnQ1OURFRGduSkRiUkU0LXVEMzQ3S1FyMkd1aVVxcGN5UGlNQktKV3QyRUVIYUJYVG1DeURzOERzU0FBcGd1SHMxN1dGRE9kSWs1Q1NyWkMwc2N0U0NacFhuMDFuLXdudDlObWZMZkRIVWprMHVIZUJlMVhpNXJhMFJJd3djYkFNVA?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-09-26 13:28 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e61d9f2cacf9e7e4",
+      "title": "AI agents are exposing a security gap between the data they read and the systems they can change - VentureBeat",
+      "summary": "VentureBeat 报道了「AI agents are exposing a security gap between the data they read and the systems they can change - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agents are exposing a security gap between the data they read and the systems they can change VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFZSV09NdnVEODF1ZWxVUks4QnVmUXUwTW1wem5NZDFMNnJXVk1OTlpxb2N6c2hzQndMWmtaQXhfaWZHU0hJNXJIZ3lwR19HVF94dUJ2UWItdWo3TEI2QlBhNlhYSmVzSXlCY0hoT09hSTlTYkpuMjhvdk5kV2ljakhnZG5uckR3dW1DV2pqRWZGNl9yVndJRDBoY3ZkM1FyaG5CWGJfQ2FXNklxaXcxUXFhQWs3S0VsOWZDY1hTSURMOGVQOVc0dA?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-27 03:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "afa716e9337c86fd",
+      "title": "The launch also marked the delivery to Chimelong of the 20,000th robot to roll off AGIBOT’s production line - agibot.com",
+      "summary": "agibot.com 报道了「The launch also marked the delivery to Chimelong of the 20,000th robot to roll off AGIBOT’s production line - agibot.com」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The launch also marked the delivery to Chimelong of the 20,000th robot to roll off AGIBOT’s production line agibot.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdVhGUTVMZXZZWGZveHQ4R3I2b2h0ZjdEbDlKLWVRTDdPeFNWN2hXLW9uZkFWTkhzdG1hcHdNaXVRWm9RdE9Dc0ZiMnMyWng3eFBuME5WbnZUSzhGTmE0?oc=5",
+      "source": "agibot.com",
+      "published_at": "2026-09-27 02:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "4324f624e01b7768",
+      "title": "Runtime: Okta's bid to keep AI agents in check - thestack.technology",
+      "summary": "thestack.technology 报道了「Runtime: Okta's bid to keep AI agents in check - thestack.technology」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Runtime: Okta's bid to keep AI agents in check thestack.technology",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSTBtNVNUc3c4d2ZmZDJfbHdQMVNxYm5PaVhqUE91Wi15VGtZN2FrVFFINncxMVhLRnR1bUJQUVhIV0xIRnFvOHpLVUUyazVaOXoxYUFzZ3FNdFctM1JTaHVobUxNVHFWSFMtbHNPdjhiaGgtTi04S3JlUVZPNFJkTEUtYw?oc=5",
+      "source": "thestack.technology",
+      "published_at": "2026-09-27 01:28 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "33588c8a6b0fa518",
+      "title": "Best Keynote Speakers on Agentic AI Futurist Scott Steinberg - futuristsspeakers.com",
+      "summary": "futuristsspeakers.com 报道了「Best Keynote Speakers on Agentic AI Futurist Scott Steinberg - futuristsspeakers.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Best Keynote Speakers on Agentic AI Futurist Scott Steinberg futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzNqWUVIMFFYOHdOdjYwSU0xNVN6Ti15eTJSNHRXQjhtajVOWUJQNXJYaTZwX25XQkJWWkFqVUtGdUpxZE1yWUZ3VzVJMzh5MGZ0eVM0N214WUZrYkx6U1ZXZklORmEwOHEySWlWdEQ3dWFucW02UVpNQ3BZb3phU0NjYzN4UQ?oc=5",
+      "source": "futuristsspeakers.com",
+      "published_at": "2026-09-26 19:47 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "73832673a810c0f2",
+      "title": "The Rise of AI Agents in Enterprise Workflows — Global Case Studies - Nasscom",
+      "summary": "Nasscom 报道了「The Rise of AI Agents in Enterprise Workflows — Global Case Studies - Nasscom」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Rise of AI Agents in Enterprise Workflows — Global Case Studies Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWJCY21YcEZ3ZExHeFp2S0I4b2FGLUYtRWRGSlNfZlNHWkNqRENKVnFGT0tWRGdMemtpamN0RzBuU0ZBNWVQZjJfWGFjd0FBRGxhV3J4Wmprbk9iVFV4Yk9mU2QtN2U4a0FPWHBKS2F3dUt0azdaRFdTM0VLeVdHdEwyMEJ1U2IyTEFvdkVRb2tBdGxBdE1IaGRWVGprMExWUzR1YWxNM28tZw?oc=5",
+      "source": "Nasscom",
+      "published_at": "2026-09-25 16:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
