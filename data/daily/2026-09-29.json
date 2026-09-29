@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:58:15.769191+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-29/",
+  "image_path": "assets/daily/2026-09-29.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "0cad86131d1af992",
+      "title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks - bloomberg.com",
+      "summary": "bloomberg.com 报道了「OpenAI Scraps Debut of Latest Astra Model Over Safety Risks - bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjA2Z0FLVXc0M054OXNXQWpjclRZeDQ2eWpOMXZpd3NXN291LUo2ejBaWmpvcVVIQjY4bUhoRGQ3RENGVWtIVUlUWXZ0ZHQ3VzRLMF9VaGo0MEVWdGsxdkpLaTVXLThNRnYwaHZnYmZJRFZZaXU0SU1mYjcxdXliTmlMbENMY052bWdkTEVBcFhEMHp5U1Mxd1RHNi1JdmFhc0k1aEYyVFd5dUZ4WkR6MVhUSHk?oc=5",
+      "source": "bloomberg.com",
+      "published_at": "2026-09-29 06:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "358a6c4852f3548e",
+      "title": "Databricks Lakeflow and Agentic Data Engineering: Will AI Actually Reduce Data Engineering Work? - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Databricks Lakeflow and Agentic Data Engineering: Will AI Actually Reduce Data Engineering Work? - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Databricks Lakeflow and Agentic Data Engineering: Will AI Actually Reduce Data Engineering Work? Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmNTUmk1aVBXTHRkNks3OXFYV05mdEgwR0pZT29CX0g1STVEUFh5X1hDUFdYVTBPaVMycDhXWWVIa2JGV1cwYWNkNnVkZHFBQjlBamJjSFN3TW5hNWNqLXRrUmZCV1Vla3h1S2FDdWRhYnNwODdXa0pESWJWanRWemdhUWZ4U3lhMHdhMkIzcDhITlhHM21WNDd1VmxqQXowdXVsbEx6OS1PanA3dHN2QmV5dEY1bTlHa0JSMl82RDc0UXBxdXg3VTg2X2hVZw?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-09-28 22:37 +0800",
+      "companies": [
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "8a9884a0d468b0b9",
+      "title": "How LLM watermarking can change AI agent behavior - TechTalks",
+      "summary": "TechTalks 报道了「How LLM watermarking can change AI agent behavior - TechTalks」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How LLM watermarking can change AI agent behavior TechTalks",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzhObmVlU2hRZGd5eGpkSmdlb19qQXNtMnA4X1lDVjl1U3hSM05fV05VcUFHR2RWSlV6OTNENnpVY21TVWxHS1lQa3ZwYzUxMkd0V0J1T0IySWc0VTg4WWV0VFdUX2hkVXhhZFZzc0xVeHlrQ2QxOEhsMFptYllkbHJ5SEFuMjJuNHYwWk130gGTAUFVX3lxTE1rV2RPdVJQRTJxVV83c0ZiNzlTaC02NHBMMHpyN3RVdWR1WmltOEo5MnlTclVCUFRNaUxaMjF1dmlJWlBBVGZTcTZUeTRSaW4wLXlPaDkxdGc2X0I2c2ItZlZDZWZrWTFtNjh6NkUxQ3hyaVU4bmxXeXR6cVI0RG9uR0RHYUtJVHRrMGUxYWdEQktzSQ?oc=5",
+      "source": "TechTalks",
+      "published_at": "2026-09-29 03:10 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "3d60de9331ddfe96",
+      "title": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. - facebook.com",
+      "summary": "facebook.com 报道了「Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. - facebook.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkQ3YkVCV3hDYmdVZmNka2ZZWHhPcmZtNVNIbmQ0THpHT1YtZFotRFd5Mmh5LXl0Z1A5WlhmTmotbkNLS2dUX1FKNWpSMFJkZzdFaU84djFtUGdjOUg0SVJNemVVMF9MWWxwLXI1R3R0d0xYYkhJN1hFbHowYU9OX1loSDhRbjI1b1J0V1hsQkFfcGZKVURRVXVrTzVUaDk5blVUUGo5WnBscmZFNlhCaVZtSXdWbHBCU25oZ0tzQjlHZVNra1UwOGlyejZMajZfdVl3?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29 08:47 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "c39a0b28a9295583",
+      "title": "PrismML Brings Its 1-Bit Bonsai LLM to Qualcomm-Powered AI Smart Glasses - AI Insider",
+      "summary": "AI Insider 报道了「PrismML Brings Its 1-Bit Bonsai LLM to Qualcomm-Powered AI Smart Glasses - AI Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "PrismML Brings Its 1-Bit Bonsai LLM to Qualcomm-Powered AI Smart Glasses AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSFdtVUJfTUE3Ym13RXNkOWhrOXVDZExIenpVUUZSanJTUFRBN3FpX0JrdmRxR0FEdkRnV1FqYy11TGlGOW03Y0d1OUtZQ1JRM0xPWkNWUnNvdkhBNGc1dk9pbllsbERCNldPQ1hMamRJZTJMd2dYMVhSSlE2cHg4YWc3SGRfQnYyVUJSNVpSZ3djTFM0WFlqUFQ3UndNOV9fZnAyWkc0THdvajk3VkhN?oc=5",
+      "source": "AI Insider",
+      "published_at": "2026-09-28 22:28 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "4bfbe94218e6370e",
+      "title": "WorkBuddy企业版升级：让个人提效，变成组织生产力 - 中华网财经",
+      "summary": "WorkBuddy企业版升级：让个人提效，变成组织生产力 中华网财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "WorkBuddy企业版升级：让个人提效，变成组织生产力 中华网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wNUszeG1ZSHpUVXhhSmk0ZjNocVliOXBuYjRTQU5Fc3A1Y0hUUHFqUU1oV1RVWm9zcDNNQ1VoOFhLLWFyaDZ4YXB0S2dFYmVmX3lMVFlHLWNVU1M5Qzh0VHJFUWhvN2cwdHBjQnJB?oc=5",
+      "source": "中华网财经",
+      "published_at": "2026-09-29 11:21 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1bf893e7ba3a4919",
+      "title": "汽车行业周报：腾讯Workbuddy落地零跑，AI提速车企系统开发_行业研究_研报 - 证券之星",
+      "summary": "汽车行业周报：腾讯Workbuddy落地零跑，AI提速车企系统开发_行业研究_研报 证券之星 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "汽车行业周报：腾讯Workbuddy落地零跑，AI提速车企系统开发_行业研究_研报 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSTZxLUVjRVNES0kyT2NzcnVOeG9wTDFlSlZRR0p2MFBNbm9oUUdhSnZLVXY4Y3dEMXRUc3R0MGV3NHN0TUY2V2FJdk41ZGo3QzdnRlZqOV9SYlYzWnlMNEh3?oc=5",
+      "source": "证券之星",
+      "published_at": "2026-09-29 07:48 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d8a35b1d0d4726ad",
+      "title": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 - guandian.cn",
+      "summary": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 guandian.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 guandian.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3bXFPVE9mQzEwbFRFSVJ5bmNCQUxqQkNFNWVJUGNsVXFOUDE0UzRmX2czMkZiSVlqNktDbGtsT1dDR3kwQVdNWWd5Mms3am9TT0V4R0tTWnE2NnJQNkpRYUdn?oc=5",
+      "source": "guandian.cn",
+      "published_at": "2026-09-29 10:33 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2f66ac728adf8183",
+      "title": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 - 东方财富",
+      "summary": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "豆包成为山西文旅官方AI讲解员 首次落地省级文旅合作项目 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90R09HVXR6U05waDh2bVJNc0p3bklBNV9KdWlQTnRzVzNFbF9NWXpVcFdUSmpSTTEyZmJtWl9oQlpMb2RybXdMOThtaXlBeVBrdVZTbmREOTZSbHRlYVhqZENBd1BQUQ?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-09-29 11:52 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "231d4dc09d9947d9",
+      "title": "全球首个专用于径流预测的大模型落地乌江 - 中国能源新闻网",
+      "summary": "全球首个专用于径流预测的大模型落地乌江 中国能源新闻网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "全球首个专用于径流预测的大模型落地乌江 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCVVYwYi02cFZ6QXhJRm9QbUtYajhseFRObUFVQmJnaWdDVS11NWhfclYyZU5tTE9XV2p6Tnhrc08xX2dCWk4xeVpTZlg3NVFkTC1DWktuaEpld214ZElpc3B6Z0t3M2JsQi1BYlBYZUJJeDBPYXBj?oc=5",
+      "source": "中国能源新闻网",
+      "published_at": "2026-09-28 20:27 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e4a5b12a9957ca42",
+      "title": "HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros - electronics.economictimes.indiatimes.com",
+      "summary": "electronics.economictimes.indiatimes.com 报道了「HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros - electronics.economictimes.indiatimes.com」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNaW1YYXZEYmtoUXRpYXJWdjlaOEZ6dEFtdEZXcloyTHJZbE9PY3RQWEJza3cyTUprOGpSMUFielZJOFhSemdyNkM1X2ZpY2l6b3lSNll1YXcwSW1YVWEycjVwSGhYTWRrWnJ4Yl9fRUZQV3VTWURpZ2ZrYjl2ckNiYlZQbS1qeTVkclNQOGoyT1k3ZzVlNkxRTmhrOHVLQ3kxRmZsOFQ5NnpQS244WUF6aVJQdTYzYUdKUzZGNUpVbl90VDYzM2ZvOHAyTjNOV0xzTUI1VkRRSmdOQm9YaWE2VDIxR2kwX3ZjR3RxekluTHJJOWctNlBsOTFIdjVYUDBOb2VDZTB1dktkbEZTRFpIOXNoNjZSU3Bic1N6YVdMVF9KeGVITVZjMGhvV25zQTctcXJ4cg?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published_at": "2026-09-29 10:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 107.5
+    },
+    {
+      "id": "a5eff17e678a1f76",
+      "title": "HCLSoftware Plans Robotiq.ai Acquisition to Add RPA to HCL UnO Agentic - Unite.AI",
+      "summary": "Unite.AI 报道了「HCLSoftware Plans Robotiq.ai Acquisition to Add RPA to HCL UnO Agentic - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "HCLSoftware Plans Robotiq.ai Acquisition to Add RPA to HCL UnO Agentic Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGIwd0RLQjdENGZtVnAzN3hTMmtZQzFlaWRHM0RNMnd3LUsxM1MwRUNSSmFFVHVjVjJPSEhHRDd6VHdQTjE0SkNSZ2dZS0RqMzlwV3lHVlRVQlp3dUJraEg3X21sVkVKRzJpN2NLQ09TX3JhVC1tR1VaMi1lZlZUZVAzWWMwYVkyZUl5ZkxFOHJLNmdXYjBr?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-09-28 23:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "ebc7dfd629518c58",
+      "title": "How AI Is Changing CRM in 2026: AI Agents Transform Sales, Service and Customer Engagement - InfotechLead",
+      "summary": "InfotechLead 报道了「How AI Is Changing CRM in 2026: AI Agents Transform Sales, Service and Customer Engagement - InfotechLead」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How AI Is Changing CRM in 2026: AI Agents Transform Sales, Service and Customer Engagement InfotechLead",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1haVEc4cXpnZ1BlYU5XN3ZTT29xdTVjLXZxYTViNUFzS2VMMlRzQUw1OXdabnVVLVlYQ1l5QktUQU1Wc0xjVXVsZWVjMUtOSkdYT3ZybUVVaGZEVTdheVZoNTZYbmIyMW9sUkVlRF95bXFKVVpmUXo5YjF1SWc5amU4VG0xUHFRRUZpeTA0VVVlYUJJZzlXamRZU3VFS1l0TnpGRDNHZ0pwYnFlQ19YUEI5cWRZRVRWNDlrSXc4RWVfZ2IxVThkckNvdTZTYzYwYXA0LUNiaWVFc2_SAeMBQVVfeXFMT2NudlZScl8zNEdBOG51Q2pCWTdzeE1IQjB0NUU4ZnpkOFN6bkE5dlBUUGpDUlpZWWFFNzFOSUNfajMtZ0l4NFkzQU13WUc4eXlOU2JoaExaOGJqR2RNNXZoTnQzdXBWNGNYcXEzR21YRmVoQ2lqNXkyVFZLUnBUdEFsZG1ZZ2wwZkF6VUxVdE15QmloT3YwNWpRcVZiRUVDS2pPWkxLU0t5a1hnMTUwV1lzdDBtU28tTENsSUpaMWdWMWJ3UmFCUzJRcFRaQUN3MGZndmlzTDlwRnJ6TnJXM1dJUFE?oc=5",
+      "source": "InfotechLead",
+      "published_at": "2026-09-29 00:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "0fca81c335e84da0",
+      "title": "Dataiku Says It Can Track AI Agents Across Platforms: What Can It See? - eWeek",
+      "summary": "eWeek 报道了「Dataiku Says It Can Track AI Agents Across Platforms: What Can It See? - eWeek」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Dataiku Says It Can Track AI Agents Across Platforms: What Can It See? eWeek",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wNVpQOWhKTHFLS0dEdTExb0huYTYwRzA3Z1V4YzBKWVJxcFJfaXhXYjhVVFFRcVJIeUFqa1RrRlBGUmJJZTdHQmw1VTBEYlBIb2RpNXZZRFJJbDhGLUxQN2tvR0N1MGVleVdqWWQ0VWhkbUw0bXk2QlFMOWVuZw?oc=5",
+      "source": "eWeek",
+      "published_at": "2026-09-29 00:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "81c05570c366ce1a",
+      "title": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform - TradingView",
+      "summary": "TradingView 报道了「Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform - TradingView」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnpDeWcwT3k2QUJGZ0pCTEZGam5tRjBUbmxrZTF4ZzhmeURLRG9OdWJhZGwwYm40VDBoLXcxOFFRUG5GSWtWWmNobTNudlFsX2VqQnQteHR6OWx6TUE4TmJQVU1VcjFyX25nbllpeHlHTmcwa2xiUUdESnQ4VFVIZFpuT3VJd1VHcVRrUVdudTNBX1ExeVJoSU8zUjh1QXoxVkVMRm4yc09OQ0xMdTQ2dGpaZlZDUl9hMFBSSUdmTmM3Tl9GUGRnNGhjSEhXZnFuQzhzcjU3ZVBpMU5mTWp5R0UwLXYtZlJReTZZRVZmdG1ZYWZtYkU2TTFLTlI?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-28 21:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
