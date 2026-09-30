@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:46:51.747901+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-09-30/",
+  "image_path": "assets/daily/2026-09-30.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "5233b96d70cbb226",
+      "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - venturebeat.com",
+      "summary": "venturebeat.com 报道了「OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - venturebeat.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia venturebeat.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
+      "source": "venturebeat.com",
+      "published_at": "2026-09-30 09:25 +0800",
+      "companies": [
+        "OpenAI",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "eec80ee0ebf7103d",
+      "title": "SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers - CyberSecurityNews",
+      "summary": "CyberSecurityNews 报道了「SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers - CyberSecurityNews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SilverFox Hackers Built Fake Software Sites That Hide Malware From Security Researchers CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwUjRxTGhpS3U1NV9zb3FRWEQ4cmpBaHdlcmR0amVrbW9vV0JkemkxVW94M0VtRVg4NklkV0NEaHBJY0FSeHpONm1OMDY1NU5KS09kNDQ0OXFycE1fR3R0eEZR0gFiQVVfeXFMUDBSNHFMaGlLdTU1X3NvcVFYRDhyakFod2VyZHRqZWttb29XQmR6aTFVb3gzRW1FWDg2SWRXQ0RocEljQVJ4ek42bU4wNjU1TkpLT2Q0NDQ5cXJwTV9HdHR4RlE?oc=5",
+      "source": "CyberSecurityNews",
+      "published_at": "2026-09-29 21:37 +0800",
+      "companies": [
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "8dc3e5e55ac8ceaa",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents - TechCrunch",
+      "summary": "TechCrunch 报道了「Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGJFaDNyanYxRUViYmszWXFtV0tSV3h0SmJjN0ZZdUExb1ZjRGM4eVR2UkVuc2JMM0pPVm9oOVlaU21HMktwU0VmdWhwN0NubTBISFFLYkZOMFR3aU9saEluQmNzd0tmNTVmdUt5N25FRXIyNVBVZU1LZDlVeEx6cWVwOVVGbnQ4VEszNENMTlJsVnRMWUYtQVF1UHYzOWtQYnN6d3BaYXRrRldHNVlyRjY5d24yaTFuU0E?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-09-30 02:35 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "13c01855864e6931",
+      "title": "Visa joins growing alarm over AI-powered risks - Biloxi Sun Herald",
+      "summary": "Biloxi Sun Herald 报道了「Visa joins growing alarm over AI-powered risks - Biloxi Sun Herald」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Visa joins growing alarm over AI-powered risks Biloxi Sun Herald",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NN3lDWjczWUU1ZDJxSERjNGZTOVNqeDBlMnZGWl9RUF9GX3hxMU1GTXViYm9Jdno1N0oxT3BDeEhKa3NvdkZoVDBuczRKN0htWE5nNnU4V1B0a1NYbGdOQzlzQ29lV1gwTmxvTjdn?oc=5",
+      "source": "Biloxi Sun Herald",
+      "published_at": "2026-09-29 23:01 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ed383520327598d5",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns - WIRED",
+      "summary": "WIRED 报道了「OpenAI Delays Release of Latest Model Over Safety Concerns - WIRED」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Delays Release of Latest Model Over Safety Concerns WIRED",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDRCMUhVaW5uakxZWTdBREY5X2RtTkNvY3NUVGJ0VXhCQUV4bmNnUG83TFZJYkp1TGMwdjlOWkh5MUx6bDFkTVlLVnpFZjRvQjNoZU9GTDBzSkhIUm5fNlh4dEwxNTgtRTRZWExQNE41TFpVQUZta0JCQVBmVkROUURyQWxRenA1UzNqNGF5dmY?oc=5",
+      "source": "WIRED",
+      "published_at": "2026-09-29 18:36 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "297e1b23a7d6d436",
+      "title": "企业AI的碎片化，腾讯动手了 - t.cj.sina.cn",
+      "summary": "企业AI的碎片化，腾讯动手了 t.cj.sina.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "企业AI的碎片化，腾讯动手了 t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QY2lVME1GWEZhVVpxT1JHMkFIaVd6cmhNSlcwdkRVZUpOWmRUZml6amhyUEMxVFNUYUQzelp4cHM1cTNwMUYzSU5rbVp5SjhjLXhvSTV1aWxBNHdCM0ZsLWV5TGhWQmUtaU0yZWY2b3Q?oc=5",
+      "source": "t.cj.sina.cn",
+      "published_at": "2026-09-30 02:36 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b8ebb7b3ca331b81",
+      "title": "亨通光电亮相华为全联接大会 开源鸿蒙示范产线落地 - 中国能源新闻网",
+      "summary": "亨通光电亮相华为全联接大会 开源鸿蒙示范产线落地 中国能源新闻网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "亨通光电亮相华为全联接大会 开源鸿蒙示范产线落地 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNeFNJMHFPVHRVNjF6Zk5ObTBRaGdKcVZ0eHJ1OGt1eE14Yks5VW1XY2tHT1JQcnp5dU9VSDdTWndlSWF2bVR1WnItY05vdFY0dmFOSi01VjJKSGJ5MC01LWZKSHlpRnA4UTVOaVpZczhZVmlzMTk4?oc=5",
+      "source": "中国能源新闻网",
+      "published_at": "2026-09-29 20:09 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "03a042d3359e0a4a",
+      "title": "A股热点前瞻|首套房贷贴息新政10月1日落地；央行PSL降息扩围；OpenAI发布智能体Dot_股市聚焦_市场 - 中金在线",
+      "summary": "A股热点前瞻|首套房贷贴息新政10月1日落地；央行PSL降息扩围；OpenAI发布智能体Dot_股市聚焦_市场 中金在线 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "A股热点前瞻|首套房贷贴息新政10月1日落地；央行PSL降息扩围；OpenAI发布智能体Dot_股市聚焦_市场 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4SFZxMjBBeVNnQThJM1pVZUhFRDFISEV4ZEV4aEpOaHVlQno1OHh5ZWx6Tkg2bC14Y1ZvdlBzSnlBUjZPY3RRZ0xWZElRd29ONVNUMmNaNUNaSHBDYkdJVU1nMUE5QUcwNHF1bFF3?oc=5",
+      "source": "中金在线",
+      "published_at": "2026-09-30 08:36 +0800",
+      "companies": [
+        "OpenAI",
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "330b77e676253319",
+      "title": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样 - 手机新浪网",
+      "summary": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBna1ZPclVDcU5nbGRyODFFbkVoVnItMDVveTRsX2RLNFNGNkRnNVo0ZnNQWThjM2c4ZnR1NzFNSGxxT1k4UXZMMEhIblhHbEZZcjFKYmlxcXdQYzB6Tk5BZlBGbG5Nc005NUhkU1Z5WUEwMXdSUUFOaHBzY041Zw?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-09-29 21:58 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d50f3cf21c679cfc",
+      "title": "问学极客行第五站落地长三角（杭州）制造业数字化能力中心，解锁制造业数字化与企业级AI创新 - csdn.net",
+      "summary": "问学极客行第五站落地长三角（杭州）制造业数字化能力中心，解锁制造业数字化与企业级AI创新 csdn.net 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "问学极客行第五站落地长三角（杭州）制造业数字化能力中心，解锁制造业数字化与企业级AI创新 csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LME51aVBnWmw2U2dNd0xIUDVCdkFTZmhjRzhzVFR3cjlTY3hyY24yRzlYSnpTWE1idUpXSEpmRDdjMEZZTHJEeTk4R0Y0MVRUMlJDTHhYMjhFTTRoSUE?oc=5",
+      "source": "csdn.net",
+      "published_at": "2026-09-29 11:01 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e4a5b12a9957ca42",
+      "title": "HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros - electronics.economictimes.indiatimes.com",
+      "summary": "electronics.economictimes.indiatimes.com 报道了「HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros - electronics.economictimes.indiatimes.com」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "HCLTech software unit to buy European RPA specialist Robotiq.ai for 9 mn euros electronics.economictimes.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNaW1YYXZEYmtoUXRpYXJWdjlaOEZ6dEFtdEZXcloyTHJZbE9PY3RQWEJza3cyTUprOGpSMUFielZJOFhSemdyNkM1X2ZpY2l6b3lSNll1YXcwSW1YVWEycjVwSGhYTWRrWnJ4Yl9fRUZQV3VTWURpZ2ZrYjl2ckNiYlZQbS1qeTVkclNQOGoyT1k3ZzVlNkxRTmhrOHVLQ3kxRmZsOFQ5NnpQS244WUF6aVJQdTYzYUdKUzZGNUpVbl90VDYzM2ZvOHAyTjNOV0xzTUI1VkRRSmdOQm9YaWE2VDIxR2kwX3ZjR3RxekluTHJJOWctNlBsOTFIdjVYUDBOb2VDZTB1dktkbEZTRFpIOXNoNjZSU3Bic1N6YVdMVF9KeGVITVZjMGhvV25zQTctcXJ4cg?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "published_at": "2026-09-29 10:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "df89bf40445f0172",
+      "title": "Cyngn Expands Autonomous Tugger Adoption with Fortune 100 Heavy Equipment Manufacturer - Yahoo Finance",
+      "summary": "Yahoo Finance 报道了「Cyngn Expands Autonomous Tugger Adoption with Fortune 100 Heavy Equipment Manufacturer - Yahoo Finance」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Cyngn Expands Autonomous Tugger Adoption with Fortune 100 Heavy Equipment Manufacturer Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3ByVVBHb21LYTlIQnBsaW9sdU5lS0tNQW5RcEdCZFVsc25EbmxYQm1Kd2ZJWE1vNFBScE90ZFZHRWFNY0h1MkFiYVg2U0poOF9pVjVXUHJmRTF2RV84M1g2TVJGOHVzZDZWR0tOX3pvX1o1cjFhSDJkb2tNSHRkZW1ldHF0ZWRWZXdmb3hoekdNMThTNGduLUUwWGEwa2NOX1MwQ3doRQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-29 19:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "90878ebc934e50c0",
+      "title": "Why hybrid systems work for connecting CX agents to knowledge - nojitter.com",
+      "summary": "nojitter.com 报道了「Why hybrid systems work for connecting CX agents to knowledge - nojitter.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why hybrid systems work for connecting CX agents to knowledge nojitter.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDNqNHZlM0c4NUdlQVJ5UEk0Y0I0WHltclZNX1hXN0ZDNzdocGxxWnVfLURyQkk0RU55VGY1V3lUWDZPNmtORWtLS2N6R1UtTmZOUUo0RDNOZWxPa0lYcUpUcVFqTHNyVW9wQjBWSWVZQzFGeWdRWjhlTVdjbUZBcFMza1ZkODAyZ3dMb1VZYjJQaVpLUDI3NjVOcGZEUTBDdVE?oc=5",
+      "source": "nojitter.com",
+      "published_at": "2026-09-30 01:38 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "cee10dc831de65e2",
+      "title": "Bolt.new Acquires Dokai In First Deal To Expand Enterprise AI Agents - Pulse 2.0",
+      "summary": "Pulse 2.0 报道了「Bolt.new Acquires Dokai In First Deal To Expand Enterprise AI Agents - Pulse 2.0」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Bolt.new Acquires Dokai In First Deal To Expand Enterprise AI Agents Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmxEQzVzNHVhZXUzMTJDbWVndE0zb1hKMHJLMkF3MGVOOUplNV9LY1JlSzgyOExBeFdmbnJXWE54RHBCclAtWWl4MkM3WXVuQTNTbEF3SXBHeUJFNzh6dGRaZlQ0NW44OGlnQVpjTmhILVdqNUs2MkktS09ON1pEZWxpdTRKd0xvdTRnRzVvekNvUdIBlwFBVV95cUxQa09wMl9YdUhVbWxiQUI5dFBXMUpwdktrT3lUR0w1dkxMdDlOd3BMNWJ2UzE0eFdyVFVSM2p1QTUzdzNYLVV1Y0duSUtTRmRtX0N6YmY0WUlIdjczbXZKcng3X20wQm42a0FVckQ3ZnRxZnBlTUJyMldMQmxIUHNzeXdKck5TOEQwTHV2cHlSNm9KUGE0c19R?oc=5",
+      "source": "Pulse 2.0",
+      "published_at": "2026-09-30 01:46 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "537f67a2c04a7768",
+      "title": "Automation Anywhere Posts Double‑Digit Q2 FY27 Growth, AI Bookings Near 70% of New Deals - SaasRise",
+      "summary": "SaasRise 报道了「Automation Anywhere Posts Double‑Digit Q2 FY27 Growth, AI Bookings Near 70% of New Deals - SaasRise」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Automation Anywhere Posts Double‑Digit Q2 FY27 Growth, AI Bookings Near 70% of New Deals SaasRise",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2ZpYmtTNHN6ZnA0bVRGU2xMRG0wcU44Nmg2a1V0a1VzbmdiM0dUU1o2V3A2VTZmVUFfcUJiMFUtN2x5YnY0M0dDS1U1SGhyTlk1VG9hX2l2UFVLRENFU2F1LXhZUUVKSkUwRzMxcllrRFh2M0R5ZzNEWkNza01ERU5VTDRIYXJ2NUYyNEJTSUdvS05NTXJFVnNKeFhjQXZhZExrYnhjMmNvdmpCMFpOWGhnWWRfejN0ODlQYUduZVp1VU1VZ2Q4RGYtbkdUQ1RXNXVOcEdFdklqTDhUX3kzc2N6LWtLNVE?oc=5",
+      "source": "SaasRise",
+      "published_at": "2026-09-29 18:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
