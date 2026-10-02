@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T15:03:02.176413+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-02/",
+  "image_path": "assets/daily/2026-10-02.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "d194090706c64c35",
+      "title": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second - VentureBeat",
+      "summary": "VentureBeat 报道了「Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaVhGbGNId3MwbFc4TXZKbjBudlByUE5GUWNtWHJtbXM0bW9uYmxJSmNvZTVzaVVUOHRUb1NldXBHTDlsbUlZemloRW55bnNoOW1OajcwWndJQ2xBZERxa0NOeHpxRmJDU2xHQVNmdWdFdUZOZlFmMXZYQ19hdC1oSk1NUjJ5Y0Q5VVF3VWQ3eUxZY19HRFhCRUo3bjZVOG9YcXJ6RkZzSE54NERBZW80SlI2bjRfZmVTd0E5OUFqaFN5MGpCbUNPdjNaRFhqRUh0ODBVdUN6c3FOdVRY?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-10-02 00:43 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "57c4fbcbfc6683c5",
+      "title": "国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？ - thepaper.cn",
+      "summary": "国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？ thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "国庆实测AI旅游助手：说好的“一键办事”，怎么一落地就碰壁？ thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56ZXVUVFdqTUVhcTJ3Vkp3VWZXTjIyeUJWSTlUQkJHRDMwcVZlbV8yZ2pzWmNvd2xTUUpaZnhSc1JRUUUtR2l4WXJZUlU5NWN2a3JZbHd2UVBPSG9QOEE?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-09-30 15:20 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "5fd69256f137e5a0",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements - The Verge",
+      "summary": "The Verge 报道了「OpenAI DevDay 2026: The biggest news and announcements - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI DevDay 2026: The biggest news and announcements The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BJbnR3VkUzc3lyalhhcWJKTXlHWGhPem5DT1psM2pqQ3ZTcE9zdlk0S1NlUU1aNWNFRnlYakxyZlpGVmh3RUpRNVpsM2RxN0ViWFRCYVh5ZEk5RFYwNGRZZ0p0M0pzWFJUeUpiUFdCOUZwRFBmbWkzN24tblVtX2pvVFh3QVdiclVPOHBqV0pXd252TTRhRkl1MDhubktLcHZkM3piU3I?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-10-02 12:01 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "73c4851d224dd1fb",
+      "title": "Breakingviews - COMMENTARY: Why Europe could be the real winner of the AI boom - Reuters",
+      "summary": "Reuters 报道了「Breakingviews - COMMENTARY: Why Europe could be the real winner of the AI boom - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Breakingviews - COMMENTARY: Why Europe could be the real winner of the AI boom Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUd2R202dTUxUl9ydW9WSE9MMlFhUGxLS1lFa1BFQ0I3bGV4d1R5Z2d2UEYyeFFlSmdFOGViMFhzazFMVW1feGlITWUxTDh1UGZSb1ktMlc2R3d1S2hNVVNkckMwelVqZ25Pa2phaDVpMEFlU3NXR1RjVGI0VGlIYUxJVVNGSTN0RG5pVHVyNllCY0Z5eDVCV2FSMlJYSmtGekE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-02 13:00 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8ded925e7f91e9a1",
+      "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
+      "summary": "Reuters 报道了「EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-01 18:06 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "75863e862e90262e",
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds - Tom's Hardware",
+      "summary": "Tom's Hardware 报道了「Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds - Tom's Hardware」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOHJvOUFYU1lTVHZXT2tZbkJZVEFFZ2lzeVZMVXMwRVQtNWJwc1VPNS1iVWFDT0lkdmFoQ1N1NVFrbzlaRjNvZG13YU81N0ZTWFZSYWxxd1NSdnh3Vk0wUVBtVVFvWlBhOF9XbTFXN3ZvUjRUR1lQV0ZCSF8ySVNjYlBSdzZ1X1pPNmxDb3FfaVd5dWd6Y0lDX18zT3htbVhhRm8yVjRQSVBVRXhNeWZLUHpoeUFQNzUtN0pxZzhUaDJqOEgzNzlDZzZrTVk2OGFweHN5UzFEbmhsYkpsdTJILWRLbG42Ty1Ic09KR1V4NWlZV210b2ZyajRSZFFJV0tmMVJNeGg1enllTFByNTF0ZlRlYkJRV1lMSWRGS0dfTFAxemxlbnM4b1U5cm5FcEpxQXpUVW4wZW9QSDNQ?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-01 22:30 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "42dc638b031e22d7",
+      "title": "中国开源模型首次进入OpenAI企业客户采购体系 - 新浪财经",
+      "summary": "中国开源模型首次进入OpenAI企业客户采购体系 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国开源模型首次进入OpenAI企业客户采购体系 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUhXeU1TLTFTbHlVUklxMGFZQXJYZ1BVeWZaQlllTG1GVDlKeHdRSDlsSEVQZ2FFRkJXM3Y3Q0lMZVUyUkFhZkx6T3BXTG1OWE9BOFpVWWUwZVpEbXoxUGplWlZidzR2V0VkNkhlb0ZVaFJkTnA1NTVQVGRYRlEyaVpWSFBDUW45c1FMd0NoOFE2dUFaM05qWXZ0Rlo1T0RvWm1yYm1mNA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-10-02 01:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "1ec690f3172a8af9",
+      "title": "首次！中国大模型进入OpenAI企业“采购单” - guancha.cn",
+      "summary": "首次！中国大模型进入OpenAI企业“采购单” guancha.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "首次！中国大模型进入OpenAI企业“采购单” guancha.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlekEzWThWT2N3TjloSnJNWVFhNVRlbExIRjlEa3V1OTBRTnUzbHkzMlZkVHFXb3dGbkZicjY2VU9qTWRQcDc4TnZvOHh0alNRaFVKckJHYTUtNndHcTVjaEczeGU?oc=5",
+      "source": "guancha.cn",
+      "published_at": "2026-10-01 16:51 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0f096b9d25990ab0",
+      "title": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 - k.sina.com.cn",
+      "summary": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 k.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 k.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmQwckNwNHVhLTFvMy11cFF2V0tpN1dDRmFjb2VHYmFITkRCVGpoREd2aHVNZlg0c3F2c0RnM0JicG8tNUUzX0VXVFlqWEZQM3BYVDZUdmlVbjJGTTlRdjNSWlQzd0hCX0JDc2FDTngzR0NFZms5Z2V5X19pVmZ0ZlN6eG80NV9QTm9TTWhB?oc=5",
+      "source": "k.sina.com.cn",
+      "published_at": "2026-10-01 18:21 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fc995abdc3bfef9e",
+      "title": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 - 驱动之家",
+      "summary": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FQUNKdXJnNHY2WGd5MEcyMERid2hwRXBCM2hhMFdyUnJjMFZNTHp3RFpZWnFESGVvMEltd3lDZnFKdnNSREZvMERkRzhwdnF2SHpWWF9xNmM?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-10-01 08:07 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "054db7205aa62ad1",
+      "title": "Exabeam Brings Agentic AI Security Operations to Cloud and On-Premises SOCs - - Enterprise Times",
+      "summary": "Enterprise Times 报道了「Exabeam Brings Agentic AI Security Operations to Cloud and On-Premises SOCs - - Enterprise Times」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Exabeam Brings Agentic AI Security Operations to Cloud and On-Premises SOCs - Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3NqMXVBRmxFTUJ3OTM1SkFxQUZseWpjQUdNaFNjdTROYzgtS3hBSi1vdWFvLU9WMHE3dFVjR1YyV0R2TEJaYUszQ1E0TlZjenRNa3hKZGVoTk4xMEx5Q002N0NVWFMtSTVTMUlNb0lwcGNtSWtqeXlGS0xVTmRZUThSMldzMUpSbzB3bExubmZ6ZVhSZkNKa3hOSXBUNC1pakszTUVRZE9mcEtTZWZJLXB3cEh1RHk2Sm5KcUVR?oc=5",
+      "source": "Enterprise Times",
+      "published_at": "2026-10-01 20:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "7a388c6cae8c13ee",
+      "title": "Palo Alto Networks Console Acquisition Puts Autonomous Security to the Test - remio.ai",
+      "summary": "remio.ai 报道了「Palo Alto Networks Console Acquisition Puts Autonomous Security to the Test - remio.ai」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Palo Alto Networks Console Acquisition Puts Autonomous Security to the Test remio.ai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFVIeXRVRG0xTHFtRWJNbG5kM1ZGSmx3bXR5TktWY3RHT2VUNGk5ajA5bzBSMG5nVzNIalF5MnBOQ1NrMlZRcDVOUk1jRzNSV2h0cG43aUNXVk8wdURONC1RdE5zb0VESXlTSktnOXdZaGxibjBTQkNQMzlCSGpRWnNZTjRWb3BZU1czYnhRSnhUR21kUThwTWtHalR6QTZjM0lJ?oc=5",
+      "source": "remio.ai",
+      "published_at": "2026-10-02 00:16 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 98.0
+    },
+    {
+      "id": "697f96081f6e3e5b",
+      "title": "110 Builders, 87 Apps: Inside Our First AI Accelerator - C3 AI",
+      "summary": "C3 AI 报道了「110 Builders, 87 Apps: Inside Our First AI Accelerator - C3 AI」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "110 Builders, 87 Apps: Inside Our First AI Accelerator C3 AI",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRmx4X1ltSW00X2txV3ViSFdIcDBHZjhYNjRZbGxsQWVNaEtKb1g5emtlVF93bnFudVFOSVNCSDZONk5GZm52OGFiUzh2MU5ldW91VEU5S2xwbnFPSURTcjFsTDhBOWk0dndHblpRQ1F5N0VqQXc?oc=5",
+      "source": "C3 AI",
+      "published_at": "2026-10-01 11:55 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai"
+      ],
+      "importance": 96.5
+    },
+    {
+      "id": "cddce5308655e68c",
+      "title": "The latest AI-powered martech news and releases - MarTech",
+      "summary": "MarTech 报道了「The latest AI-powered martech news and releases - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The latest AI-powered martech news and releases MarTech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-10-02 10:12 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4648fa1ff0c00436",
+      "title": "Restate Closes $20M Series A as AI Agents Drive Demand for Durable Workflows - AI Insider",
+      "summary": "AI Insider 报道了「Restate Closes $20M Series A as AI Agents Drive Demand for Durable Workflows - AI Insider」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Restate Closes $20M Series A as AI Agents Drive Demand for Durable Workflows AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanQ0MVJLeUtucHl3c2Z2ODdsNGx4RGNsczZIN3p4YU9udHRQY2RjQXRBaml6MldXOV9NZ3FUNF82VUF5M0NFUlRaMzN4blc4cGRnT1FnNUJJU3oyNFVDcHYxb3N2YWhnbUlVR2xoSEZZSlJfdlpNSGR3NHJ0VS1qenpUQ3RNT292cEIzVERMLUJwOFJzMnJ5OHhpbGpPalp5ODJkek8tenVSMTBXMFpPZERsNA?oc=5",
+      "source": "AI Insider",
+      "published_at": "2026-10-02 01:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
