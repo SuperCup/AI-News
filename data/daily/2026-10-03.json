@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:36:17.273734+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-03/",
+  "image_path": "assets/daily/2026-10-03.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "81dd01383699ed9f",
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security - The Information",
+      "summary": "The Information 报道了「OpenAI Hires Top Trump AI Official to Work on National Security - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Hires Top Trump AI Official to Work on National Security The Information",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUN0djVNM0FETl9maHZSTUZrMUVoTkhwYzV0QkVoS1JaRFhpc21EVDJoRzZnQTZoTzRiWjg1bVdPNEJrUG5ubUI2UndQQXNiOW5xUUdmUEJMczdlT202bDV2TXR6ajNQNWl3OTJVaUJUSnZPLUFveG50N2RiX0gtU1ppVlpoaVFKSm14a1pPWTRYVnpaUXFWMWl0YWRzUQ?oc=5",
+      "source": "The Information",
+      "published_at": "2026-10-03 03:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "add4502a19dea521",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents - TechCrunch",
+      "summary": "TechCrunch 报道了「Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWdpcHY3TXVWN1hVNlg2SVIzaVV6ME5tRnh6dS1LU0pUU0J6Z2k1UkNLSDktVzFvWTVIM0lwQ1FNRTR2VzViZ1dLWk5YdUlTWWQ4YWpSdWItN2pRR3R3dHlPbkpZVWZOMUlYZVNUaXI3XzI1bVpsUndMMTRPN1ZndndaT2FDenI0Wm8yRXhVYlhfdTBTVFM4YzZGcUpDWnZEZi11S3VmZHlLRGViOVpQczJaT05kRG0xSXExbV9SVFhpQQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-03 02:11 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "f2ffcd7dd2b194f7",
+      "title": "Nvidia unveils Kumo Tabular open-source foundation model for tabular data prediction - 디지털투데이",
+      "summary": "디지털투데이 报道了「Nvidia unveils Kumo Tabular open-source foundation model for tabular data prediction - 디지털투데이」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Databricks。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia unveils Kumo Tabular open-source foundation model for tabular data prediction 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2ZFSTFmaDZvSjY5U3NXZVhUcWl1X3dFd2VtRWZieUYybTJNMnNVcjAxZm5pa1BYdlRsdnEzb05QeHZYRlBDbUd6dlZpMkY5UTc3clphMnhsWkh1XzNMLVhJLXh0YlA5NHFEYklWQmcxM2FicW80ZG0tODI2eTh1bVlRNzhiZlZiSmRmYjljcnFLUUppdUY4Nmg3aFZ4STExdElmaWZ5dUpOWmhEN2xreFNHaU0xZw?oc=5",
+      "source": "디지털투데이",
+      "published_at": "2026-10-02 15:04 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Databricks"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "d194090706c64c35",
+      "title": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second - VentureBeat",
+      "summary": "VentureBeat 报道了「Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaVhGbGNId3MwbFc4TXZKbjBudlByUE5GUWNtWHJtbXM0bW9uYmxJSmNvZTVzaVVUOHRUb1NldXBHTDlsbUlZemloRW55bnNoOW1OajcwWndJQ2xBZERxa0NOeHpxRmJDU2xHQVNmdWdFdUZOZlFmMXZYQ19hdC1oSk1NUjJ5Y0Q5VVF3VWQ3eUxZY19HRFhCRUo3bjZVOG9YcXJ6RkZzSE54NERBZW80SlI2bjRfZmVTd0E5OUFqaFN5MGpCbUNPdjNaRFhqRUh0ODBVdUN6c3FOdVRY?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-10-02 00:43 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "c0e97122511549e8",
+      "title": "Google Gemini AI Model Launches Argon with Premier Cybersecurity Focus - The Cryptonomist",
+      "summary": "The Cryptonomist 报道了「Google Gemini AI Model Launches Argon with Premier Cybersecurity Focus - The Cryptonomist」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Gemini AI Model Launches Argon with Premier Cybersecurity Focus The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zTTlvWkg3VVpoVUUyMWIxbFQ4bVdoeGE2dFdiLXJ5SkFJX1c4T0dGSTRTd1JHZmFnWVlhcXZrZXdrQjB1bmQtSTNLeGc4TWxJaE9UeWV0YzhwSE1ZcElkalg3aEdVZ2RTTXNJeW9R?oc=5",
+      "source": "The Cryptonomist",
+      "published_at": "2026-10-02 17:04 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "859f196b86e35ba1",
+      "title": "首次！中国大模型进入OpenAI企业“采购单” - 观察者网",
+      "summary": "首次！中国大模型进入OpenAI企业“采购单” 观察者网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "首次！中国大模型进入OpenAI企业“采购单” 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlekEzWThWT2N3TjloSnJNWVFhNVRlbExIRjlEa3V1OTBRTnUzbHkzMlZkVHFXb3dGbkZicjY2VU9qTWRQcDc4TnZvOHh0alNRaFVKckJHYTUtNndHcTVjaEczeGU?oc=5",
+      "source": "观察者网",
+      "published_at": "2026-10-01 16:51 +0800",
+      "companies": [
+        "OpenAI",
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "94855c7b863afbad",
+      "title": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 - finance.sina.com.cn",
+      "summary": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国大模型首次！Kimi K3进入OpenAI企业付费结算体系 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVZ3eHdwWjBHcjR6YWJ0VGNDZmdOb3duSFlVcW91WVJ2OHVDYkRoY2hqdW5EdmxIS2ZrMi1nSkVNQ1FiclIyR2dPNTJXT3B1RkVZRWpiX0FBd0hGSTBINVptYVRvdDhwT1ktWUxIamI0VmJqVDVFTHpXMS10SmNxX2pQRmo0TjFZWmhyVVI0XzBrUXlzcWdSdDhXb0FlVW9xRFVGVHMwX05fTGhERnBlNnV3?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-10-01 21:15 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "fc265438ac4b2cb7",
+      "title": "中国开源模型首次进入OpenAI企业客户采购体系 - finance.sina.com.cn",
+      "summary": "中国开源模型首次进入OpenAI企业客户采购体系 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "中国开源模型首次进入OpenAI企业客户采购体系 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUhXeU1TLTFTbHlVUklxMGFZQXJYZ1BVeWZaQlllTG1GVDlKeHdRSDlsSEVQZ2FFRkJXM3Y3Q0lMZVUyUkFhZkx6T3BXTG1OWE9BOFpVWWUwZVpEbXoxUGplWlZidzR2V0VkNkhlb0ZVaFJkTnA1NTVQVGRYRlEyaVpWSFBDUW45c1FMd0NoOFE2dUFaM05qWXZ0Rlo1T0RvWm1yYm1mNA?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-10-02 01:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "140d4e88e374e03a",
+      "title": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 - 搜狐网",
+      "summary": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "瞄准餐厅后厨场景，前美团外卖技术负责人，让AI餐饮机器人落地干活 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDVxelZaQzMzVGc3TkxpYjhuVWRfUE4wN1ZId3Y4MjlyZmhhLUlCcHB0NFpha0FOajhxYzNlUm1GWEZuWVlfOW9uNUZMaU9TT2I5RThxZGZKZ1ptSkNEYXFwTnIwZGx0S0duVThPVVhBVzRwZnVkMHBpMDhJbnhxem95SWlQS1do?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-01 18:15 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "7a7453696b6b245e",
+      "title": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告 - 财联社",
+      "summary": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告 财联社 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrLWlSLVZzVk1lM2habHRFTWFHaTVTLW9WdjU1MlFrRjZ4UVpDNkNnQ2JYTVBMU0xnTDdEdEROMHNiNnd6YzBobQ?oc=5",
+      "source": "财联社",
+      "published_at": "2026-10-02 18:42 +0800",
+      "companies": [
+        "Unitree Robotics",
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "9a3af7fef28f58b5",
+      "title": "AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - techrepublic.com",
+      "summary": "techrepublic.com 报道了「AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - techrepublic.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHk3cFVPZVNQeHp0c0VQRHdFSjVZQWdha2Rnc1pzc0w3bWZ1dmg0T2didjdVSUI4b2tHLUZBSUx4MU1PU19aOVJId1R4UG15N0Z5cmZSaEc3ZEotSENVX2d6OEt1MGZZWHk0UDU5enJaeDAzREl3VVRLN05CTFMxQ1FhUGI5eE9ZbEc1ZU15VUJZSVQ0WnRqX3ZWOUQzNUxIQzhsdHZfSldsdF9MYWxKOQ?oc=5",
+      "source": "techrepublic.com",
+      "published_at": "2026-10-03 00:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "affe9e0ebc788a15",
+      "title": "Okta Launches AI Agent Gateway to Enforce Identity Security at Runtime - konsulteer.com",
+      "summary": "konsulteer.com 报道了「Okta Launches AI Agent Gateway to Enforce Identity Security at Runtime - konsulteer.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Okta Launches AI Agent Gateway to Enforce Identity Security at Runtime konsulteer.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnVLMDBEWXExcXAzZnVlR0xybl9LWVEyT2FQOTh2WmFGZ0UzQWxRXzl5alRGV1BfT2t3amQ3bmpQZXR1Sk85V2xSSWRfSThvOEViS1UxODIzenNPRlAzNG42QkF1ZDJEVGdBWFJQM2w4WUI3Y2wyczJuNUFjT2RZTHltTlM0MHdGZVBNMTBmemxZbHgzUUFTNU5jT3Q5RW5nZFZWQ3Z2U1E?oc=5",
+      "source": "konsulteer.com",
+      "published_at": "2026-10-02 20:50 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "ffc5d3c6bc44f412",
+      "title": "AI Agents Can Do the Work. But Can Enterprises Operate Them? - Unite.AI",
+      "summary": "Unite.AI 报道了「AI Agents Can Do the Work. But Can Enterprises Operate Them? - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Can Do the Work. But Can Enterprises Operate Them? Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVXFpTlpSazlwWW5uRS1sbkh2bFJOVFVrUjJrVExpRU9YTUMwTG81SU1nQ1h0ZEFuSmRidFQyTmsycVpheXNiOEk3Z1lFbHQ3b1RyZ0hRYklwblYzZHd6SzBtQ3pyN3ZETzI0Ym9NNy1SZ2s?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-10-02 22:41 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "58b3efa7bd4ee1a1",
+      "title": "AI Agent Success Hinges on Reliability, Not Autonomy - Gartner",
+      "summary": "Gartner 报道了「AI Agent Success Hinges on Reliability, Not Autonomy - Gartner」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Success Hinges on Reliability, Not Autonomy Gartner",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZMVdMeWlzWTZGMGxyNUZGUS1XV2YwaW82Z29WdVBhczRzRDhBR0NheS1faGROM2N4N0h2LVZGMEN6UzBIQlFmVm82UVFnSExsS2d2TkZhVlRfTks2RldTd1JTeDd6dnJNV1E?oc=5",
+      "source": "Gartner",
+      "published_at": "2026-10-03 00:37 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "5f8e32628f41cc16",
+      "title": "40 Remote AI Jobs Hiring Today (With Salary Ranges up to $350k) - tech.co",
+      "summary": "tech.co 报道了「40 Remote AI Jobs Hiring Today (With Salary Ranges up to $350k) - tech.co」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "40 Remote AI Jobs Hiring Today (With Salary Ranges up to $350k) tech.co",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oMm4xUFdvVUpvNDZvNGhVcldCc2REVXFiLWxFSWF6c2hrRks3aGY1VHBWbGhmTFZGeUdZTUpRMWlGN0VHckFYS1R4YUE5MzNTLVUyQw?oc=5",
+      "source": "tech.co",
+      "published_at": "2026-10-03 03:33 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
