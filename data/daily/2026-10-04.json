@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:59:35.144238+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-04/",
+  "image_path": "assets/daily/2026-10-04.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "fcf6154b776499a1",
+      "title": "Rice researchers to use NASA AI model to improve hurricane risk estimates - Rice University",
+      "summary": "Rice University 报道了「Rice researchers to use NASA AI model to improve hurricane risk estimates - Rice University」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Rice researchers to use NASA AI model to improve hurricane risk estimates Rice University",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUZsNnhkZGFmRnNZdVZYU1pobDZSVFFrd1RjU1R5V2dRYUd0QlFTc3JKeTJnMTZjM2RkWmFnYkQ2VWNxYWVZXzVuZmdZZ1pfanM2ekdvZUZBTVFKMUdVNTB4TlBFU2NYUVhxUjdEc0NOZExQMlRlQzZINEtzMGtPaHBxZ3pfWDNLWDBudXdxeTNOVDZHdTRrRGVLZ2lqRnVa?oc=5",
+      "source": "Rice University",
+      "published_at": "2026-10-02 23:54 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "4881b003ad55df67",
+      "title": "This week on Tom's Hardware Premium: October 3, 2026 — AI Chip Design week, OpenAI Interview, and AI agent safety - Tom's Hardware",
+      "summary": "Tom's Hardware 报道了「This week on Tom's Hardware Premium: October 3, 2026 — AI Chip Design week, OpenAI Interview, and AI agent safety - Tom's Hardware」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "This week on Tom's Hardware Premium: October 3, 2026 — AI Chip Design week, OpenAI Interview, and AI agent safety Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbnFud3ZkaFRSOERYZ1pDM0dMZ05tbjhkY3VyZ3VBSndURHVkVDk0dkhrSDFFWmpxeEw4N291eXVLaFJDT28wb2RNY1JlczhhZTJvTHBuYktJYUc1U2lPTGJna2JBUTV0em54M0dBRHNjaDZuckxwTjFKX09lNDJ2ZjN3UkllbUd0bGdKbmh3a2NpcWlIYUo5VWs3S3kyZVl6VWNneERLOXR3MW9YbjJpWFZhUlFEYkNhbzdVMGlXekJkX2U1bUVkQnpzM3dydUFyM1RfSVFxS1c0QXRnckpJc3E5VE9CSjlOSGVJUGcyb2JZM1ZWa0l6dVVxMGVGOGdKTG1V?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-03 22:00 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9711b6f6d58001be",
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue - WCCB Charlotte",
+      "summary": "WCCB Charlotte 报道了「Nvidia unveils security platform to stop AI agents from going rogue - WCCB Charlotte」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia unveils security platform to stop AI agents from going rogue WCCB Charlotte",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekloMU52Y0FGSHF3VmpLTS1xaHJWVm13eHR2b1ZCM1NMaWFKSWhNdWF2THRPVVgyRGpmbTFTaGRYY2pydTlWYng2SkxqTjh0MkplMktIWENvZlp2dFdzMDhDTl83a0c0QzZfT19ndlRVa0FZTXdFa1Zsd0x4T3lNenNqZjRIa240T0ZGSWhfTUpiX25CcWNxUEZ2MFI5RXg2U0dYU3BocFNrbWt6b1E?oc=5",
+      "source": "WCCB Charlotte",
+      "published_at": "2026-10-04 00:55 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "1a27c35476b5695a",
+      "title": "Apple Tightens macOS Full Disk Access Controls Over AI Agent Risk – DTH - Daily Tech News Show",
+      "summary": "Daily Tech News Show 报道了「Apple Tightens macOS Full Disk Access Controls Over AI Agent Risk – DTH - Daily Tech News Show」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Apple Tightens macOS Full Disk Access Controls Over AI Agent Risk – DTH Daily Tech News Show",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2ZqaEx0LTNJd2RVUGZBaWl2VC01ZjFTTHJUSmRYM2pYNG1RMEthcHpndGFPZERPZlNtVXlVY0VHQUFITWw1anRfLWNmX2p3OUxMVlJZZXdLNEg5d1RPOGdBZlM3ODAwMXN6b0JWQzhKLVQ2bUc1NUltSFRkRzBFT2ZyV1NEVDFOcm80aGswbXQ5V2NYQWg4MzVGbWpUSEdTWEV5U3pRM24xY0hFNDhrddIBtgFBVV95cUxNZ0FYNkNqX1VTdXBkQi1PbjhQeEduUWRFWF85UjhDRnA3UU5uV1RROXhFMnJHbzlqLW5sdk1kak11NFRYQzFrNndUNjYtc1ZJdlB4QnhodlJwY0o0emR4aFFIa1oyT1lMVFJhc3J3dkh6ZGZUZ1NzS2t2Z3c2d2hRWkFUSTEzb2tDc09YWjltdG9xem5pZTZlRTAtUkNIU1l0RDhmWXhPV0M3VDR4VDNWblV4RDcwUQ?oc=5",
+      "source": "Daily Tech News Show",
+      "published_at": "2026-10-03 22:50 +0800",
+      "companies": [
+        "NVIDIA",
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8eba0414ed00a2ff",
+      "title": "Nvidia Targets AI Agent Security With New Open Platform, 100-Plus Partners - BW Businessworld",
+      "summary": "BW Businessworld 报道了「Nvidia Targets AI Agent Security With New Open Platform, 100-Plus Partners - BW Businessworld」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia Targets AI Agent Security With New Open Platform, 100-Plus Partners BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3V1WDBqQWJ4QmYxa0NGSnZNMndUQzJpZGpRRzhMa2l0QUFza04zcGROTVJXdU4zN2tIQ0g1SUM0YXFlMmEyX0Jzazkza1JqU0RTVlVyTEl0Y1FHaTZ3UFAzOWV2bzQxWk50YmlpdmpYU3JZX3JvcWFfeWVFUWZSM2pCcDVCal9acEpWY2psRkItRE5iYmpiaTNHTjdicVJHQUxkWlg2RkJLeHlfb05UQnc1cFNTSTdy?oc=5",
+      "source": "BW Businessworld",
+      "published_at": "2026-10-04 10:33 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3b7e2e037fec876c",
+      "title": "实测8款企业AI知识库管理系统：AI问答、私有化部署、合规能力全打分 - 财富号",
+      "summary": "实测8款企业AI知识库管理系统：AI问答、私有化部署、合规能力全打分 财富号 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "实测8款企业AI知识库管理系统：AI问答、私有化部署、合规能力全打分 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uZG1yZ3ppM2hxa2NjRG5Pa2h6NXgzWXBCbUR0WEJrRDdMMnFVTnpoT1FmNy1mNTBxSXRNY2xYMS1kNEtoLTVXX1lZb0dXSEU2LVl5dVpieDFOUHN1alVIb1ZCZVdIX3JvZm1r?oc=5",
+      "source": "财富号",
+      "published_at": "2026-10-04 07:39 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e394304ec80434f6",
+      "title": "2026十大企业AI知识库系统深度测评，大厂自研 vs SaaS平台横向对比 - 财富号",
+      "summary": "2026十大企业AI知识库系统深度测评，大厂自研 vs SaaS平台横向对比 财富号 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "2026十大企业AI知识库系统深度测评，大厂自研 vs SaaS平台横向对比 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0U3o1MEthRllWeHp5YkltNFEtQ3A1QUh0czJmWjBFNWE1dEcxeDluUG8tUW93Sk95cXpZM3V6V1JaRnhuN2U1Mk5xTGo0MG4xTGh0YWdxU0ZBbFAtV2dkWHZIWXZMZjRYYlRF?oc=5",
+      "source": "财富号",
+      "published_at": "2026-10-04 07:38 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "f2796c94cfe99240",
+      "title": "消费企业扎堆下场做投资 跨界布局高成长赛道 - Moomoo",
+      "summary": "消费企业扎堆下场做投资 跨界布局高成长赛道 Moomoo 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "消费企业扎堆下场做投资 跨界布局高成长赛道 Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3MjhUWG5XMXE3cXJkdWRSV3JVSXNkMHFxeFdkLV9qcFJtWUdXVThET3VBNnh4Nm5XZHdndWgwdGlNeVpybkd4aGFSTHBac3FZSF8xeHBMMW1raE9s?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-10-04 05:49 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "bc28aabe1f00591a",
+      "title": "查看最新“上市企业热度排行” - 集微网",
+      "summary": "查看最新“上市企业热度排行” 集微网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "查看最新“上市企业热度排行” 集微网",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAza2lnQ2U2ME5fUXd1N29tWS1UZG1fVE9TOUNva0pUN2dTZHJEX21FdlJxMXU4OWlHLXFRci12V3VaeV9iTkFLU21B?oc=5",
+      "source": "集微网",
+      "published_at": "2026-10-04 03:47 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "855c9c44fd49b3e6",
+      "title": "工业仿真、具身智能三大方向，产业化落地正在加速。上游算力：寒武纪、海光信息提供AI芯片 - 手机新浪网",
+      "summary": "工业仿真、具身智能三大方向，产业化落地正在加速。上游算力：寒武纪、海光信息提供AI芯片 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "工业仿真、具身智能三大方向，产业化落地正在加速。上游算力：寒武纪、海光信息提供AI芯片 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CQTlSN0otdXNTaVFaRmpjUUtINXR2ZFp2UlBSTklWRWEwWG9nak5aX1pKUE1DUmowSmd0cFlQQ2VETW4xZngwOEpLMHVYMEdKbXpmSm9ZMFpsVXFyTVJxZjVJTQ?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-10-04 01:50 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b563c469c9840fc2",
+      "title": "Reco AI Security Funding Reaches $140M, but a Crowded Market Raises the Bar - remio",
+      "summary": "remio 报道了「Reco AI Security Funding Reaches $140M, but a Crowded Market Raises the Bar - remio」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Reco AI Security Funding Reaches $140M, but a Crowded Market Raises the Bar remio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGczaWd2aXlCcXlUYnNGUG82Ri1rQ2YwUmUwdDgzdkE4WXF2eldBVDdINWNIR0xBdU8wd2pFZ09EaTVtVGg3QnYycWVlYjc5MWRKYTZQc21sd1BsSkV5bDhvZmpqSWZES1RVSDdZTGllWGluSV84OEZVVXdpVlZFNUNVTkVPdjRaWDVUZF9DVWZKMC10TngtX3FsM1c1MEJu?oc=5",
+      "source": "remio",
+      "published_at": "2026-10-04 00:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 98.0
+    },
+    {
+      "id": "f1aa882238f4cdb3",
+      "title": "AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - TechRepublic",
+      "summary": "TechRepublic 报道了「AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech - TechRepublic」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHk3cFVPZVNQeHp0c0VQRHdFSjVZQWdha2Rnc1pzc0w3bWZ1dmg0T2didjdVSUI4b2tHLUZBSUx4MU1PU19aOVJId1R4UG15N0Z5cmZSaEc3ZEotSENVX2d6OEt1MGZZWHk0UDU5enJaeDAzREl3VVRLN05CTFMxQ1FhUGI5eE9ZbEc1ZU15VUJZSVQ0WnRqX3ZWOUQzNUxIQzhsdHZfSldsdF9MYWxKOQ?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-10-03 00:49 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "b0f52e12de67c62e",
+      "title": "ZoomInfo Ships Agent Teams Inside Its Existing Platform With No New Fee – the First GTM Data Vendor to Bundle Agent Orchestration - forkast.news",
+      "summary": "forkast.news 报道了「ZoomInfo Ships Agent Teams Inside Its Existing Platform With No New Fee – the First GTM Data Vendor to Bundle Agent Orchestration - forkast.news」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ZoomInfo Ships Agent Teams Inside Its Existing Platform With No New Fee – the First GTM Data Vendor to Bundle Agent Orchestration forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMHRsWi1YX21KZDhKa1JkWkROUWlqTkNhNGVFa0x6U0w4Sk1xVGVsRWVhVjlkcXQ2VU4xWjR3YTNuc2xnWmo1T094alFKZUJ3ay1CMnl5VDdGUUJxcVVaU0lCTW42aFBNSS1BUVkxR0xQOVRWbVdjOUVOaXF0V3BwSEJ2eUg5UVY0dDFzc1ppNHFEZERndGxzN0Z0Sm1BNUM3My1HTEZ5NFNlaU5WbUNNaWZVZzBpNmhnMnNIUktNY3Q1M1hJMGtURXM5X0Y1dG92b2RQTEpWM2NGNUZoRWhzeVlIMA?oc=5",
+      "source": "forkast.news",
+      "published_at": "2026-10-03 17:25 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "ff4a279b48446628",
+      "title": "AI Week in Review 26.10.03 - Substack",
+      "summary": "Substack 报道了「AI Week in Review 26.10.03 - Substack」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Week in Review 26.10.03 Substack",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUeGNXb2VJNERaSVplX05qOFk3Uy1Tb3A2N2ZVazFMR3FOSDl0RWpaR09wakVyUkE1QktqT2tHcEJHcHVZTmRYdEtZamhHVnlSUkdGMDRqWHM4dkVKVWd6emk5cFdZMldQQXB1ckxn?oc=5",
+      "source": "Substack",
+      "published_at": "2026-10-04 02:04 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "40b3a549f7999289",
+      "title": "How Robotics Companies Win Enterprise Trust - FinancialContent",
+      "summary": "FinancialContent 报道了「How Robotics Companies Win Enterprise Trust - FinancialContent」相关进展。 该消息涉及AI 产品、企业应用、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "How Robotics Companies Win Enterprise Trust FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWYteU9rU1FDQlVJMjJkMVNDUnZYZGVXOEFteVI2YURqS25rZUdiX1VYNXhLSUFTOXVPU0I3WmNkaU1YMlJnZjJoS0g0QTc5OUkwOEdMZGNjbTZfdXQySXRTUjVaSTh4QXMyclhxREZ3eHVBcnVDV0tqTGxhTGcxU3lTc0h3XzNxMmxNdlhITmUyYkdTT1Rvajd5and5SWk0YTJJenZYaTh0UQ?oc=5",
+      "source": "FinancialContent",
+      "published_at": "2026-10-03 17:22 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 91.5
+    }
+  ]
+}
