@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T15:36:51.029725+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-06/",
+  "image_path": "assets/daily/2026-10-06.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "21deef5b7c146da6",
+      "title": "Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington - WECT | TV6",
+      "summary": "WECT | TV6 报道了「Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington - WECT | TV6」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington WECT | TV6",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbmxONW9YTzBzU1FOLXdQa2ZvMW5BMXhzNFp5X0NFTWlBNGdBd2l5ejk5VE56ckp5U1hTMzVVaTBRRzB2b0RwU2FHVVpfVEhQdVM4RHl3Qm8tbzRiRTRhWERGcURPdlM5WGhyOGpQaVlxaFBJZlF0LUNNeDZySWdCbHdZZ3NMZzhhWUx1b2FPR2ViWTZjLUYxN2k4eHBsS3JGLWd6RHdVanRfTGJlUGVxRnNST0vSAcgBQVVfeXFMTV9NdDVuOFBUaXcwaUJYb2lDQVpNV0hSa1NiREdkNE9FZlR3X2lybEFPOWdaUk1IbUEta0ZhVFRfeDRNX0l4VzgtX2FKS0gtSlc5TGZxWVZ6RnphWWpEVVROUDQ2dHhiUDFiQWhoZFZNYW9Sbm80V0xYUXBmYkVldzVJYzlSUk54WmJpMFludC1NaGxfVVM0NDZleVVCV0ZXUUdsRklKVHRPa3ByMTcwNTVFN1RTZ0FLSjFQckR5Q2ExR3dMNklncEg?oc=5",
+      "source": "WECT | TV6",
+      "published_at": "2026-10-06 09:34 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "2a5df9c8be08428e",
+      "title": "Lunar Foundation Model Advances Moon Science - StratNews Global",
+      "summary": "StratNews Global 报道了「Lunar Foundation Model Advances Moon Science - StratNews Global」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Lunar Foundation Model Advances Moon Science StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVlVEYWNNWWZBalhEMzk3eXZydnc1MkVfa0dZdmRRZmRxdjFDVU9wT3J1cFdFM3ZFNGlCZ2t0bnp0bjV1Ym1HY25RMFJ0eWdfU3NXMXUwU01IUzVmU0Y3dl9fczBaUmJvOUYxeVRSUQ?oc=5",
+      "source": "StratNews Global",
+      "published_at": "2026-10-05 17:05 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "5248a6641818ddce",
+      "title": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches - Security Boulevard",
+      "summary": "Security Boulevard 报道了「California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU1hOZU9BRlg2Q1JQNWJTcHR3a1BwdS1OQlI0N3NRbExkak5GLTFUWU93YkQ1R0wwRVN0MFFuLTRnUWhjZzZTd2FJaVY0ZloyQzBOc2tMU0FUV3RsN1BjZGlEOWdhc3BBU1VTU0tGUnNfdC1iaTF4UHhheDRpZGtfRzVadGlyd1dLLXMweUZDc2JPNmJ0X1FDYkhINUY2SEhhNENQV1Vn?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-10-06 09:58 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "93f84071896b310d",
+      "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Nvidia-Backed Reflection Unveils Open AI Model, Taking on China - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-06 03:00 +0800",
+      "companies": [
+        "Google DeepMind",
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "ec2e76648a9d8e55",
+      "title": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny - TechRepublic",
+      "summary": "TechRepublic 报道了「FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny - TechRepublic」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0Jmbl9tZ0dFZlA5Y0ZueERic1ZYOFhNalpORVk5aTNtejJmNU5IMnFmTlhEZ0d4Q0V0N0pCR1JrUXJ6bzNWN0tHMGNxWE5ITTE3NWpBaUd2TkhBNnYxUDRQd2lvTFR0aWU4Y2Y1ZTc0V01VM3dCalhPT1gtaUhkejF4dHpZRFVUQUNLag?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-10-06 07:50 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "09314253859e84d7",
+      "title": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” - 36 Kr",
+      "summary": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” 36 Kr 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUVlF4UEhVV1ZlZWk1d2pjdkRpT2pSQU4tdk1ETmhob2tGd0lvS3AtS3pmaUw3Nll6V3NtSk9ZVm5PUFc5SzVuc05tbFRBUQ?oc=5",
+      "source": "36 Kr",
+      "published_at": "2026-10-05 19:37 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "dddf6a3eaebf0a1d",
+      "title": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 - 搜狐网",
+      "summary": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGp6dEdxeVpLbFFUSWswVFIxOUxfaVphbjNPME81cmtnRVoxbG0tLVM4N1Fsb2NBSVo2bnhfM2ZYbjAxd01pQ1JLZk1fNVFfY3lURkZVbE9fQnZKRUhEY0otZ0NZMDNRUFBHdTRSYW4wSG9wUC1UOEJJSVgwdVp2YXBOb1NpTnljUHpjSw?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-05 14:17 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "d65a3a9148023972",
+      "title": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 - 搜狐网",
+      "summary": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "上半年，6家国产AI芯片企业收入124亿，有5家在亏钱 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zRWlURVgwcjBQdi14WjluOExmemdwTmJRTTZLazRuWjFONnlMVjBaSGRibjJwaUhQQnZZVEZWUzl2LXUzcWdBV0lpanZOSU1jd19MdWdnSWZVZFFqMUx2Mw?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-05 14:17 +0800",
+      "companies": [
+        "Cambricon"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "2a9a9ad20f29684d",
+      "title": "从看技术到找客户：这场大会为何值得AI企业共赴泉城？ - 手机新浪网",
+      "summary": "从看技术到找客户：这场大会为何值得AI企业共赴泉城？ 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "从看技术到找客户：这场大会为何值得AI企业共赴泉城？ 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2VDNkhNcnlWWm1vcUhUTUw0bEV5TTlvbU1kR3RzM2NUUVBwSzhBUnZZXzNnQnBPalh3MEJVVzNISU9FUmpGSVBZZlFrRmM5R3psVVRWR196LVJ2MUxzOEREYVNkRHFlcnJkUFRDdk5zd2R3V1VZOVlNaHpUR3pEQWFkbXU4MWgxblFXZXpfZw?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-10-04 21:54 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "de832774f5b4d80b",
+      "title": "华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利 - thepaper.cn",
+      "summary": "华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利 thepaper.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为5G、AI专利授权取得突破，高通付费获得逻辑折叠等专利 thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52NllVNTVuWXNVNk9MMGJWaG03bmhPQk82QjFGZlZjUXhJZzVIbmw1TjlNWVF0X0NQd2ZFaWFSWmJCM1lESEVJTVk0em1GajJWUmdCc2pITGVuc2p2MmNxaw?oc=5",
+      "source": "thepaper.cn",
+      "published_at": "2026-10-05 20:11 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 137.0
+    },
+    {
+      "id": "e5d07bdecbf3f854",
+      "title": "The Next Wave of AI Attacks Won’t Target Models. They’ll Target Agentic Workflows - Security Boulevard",
+      "summary": "Security Boulevard 报道了「The Next Wave of AI Attacks Won’t Target Models. They’ll Target Agentic Workflows - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Next Wave of AI Attacks Won’t Target Models. They’ll Target Agentic Workflows Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEdoUTEzTndKYV9TeW9vQjJ4dm5Fd3Z3RzhmT2xQSlFWMnNQbmRIR044Z2xDRVVwRkVlYnhkNl85QXJzdzhXak1oWjhUSzZFUmpzQzE0RjIzOF83ZWNPU2VEZUx5XzlqNlZiOWRLQXNXR1FXWE5JeWNSM2VfUEJDNEEtQVZQamQ2V0NsWlJxRFVYekIyTXFfVEpiemI1cXZ3VGxWdzN4eUE0Y1dONnVCcGNyZHNCTkxR?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-10-06 01:26 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "d5f165190f8c7d6d",
+      "title": "ServiceNow Launches AI Workflow Factory To Boost Enterprise Efficiency - Rediff",
+      "summary": "Rediff 报道了「ServiceNow Launches AI Workflow Factory To Boost Enterprise Efficiency - Rediff」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ServiceNow Launches AI Workflow Factory To Boost Enterprise Efficiency Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWhMVnVHZ3ZwMmVwWElzT2Z2aHRmVVNTNzREam44dFpyVTIzVUo0TVZlVWFTbnJZVUdwUmRIcmpTT202WGlKbHJ6Y2dKLW5JUGhmS1g2Tkc1U3VuQ09aR1U2NWVCb2tYUVVSTF9iRkhRaWJ2SHJOQTBwSzJaWkY1UG9CVE9MSU5naTVVZzBGZHV6TTUtM0lXNlVwbm9oeU5pNm9XY1lSQWdGRkY4Q0dRd2o1WEJWY25n0gG4AUFVX3lxTE5BaExWdUdndnAyZXBYSXNPZnZodGZVU1M3NERqbjh0WnJVMjNVSjRNVmVVYVNucllVR3BSZEhyalNPbTZYaUpscnpjZ0otbklQaGZLWDZORzVTdW5DT1pHVTY1ZUJva1hRVVJMX2JGSFFpYnZIck5BMHBLMlpaRjVQb0JUT0xJTmdpNVVnMEZkdXpNNS0zSVc2VXBub2h5Tmk2b1djWVJBZ0ZGRjhDR1F3ajVYQlZjbmc?oc=5",
+      "source": "Rediff",
+      "published_at": "2026-10-06 12:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "c22b1c7c9a45517b",
+      "title": "Reco AI Agent Security Funding Adds $55M, but a Crowded Market Raises the Bar - remio.ai",
+      "summary": "remio.ai 报道了「Reco AI Agent Security Funding Adds $55M, but a Crowded Market Raises the Bar - remio.ai」相关进展。 该消息涉及AI Agent、AI 产品、商业活动、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Reco AI Agent Security Funding Adds $55M, but a Crowded Market Raises the Bar remio.ai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemJnVWU2V1R2Wm5lZ1hwZE95SDRUOUNiTmpWZzkxbVFaR3E2Y0RPdDZDZVNuTVZpZ2U2Mlh2Zk5ON1gtS2tCWXBiX0VxR2Rsc1RkRXNBY2RUQWVyVHBQcmpYaXNzNmJDSS1xclBlVGVjOVBnLTNhWVVPLWhqNXJTdDFhQlZkN1BUYmp4SjJYekhSZ09NQkQwT0Y2UVhFcVZqWUVr?oc=5",
+      "source": "remio.ai",
+      "published_at": "2026-10-06 00:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "commercial",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 98.0
+    },
+    {
+      "id": "7b238569fe165d8a",
+      "title": "Agentic AI Development Platform Market Size | CAGR of 36.2% - market.us",
+      "summary": "market.us 报道了「Agentic AI Development Platform Market Size | CAGR of 36.2% - market.us」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI Development Platform Market Size | CAGR of 36.2% market.us",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBodWdnY3A2YTBSR2NuWDJqVnRmUmNiR2xJY0JPdnFYZVFsakNTTUFocGNUWEg3dk9HZzdzRlk3X0F5TGRmU0JmaTRGaVowT2FDXzV3RXFWY3FrdkstQXVrbHZzUk5YbFdQc0d1Q2lJMnB3UQ?oc=5",
+      "source": "market.us",
+      "published_at": "2026-10-05 19:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bbc9da9b2055a7cd",
+      "title": "EPAM Launches Frontier AI Services for Complex Enterprise Workflows - HPCwire",
+      "summary": "HPCwire 报道了「EPAM Launches Frontier AI Services for Complex Enterprise Workflows - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "EPAM Launches Frontier AI Services for Complex Enterprise Workflows HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVpPVWZVcW1QQXNjVGJlai1SZGJzdWtrWXVMVnpQUjNCbHNELTlaYnlZZ0J6V0hESzFieFg5aF9nRVp3X2luVndvVW1ZVTZTT3dJbmt2Nk9RTXdNOUVxdVM0eVVjY1ZKc2ZIUlFlemtnenV4Vi1QQkZNa08waTJ6R3VhUUk2cE9KWXVYNGtDbDYyOW43QVlVRDVMV2JZYkEwQmhSRTFRXzdvMF8zY3pj?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-10-06 10:11 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
