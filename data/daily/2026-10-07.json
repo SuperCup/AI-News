@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:17:31.275740+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-07/",
+  "image_path": "assets/daily/2026-10-07.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "e9398e88417a4c74",
+      "title": "IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws - Cybersecurity Dive",
+      "summary": "Cybersecurity Dive 报道了「IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws - Cybersecurity Dive」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0lfNlRGc283bDBMbEdweXZqSVNwb19ZNHdmM3hqLVFBTGNicG8yVzQ2d1BCekFibWVxV2hqeGx1R3U5Y21BS0VJSzhEMmtHdmlJd3M1RGV2WEo2QlFhQlo0dTB6cFdqQjBmREhrT1ZLT2M3VF9PVGJGWkFyMkk2YUZpTjBsbWNQQmc?oc=5",
+      "source": "Cybersecurity Dive",
+      "published_at": "2026-10-06 23:28 +0800",
+      "companies": [
+        "Amazon",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "f459b05a45bab3fa",
+      "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs - Help Net Security",
+      "summary": "Help Net Security 报道了「AI Agent Gateway: Open-source tool keeps credentials out of agent configs - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFYkpjbXAwZENoQ2UtOG84RFhzWXVTcnE4djU4UGl0cVRDTzMweXo0cTk5RnZDcFVWSWJ0bmhxN3BkMFVDNHZtT3RMVnFzU0dtSGVqQXRaOVNWTjZ6MVh3WVkzVkFHYmRPeEVKOVpaN0hKVXAyV1c0eGgxVUE?oc=5",
+      "source": "Help Net Security",
+      "published_at": "2026-10-07 13:30 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "7128a634025a2419",
+      "title": "Anthropic opens powerful AI models to more cybersecurity teams - Latest news from Azerbaijan",
+      "summary": "Latest news from Azerbaijan 报道了「Anthropic opens powerful AI models to more cybersecurity teams - Latest news from Azerbaijan」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic opens powerful AI models to more cybersecurity teams Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1lJaUF6VGpQVEVpSEYyRkYtLXYyYjM1UXJBcFA2amczaG9aSGFsRW5ZYmhrbkhqajFYcFJ3eVE3b1ExZG1XT3F5WGVjUTdTTzFKSHMtVTIzWUhBUXJURHh3VVhSRWxWTldDV2UxQ01lVzZJNUxlTjZXWDBwT0NXS3dFbVBkTDJIWjlr?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_at": "2026-10-07 05:58 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "901943058e8e3eb2",
+      "title": "Dimon: AI Risks Soar 10-Fold After Anthropic's Mythos Release - news.sbs.co.kr",
+      "summary": "news.sbs.co.kr 报道了「Dimon: AI Risks Soar 10-Fold After Anthropic's Mythos Release - news.sbs.co.kr」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Dimon: AI Risks Soar 10-Fold After Anthropic's Mythos Release news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMEl6eVQwX3pSSnVjdzVMOGU4MzR0c0IzRkUwZnBORnVvT1R4NjNfMWwyb3cta2tQZ3RBQmwtZ2x3SU9NSHVvR2VxcTN3bUs3WUZId09yREtHSDhGZWNnd0hJVHMzZw?oc=5",
+      "source": "news.sbs.co.kr",
+      "published_at": "2026-10-07 09:04 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f70e083501215f50",
+      "title": "Bedrock Data Named in the 2026 Gartner® Coolest Vendor Innovations in Data Security Report - Business Wire",
+      "summary": "Business Wire 报道了「Bedrock Data Named in the 2026 Gartner® Coolest Vendor Innovations in Data Security Report - Business Wire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Bedrock Data Named in the 2026 Gartner® Coolest Vendor Innovations in Data Security Report Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZGJqSnE4aDJCRUYyaTBINHAtb2FiZ3VjX3BnQ1BOdlhzUTNmdlJuS25ZQVJQRlN2Q2lNUFFFUmVuX0cwZGF4SEpURjZvVVAzZWZ0RWhTdUdLZGRnNVh0YUI1amJMNnJjaUxlYjhJV3pwZElsQS1CYmtQZV96bTdNcjFrUHVTWjAyWmM5M1dSZnZHd2NOME0yX1BWOC1JVGUxZjdRd2NSNjlpMWt4ck15cFhJWEpnU0Z3ZVVUd3IxMGRLOEVfR2wxRy11NnZfU29BaUpDT2k0ME0xby1iVGow?oc=5",
+      "source": "Business Wire",
+      "published_at": "2026-10-06 21:00 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "e0dd8d1db320b0ac",
+      "title": "评论：中国AI企业智谱接入亚马逊 股价连涨两天 - 早晨报",
+      "summary": "评论：中国AI企业智谱接入亚马逊 股价连涨两天 早晨报 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "评论：中国AI企业智谱接入亚马逊 股价连涨两天 早晨报",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPc19qS25KVmM2NGtzNmdYRWhtYWtGbHVMWnNYdEJPWlFzRFlrMUxSajhRc3lPTGhDQkpMUExTQ1JLUjhQaWRhbngwamVpYVVpOVZTR19aS2pDVmNrNXptTG5WamRCeFpiaDlB?oc=5",
+      "source": "早晨报",
+      "published_at": "2026-10-07 08:10 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "15ae6080b76b38b6",
+      "title": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” - 36Kr",
+      "summary": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” 36Kr 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor” 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUVlF4UEhVV1ZlZWk1d2pjdkRpT2pSQU4tdk1ETmhob2tGd0lvS3AtS3pmaUw3Nll6V3NtSk9ZVm5PUFc5SzVuc05tbFRBUQ?oc=5",
+      "source": "36Kr",
+      "published_at": "2026-10-07 04:53 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3dbbc9a114567e91",
+      "title": "企业服务产业日报(10.06) : AI行业新势力 - 搜狐网",
+      "summary": "企业服务产业日报(10.06) : AI行业新势力 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "企业服务产业日报(10.06) : AI行业新势力 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEhwaDVFU2Yyd1dQWnZybUNXQ1RNMy1aZ05qQ19wd2V1Qk1DX09FbXZjaGtMU21jcTMzN2xXcm1rd1lxZE5GRG04LUp6OGQ1MzhLdnpaeFg4OW1FMHlza0dBeWd3eEptMWkxalM2NWdPZDB1ckFFMEhTc1duU3VBWWZ1WkJPVFhN?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-07 11:46 +0800",
+      "companies": [
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6afc2969e18626ac",
+      "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机——徐直军与媒体圆桌交流摘要 - 中国新闻网",
+      "summary": "华为开创AI时代计算架构：让百万处理器成为一台计算机——徐直军与媒体圆桌交流摘要 中国新闻网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为开创AI时代计算架构：让百万处理器成为一台计算机——徐直军与媒体圆桌交流摘要 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5SmRFY1FVbUxBVTFqLTkxRlpQdFQ2N2VHNXhvOUx3U3ptbzFBTWhfQmVmT2M4LWpPWDQwWm0wMUtjN2FHSzEyNUE0OVpJb3lUMXBxZWY0X3MwVnkyYWxUeDJZQmZHMDY0?oc=5",
+      "source": "中国新闻网",
+      "published_at": "2026-10-06 19:53 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "1f91b146b7cd24fb",
+      "title": "GLM 5.3 Flash 这个模型的安全研究能力到底有多强？ - 53AI",
+      "summary": "GLM 5.3 Flash 这个模型的安全研究能力到底有多强？ 53AI 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "GLM 5.3 Flash 这个模型的安全研究能力到底有多强？ 53AI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wZDllMEVYQ3JMMU9ROWtkWlF0SnI2M0RHYUZEWmkwR0ZPYml6NG1PbjZLRFNuaDBndTloZVl2dGtaSHJPQnBMV0E1cmItZzVocDRQU0tNZ1VvcVQ0OVB3YkFjTE5aaW11RGtKdDV6a0k?oc=5",
+      "source": "53AI",
+      "published_at": "2026-10-07 09:14 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 138.0
+    },
+    {
+      "id": "634c7169e5f43ce8",
+      "title": "Anaconda Pairs AI Agent Swarms With Autonomous Security Testing - Unite.AI",
+      "summary": "Unite.AI 报道了「Anaconda Pairs AI Agent Swarms With Autonomous Security Testing - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anaconda Pairs AI Agent Swarms With Autonomous Security Testing Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVFNhWXNGTzBUT2dfZzhVRFV3SjAzN2txRkplc1lmTnk0UzJmSngxUlQ2RlMzNHcwMmd6WTB4bjFPajhVdGdJREs2N2NlZ0wzaUo1amVNUkRuZEktdWRNa2wtb056QllkNXlIdms3SkthOHNycGEtcGFLMA?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-10-07 10:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "b09bb6fe41478b9a",
+      "title": "ServiceNow takes aim at enterprise AI’s workflow bottleneck with AI Workflow Factory - CIO",
+      "summary": "CIO 报道了「ServiceNow takes aim at enterprise AI’s workflow bottleneck with AI Workflow Factory - CIO」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ServiceNow takes aim at enterprise AI’s workflow bottleneck with AI Workflow Factory CIO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjFWVTJoaHhtd0o1TDEyT29YRFNBd0d5bzNSY1pxclE0TlJDSGNYQTR5a2xhQ1hpZnhVSUctT3pXQTBVWk1BUE9NbFYzUUVkLTJGVF96dF9FeHZzUmJRaFpkVkxrbWtrN09EdGdxLTBvcTdwYkQ5Q1RkamROMDNzN25zX0tEM0VkMHM1UVZfNWhGcWI4VW8yVDNnSmtKcW9TZFJqZHV3b0t5WHNSOFFpejBncE9GeXlGaVZNSDI2ZC1Sdw?oc=5",
+      "source": "CIO",
+      "published_at": "2026-10-06 20:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "548d905f26a2bd39",
+      "title": "Upstage Targets Enterprise Agent Market with Document AI and Solar…Expands On-Premise with Lightweight Models - BigGo Finance",
+      "summary": "BigGo Finance 报道了「Upstage Targets Enterprise Agent Market with Document AI and Solar…Expands On-Premise with Lightweight Models - BigGo Finance」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Upstage Targets Enterprise Agent Market with Document AI and Solar…Expands On-Premise with Lightweight Models BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBieFh3SWpoMjRkMGROMjNzT3FMSkRuSlQ2VUF3Vm5ILS00UHZVX0JkQUJ3eklKN2tLV053Sk5ONUxpTXVGRjVqRGc0Rkpacml4TVFKZkNYeENlQTBXdThab01NY19LdFhLQW4yYmN2NDVDNHh1ZWc?oc=5",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-07 09:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 98.5
+    },
+    {
+      "id": "45bac3ddb68f4a7e",
+      "title": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow",
+      "summary": "ServiceNow 报道了「ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop - ServiceNow」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI-powered loop ServiceNow",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTmtTUmJub1ZlWVhsalpjZktWTHl1TXBMbF9xZ1NSdlcxTU5uNm9EMVI3VnVBU2Vtd0VrMzZMT1N6bzBFNDdDU0FDTWhoeEs1UWtLbHJSeFpvcHUyNHhROGRjNDFnUmpzVW1Fc1VuekZvaXBxODJDSTFCMTZWNkVscm1UcmRVNTBUVlVaVnIySElJMjVHY1V2U3piaWFFR0FPT0xYamRVcXU1bWpHeUpxRXFvMHZ4T3ZLLWVjalBHTjdraG4xVndMVTBQWG1zVUV6X2ZMR25yUU5SVElHaHFvUkpUazVhQ3h4QTZHdjc3UTg3ZEthaldTX2lpNUZZN21OM3ZYZ1pIcUJMQ3BMUW1EeQ?oc=5",
+      "source": "ServiceNow",
+      "published_at": "2026-10-06 12:35 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "e20d976f12e154f3",
+      "title": "Solix Technologies Announces Agenda and Speaker Lineup for SOLIXEmpower 2026 at UC San Diego - The Des Moines Register",
+      "summary": "The Des Moines Register 报道了「Solix Technologies Announces Agenda and Speaker Lineup for SOLIXEmpower 2026 at UC San Diego - The Des Moines Register」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Solix Technologies Announces Agenda and Speaker Lineup for SOLIXEmpower 2026 at UC San Diego The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmJPN2tncEJ4Wll5bTEyZWg5V19yTF9zQS1nWU5YZkxVSkdIeHo4akxncWlLV0FpRnFQRzdEb0hJU3g1U2E0NTE2UnJITXZXUUtsZGNzN2dVUGZNMGR4dm5Kd3EySW9lVE9kUUpWN044MDJvcnpjMDBxOVpRVFVuekR2N2I1RnE3Q2Y1ZGxPS2tzOGpZOEVKc2ZyQjMtcUdGZVZlWktydVJPdTZRNTZ1WWVwanRfQTV5Y0JBNWM0N0VsV3VpRC01QkN6WWNDVGRyWkpHLUM3cjNMakYwQ0lJQVJ3bUJGbDVyVmc?oc=5",
+      "source": "The Des Moines Register",
+      "published_at": "2026-10-07 06:17 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
