@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:27:18.406121+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-09/",
+  "image_path": "assets/daily/2026-10-09.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "cf6ff01dacfeb5a9",
+      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
+      "summary": "The Verge 报道了「Anthropic launches free AI security scans for open-source projects - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic launches free AI security scans for open-source projects The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-10-09 05:53 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "1bdbfe15a5d5fe9f",
+      "title": "Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents - Security Boulevard",
+      "summary": "Security Boulevard 报道了「Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents - Security Boulevard」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Inside the Exchange Inspector: How Tenable uses OpenAI GPT cyber models to review open-source AI agents Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYzlDeEJwckVEaGdmWTRkU0ZKWGdLaGZzZm00UmUtWlBvMi1CZmFYc1h2blVYN29DeDd6NHRmU2F2RjdWNlVPX0JBc3pGLVBuUTg4dmtkenV0b2hXUnR3ZjV3MnY5S2J0c0Zlby1zN1U1M2xBbkE3dkpIdEtOa0xEaWRKT2U5czFkbnA5NGtWazVxMDlmOUkxTlYweHNIbmwyWFJiSWJzX3c1blI0bC1zSm05NXVVbU1CUG8tdVZJZzBzSDVfdDZQSDJGdHpPRTVQUXBEYmFSbk0?oc=5",
+      "source": "Security Boulevard",
+      "published_at": "2026-10-09 05:24 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3bebbff006363deb",
+      "title": "Anthropic offers free AI security scans for open source as Claude Code faces scrutiny - Startup Fortune",
+      "summary": "Startup Fortune 报道了「Anthropic offers free AI security scans for open source as Claude Code faces scrutiny - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic offers free AI security scans for open source as Claude Code faces scrutiny Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnhwa1Y4dFFGRkhESXc0TFdNbExMOGNId2FOSmh2Z2ZvdTVHR19aUXRsNFAzOXVUUTNkbGlNUEF2RGFWd3hYeFdFU1UxUWtfWW95MFJiVW1MbTEyYnBhTGsyZzQzenZCYUdWUHdvZVhjUlE2aThraElOcUlGcUJIeTBHZ1Zuellfa2V4NlU5a1hYdGJMaEZRT1p0emtWQnNYZXc2VmtOTXhJOUlhUDg4djZDWQ?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-10-09 07:01 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "4f5cc09251fd15a5",
+      "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+      "summary": "TechCrunch 报道了「Google brings agentic AI to Gemini, starting with businesses - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google brings agentic AI to Gemini, starting with businesses TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmlZXzdMc1F5aTdGUFlIaUVtZmlZSWNyejQ4ejY3R1h2QUI0UU56QVpXUXB6a25ja3I5OHlDSm5TamVTbk5XZHJwdjFoSHpKa3VheURjQWgtQUtEalJCek90M0JjSjcycWJVSXUyc2wwS2ViMXE1OVN5bFJFUmhiY253OU5DNHMxbmJRZW5IWmtGWHVRdXZ1NDFR?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-09 02:18 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "3c4c9cb1a6abd787",
+      "title": "Google Launches ‘Universal’ Gemini AI Agent for Workplace - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Google Launches ‘Universal’ Gemini AI Agent for Workplace - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Google Launches ‘Universal’ Gemini AI Agent for Workplace Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDFROGxuS1JtVDV4Ym1UUFhYd0RkcTZjTVlNNWVIOFQxYmNRenZMUFZKRU9XYjl5SGpQUkNSU0xEdGVGcTlqcTJiX0pmUEJzUHFZdjdoZHdoeEl1Ti1MOUh5YWZGYkJ6ZDZIMmFfOXA2TFowOWdsUURtQ2VJNjZKVmNreHBCNFhRa3FBWVc5RlY4djN6Q1ZuSU9hOTFuZmg1ZWU5V2V3UTh1Zw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-08 21:25 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b1ac3de47789a457",
+      "title": "企业AI的“合账”时刻：WorkBuddy企业版为什么能把N变成1？ - 新浪网",
+      "summary": "企业AI的“合账”时刻：WorkBuddy企业版为什么能把N变成1？ 新浪网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "企业AI的“合账”时刻：WorkBuddy企业版为什么能把N变成1？ 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZGd4czlwVFBPVFdvSkZJWEhlUG1waHEtYUVUNGwxdUVLOEpCVm5HNmhsMmlReDZwalJwMGV2SXdhQ3ZPSmNRcHBDQWpIcWluTHIzUDE5VHMyelZoSURFbmwwVHJJaDcwX2d5RVNOV0pBRG5zNjZjQUVuWkZWbGs?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-10-09 14:24 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b248ee97f633ae4e",
+      "title": "行业首个燃机大模型“擎睿”基于华为云Stack落地 - 驱动之家",
+      "summary": "行业首个燃机大模型“擎睿”基于华为云Stack落地 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "行业首个燃机大模型“擎睿”基于华为云Stack落地 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QTnFYOUQzU0tqOHlHYVJxZlFjU3diT2xKMEFRaHlXQlUtbGFjdUw5ZG4zbnFpYnpZbUhHVm5OMnlVbVNEZDFETExCNjV4d2ZtT1ltTmNMQlg?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-10-09 11:11 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ce209a0466bd1e59",
+      "title": "广联达携手华为云码道验证AI编程企业研发规模化应用路径 - 观点网",
+      "summary": "广联达携手华为云码道验证AI编程企业研发规模化应用路径 观点网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "广联达携手华为云码道验证AI编程企业研发规模化应用路径 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GUnQ5RjA3eHVaVTh3Rm55NGZiZWRfOWVRR08xcGZJMnBQYU9WMGpudGJyMTJJNmdQbU5Bd3BOdWd2b1o5YVFTVTF4dzE5R2cxNHA2WnlZVUxxVjFPRlZmY1hB?oc=5",
+      "source": "观点网",
+      "published_at": "2026-10-08 21:34 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5f66e02d1be08e68",
+      "title": "广联达携手华为云码道验证AI编程企业研发规模化应用路径|AI代码生成|数据|存量|公开信息|免责声明 - finance.sina.com.cn",
+      "summary": "广联达携手华为云码道验证AI编程企业研发规模化应用路径|AI代码生成|数据|存量|公开信息|免责声明 finance.sina.com.cn 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "广联达携手华为云码道验证AI编程企业研发规模化应用路径|AI代码生成|数据|存量|公开信息|免责声明 finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdkZpdFVmUF84dkg3VHd0UXdvTG9RWng5aWZsZDNOa0VyREFCWjlWMXAtYW5BbjdDcHB6WjY1VjJnZ2VmX2JEVW0wMjhYLVZsWE5iRkJUMFVDMlFCcVhvX0Nud2lyelVnUVBoMTVoZ01WTWZHaHlVUi1pNE1VLW1kOHB1VHp2RnlLM0E?oc=5",
+      "source": "finance.sina.com.cn",
+      "published_at": "2026-10-08 22:41 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "15ce3906dbcd20e4",
+      "title": "AI问答获客时代，企业如何选型靠谱生成式引擎优化团队 - 新浪网",
+      "summary": "AI问答获客时代，企业如何选型靠谱生成式引擎优化团队 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI问答获客时代，企业如何选型靠谱生成式引擎优化团队 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlhWYWs5TnowaWdNWWhYRElMTl9ZNEYySXNVSjJDcGdsQzNFV01kRHBKZS11V1l2aTRUbWJSeDJkWEZnWnlCZUpaZmt0aXVPT0F0NUFRdHd1dXJUTzc3ZlZTdzV3TmFHaXJqRmp6bndWTE9YanNXU0o5amFVdFhFYy1pZm9XWC1IbkhSeVpMNA?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-10-09 15:15 +0800",
+      "companies": [
+        "Moonshot AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "7d6794acd0e79b52",
+      "title": "AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion - Supply Chain Digital",
+      "summary": "Supply Chain Digital 报道了「AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion - Supply Chain Digital」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4waTVYbjdIOTg4cXk0cnZqYzhkeUQyVEhxOTI1SGhTU3ZwZFh3c19CT195QWpfdkpDeDI2Q1B1aWd4TEZLa3hySlJRcm03NFZBWTBOMjQ4VlZDdnlSOHRISU5R?oc=5",
+      "source": "Supply Chain Digital",
+      "published_at": "2026-10-09 08:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "91504a26a3c759bd",
+      "title": "ServiceNow Launches AI Workflow Factory for Enterprise Automation - HPCwire",
+      "summary": "HPCwire 报道了「ServiceNow Launches AI Workflow Factory for Enterprise Automation - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "ServiceNow Launches AI Workflow Factory for Enterprise Automation HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTVRQzhrSXpCTXhrczBBVXpBbkUxZXo5cVkwUDdUXzVZNTRVd2pWSDdONENRR2Q2SldjZU5qNGsxUWlqemFXUG15RnVGancwM3lWZFpIR01rdEVxenFjeDVDQlVkcm1CU1hXRkJJTHhPR0FGRGs0WVgtVVRzZFl5LXpBdW9BSkRwdTdBNWM2eVAzM09HeWtkVFEycmVFYlk1S3dqSWUtMXQ0YnVOSWpqQmlzaVVSdw?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-10-08 23:53 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "d8716a8cba4e5071",
+      "title": "The Rush of Autonomous AI Agents Hits the Wall of Enterprise Governance - RT Insights",
+      "summary": "RT Insights 报道了「The Rush of Autonomous AI Agents Hits the Wall of Enterprise Governance - RT Insights」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The Rush of Autonomous AI Agents Hits the Wall of Enterprise Governance RT Insights",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlRCbUVOY1pWZ0hYeWpLZFJ3Mk9wWUpyU3NpMW41U3RrZGJKdWo3b1lhR09ZNHdMUV96NjZhNmR2dzExUzlWNHZaMTU3bHRoSGRfTEc1N3hVMUNhWUlubm5LSWloSzdrbUFFaG1oRkVBTXh2czRuSlJISVZDZnZoRWd2aXd3YUZsSS1mSG9tVlY0TTVzYXU3cFlrZTlPa2pt?oc=5",
+      "source": "RT Insights",
+      "published_at": "2026-10-09 03:18 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "bfe06b96760b5ceb",
+      "title": "From Generative AI to Agentic AI: Where the Next Software Patent Battles Could Emerge - Lexology",
+      "summary": "Lexology 报道了「From Generative AI to Agentic AI: Where the Next Software Patent Battles Could Emerge - Lexology」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "From Generative AI to Agentic AI: Where the Next Software Patent Battles Could Emerge Lexology",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzdjc1dBb3NOeEN1bkF0NnF0WVdkZUwxdV9MbS1jeXg2ejBnWDFDMEx1cDg2Tko5NVZlRUJXR3pGVzZ6NUd4cFpEWk04SDJiLUY1MXlFWXhsWE5uM3lvYXYxSXlwTVlJVXp4ZDExb2o2bHA3Y0tBaU94MmVwdGxTcDBrSjFscE1sRE1r?oc=5",
+      "source": "Lexology",
+      "published_at": "2026-10-09 01:23 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "cddce5308655e68c",
+      "title": "The latest AI-powered martech news and releases - MarTech",
+      "summary": "MarTech 报道了「The latest AI-powered martech news and releases - MarTech」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The latest AI-powered martech news and releases MarTech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5",
+      "source": "MarTech",
+      "published_at": "2026-10-09 07:15 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
