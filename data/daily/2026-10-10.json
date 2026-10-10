@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T15:13:01.134366+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-10/",
+  "image_path": "assets/daily/2026-10-10.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "cf6ff01dacfeb5a9",
+      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
+      "summary": "The Verge 报道了「Anthropic launches free AI security scans for open-source projects - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic launches free AI security scans for open-source projects The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-10-09 05:53 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "6258ac8487965f2c",
+      "title": "Surface Laptop Ultra $2,599 AI PC: Local LLM Specs [2026] - https://tech-insider.org/",
+      "summary": "https://tech-insider.org/ 报道了「Surface Laptop Ultra $2,599 AI PC: Local LLM Specs [2026] - https://tech-insider.org/」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Qualcomm。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Surface Laptop Ultra $2,599 AI PC: Local LLM Specs [2026] https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MYzJfOHZPNVVlQkstZy16WmFtTkFqaktxTWhWOE9xcGNCcGl3Z3MwZmQyOW4zR1h6eHBHMlUydC1GUGd4RElzem1JYUt6bHEtdDFXZWIzX2Z1bm9KSlN1VnNEV1F5RGtUU1JkLUdGYzVWbGFJQ2lvTXNFLXg?oc=5",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-10-10 09:24 +0800",
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "386d883c680a8cb2",
+      "title": "Zscaler Jumps 6% on Reaffirmed Revenue Outlook and IBM Security Pact; Palo Alto and CrowdStrike Gain 4% - 24/7 Wall St.",
+      "summary": "24/7 Wall St. 报道了「Zscaler Jumps 6% on Reaffirmed Revenue Outlook and IBM Security Pact; Palo Alto and CrowdStrike Gain 4% - 24/7 Wall St.」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Zscaler Jumps 6% on Reaffirmed Revenue Outlook and IBM Security Pact; Palo Alto and CrowdStrike Gain 4% 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUx5OE9ES2lPeHN0RkJ3TDlsUWxQMUhfSWoyWVd6OWNwMDY1aF9uTDFfa1FiYUZfMzRnT2k0YzEtdW13SWRRQ1RpXzlSeDBLWlNjQ3R4aEtvMjlQX0k5ZGY5bXpPYi1McV9leEdodkZ2MlQ4cWcxNFExSTZ6RDBGUzJSc2pOTlplakMyZGloZ1JDSy1MR1BxZ3Vnemc3N1lDU1cyeWo1dEFQUHBUTTNneEYwT1lwNFB2Nms4RDJoNDZHWW1nWGhWcjB6elRDempfMW9JaVBPVXczeDdp?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-10-10 02:02 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "aa47c37d259c7aab",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost - TechCrunch",
+      "summary": "TechCrunch 报道了「Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGNvaE5hcnljRFIyZW04ZzhDaWMyX1VWbXMtenJVVEM4UWxHRS1PQUxkYzhTdTVtTnB3Y2d2OWFJdzBxLXRoQnVPYzFDT2ozZlhha2s2UXpIVUdNMVFIdHZ0QnFYZTF5Y1VRVkdyN3JxNHAzWW5YVU5RbnFPS2p2NGNDN0xSanJzbGFGT25sQXliV095U0lQNS03aldTaTd1b3dESXFYemtHMDZUc200OGk2cVRLWmdaMEdfSmx2YkR0QQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-09 00:00 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "6506dd6f8623ccdb",
+      "title": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times",
+      "summary": "International Business Times 报道了「OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWFkQ0dBMTJYMnVhY0pNX1ExdnBUSlVhQXJ1TmdxRVh6OHBPbHFlZ2JwejB5d0c3T09KNk1KSk9tSmh0MjRrNmtTQWcyTGFuMDB4eHVQaldUOWl1UnJKWWJWdWRLbFhTZFhoRUd4Yk9TUTVDSWtMdFRHVEZfckpjMGV1dFdCb091eHBKX0taLUF1czUwUTZaTWhuSXlDUjVIZjl2UlVWRnBhZGt3RkhYYlpkRmRXbjVDcjhfSA?oc=5",
+      "source": "International Business Times",
+      "published_at": "2026-10-10 07:14 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "02022df9ca293e69",
+      "title": "华为发布AI Centric“1+2+3”全系列解决方案，携手产业共推AI-MOS成果落地 - 搜狐网",
+      "summary": "华为发布AI Centric“1+2+3”全系列解决方案，携手产业共推AI-MOS成果落地 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "华为发布AI Centric“1+2+3”全系列解决方案，携手产业共推AI-MOS成果落地 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkREWDlfLVNYVW5wNnRfQUQ4OWdBYnRHWHNJYjFpZUxiRm5lRG5OYUtGZGRtajJrMnpDQkFHajAtelJ2NzNGNXNnSXY5aFdyRlBYNmo0WmI0Y1pIQnBKT3RNTkN2QU53MHdjUWV1OWlMLThkMFRfOGg5bFU1UlZEcDZVckZXSnJW?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-10 12:57 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "b248ee97f633ae4e",
+      "title": "行业首个燃机大模型“擎睿”基于华为云Stack落地 - 驱动之家",
+      "summary": "行业首个燃机大模型“擎睿”基于华为云Stack落地 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "行业首个燃机大模型“擎睿”基于华为云Stack落地 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QTnFYOUQzU0tqOHlHYVJxZlFjU3diT2xKMEFRaHlXQlUtbGFjdUw5ZG4zbnFpYnpZbUhHVm5OMnlVbVNEZDFETExCNjV4d2ZtT1ltTmNMQlg?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-10-09 11:11 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "3253e929c9358bfb",
+      "title": "【今日主题前瞻】智谱接入海外云厂商，大模型企业出海商业化节奏提速_市场测评_市场 - 中金在线",
+      "summary": "【今日主题前瞻】智谱接入海外云厂商，大模型企业出海商业化节奏提速_市场测评_市场 中金在线 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "【今日主题前瞻】智谱接入海外云厂商，大模型企业出海商业化节奏提速_市场测评_市场 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oc1AwWjhTVF9Wd2VNV0ZISDRRTDFQUl9jbnN1ZWNvQkdyelpDNS1qYm9Gb3dKVlhUR3dOZDIyaVNuUUhDcGMtUUh6THdOaUJDTWdsN3M3dTBnQlo0dDRsdlFVSkEwRC02RTNvaXJWM3NPQQ?oc=5",
+      "source": "中金在线",
+      "published_at": "2026-10-09 07:55 +0800",
+      "companies": [
+        "Zhipu AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "daea44776762663d",
+      "title": "德塔智能 - 宇树科技：参与宇创计划，助力原生人形机器人基础模型研发与落地 - 具身之家",
+      "summary": "德塔智能 - 宇树科技：参与宇创计划，助力原生人形机器人基础模型研发与落地 具身之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "德塔智能 - 宇树科技：参与宇创计划，助力原生人形机器人基础模型研发与落地 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaakpmT3JPdE4tZkpvYVp4aUk1N3g0N1FsN2tDRzF1RXhscVVjbUQ4V0sybkhiZURqX01Sd2pIUnFwVWVjN1JWVjBFTHdhSlNPUWpvbFY3dE4?oc=5",
+      "source": "具身之家",
+      "published_at": "2026-10-09 15:04 +0800",
+      "companies": [
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "e8bb895e044ee167",
+      "title": "$小米集团-W(01810)$ 芯片和AI都是长期的吞金兽，也是人车家全生态的底座，市场先生暂时看不上，但仍是企业发展的... - 雪球",
+      "summary": "$小米集团-W(01810)$ 芯片和AI都是长期的吞金兽，也是人车家全生态的底座，市场先生暂时看不上，但仍是企业发展的... 雪球 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "$小米集团-W(01810)$ 芯片和AI都是长期的吞金兽，也是人车家全生态的底座，市场先生暂时看不上，但仍是企业发展的... 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RMmN1ZGFHbEFwQUQ0YV9wTEstbG52V015YkNUVDJ6VnVmV28wdjYteFdEN3pRa3I5WlJMN0NUZFQxYjl6aFJ3YUtXU3E1Z3RHZVZYV3BR?oc=5",
+      "source": "雪球",
+      "published_at": "2026-10-09 07:21 +0800",
+      "companies": [
+        "Xiaomi"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "d38ef77a426b5f3b",
+      "title": "AI agent errors cause control failures, customer impact: report - Human Resources Director",
+      "summary": "Human Resources Director 报道了「AI agent errors cause control failures, customer impact: report - Human Resources Director」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI agent errors cause control failures, customer impact: report Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0FlWkpvenVSV2Z6SC1OVE85bzVoV3R1MFkzVExJT2J5WVdtN3hKMEZyYjRWaXRnMlg5RHFlZ2xUQ2lzMjB5b2xqdGVQSzdVWE9laXhFX3Qxd0I2dlk1d2ZGQmlBbkxkLWFJTTBYSHRKRGNiMlBZeWhBT3VRV0N3Q2Q4cl90eExFVGtoZVlCRkNTaGd6NTVMMlFwZElra2VjZUR6ZGhNd2pVMjNmSXQ1WWg3UUZMaGhqTDh0NXV1X1lKdw?oc=5",
+      "source": "Human Resources Director",
+      "published_at": "2026-10-09 22:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "7d6794acd0e79b52",
+      "title": "AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion - Supply Chain Digital",
+      "summary": "Supply Chain Digital 报道了「AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion - Supply Chain Digital」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Security Operations Center (SOC) Market by Software Platform, Service, Application, and Vertical - Global Forecast to 2031 | Agentic AI Drives 21.1% CAGR to $47.07 Billion Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4waTVYbjdIOTg4cXk0cnZqYzhkeUQyVEhxOTI1SGhTU3ZwZFh3c19CT195QWpfdkpDeDI2Q1B1aWd4TEZLa3hySlJRcm03NFZBWTBOMjQ4VlZDdnlSOHRISU5R?oc=5",
+      "source": "Supply Chain Digital",
+      "published_at": "2026-10-09 08:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "2fc319aa51a5a8b6",
+      "title": "Why cybersecurity and physical autonomous AI must be governed together - The World Economic Forum",
+      "summary": "The World Economic Forum 报道了「Why cybersecurity and physical autonomous AI must be governed together - The World Economic Forum」相关进展。 该消息涉及AI Agent、AI 产品、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why cybersecurity and physical autonomous AI must be governed together The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2pKb21MeFpSa0VhVmt1U0F0REFySXBKZTFEUDFkZi0wRGNPV2NqMWhkcGdEUzIybkdBY09rWnFxSXFlMkV0b0RKcHpyMHpzbk1FVmZqUDBGcW5mazdkMGJRUFg3Z2h2emtaU0JKMGpPXzlHZ19rd29SeDQ4bjRYYm91QmdraXZwdjBFS3E5UVQ2VGx3X1V2UndaMmhMSVFXQVlvNDBKMzBrSWl6MDRseg?oc=5",
+      "source": "The World Economic Forum",
+      "published_at": "2026-10-09 15:56 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "large_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 95.0
+    },
+    {
+      "id": "518ac087eea54757",
+      "title": "TestMu AI Positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms - PA Media",
+      "summary": "PA Media 报道了「TestMu AI Positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms - PA Media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "TestMu AI Positioned as a Leader in the 2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms PA Media",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWFFMNXdYUDlEUEpobEdnV3BDV2pOX3ZlR3ZPanBsckxqMl9HWlRkTTlGTm1VZmtHdThHZWprZ0J1Z2tLaHplMkhFbF9tMkZ6SFcwQVNsQUZPN2JmbW9NR0UwTDZIRi1Wdmw4VGJyUFVoVmxqOEg5NXJzdklNTEg5dTRiU3N0Q3pCb1Z4UEVIN19RQURlQVBWX3p5bGFCaE5jemhrYjJDWk04Y3FPbWhKVDFSd3U0S0lVTHhnR2E4RnFwSnVOUklKdnNWSkdLVmVuX2x5RHdxeW05VTFyVkVIZ3EwMnV5aVJMMUxhZWNWckdXZW1EOG5fOGVVakw?oc=5",
+      "source": "PA Media",
+      "published_at": "2026-10-10 00:52 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "d6301a61225fd85d",
+      "title": "Kore.ai launches Autoloop to continuously optimise enterprise AI agents - Express Computer",
+      "summary": "Express Computer 报道了「Kore.ai launches Autoloop to continuously optimise enterprise AI agents - Express Computer」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Kore.ai launches Autoloop to continuously optimise enterprise AI agents Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkdfMnhHbTlkQTF0RjhBR1RLVWZvOXhHRzhxN0FWRnFtbnVBdUR2dnBaNjFubFlRelZZUktPVVZuMm9wTGNmQWJGdTB6cW9hcnc5b1J0TlVjNVROUGxaWEJDZ2x2MkVMMUlLLVpITlppUnE0THFMTXdUVFlKZ0FET3k3b1I0MDJYaHVFX2N3?oc=5",
+      "source": "Express Computer",
+      "published_at": "2026-10-10 00:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
