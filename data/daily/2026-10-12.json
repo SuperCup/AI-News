@@ -1,0 +1,349 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T15:25:51.923394+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-12/",
+  "image_path": "assets/daily/2026-10-12.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "8d977e6c8c6ca428",
+      "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+      "summary": "NDTV Profit 报道了「AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+      "source": "NDTV Profit",
+      "published_at": "2026-10-12 00:33 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "bf3a3c673c28925f",
+      "title": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Issuers Are Upending Longstanding Safety Valve Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzhDQ0ZsWWNnck5TR1k2UGxUMGZ6WHVvN1BUZHJDaXZFSHZTMTJ2djFyWVlWNFRZb0N4cThZOE1FYmFVSDliZWZLdUs2blpyWm40ZHpHaTJGWXNQQkRCQ2FGSVBaSVRMN1ZaYlRSY01rRm9IdnNIaV9JNFlmNWJOZmt3QUZfNThuYWFSNWM1VUZYZjlSY0tkc1pHYWZhYjhaUUc1VFVDdmZHVWY5QUFfZlJocVY?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-11 03:00 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "f6f3e330cdb4ee79",
+      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models - MarkTechPost",
+      "summary": "MarkTechPost 报道了「What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models - MarkTechPost」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHhJU0xfZTRrRlloeW9LX0NjWHJsRlowY0tBYVdKbER1MUh3MjNabXB1dGs3dkUzcFNlOC1Md080WTgzMlZ4bUtJWHEyQUpXTWFrckstaWF5RjR3RU9xZHI4SmItVzZpdEl2dkdUTS00NUxrbm9XdHI0a1RVZy1QR3BYWjJHYUU1U1h6TjJXYzF6bHFhcEU2RDVSR2g3V3E3UkgzOE1HVmFjdDZo0gGsAUFVX3lxTE5weElTTF9lNGtGWWh5b0tfQ2NYcmxGWjBjS0FhV0psRHUxSHcyM1ptcHV0azd2RTNwU2U4LUx3TzRZODMyVnhtS0lYcTJBSldNYWtySy1pYXlGNHdFT3FkcjhKYi1XNml0SXZ2R1RNLTQ1TGtub1d0cjRrVFVnLVBHcFhaMkdhRTVTWHpOMldjMXpscWFwRTZENVJHaDdXcTdSSDM4TUdWYWN0Nmg?oc=5",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-12 05:43 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "19e1d8b385c292cb",
+      "title": "China rolls out AI safety governance policies as autonomous agent risks mount globally - 巴士的報",
+      "summary": "China rolls out AI safety governance policies as autonomous agent risks mount globally 巴士的報 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "China rolls out AI safety governance policies as autonomous agent risks mount globally 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1lHTUROU2tFUmR4YlNsYU9IWmRONHE0ZnpwQTBQNWstakw3R05nYm1ZTlB4VUo0NWVzdFFieGVZMUlkRll1WTR1cFdSWDBvWnhpM2E5MGdxTlQyX1dKVGgwMFVuUndkUWs4cWhHX0w0QUFGcFcwYXVEWXFqeVpCMmhpeXF3SFZrWTRsbVJaQ2RkUmNGRFZ4RnVPU0R6OWh3b1ZqSVlCc005T1g1UUFwZER6dUJqdUpiem1zTnM3dW1wRE9GUDdWS1BmdDFCNzhRQzRoeQ?oc=5",
+      "source": "巴士的報",
+      "published_at": "2026-10-12 09:17 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d8f308f3838e9ca0",
+      "title": "Microsoft announces new AI security features and Copilot+ PCs - SC Media",
+      "summary": "SC Media 报道了「Microsoft announces new AI security features and Copilot+ PCs - SC Media」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Microsoft announces new AI security features and Copilot+ PCs SC Media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0dwNGNUNTg0MldPbzFqZzk0NnAxWElHMVNacFlnRVNrdnJMNTVlVVlzQTMzbzIydUIzbk9DbXJlekxnNFZfM2tLZVRQQkEtYy14dlNEYy1aNGtaVkI4TnhoRVVDMDBYTnVDSFlhUkNNSDYwUW9vWFB2M0d1NjNiTUVjQ0szLXhPcEgtNE5TWnYwSnFR?oc=5",
+      "source": "SC Media",
+      "published_at": "2026-10-12 01:59 +0800",
+      "companies": [
+        "Microsoft",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "9243196ed8c24a19",
+      "title": "阿里AI进入兑现期：云收入增长之后，企业智能体能走多远？-证券之星 - 证券之星",
+      "summary": "阿里AI进入兑现期：云收入增长之后，企业智能体能走多远？-证券之星 证券之星 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "阿里AI进入兑现期：云收入增长之后，企业智能体能走多远？-证券之星 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jT2xaOHRKVk45OWtkdlVyblBhSHRwbVl4ODBaR1pyYWhyQl9rbDc5blF0bzJRWTFpWjAtc241RXJ2X2ZublRzVXpQN05uZWVuMUVlVC1Qb3pkUjd4cmc?oc=5",
+      "source": "证券之星",
+      "published_at": "2026-10-12 12:07 +0800",
+      "companies": [
+        "Alibaba"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "3830d8af16a344c0",
+      "title": "字节飞书发布豆包工作伙伴，四大巨头竞逐AI办公智能体与企业工作流 - 虎嗅网",
+      "summary": "字节飞书发布豆包工作伙伴，四大巨头竞逐AI办公智能体与企业工作流 虎嗅网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "字节飞书发布豆包工作伙伴，四大巨头竞逐AI办公智能体与企业工作流 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZbGkyaXdkSjBaS211V0NRUU5wckpuVkg4Mk1IVVY1SzFSUVFEVktmdHlfSnU4LWo4LXRXYXJ3dkg3bDIyOThhQ2l2LVBYbkI2akxNNXl5RWdjN2U4Si1Z?oc=5",
+      "source": "虎嗅网",
+      "published_at": "2026-10-12 11:53 +0800",
+      "companies": [
+        "Alibaba",
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "40cc9ad27b7c1828",
+      "title": "“百度世界2026”定档11月12日，将有“重磅嘉宾、企业级AI产品”集中亮相 - 凤凰网科技",
+      "summary": "“百度世界2026”定档11月12日，将有“重磅嘉宾、企业级AI产品”集中亮相 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“百度世界2026”定档11月12日，将有“重磅嘉宾、企业级AI产品”集中亮相 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVmFzdy1KTHNhdmw0eEJmRHh0b0N3WjdmOXhnUEkxNDBiMkhDTW1adlFtMC1NVUlLcW5VRXEtYUFmdS0xMzllbEF5MVM?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-10-12 13:20 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5a40ab6c7a3f116a",
+      "title": "“广告界的拿破仑”苏铭天：AI正重塑市场营销，关系到中国企业如何走向全球|上观新闻|加密技术|区块链|上海市|Minimax - 新浪财经",
+      "summary": "“广告界的拿破仑”苏铭天：AI正重塑市场营销，关系到中国企业如何走向全球|上观新闻|加密技术|区块链|上海市|Minimax 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“广告界的拿破仑”苏铭天：AI正重塑市场营销，关系到中国企业如何走向全球|上观新闻|加密技术|区块链|上海市|Minimax 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHQxMm9YQS1sWEdZd3VDLXNjNWRVd1gyejZIRG5YWnp4Ql9mTkpJc2ZWb3FldkUwalVsc2JRODEyLVdQaUdIWnBNbVpkLVdZS2RuWGVock9maWpPQmJlLTg2RWVBalZQaEhGXzZ6cWdvMFlBODBCMzNQYWtXV0tlaWtjOGhvNUdLQ2wxdnc5RjVLNHZ2TnV4WXlQN1Nla3BPYl9DQnpPTkZLN21DMC1aTGdR?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-10-12 07:01 +0800",
+      "companies": [
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "d00a21ca11edcc4e",
+      "title": "王兴兴再谈人形机器人“ChatGPT时刻”：最快一两年，工业场景有望率先落地_公司新闻_财经 - 证券之星",
+      "summary": "王兴兴再谈人形机器人“ChatGPT时刻”：最快一两年，工业场景有望率先落地_公司新闻_财经 证券之星 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "王兴兴再谈人形机器人“ChatGPT时刻”：最快一两年，工业场景有望率先落地_公司新闻_财经 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iSnZubEhPa3hGYlNiQ0JQcUV4TWhBcFh6SFNTc2o4ejNCSnhLalE2UnNlV1FfQjJIZEYtaks2SWN1NWpUcjdTT29uSldkMmoyZ2MySENCSGxjZHZZNnhvRw?oc=5",
+      "source": "证券之星",
+      "published_at": "2026-10-12 13:16 +0800",
+      "companies": [
+        "OpenAI",
+        "Unitree Robotics"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "2a279a8eb211ddd2",
+      "title": "Your AI agents can execute every tool call correctly and still break every enterprise rule - VentureBeat",
+      "summary": "VentureBeat 报道了「Your AI agents can execute every tool call correctly and still break every enterprise rule - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Your AI agents can execute every tool call correctly and still break every enterprise rule VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-10-12 03:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 105.5
+    },
+    {
+      "id": "ff34d3be64ddae56",
+      "title": "Advanced architectures for LLM agents move to production - TechGig",
+      "summary": "TechGig 报道了「Advanced architectures for LLM agents move to production - TechGig」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Advanced architectures for LLM agents move to production TechGig",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHoxejB2Znp4bDVNS1VNSzRvaDRhMURvbEI1ZEtCYmlFNlFJekJKUDhJRE5ra0dRcUh4eUZnUEVBeHFQdVZCY0ZjM2h1Wl9fY0dJVVRwbkE5RV8zZ2RrdkpfSFg4OGdSNkpIUkcwRWNUYlJTRXV1MlBCcXQ5c1JNa2owN0czSFhNejNmQWlNSXdGRHBaUm9MWThR0gGfAUFVX3lxTE01c052amtRanZzV0RuR1RyS25XOVY1T3p3ODkxdC1VaktwMXVyNWh0ZnFpbkZhcjVoMHVHZkhPTFVfSk4wZVFEbi14RDBVSE9VNkxUbWdaRDloWGRQQ29MMWlTN05wSzZ0TjNfVWhtSHN5X0x3R1ROa1F0bDQ2SEN3Y2dvREVYYWJFamkwaGREbHFiU09DblRORkViVE9qdw?oc=5",
+      "source": "TechGig",
+      "published_at": "2026-10-12 12:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 102.5
+    },
+    {
+      "id": "a9f6be00f10fae12",
+      "title": "Jetashree Ravi: Open Source AI Is Production-Ready — Now the Moat Is Training - BigGo Finance",
+      "summary": "BigGo Finance 报道了「Jetashree Ravi: Open Source AI Is Production-Ready — Now the Moat Is Training - BigGo Finance」相关进展。 该消息涉及AI 产品、AI 芯片、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Jetashree Ravi: Open Source AI Is Production-Ready — Now the Moat Is Training BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSG9WaXVYUGVxWTFmOXRFTkM5bHhwZGZkcUJoV25DMldRa3prTGUwXzZMb2ZpZHdiMW1NT1VsMG1Beks1cWJ1c18ycm0xZG5BOUItUzlKMzVSazQ?oc=5",
+      "source": "BigGo Finance",
+      "published_at": "2026-10-12 08:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "2d8a0987f1641156",
+      "title": "What Happens When Software Stops Answering Questions and Starts Taking Action? - Grit Daily News",
+      "summary": "Grit Daily News 报道了「What Happens When Software Stops Answering Questions and Starts Taking Action? - Grit Daily News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What Happens When Software Stops Answering Questions and Starts Taking Action? Grit Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKd0VTZHJfcUJyVGFDRUNEYjdCUDVZdU9USTVjMjliMUljVFg0ak55dEExRDZZS3VlaS1SYVJmcUN1OURlTmRDZmFoVkxnLUYwa1FidzhYWGExMWpuVVhzZFpCSzFsbEtzV1h5ZWZSZHR4T1d1Y2hwcU1B?oc=5",
+      "source": "Grit Daily News",
+      "published_at": "2026-10-12 05:44 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 99.5
+    },
+    {
+      "id": "690c962c1b6ff703",
+      "title": "Advanced architectures for LLM agents move to production - TechGig",
+      "summary": "TechGig 报道了「Advanced architectures for LLM agents move to production - TechGig」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、大模型方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Advanced architectures for LLM agents move to production TechGig",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXNOdmprUWp2c1dEbkdUcktuVzlWNU96dzg5MXQtVWpLcDF1cjVodGZxaW5GYXI1aDB1R2ZIT0xVX0pOMGVRRG4teEQwVUhPVTZMVG1nWkQ5aFhkUENvTDFpUzdOcEs2dE4zX1VobUhzeV9Md0dUTmtRdGw0NkhDd2Nnb0RFWGFiRWppMGhkRGxxYlNPQ25UTkZFYlRPanfSAZ8BQVVfeXFMTTVzTnZqa1FqdnNXRG5HVHJLblc5VjVPenc4OTF0LVVqS3AxdXI1aHRmcWluRmFyNWgwdUdmSE9MVV9KTjBlUURuLXhEMFVIT1U2TFRtZ1pEOWhYZFBDb0wxaVM3TnBLNnROM19VaG1Ic3lfTHdHVE5rUXRsNDZIQ3djZ29ERVhhYkVqaTBoZERscWJTT0NuVE5GRWJUT2p3?oc=5",
+      "source": "TechGig",
+      "published_at": "2026-10-12 12:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "large_model"
+      ],
+      "importance": 98.5
+    }
+  ]
+}
