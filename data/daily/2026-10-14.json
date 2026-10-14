@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T14:11:36.456372+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-14/",
+  "image_path": "assets/daily/2026-10-14.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "a5d7ad54729ca48a",
+      "title": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information",
+      "summary": "The Information 报道了「OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model The Information",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDFqZGhJOXVPdUJITWJ3TGVlQkdrdG0zaVlyczBQZEFUcW5RdDlmTktHajR1bEl2eC0zLW14LUlEU0NLNjYzRlYyWGpkb2k0M1RKUEc2Yno2ZVIxYUMzTU5iYm12RldMM25mTFZCNW5BdjRlMGxPb3JYR2F3T1pwaVdPN2wxaWFBMG5yNHJXTnBzSnB5dmZXWEE0ZHVxWlhoWENURlV3?oc=5",
+      "source": "The Information",
+      "published_at": "2026-10-14 03:51 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "57b57d21740b84c9",
+      "title": "腾讯AI办公智能体WorkBuddy打通企业微信 - 财新",
+      "summary": "腾讯AI办公智能体WorkBuddy打通企业微信 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯AI办公智能体WorkBuddy打通企业微信 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdVlrMEw2YlB5cHR3U3BtZ2N2bEdibU5fck5Td1AzM0hDUVpIb0gtXzR3czkzMHRDQWNDNng4V0oteEdzSGgxUjgwMkJzZ1ZqMHJyR0psdjdJeUEtWTZHcWZEek8?oc=5",
+      "source": "财新",
+      "published_at": "2026-10-14 11:34 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "c2f42c0b4c411635",
+      "title": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune",
+      "summary": "Fortune 报道了「Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzhtS0FHZVoxdGJ4MjFiLXhBdVNTS3dfOF90YW13d2N2em5zQ0I3QlRYVzZMeG5XTFljQlllcnJzRlQtZ0xtcENKWFBSQzJtNDd3N3BHTExoQzlxaWxFNHhqdGVVbmlOcXhheWxIc1hKLUtid3lORU1EVWU1bklFek9maUNiRjFkbHoxVHpfQ09VWlJMZl9VTVRpcHFjd3pDX3ZWSFhCREJVTVI1RE1KQVRzRU5hS3NYdFMxVVQ1V0M3YTNzYllCT1hMUmR2QnRhSWUtSWdSQ3FwdUluS3JKakVJb3NNVWZiUExkeHVuU1oxVHJoSE02TWdmYWFzZVI1S1RtQw?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-10-14 03:52 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "72c98f7807694b34",
+      "title": "Making AI-driven chip design affordable with open agent factories and distributed inference at scale - IBM Research",
+      "summary": "IBM Research 报道了「Making AI-driven chip design affordable with open agent factories and distributed inference at scale - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Making AI-driven chip design affordable with open agent factories and distributed inference at scale IBM Research",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTdpYVpXbTBHcDZ3cHAybF9XdURwdWFtZGNfZWp4dHlYQmVIYWV6aDFQaENuR2pabWxkcVNyX1RMSXpMSUFyZWNuWnl3MEdkWndZNWpWdDI2WTJPMWZQZkgwNnJZZUozbWtMczBjUkJNTnRieGlILTlTVVJkRk03OVdaVWlXLU9YUkxhbEdHM2N5SWZ1M0lN?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-10-13 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 154.5
+    },
+    {
+      "id": "e27f27262eb61692",
+      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+      "summary": "Reuters 报道了「FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-14 03:59 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "04828bab41e36dfd",
+      "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds - VentureBeat",
+      "summary": "VentureBeat 报道了「OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds - VentureBeat」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-10-14 01:05 +0800",
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "8ba315642d39a61d",
+      "title": "腾讯AI办公再进一步，企业微信与WorkBuddy 深度联合 - 搜狐",
+      "summary": "腾讯AI办公再进一步，企业微信与WorkBuddy 深度联合 搜狐 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯AI办公再进一步，企业微信与WorkBuddy 深度联合 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFVRSEJmeVF0UExBenJ2bHpHZFJOS0ljZ0FFRFd3WEs2aF9QVnd3UmgxTWJob2dRUTdFaDk2bE40NERiaGx5QmJLeUs0U2ZQallVcWlHZnBEaF9Sc2ltcUdkNVVtd3NxWnNPS2N5RGtfZ01CNnBGanZHdy1veFNrSko2S1paT0Vz?oc=5",
+      "source": "搜狐",
+      "published_at": "2026-10-14 11:41 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "64a95c9b61dd0acc",
+      "title": "腾讯WorkBuddy接入企业微信：AI对话机器人进入通讯录，可调消息文档会议等十大能力 - 凤凰网",
+      "summary": "腾讯WorkBuddy接入企业微信：AI对话机器人进入通讯录，可调消息文档会议等十大能力 凤凰网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯WorkBuddy接入企业微信：AI对话机器人进入通讯录，可调消息文档会议等十大能力 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKdTg3SmdYdVF2X19tcVEzS1g0UkFzMGlrWExibEduZ0lVRnd1dnptQ1lUUUZ4eGM1WTlQUDNiN1NlVzNYLUhaSDdHelZiS3I0YkE?oc=5",
+      "source": "凤凰网",
+      "published_at": "2026-10-14 11:20 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "12f5a74e1cb597ef",
+      "title": "梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？ - 财联社",
+      "summary": "梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？ 财联社 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "梁文锋，出手投资腾讯前科学家初创企业Winverse AI ？ 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmamMxR1YtWVphSkZRdE9hVXVtTGhNX21OTjQ2QjJqNy0zVkV0NzI2Z01qNHFuZzRxbDJybTV0akxRUTRVdlUxRA?oc=5",
+      "source": "财联社",
+      "published_at": "2026-10-13 17:29 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8aeecddc0b1d2b15",
+      "title": "从“懂空间”到“能干活”：商汤大装置助力上海量子城市首批智能体落地 - 雷峰网",
+      "summary": "从“懂空间”到“能干活”：商汤大装置助力上海量子城市首批智能体落地 雷峰网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "从“懂空间”到“能干活”：商汤大装置助力上海量子城市首批智能体落地 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mNzhIMHVjbFE1c1VNZW5rZE9XQUphbUxVTDdIaUhNMF9NMFlXSGRhRUhWcmw0dVJhdFBCOHAtWk9zVFZtaHZ0SG1ZbWwxOG5PSko0cWR6NEtZX3M4UTNaR1Awek9iT09UVHc?oc=5",
+      "source": "雷峰网",
+      "published_at": "2026-10-13 14:50 +0800",
+      "companies": [
+        "SenseTime"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "39597c96e2da2cfd",
+      "title": "Agentic AI Is Turning a Decade of Enterprise Data Debt Into Operational Risk - CDO Magazine",
+      "summary": "CDO Magazine 报道了「Agentic AI Is Turning a Decade of Enterprise Data Debt Into Operational Risk - CDO Magazine」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Agentic AI Is Turning a Decade of Enterprise Data Debt Into Operational Risk CDO Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOE9wbEp1WFhHbEFXMS1rYklHTEl4RHlKTFd5ajV6Tld0akgwTTBxOWt2REVhUWhQd0xLeWJZTFMtZ1dZS3NqV0RLV210NHVBSXNaVWozVUptV0VsWjctS2dkT09hM0NvN290dnZ1WnJsTkV4YnEtWGFuMmZTNTAwTkN2cC0yQmhNWEwydV9CRTlSc0FMdm5MazhMSmt4dXdMUXVoOFBUMHFEY2xDN1BZcHZmRnpIbnV1cGtV?oc=5",
+      "source": "CDO Magazine",
+      "published_at": "2026-10-13 22:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "f3181a2ea94acdf3",
+      "title": "The highest risk for AI agents is the software development organization - SC Media",
+      "summary": "SC Media 报道了「The highest risk for AI agents is the software development organization - SC Media」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The highest risk for AI agents is the software development organization SC Media",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdENGUTY0TEE5Q3pUejlPV0lEWnJvcEwxRk9udDQ5VldPTmZ3SVFlS3AwakN1VDFQSDlQYUk0OTFjTDhLbTVUdFJST2MwQ1RpdkxKeFFES001eXg4S0ZOMXowS2JuYzJiZ1F1eHBjVUExZUktbnN4azk2Zmx2cVZDbEtIOHYxYXpkOUZCN0JCYUhnN1FqMVpyNlBZQnpwUXZXMENlM01IMVJOX1k?oc=5",
+      "source": "SC Media",
+      "published_at": "2026-10-13 01:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "3280ba071f9cee7c",
+      "title": "From pilots to production: What makes enterprise robotics effective for work - iTnews Asia",
+      "summary": "iTnews Asia 报道了「From pilots to production: What makes enterprise robotics effective for work - iTnews Asia」相关进展。 该消息涉及AI 产品、企业应用、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "From pilots to production: What makes enterprise robotics effective for work iTnews Asia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGxYSnV2TUFMRzdiNFlaZ3dySEVKS0Rha2RDTTh6a3EzM3lhOUQzclVneklKMGJRTUpSSUI4X2Rwd2sxSHcxMXpuc1ZkZlJaVEN5UC1Sdm5zTWQxVEJaUDFwMWNETHd1OUNvZFc2N1h5SF9sOEVtcEkwamhkUm81TU1mdDFfNm03cndzN1pQS2VCVndTRGRlMWJYdU9DR2JFb1FUMVZvUW51UTdfUTFsUA?oc=5",
+      "source": "iTnews Asia",
+      "published_at": "2026-10-13 20:05 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "robotics"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "51865da8f413e313",
+      "title": "Deliverance AI puts sovereign AI control to the continuity test - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Deliverance AI puts sovereign AI control to the continuity test - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Deliverance AI puts sovereign AI control to the continuity test SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYVFRNEhQSmJ0M21iaGVFRF9MMUQxSl93eFFtdkNkTWdiZlRXYzBrWGhsbjdIX2ZZTXo2d0ZZbTFYbXJDN21Dd2R4SnhmbjNfeWtrSUowekJudnBMUjhSdXJ4akotOTgxa1RoeERtcXNySDVmNFkzVWJQMmdSNzhqYzN4MVVRUnhPc2VfZUNsNnJRdVhPM0FkNlh4LW1MVjU4MVhZUzRRY0RaMEpf?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-10-14 03:34 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4ecc0acf97b680b7",
+      "title": "Appfire Adds AI-Native Solutions Built for Knowledge Workers and Agents - SD Times",
+      "summary": "SD Times 报道了「Appfire Adds AI-Native Solutions Built for Knowledge Workers and Agents - SD Times」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Appfire Adds AI-Native Solutions Built for Knowledge Workers and Agents SD Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkhMR2NKR3VVRmlxQk8ySnpkVGtZX2xtRFllV25uNWgxa2FKdkdzWnlhaDBfb1JlcG9HdnJURW1OSWlZT1g2UVNkUjJLNVZNcmswMEZGVVU0SGhjYm5tTDUybm92VU1VY0dGYTA2R050d1VKYmdocEU2Tmx3R2I4V2NxRk5nX1hGU2NZUWo0RDQ4SjVmdkVyTGp4d083eVdLdjhiemVSUXVvSjA1ZWhpS3dpeF81b2h2TnYxYkNKemc?oc=5",
+      "source": "SD Times",
+      "published_at": "2026-10-14 07:37 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
