@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:56:01.995408+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-15/",
+  "image_path": "assets/daily/2026-10-15.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "3d335e6d9129fb94",
+      "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Executive Says Open-Source AI Models Are Higher Risk Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl8zSEtRa0QyR0Z5OHJVOFhjX2xJTGtmVVVXSll3cXNCUkVBOFdKWGZUMVhTZDVzX1lpM0RYSUFkdkRjbTVQZ2dnTjhjeDIzYWtncUsyMHZnbGZqZmhqaDdyS1RMNkp6MjBQRlFRcWJ5SFJSYU90SGhPanBUQjBsSncxeXVYOTlSb05ONVNMOHRYWVFFenp0VFpnM1pRbGliU3ktb2t5ZnV4MnREQUxsVVBiSQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-14 16:48 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "f6f62680eceebf69",
+      "title": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 - 虎嗅",
+      "summary": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 虎嗅 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbE9CNU1JZldJeElraXRiOGVla1doVE5FM2Q3NEFyNlNpU1Q1VkdOb1FUQnowTU5hSXhSdzVUeGVsNTI4bnRvT1VhVmg3T2FhS3A1bA?oc=5",
+      "source": "虎嗅",
+      "published_at": "2026-10-15 12:22 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "506ec86f5cf46f83",
+      "title": "GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume - Startup Fortune",
+      "summary": "Startup Fortune 报道了「GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEtpQm9XZS1YOWVIRUN4Z0FuOEpKMjJ5czlwWTJ5emtyakMzS0VRc1F6WWhURXJJQnZ0SzhxSG1rMDNTN2NEREN2aGpPNTBwWVQya3ZFYThkY0lROHBwYTdxZFVLeWlPMlVkNzJicEgtdlFxVXRMaWpGS09GaU1CcHVQNDFwaFZoVnNoSk4tTjZDS2c2TEJjQlJGalNRdw?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-10-14 23:27 +0800",
+      "companies": [
+        "Microsoft",
+        "Zhipu AI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "research_paper",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "78f30d2e39be0216",
+      "title": "Few-Shot Text Classification with Scikit-LLM - KDnuggets",
+      "summary": "KDnuggets 报道了「Few-Shot Text Classification with Scikit-LLM - KDnuggets」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Few-Shot Text Classification with Scikit-LLM KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5idi1oTWNnX0docFB3ZEVlVTRYbE1LTGN4SFRvYk9UcjNiTW1MRDJZX1gtNlkwb0gtTTZXWTNMYkZjVTl4SXQyT0V2b0ZBVnVuRjJTQkNZM25OS2NqUDN1aFBmdWRHeGJPdlpBN3FIbVVRZ3ZxcUpXcVNB?oc=5",
+      "source": "KDnuggets",
+      "published_at": "2026-10-14 22:10 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "c2f42c0b4c411635",
+      "title": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune",
+      "summary": "Fortune 报道了「Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzhtS0FHZVoxdGJ4MjFiLXhBdVNTS3dfOF90YW13d2N2em5zQ0I3QlRYVzZMeG5XTFljQlllcnJzRlQtZ0xtcENKWFBSQzJtNDd3N3BHTExoQzlxaWxFNHhqdGVVbmlOcXhheWxIc1hKLUtid3lORU1EVWU1bklFek9maUNiRjFkbHoxVHpfQ09VWlJMZl9VTVRpcHFjd3pDX3ZWSFhCREJVTVI1RE1KQVRzRU5hS3NYdFMxVVQ1V0M3YTNzYllCT1hMUmR2QnRhSWUtSWdSQ3FwdUluS3JKakVJb3NNVWZiUExkeHVuU1oxVHJoSE02TWdmYWFzZVI1S1RtQw?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-10-14 03:52 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 150.5
+    },
+    {
+      "id": "03dca087d9cc7504",
+      "title": "OpenAI CFO says major AI model needs more safety checks - Cybernews",
+      "summary": "Cybernews 报道了「OpenAI CFO says major AI model needs more safety checks - Cybernews」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI CFO says major AI model needs more safety checks Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcDBrNmVGZFZBYjR4MmlkQkJfQlV1a1phUkpnVUcwQjhBR2pQRjV3ZGItZEpXd1owdEhXUjVYTTdqbEtGTWl1U3dTb0lwU3pRUnJSTTRBQ0ktT3NCcldhWTZKcWlERC1VbXBXNkpsNkVJZXBk?oc=5",
+      "source": "Cybernews",
+      "published_at": "2026-10-14 20:34 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "be0be593fa684ecf",
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？ - 雷峰网",
+      "summary": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？ 雷峰网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？ 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0eXd2R2FsTTdQZmZxTmVEMzRTWi0tRzN5Uy1UY3JzYXNWVXQtTXd0V1I0LURCSGFSZGVHbzgtcVhnZWp5dzhZcWlDWUFHQURHYzZ5UVBvRnBwMUZQeHNybVl3TEFFLVJyMFlvcW5hOUhrZlNoZnBj?oc=5",
+      "source": "雷峰网",
+      "published_at": "2026-10-15 12:17 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "a7ce1e9e2c223916",
+      "title": "昇腾950超节点首次在山东亮相，算力引擎赋能齐鲁“AI+”多点落地 - 搜狐",
+      "summary": "昇腾950超节点首次在山东亮相，算力引擎赋能齐鲁“AI+”多点落地 搜狐 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "昇腾950超节点首次在山东亮相，算力引擎赋能齐鲁“AI+”多点落地 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzQ3MFNRYU56MnNJd3lIdDluNFpsaXYwZFc0UkdtVzV4a3NGVFNmV09JNm5MYmRJRXg1NUVOT29WX3RoWjZSSlJqNDNqMy0xbGFpZ2RkWEtnNE1lNmV6M0hZdHA2Yk5nRTQ0YWRSVVZwendYdHVTSGxVSkoxU3lYdTgxazhRUXFyVDAtRQ?oc=5",
+      "source": "搜狐",
+      "published_at": "2026-10-15 11:21 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5868e63163e0596e",
+      "title": "AI软件周报：DeepSeek融资翻倍至1000亿；企业微信正式接入WorkBuddy；151款应用拒绝接入豆包手机助手；千问办公“电商版”发布…_科技_i黑马 - iheima",
+      "summary": "AI软件周报：DeepSeek融资翻倍至1000亿；企业微信正式接入WorkBuddy；151款应用拒绝接入豆包手机助手；千问办公“电商版”发布…_科技_i黑马 iheima 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI软件周报：DeepSeek融资翻倍至1000亿；企业微信正式接入WorkBuddy；151款应用拒绝接入豆包手机助手；千问办公“电商版”发布…_科技_i黑马 iheima",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZN3RtWXlkQTlrVFNVSzl1RFFudUhscmJnYzQzZ044QmtBcDViSkRraWpBTzdyQXBWM0JVeldmNUlSbUt6eHA4VzZsUWhjZ0d1bEZR?oc=5",
+      "source": "iheima",
+      "published_at": "2026-10-14 18:37 +0800",
+      "companies": [
+        "ByteDance",
+        "DeepSeek",
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6589bad78b752fea",
+      "title": "上海大模型企业阶跃星辰发布首款智能体手机 - 搜狐",
+      "summary": "上海大模型企业阶跃星辰发布首款智能体手机 搜狐 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "上海大模型企业阶跃星辰发布首款智能体手机 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm5OLUlldmhtRUN3R3Jqdy1iZDRpejA3V2Jpa0NpVzZqZ3l5U0NlVndkYVJLWTdxbERMbkk1RkNTLVpMbXN6VU05MkprNk1xQ0hSLWVPSGF3MFlQWGhMNFdFRDlvb0FKaXlqbUpnUUR1b0VkNmRnSDBha3hBSHNkU2Z4ZVVjNzZGdXVTMQ?oc=5",
+      "source": "搜狐",
+      "published_at": "2026-10-15 11:32 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "313b1e2d07f1d19f",
+      "title": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance - PR Newswire",
+      "summary": "PR Newswire 报道了「Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzJHX0J6aGNZaTh4N3VaNXpWcFZJMnRUeVJmME5FZ2RsSjhibHpHRDVYRmJjaW9VdWJlMUNYdWdlaVJBbFhXeHpzSXVGd2VfOWlVUHlPc3djRnc2aThUNmlNVzNLYVJRdEZZRG9ScmVWaFlhU3cwY0Y0azFSNEQtUVJDQWdZSVhjQzNPQjhkemRqYzdRajZMMUFzU1ZPX3FjUUNyckZIN0E2RUQ1OUwyYS1IYjdkTldhcEFMR1M3dV9GcnlnbzFOQ19TT0tGSHBYQ0UtX0pwVlVIRGRTQ2pCOGVn?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-10-14 23:30 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 100.5
+    },
+    {
+      "id": "bcf24ffb72d74607",
+      "title": "SolarWinds Ships a Standalone AI Agent to 300,000 Enterprise Customers. It Brings Zero Outcome Data. - Forkast News",
+      "summary": "Forkast News 报道了「SolarWinds Ships a Standalone AI Agent to 300,000 Enterprise Customers. It Brings Zero Outcome Data. - Forkast News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SolarWinds Ships a Standalone AI Agent to 300,000 Enterprise Customers. It Brings Zero Outcome Data. Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUhUNHRyY3RITUx2VXJKZHVDeC1pNEtQNll0ajZsWm45aEprM2JDTzRtdm03NktHQUVScUJKcHk2cXRkM19NaG9tVXdMN2x4Z2xBdV9fcng2YUpwQnhpTjdhUmp1bDJHV2JRV2tid0t5d0xBRDVtRi1IQWo3dG11Tk9VMUVOd2pYdUFvMWlHM1dweFZrWTNNb0U3Y1hwazRFNk4tWlRlb3czZXh2bU16ekZqU2RkaFBWQWxB?oc=5",
+      "source": "Forkast News",
+      "published_at": "2026-10-15 07:27 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "f4f0c8492877dd82",
+      "title": "Governed AI agents can drive platform expansion, says Securonix - iTnews Asia",
+      "summary": "iTnews Asia 报道了「Governed AI agents can drive platform expansion, says Securonix - iTnews Asia」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Governed AI agents can drive platform expansion, says Securonix iTnews Asia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGs5OVlBVjFraHFFS3BBejNFd2VvOHpoQXIxX1NZSFRjT3dWNGlONDJVSXVQb3VVSkVrT1hmdk16VWxkeHpDVGE4anBZSDI1YngyRWdNYl91bVl4RC0zTWtIVzBUWElVWXFxVDlQenYtdmRZeFRKTkpiQlhBc2VFSEREMEtMRllKaXY3V2JCVFZrQzlySVAtbGh3U2d4LVk?oc=5",
+      "source": "iTnews Asia",
+      "published_at": "2026-10-14 15:36 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "3183d9f45b518abb",
+      "title": "Eric Connors, Chief Product Officer at ICIMS – Interview Series - Unite.AI",
+      "summary": "Unite.AI 报道了「Eric Connors, Chief Product Officer at ICIMS – Interview Series - Unite.AI」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Eric Connors, Chief Product Officer at ICIMS – Interview Series Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVlBNVZSODlWT1B3RFpzby00eVdmODJIV1RaNGc0RFgteko2LV94aDM5MmZmOTl0WWJRd3cyZXd0LU9tOUFNaUFfaHJyVUZ3VjlRVVFQWTE1VWVaTldXd3pLcDlQVWlPU0FUNGMzQmhSXzByZXBXejJuZ1ZjZjVENi01Y3BtdUJNMVE?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-10-14 23:45 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "4b08adba2496c341",
+      "title": "New enterprise MCP server support brings trusted data management capabilities to your AI toolkit - Precisely",
+      "summary": "Precisely 报道了「New enterprise MCP server support brings trusted data management capabilities to your AI toolkit - Precisely」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "New enterprise MCP server support brings trusted data management capabilities to your AI toolkit Precisely",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmpfTWZOYlBzR0ZLZEZHWWNzZ3pxWll4WkU1ZUhuYUpad2czUVNLMzFuTUdPOEFUMEh5SG5zbENtVWxCdnVtTW0tWVh6dFU0cmRic2dHdlByc1Jiclp5b0kxemZaTnpUZDRJMWdsSG5IZVlLcjlxN2c5QXJMa2gyZWhqZms4QkVCci1PSENvZGpIS0gxcGpMaUlCZlhRVms0RE10QWJxYlcxZzdfSFBYdzQ5QjFOSHZGRkp3QXdjTExycWlPYVRZam1mYVhUOXNOODRaR0JuWC1xdw?oc=5",
+      "source": "Precisely",
+      "published_at": "2026-10-15 04:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
