@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T13:58:25.754328+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-18/",
+  "image_path": "assets/daily/2026-10-18.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "1c5620b60db66c46",
+      "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcENENWdpRlloLVpNclIyQWpIM3JSV3VHZklqOWZlQ0NJYnB2TWg2ZlhPMndNbS1qM2pWM0dTTVFZQ2l1SmxTT1h3VjZJNVpXTWhZTHRnLThqYm9UeFJ4ZEp0U3JROG1sUFJrN3Z6SEFKN2tPcU5teHZ6cU9JUDh4X1laZVZJMkZNNXNSZnJlZDdOX0dFMlM5REZCSGRHR3AydkdCbUY3RU9zYTRoNzdz?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-17 07:16 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "ab04600f095095cf",
+      "title": "Meta is 'back on offense,' BofA says — with only one top risk - Yahoo Finance",
+      "summary": "Yahoo Finance 报道了「Meta is 'back on offense,' BofA says — with only one top risk - Yahoo Finance」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta is 'back on offense,' BofA says — with only one top risk Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam5ydG9tZnV5VDNlN3BUd3JxZWk1WkhEbFV1QXpyRzdTYkgxaEc2RnRZbmJTUVZvRGQ5OGtyWDA3aGQ0UjI0S0UtU0ZnOHgzNEI1T2ZhUmtlb0VWSC1iU2tsVkxaNmRadjZ0azI3eVd6U1paaGtkampiQ2U5M3ZaSFZ5YnVfVmgybFVGTnJZeGEzc1Nhc2FpOE9HekxQbGhoazhjLU1fOTJZWUZfbzhETzFRVVhDTUlB?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-17 18:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "fc2307f42f4757a3",
+      "title": "央视评豆包手机遭上百款App拒绝：AI真正落地必然经历产业碰撞 - 驱动之家",
+      "summary": "央视评豆包手机遭上百款App拒绝：AI真正落地必然经历产业碰撞 驱动之家 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "央视评豆包手机遭上百款App拒绝：AI真正落地必然经历产业碰撞 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0dWpnc1pvR3FNX3FXbHNFTXlqb01mazVjMld3dU83bE5uX0JQOVZmSkpZUEVMc0dnRXFXODNKWWFuRlNmVlFkYjRLZTRRWEE2LXFhSVFBbnI?oc=5",
+      "source": "驱动之家",
+      "published_at": "2026-10-18 10:48 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "c3c0e1cda427378c",
+      "title": "CCG举办2026企业出海交流大会 - 风闻",
+      "summary": "CCG举办2026企业出海交流大会 风闻 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "CCG举办2026企业出海交流大会 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SczN0MFFEeDBKWWtMOFpSN1J3WjlaSUgtdVJwZndraTljWGNHT2trREliblpDc01HVnRMbzZyNGg2bjZpM0NMS20zQjFqejMwbVR4Zk1jR1RoU0U?oc=5",
+      "source": "风闻",
+      "published_at": "2026-10-18 00:44 +0800",
+      "companies": [
+        "01.AI"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "95ff3caecb546cad",
+      "title": "科大讯飞文旅产品线副总经理汪冬雪：AI大模型落地主题乐园，最大挑战是与IP结合｜2026主题公园和度假区发展大会 - 东方财富",
+      "summary": "科大讯飞文旅产品线副总经理汪冬雪：AI大模型落地主题乐园，最大挑战是与IP结合｜2026主题公园和度假区发展大会 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞文旅产品线副总经理汪冬雪：AI大模型落地主题乐园，最大挑战是与IP结合｜2026主题公园和度假区发展大会 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56cnRRN2xMZDNLa2l3Z3FfeUNjM3lKNlVKWjVIdGlkZ2RXTmFUeE1IOUN3VFZCVVFoMWJqNXRoRFgzd1pYX3NmUEoxXzRvYWFtQXB0QVhyY0RzeEN5dl95Yw?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-10-17 17:13 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9e17091c7ddb6bb0",
+      "title": "“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海 - InfoQ-CN",
+      "summary": "“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海 InfoQ-CN 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海 InfoQ-CN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZzZBLWpqYnhCeE0wQUtHNDZfaVVVNERhRFVVVGVXVFhabC1KV0xyTG9XQWZjSVhkWW81VzhUeUprZ3B3UG5ienZEenZWVFlnU1JQTlFqQlNaOWdqQVE?oc=5",
+      "source": "InfoQ-CN",
+      "published_at": "2026-10-18 10:00 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "228148a0a9c6c6a9",
+      "title": "AI Cloud 100 China 2026榜单在沪发布物理AI企业成上榜主力|具身智能|上海市|自动驾驶|月之暗面|阶跃星辰 - 新浪财经",
+      "summary": "AI Cloud 100 China 2026榜单在沪发布物理AI企业成上榜主力|具身智能|上海市|自动驾驶|月之暗面|阶跃星辰 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI Cloud 100 China 2026榜单在沪发布物理AI企业成上榜主力|具身智能|上海市|自动驾驶|月之暗面|阶跃星辰 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVsaXVRMzR1WjdOY3N4T0dnQWNWWTNTSWMtamFjRlczdm8tNTZ5Q0VnM0NIOHJCdWNmcGZPeG1nVkxWbEVYQU43Z1J2VlRwMVVxNXZvazZ0ODJsaTgzQUw1V0E4d0llbDNreFJWbEhEVUZYVzNoT1lVZTZHbkFKWEVfZHBtMVk?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-10-17 19:20 +0800",
+      "companies": [
+        "Moonshot AI",
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "cc5d7b25390613c9",
+      "title": "(Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD - Yonhap News Agency",
+      "summary": "Yonhap News Agency 报道了「(Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD - Yonhap News Agency」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、商业活动方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "(Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OZEVMZHlxVlBZTXUzdEkzUFBFNDlrTldYYUUzZUJGeDZOd08zTXNoblFsMENLV1NRZDk2eDc1MjFwN2FwSUNRaXFKNUJwMGlVWXBIeFdnSVk3Zw?oc=5",
+      "source": "Yonhap News Agency",
+      "published_at": "2026-10-18 06:00 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 147.0
+    },
+    {
+      "id": "79e0fa1ef1aeea0f",
+      "title": "Five Questions Security Teams Must Be Able to Answer About Every AI Agent - Infosecurity Magazine",
+      "summary": "Infosecurity Magazine 报道了「Five Questions Security Teams Must Be Able to Answer About Every AI Agent - Infosecurity Magazine」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Five Questions Security Teams Must Be Able to Answer About Every AI Agent Infosecurity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWFYMlduQU5PRkpYMEpEczczSXNzLUIzY1JOTlRYSnFybEdfRnNkWC00UjJKTXJfZFlEcC1Dd3VVOUNPUzRFN1otQmNybDczUTRxQlhNSl9GS0NaQXZQU1NJUl9ldDlfOTRiX3FaZDF3ZUtxczFlUW9aM1I1VGJQc0RDSTg?oc=5",
+      "source": "Infosecurity Magazine",
+      "published_at": "2026-10-16 19:30 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "e5d614a245981d02",
+      "title": "Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nvidia’s Huang and Broadcom’s Tan Debate the AI Boom Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlRLUzZMcHBMOTZKdVZJcmFKUnlYNkFLdlYydV9WbFBvVHFLSXphLXVFck5aMUxzX3NaSzBHNkVodTVpeHBvTTM2ck9jTkJ0RkVoUzlURzJ3dEY1SjRuMHFMVE1zbDB5MUptVC1FRVkwNElMREFaaGk1MTFYUEMtMFZPSll4clZVNzQtVHZoWm5STUNfaGZ4YlVudUE3Y1NvWTAyRDZTZzlnbTV5RlBDQ3U4Tk9UTzVMT1AzcVUxa3JQMEwwUldWU3V1SGkxWDA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-16 15:00 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.5
+    },
+    {
+      "id": "d0cc27b64941f0d2",
+      "title": "Why cybersecurity and physical autonomous AI must be governed together - TyN Magazine",
+      "summary": "TyN Magazine 报道了「Why cybersecurity and physical autonomous AI must be governed together - TyN Magazine」相关进展。 该消息涉及AI Agent、AI 产品、大模型、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Why cybersecurity and physical autonomous AI must be governed together TyN Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjJ0UUhyUEprMlZpYkxBUXRoNlBMWUxxRFVib2pPb3NmMVFST3Zhb3VDWFFuZDRvQ0M0U2V1VWtvZFJ3U0phOXVaQ0Z3d0Q2elZaQnNYVEowQUQyYlJjV0JEN1ZjcVM5MnBFXzN0ZUthMVlXdndMNDlsZ1duX0YybVhFb0hrRHRDMV92M1ZyZFprbTc1OUVWMWJyVQ?oc=5",
+      "source": "TyN Magazine",
+      "published_at": "2026-10-17 20:32 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "large_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 95.0
+    },
+    {
+      "id": "d1db76e033f6f317",
+      "title": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs by 100X - HPCwire",
+      "summary": "HPCwire 报道了「Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs by 100X - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs by 100X HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFViNk8zYU95YWdwV3FydUpKRWE0TXZsMGhOZkVNQk1vaE9sRzlhdmVVTG1VSnN6WmI0ZDJzVlJac0QyM1hQTmdRNmp2Yl9iQzE1UWNGRzlMT0RwSUljamJDNy1lUlk3SGRTNnBTd3hhWFVld3lvLVRCN3dRZUZHY3A2a2lHTnRMMk5uYjdHNlQxLWg4WlM4VXpxMEhUMHZIazEtT0lqRS1tQjlNT09zUS1GblNpMl9weXc?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-10-17 05:50 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "regulation"
+      ],
+      "importance": 94.5
+    },
+    {
+      "id": "40fb4e8fa71cb15c",
+      "title": "What Does Okta (OKTA) Gain By Shaping Identity Rules For Autonomous Agents? - Simply Wall Street",
+      "summary": "Simply Wall Street 报道了「What Does Okta (OKTA) Gain By Shaping Identity Rules For Autonomous Agents? - Simply Wall Street」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "What Does Okta (OKTA) Gain By Shaping Identity Rules For Autonomous Agents? Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWJKbjJKVUlIV2drcldBbFVaRE9VTlFybl9JTko0R3hzSjVwR0ZWcmpmTl9WQTdjMUVzaEVOTlJBcHdnSXl4Qk1uSEtiZm10RkJ1dW5BYnVITi1SdkFyS1AxUDFzcGpLS1lrc3Jubl81ZEJhcUN4VGx3WTdOaG4tLXpBNVAtSzFqZ2NhTFhvTlBuNk54VzhoTnNtdjBBbm9hLUdzZklqZ3V5NmJadGVHbWFtenByeWxTV3BXN1BnY0J4c2pCaHfSAcYBQVVfeXFMTmViSm4ySlVJSFdna3JXQWxVWkRPVU5Rcm5fSU5KNEd4c0o1cEdGVnJqZk5fVkE3YzFFc2hFTk5SQXB3Z0l5eEJNbkhLYmZtdEZCdXVuQWJ1SE4tUnZBcktQMVAxc3BqS0tZa3Nybm5fNWRCYXFDeFRsd1k3TmhuLS16QTVQLUsxamdjYUxYb05QbjZOeFc4aE5zbXYwQW5vYS1Hc2ZJamd1eTZiWnRlR21hbXpwcnlsU1dwVzdQZ2NCeHNqQmh3?oc=5",
+      "source": "Simply Wall Street",
+      "published_at": "2026-10-18 11:41 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "9fc9c30c1d6c9fef",
+      "title": "The AI Token Trap: Why Cheaper AI Can Mean Bigger Bills - Doug Levin | Substack",
+      "summary": "Doug Levin | Substack 报道了「The AI Token Trap: Why Cheaper AI Can Mean Bigger Bills - Doug Levin | Substack」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "The AI Token Trap: Why Cheaper AI Can Mean Bigger Bills Doug Levin | Substack",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uM1FvcFFYc1NoMUZwbmN4WjVvTkNsY2M0b25mTG4xNUQ2c1o5MDdUaG1GZ3BRSElKNUxDclhoUHFJT3FPMjVnaGVwejItZjRGeV81bTk3YUZYQXhNdzUwU2lGeTR6bU5CaDRmMHlsZGVBclE?oc=5",
+      "source": "Doug Levin | Substack",
+      "published_at": "2026-10-17 21:54 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "704a638cb2352115",
+      "title": "IAM Enables AI Transformation at Oracle - Oracle Blogs",
+      "summary": "Oracle Blogs 报道了「IAM Enables AI Transformation at Oracle - Oracle Blogs」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IAM Enables AI Transformation at Oracle Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVc4cHZHVFNnbllLLWFUMkJndVhUSUVjSmdnNk15SXFSUXdOZUs2dWVOdk1zNXI2SktJQkZRQkhrb25WOWpZcFhCc0pnZERBZ3kwdk9QY05UMTIySXNSTW5PSzE3RkNsc1U3eklMdjUySkU3TWRoS0dRYW84d0E4Z0ZFVXJndkJIamdFZm5R?oc=5",
+      "source": "Oracle Blogs",
+      "published_at": "2026-10-17 12:40 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
