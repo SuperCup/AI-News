@@ -1,127 +1,23 @@
 {
   "week": "2026-W42",
-  "date_range": "2026-10-06 至 2026-10-12",
-  "generated_at": "2026-10-12T01:41:18.324762+08:00",
+  "date_range": "2026-10-12 至 2026-10-18",
+  "generated_at": "2026-10-18T23:51:58.190835+08:00",
   "site_url": "https://supercup.github.io/AI-News/weekly/2026-W42/",
   "image_path": "assets/weekly/2026-W42.jpg",
   "stats": {
     "total": 10,
-    "source_daily_count": 6
+    "source_daily_count": 7
   },
   "items": [
     {
-      "id": "cf6ff01dacfeb5a9",
-      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
-      "summary": "The Verge 报道了「Anthropic launches free AI security scans for open-source projects - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Anthropic launches free AI security scans for open-source projects The Verge",
-      "impact_reason": "The Verge 报道了「Anthropic launches free AI security scans for open-source projects - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEtaVTdoNVhBaUw0U2xoNzlWX1VPWmFQRXBMejZyWWpnUXZfMW9WUS1ZT2ExRkV6alhyVkNTdGhDVUpvRGJrWklZc0hKVFhZQnZuYXpyaUxRdms3TG9XSnJUbXhUbnAzTUtYcExwa1BVVy1EWmNHTWlpdGJibGNvdU9fQ1J2TnJGVnB1eDg1a1dpaThwa3dMNw?oc=5",
-      "source": "The Verge",
-      "published_at": "2026-10-09 05:53 +0800",
-      "companies": [
-        "Anthropic",
-        "Intel"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "robotics",
-        "safety_security"
-      ],
-      "importance": 156.5
-    },
-    {
-      "id": "bf3a3c673c28925f",
-      "title": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
-      "summary": "Bloomberg.com 报道了「AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "AI Issuers Are Upending Longstanding Safety Valve Bloomberg.com",
-      "impact_reason": "Bloomberg.com 报道了「AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzhDQ0ZsWWNnck5TR1k2UGxUMGZ6WHVvN1BUZHJDaXZFSHZTMTJ2djFyWVlWNFRZb0N4cThZOE1FYmFVSDliZWZLdUs2blpyWm40ZHpHaTJGWXNQQkRCQ2FGSVBaSVRMN1ZaYlRSY01rRm9IdnNIaV9JNFlmNWJOZmt3QUZfNThuYWFSNWM1VUZYZjlSY0tkc1pHYWZhYjhaUUc1VFVDdmZHVWY5QUFfZlJocVY?oc=5",
+      "id": "1c5620b60db66c46",
+      "title": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says Bloomberg.com",
+      "impact_reason": "Bloomberg.com 报道了「Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcENENWdpRlloLVpNclIyQWpIM3JSV3VHZklqOWZlQ0NJYnB2TWg2ZlhPMndNbS1qM2pWM0dTTVFZQ2l1SmxTT1h3VjZJNVpXTWhZTHRnLThqYm9UeFJ4ZEp0U3JROG1sUFJrN3Z6SEFKN2tPcU5teHZ6cU9JUDh4X1laZVZJMkZNNXNSZnJlZDdOX0dFMlM5REZCSGRHR3AydkdCbUY3RU9zYTRoNzdz?oc=5",
       "source": "Bloomberg.com",
-      "published_at": "2026-10-11 03:00 +0800",
-      "companies": [
-        "Intel",
-        "Broadcom"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "robotics",
-        "safety_security"
-      ],
-      "importance": 156.5
-    },
-    {
-      "id": "e9398e88417a4c74",
-      "title": "IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws - Cybersecurity Dive",
-      "summary": "Cybersecurity Dive 报道了「IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws - Cybersecurity Dive」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws Cybersecurity Dive",
-      "impact_reason": "Cybersecurity Dive 报道了「IBM’s AI-powered vulnerability clearinghouse finds hundreds of Java flaws - Cybersecurity Dive」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0lfNlRGc283bDBMbEdweXZqSVNwb19ZNHdmM3hqLVFBTGNicG8yVzQ2d1BCekFibWVxV2hqeGx1R3U5Y21BS0VJSzhEMmtHdmlJd3M1RGV2WEo2QlFhQlo0dTB6cFdqQjBmREhrT1ZLT2M3VF9PVGJGWkFyMkk2YUZpTjBsbWNQQmc?oc=5",
-      "source": "Cybersecurity Dive",
-      "published_at": "2026-10-06 23:28 +0800",
-      "companies": [
-        "Amazon",
-        "Intel",
-        "IBM"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics",
-        "safety_security"
-      ],
-      "importance": 155.5
-    },
-    {
-      "id": "5b43214b6cd38991",
-      "title": "Java library vulnerabilities: IBM and Red Hat fix 400+ previously unknown flaws - Help Net Security",
-      "summary": "Help Net Security 报道了「Java library vulnerabilities: IBM and Red Hat fix 400+ previously unknown flaws - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Java library vulnerabilities: IBM and Red Hat fix 400+ previously unknown flaws Help Net Security",
-      "impact_reason": "Help Net Security 报道了「Java library vulnerabilities: IBM and Red Hat fix 400+ previously unknown flaws - Help Net Security」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLXkwblVJMWlxc2s4TmRLOFhYa3FYbW9DY09lbHAwdjMwMk56Ql9fVkZ3MWhUTjJUaTZ0TWxWRms4elF1X3YxQ3FCYl9wWVo0N19YcmxBYzVIaE9xZzV0NzdaZENIM1Z4SUJGWnd6T24wNEtsWG9YVFgwUG0zaHhBSzNORDZsaUVwQ2c?oc=5",
-      "source": "Help Net Security",
-      "published_at": "2026-10-08 12:18 +0800",
-      "companies": [
-        "Amazon",
-        "Intel",
-        "IBM"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "open_source_model",
-        "regulation",
-        "robotics",
-        "safety_security"
-      ],
-      "importance": 155.5
-    },
-    {
-      "id": "0662ce30a88905fd",
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (3) - Bloomberg Law News",
-      "summary": "Bloomberg Law News 报道了「Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (3) - Bloomberg Law News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (3) Bloomberg Law News",
-      "impact_reason": "Bloomberg Law News 报道了「Anthropic AI Model Went Rogue, Submitted Fake Tip to Police (3) - Bloomberg Law News」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNem5rMGl0bXM4amlRMGVMY0s1amhFSUUwbVpLM0VrNFY2eDcxOUI3TzJQTTFBMDctbTB5SENZZGUweTdiZGhxNFR3QXIyUWpQMEV6WnpuR1oxVHQxbFNhRWMxNWkzQTRVOWJEYk41UnZudVptSEtLc2Y2bjlQQV95TFh6aDhTTEVkWFRhalNJTERWd1JhOHRhZWtpZmVaS3hBUlhncTRtWXBrYXZuTnJaS0NzY1U?oc=5",
-      "source": "Bloomberg Law News",
-      "published_at": "2026-10-11 00:02 +0800",
+      "published_at": "2026-10-17 06:25 +0800",
       "companies": [
         "Anthropic",
         "Intel"
@@ -134,22 +30,176 @@
         "enterprise_ai",
         "open_source_model",
         "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 162.5
+    },
+    {
+      "id": "325a742720c1e068",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio - Apple Machine Learning Research",
+      "summary": "Apple Machine Learning Research 报道了「Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio - Apple Machine Learning Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio Apple Machine Learning Research",
+      "impact_reason": "Apple Machine Learning Research 报道了「Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio - Apple Machine Learning Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Apple、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnRXZPbzdxVGlNeXpHc25TdWZxTktlYWp0WTR5RjJJeTVtWUs4NVdNV3gwQjVrQW1tTmpjdEYxQkxNWWU1TGFfQXhmZzVPYzE3SklObVRjQ0dMUGt2R3ZNR1lwb2NNdWROLUxPazEyVEt4eHhFT1VR?oc=5",
+      "source": "Apple Machine Learning Research",
+      "published_at": "2026-10-16 00:59 +0800",
+      "companies": [
+        "Apple",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
         "robotics"
       ],
+      "importance": 157.5
+    },
+    {
+      "id": "a5d7ad54729ca48a",
+      "title": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information",
+      "summary": "The Information 报道了「OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model The Information",
+      "impact_reason": "The Information 报道了「OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDFqZGhJOXVPdUJITWJ3TGVlQkdrdG0zaVlyczBQZEFUcW5RdDlmTktHajR1bEl2eC0zLW14LUlEU0NLNjYzRlYyWGpkb2k0M1RKUEc2Yno2ZVIxYUMzTU5iYm12RldMM25mTFZCNW5BdjRlMGxPb3JYR2F3T1pwaVdPN2wxaWFBMG5yNHJXTnBzSnB5dmZXWEE0ZHVxWlhoWENURlV3?oc=5",
+      "source": "The Information",
+      "published_at": "2026-10-14 03:51 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "3d335e6d9129fb94",
+      "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com",
+      "summary": "Bloomberg.com 报道了「Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Anthropic Executive Says Open-Source AI Models Are Higher Risk Bloomberg.com",
+      "impact_reason": "Bloomberg.com 报道了「Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl8zSEtRa0QyR0Z5OHJVOFhjX2xJTGtmVVVXSll3cXNCUkVBOFdKWGZUMVhTZDVzX1lpM0RYSUFkdkRjbTVQZ2dnTjhjeDIzYWtncUsyMHZnbGZqZmhqaDdyS1RMNkp6MjBQRlFRcWJ5SFJSYU90SGhPanBUQjBsSncxeXVYOTlSb05ONVNMOHRYWVFFenp0VFpnM1pRbGliU3ktb2t5ZnV4MnREQUxsVVBiSQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-14 16:48 +0800",
+      "companies": [
+        "Anthropic",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.5
+    },
+    {
+      "id": "57b57d21740b84c9",
+      "title": "腾讯AI办公智能体WorkBuddy打通企业微信 - 财新",
+      "summary": "腾讯AI办公智能体WorkBuddy打通企业微信 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "腾讯AI办公智能体WorkBuddy打通企业微信 财新",
+      "impact_reason": "腾讯AI办公智能体WorkBuddy打通企业微信 财新 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xdVlrMEw2YlB5cHR3U3BtZ2N2bEdibU5fck5Td1AzM0hDUVpIb0gtXzR3czkzMHRDQWNDNng4V0oteEdzSGgxUjgwMkJzZ1ZqMHJyR0psdjdJeUEtWTZHcWZEek8?oc=5",
+      "source": "财新",
+      "published_at": "2026-10-14 11:34 +0800",
+      "companies": [
+        "Tencent"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "f6f62680eceebf69",
+      "title": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 - 虎嗅",
+      "summary": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 虎嗅 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 虎嗅",
+      "impact_reason": "DeepSeek突发大面积宕机，暴露企业将业务命脉托管大模型API的风险 虎嗅 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbE9CNU1JZldJeElraXRiOGVla1doVE5FM2Q3NEFyNlNpU1Q1VkdOb1FUQnowTU5hSXhSdzVUeGVsNTI4bnRvT1VhVmg3T2FhS3A1bA?oc=5",
+      "source": "虎嗅",
+      "published_at": "2026-10-15 12:22 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "8d977e6c8c6ca428",
+      "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit",
+      "summary": "NDTV Profit 报道了「AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer NDTV Profit",
+      "impact_reason": "NDTV Profit 报道了「AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer - NDTV Profit」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Google DeepMind、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+      "source": "NDTV Profit",
+      "published_at": "2026-10-12 00:33 +0800",
+      "companies": [
+        "Google DeepMind",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
       "importance": 155.5
     },
     {
-      "id": "e08d4ae202fc8dec",
-      "title": "Researchers to use NASA AI model to improve hurricane risk estimates - Technology Org",
-      "summary": "Technology Org 报道了「Researchers to use NASA AI model to improve hurricane risk estimates - Technology Org」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Researchers to use NASA AI model to improve hurricane risk estimates Technology Org",
-      "impact_reason": "Technology Org 报道了「Researchers to use NASA AI model to improve hurricane risk estimates - Technology Org」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbElGeE5iWHkwbjFMYm9FaEYxcDVMMElscUpXempqX1pLYTJfSTM4SEhQUW5nWnR5UVVMRjRsQWdRM3hUZHB2S0VGMXUzdFRrSC1yc25iSGVTUWFFMmE0X1RYLWZYeHlCSVc4WWhGUkE1emJHanVTd1l3WnVyNklpTGdOdVlrbVIwV1c3M3FNZHVKVEtzT0xka3NYUC1UWnkxVEZBb3o4TENWTG8?oc=5",
-      "source": "Technology Org",
-      "published_at": "2026-10-10 21:00 +0800",
+      "id": "4b7a39f169b39faf",
+      "title": "Former OpenAI researchers allege they were dismissed over AI safety warnings - Computing UK",
+      "summary": "Computing UK 报道了「Former OpenAI researchers allege they were dismissed over AI safety warnings - Computing UK」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Former OpenAI researchers allege they were dismissed over AI safety warnings Computing UK",
+      "impact_reason": "Computing UK 报道了「Former OpenAI researchers allege they were dismissed over AI safety warnings - Computing UK」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1pBYTQ0T0dlaFAyeWw4a1RWenB6endzWUp2ekFiZWVuTVp4TUtLc09TaW1NcXlmYnhTZjBsVDg4dUt0b0JTcE16ZHJ3dzNOY3hMZE9zaUZBVU1xcmhtLXBEcFludWx1NkZEbzN0QVJRN2JLTVY1M3ZhRFNjbVl0R3RMT0xnOC13TnRrV1FR?oc=5",
+      "source": "Computing UK",
+      "published_at": "2026-10-12 20:19 +0800",
       "companies": [
-        "Intel",
-        "IBM"
+        "OpenAI",
+        "Intel"
       ],
       "country_focus": "US",
       "topics": [
@@ -165,66 +215,16 @@
       "importance": 155.5
     },
     {
-      "id": "21deef5b7c146da6",
-      "title": "Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington - WECT | TV6",
-      "summary": "WECT | TV6 报道了「Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington - WECT | TV6」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington WECT | TV6",
-      "impact_reason": "WECT | TV6 报道了「Inside Amazon’s largest North Carolina fulfillment center, now open near Wilmington - WECT | TV6」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbmxONW9YTzBzU1FOLXdQa2ZvMW5BMXhzNFp5X0NFTWlBNGdBd2l5ejk5VE56ckp5U1hTMzVVaTBRRzB2b0RwU2FHVVpfVEhQdVM4RHl3Qm8tbzRiRTRhWERGcURPdlM5WGhyOGpQaVlxaFBJZlF0LUNNeDZySWdCbHdZZ3NMZzhhWUx1b2FPR2ViWTZjLUYxN2k4eHBsS3JGLWd6RHdVanRfTGJlUGVxRnNST0vSAcgBQVVfeXFMTV9NdDVuOFBUaXcwaUJYb2lDQVpNV0hSa1NiREdkNE9FZlR3X2lybEFPOWdaUk1IbUEta0ZhVFRfeDRNX0l4VzgtX2FKS0gtSlc5TGZxWVZ6RnphWWpEVVROUDQ2dHhiUDFiQWhoZFZNYW9Sbm80V0xYUXBmYkVldzVJYzlSUk54WmJpMFludC1NaGxfVVM0NDZleVVCV0ZXUUdsRklKVHRPa3ByMTcwNTVFN1RTZ0FLSjFQckR5Q2ExR3dMNklncEg?oc=5",
-      "source": "WECT | TV6",
-      "published_at": "2026-10-06 09:34 +0800",
+      "id": "c2f42c0b4c411635",
+      "title": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune",
+      "summary": "Fortune 报道了「Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety Fortune",
+      "impact_reason": "Fortune 报道了「Strict liability is gaining traction as an idea for forcing AI companies to get serious about safety - Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZzhtS0FHZVoxdGJ4MjFiLXhBdVNTS3dfOF90YW13d2N2em5zQ0I3QlRYVzZMeG5XTFljQlllcnJzRlQtZ0xtcENKWFBSQzJtNDd3N3BHTExoQzlxaWxFNHhqdGVVbmlOcXhheWxIc1hKLUtid3lORU1EVWU1bklFek9maUNiRjFkbHoxVHpfQ09VWlJMZl9VTVRpcHFjd3pDX3ZWSFhCREJVTVI1RE1KQVRzRU5hS3NYdFMxVVQ1V0M3YTNzYllCT1hMUmR2QnRhSWUtSWdSQ3FwdUluS3JKakVJb3NNVWZiUExkeHVuU1oxVHJoSE02TWdmYWFzZVI1S1RtQw?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-10-14 03:52 +0800",
       "companies": [
-        "Amazon",
-        "Intel"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "large_model",
-        "open_source_model",
-        "robotics"
-      ],
-      "importance": 151.5
-    },
-    {
-      "id": "2a5df9c8be08428e",
-      "title": "Lunar Foundation Model Advances Moon Science - StratNews Global",
-      "summary": "StratNews Global 报道了「Lunar Foundation Model Advances Moon Science - StratNews Global」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Lunar Foundation Model Advances Moon Science StratNews Global",
-      "impact_reason": "StratNews Global 报道了「Lunar Foundation Model Advances Moon Science - StratNews Global」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVlVEYWNNWWZBalhEMzk3eXZydnc1MkVfa0dZdmRRZmRxdjFDVU9wT3J1cFdFM3ZFNGlCZ2t0bnp0bjV1Ym1HY25RMFJ0eWdfU3NXMXUwU01IUzVmU0Y3dl9fczBaUmJvOUYxeVRSUQ?oc=5",
-      "source": "StratNews Global",
-      "published_at": "2026-10-05 17:05 +0800",
-      "companies": [
-        "Intel",
-        "IBM"
-      ],
-      "country_focus": "US",
-      "topics": [
-        "ai_agent",
-        "ai_product",
-        "chips",
-        "enterprise_ai",
-        "large_model",
-        "open_source_model",
-        "robotics"
-      ],
-      "importance": 151.5
-    },
-    {
-      "id": "09de87f395a42410",
-      "title": "Anthropic opens its most powerful AI models to more security teams - Reuters",
-      "summary": "Reuters 报道了「Anthropic opens its most powerful AI models to more security teams - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Anthropic opens its most powerful AI models to more security teams Reuters",
-      "impact_reason": "Reuters 报道了「Anthropic opens its most powerful AI models to more security teams - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Anthropic、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-07 04:37 +0800",
-      "companies": [
-        "Anthropic",
+        "OpenAI",
         "Intel"
       ],
       "country_focus": "US",
@@ -234,23 +234,25 @@
         "chips",
         "enterprise_ai",
         "open_source_model",
+        "regulation",
         "robotics",
         "safety_security"
       ],
-      "importance": 151.5
+      "importance": 155.5
     },
     {
-      "id": "76ff9a2493161360",
-      "title": "Large Language Model LLM Powered Tools Market Forecast to 2035: Enterprise Automation Demand Drives Expansion - IndexBox",
-      "summary": "IndexBox 报道了「Large Language Model LLM Powered Tools Market Forecast to 2035: Enterprise Automation Demand Drives Expansion - IndexBox」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "details": "Large Language Model LLM Powered Tools Market Forecast to 2035: Enterprise Automation Demand Drives Expansion IndexBox",
-      "impact_reason": "IndexBox 报道了「Large Language Model LLM Powered Tools Market Forecast to 2035: Enterprise Automation Demand Drives Expansion - IndexBox」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Salesforce。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWnd5VmdjQVR6WWxuWjU2QWI5ZGF1VFAzOXdPSTJmUGtfZUpETWdZc29tdTI5Vjh3TWtVMThOd21Cc0lQY2p1QVd0MHVXTmk2OUVEeV8xUDFpUGdCU2xadUlvbVNJS3djZHdGZUdDQU0zZTdjdzFIQWNxeEF0a3h0am8yZDBfVzdlYW92VkZDQl9FTWllcnRMYWF3ZE1FbExyNHRjeTkzWXRzMl9TTUxNS2hGRjB4ME55ejZ1UHAyS3FPMmtPb3hJZlNwbjN4UG42cDk0aQ?oc=5",
-      "source": "IndexBox",
-      "published_at": "2026-10-08 08:01 +0800",
+      "id": "506ec86f5cf46f83",
+      "title": "GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume - Startup Fortune",
+      "summary": "Startup Fortune 报道了「GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume Startup Fortune",
+      "impact_reason": "Startup Fortune 报道了「GLM's 23 Windows Bug Finds Are Z.ai Building a Security Research Resume - Startup Fortune」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Microsoft、Zhipu AI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEtpQm9XZS1YOWVIRUN4Z0FuOEpKMjJ5czlwWTJ5emtyakMzS0VRc1F6WWhURXJJQnZ0SzhxSG1rMDNTN2NEREN2aGpPNTBwWVQya3ZFYThkY0lROHBwYTdxZFVLeWlPMlVkNzJicEgtdlFxVXRMaWpGS09GaU1CcHVQNDFwaFZoVnNoSk4tTjZDS2c2TEJjQlJGalNRdw?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-10-14 23:27 +0800",
       "companies": [
-        "Intel",
-        "Salesforce"
+        "Microsoft",
+        "Zhipu AI",
+        "Intel"
       ],
       "country_focus": "US",
       "topics": [
@@ -258,11 +260,12 @@
         "ai_product",
         "chips",
         "enterprise_ai",
-        "large_model",
         "open_source_model",
-        "robotics"
+        "research_paper",
+        "robotics",
+        "safety_security"
       ],
-      "importance": 151.5
+      "importance": 155.5
     }
   ]
 }
