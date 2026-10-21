@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T14:05:12.365621+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-21/",
+  "image_path": "assets/daily/2026-10-21.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "4740ccab36b32ae1",
+      "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research",
+      "summary": "IBM Research 报道了「llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "llm-d 1.0 hardens open-source AI inference for day 2 production operations IBM Research",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-10-20 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "9e4eb7856ece4b81",
+      "title": "llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale - IBM Newsroom",
+      "summary": "IBM Newsroom 报道了「llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale - IBM Newsroom」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXI4b3ZOV1VvRUIxdmJXRTRLVVluX2ViQUwxdV8yZnlQcGxFak5QeWV2MnhvbUtVQ3N4SDZHM3d2dHZWR1R4M1FFZmNrZWo1cXRsRE5nTDJtTjA0R19IZFFpS2xnYXZFbzR1aUxGUnVfQ19NdVo5RTRuNGlNN0FlRnB1eWtDa1NSZFo5bXFRU1l0c1UzZjBwVHdsVXV2WVFIcFMxQjQ0eE1TckhWYlE?oc=5",
+      "source": "IBM Newsroom",
+      "published_at": "2026-10-20 20:02 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "8e38c9bc6a139878",
+      "title": "IBM-backed llm-d framework adds controls for running AI models in-house - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「IBM-backed llm-d framework adds controls for running AI models in-house - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM-backed llm-d framework adds controls for running AI models in-house SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjhSeUlXVVNqZmFOdWNVVVcxMVVDMnRIb1RwSHRJMURDcnJlSVNKYTYxNnZEVnRuMWRFTUxzQ3BRd0RYazNiSFdUcWg3ZTRmeGo3RGhJVm1tejdNdEJaTEpKV0p5clRiVlB4Tk1abjUtRlRjV2djTXNVSEszWERKMWw1Q3cyZlR6cTJkWTVKMmpXT2xoR0Ixb05ya1VTLTZTd0h5QXBTa0VYX2p1?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-10-20 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "ba1a45693370390b",
+      "title": "IBM: llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale - HPCwire",
+      "summary": "HPCwire 报道了「IBM: llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale - HPCwire」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "IBM: llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkRXZXY3YnpfZnlBOE43QWpWc09QdWZsQTZGd2xaZkdJaDhMTlhHZlJCTlBHWC00NGNhWG5fcW1jeUFUM1lwT1ZZVUhBclBKN0E2UFlwU2UxaENyeUZEV3JzSkZHNGNMR2lfVGQ2X1REY0ZDSHNCU2piWHNjSnUya1EyUFRwWHpYRjRwUFdXdVBmdUZlNndJbE8yVk04NGQtZjdvV0gweUZjZ3JwZjZ5SVNvaVU0WUNTblZ3?oc=5",
+      "source": "HPCwire",
+      "published_at": "2026-10-21 08:15 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "f1ce9879d498501a",
+      "title": "llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not training - Martin Cid Magazine",
+      "summary": "Martin Cid Magazine 报道了「llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not training - Martin Cid Magazine」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not training Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJzUjJ2dFpCd01XQk9ydUJpX3JSeUYxRGpKYWNjVnoxUHIwZEdieHQxN2lIYnY5NUdVRElIRTFBV1k0bXVOQzNtX0ZWbldEMFNDZlBPSS1rNU44RDMxT2ZfcXROb3FCcXFZSHRDbjUyNk5FX0xVMVJPbW1URnFDc3hzT2N1M2kxMmk3Z2NEdVk1VG96SHIzbWxvcFdoWS1KZXd3?oc=5",
+      "source": "Martin Cid Magazine",
+      "published_at": "2026-10-20 22:42 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "f742f204af8aeabb",
+      "title": "飞书豆包工作 AI 先锋未来人才大赛：企业正在争抢会用 AI 做成事的人 - 极客公园",
+      "summary": "飞书豆包工作 AI 先锋未来人才大赛：企业正在争抢会用 AI 做成事的人 极客公园 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "飞书豆包工作 AI 先锋未来人才大赛：企业正在争抢会用 AI 做成事的人 极客公园",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2ejVOY0ROUmJiSHlPYm1wc2NEYUNZVVBYYno1UGNkYl9BVV91d0RGMjJ5Mm1IOTdhSDJCQWV1N0hnZXphWktxa0dndUM?oc=5",
+      "source": "极客公园",
+      "published_at": "2026-10-21 11:52 +0800",
+      "companies": [
+        "ByteDance"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "8c2410a2827c84bd",
+      "title": "AI智能硬件新品密集发布 企业加快探索多元应用场景 - 新浪财经",
+      "summary": "AI智能硬件新品密集发布 企业加快探索多元应用场景 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "AI智能硬件新品密集发布 企业加快探索多元应用场景 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BOFlHVUJJWlBybjB2Mmc3SDE3dlE5X1lZa3VYQUNZNEFUbXJYTl95VExxaWljZVpwTVNHbGxlOVVfMmFoajhtWXhKdkxYZ21sT3dLMkp0aldtM3BjLXRiMkY5eG9jT0I2eE14N1pSdkN6aVhhQUI3dw?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-10-21 03:59 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "e14b45646b7b5ddb",
+      "title": "全国产AI规模化落地如何破题？讯飞全球1024开发者节五大亮点前瞻 - 新浪网",
+      "summary": "全国产AI规模化落地如何破题？讯飞全球1024开发者节五大亮点前瞻 新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "全国产AI规模化落地如何破题？讯飞全球1024开发者节五大亮点前瞻 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwS0I1TlFvVGRyTkJ2RFhLX1ZaY29FMXp5R05ISW5fOXZQWlNfaTVkUTh0S0RuQmxEWlUxVkk1dUJqLU5sX2lGOFpqUjBBY19SNFZ1QWU3ckdROExpZmpwb0p6UFBJaVRIYkRUNHdoRXVPdG5ZaGxlUGQ2UXlxaWM?oc=5",
+      "source": "新浪网",
+      "published_at": "2026-10-20 21:54 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "5be1ec4fe5f0ee18",
+      "title": "科大讯飞AI战略落地全景解析 核心技术突破与商业化成果兑现度深度探究 - 36Kr",
+      "summary": "科大讯飞AI战略落地全景解析 核心技术突破与商业化成果兑现度深度探究 36Kr 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "科大讯飞AI战略落地全景解析 核心技术突破与商业化成果兑现度深度探究 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05WEtUWndtdzBTdjBOM19IM0hjU2RvNWVLVjQ1eFVjSXo3NS14QXUzSmxFMnNCSS1vNEdBeEROR19RazF6bl9yVk40YzA3SVF3TnpZ?oc=5",
+      "source": "36Kr",
+      "published_at": "2026-10-20 18:33 +0800",
+      "companies": [
+        "iFlytek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "fbde73a20234b19f",
+      "title": "美团企业级 Agent 的平台化应用实践｜QCon 上海 - InfoQ-CN",
+      "summary": "美团企业级 Agent 的平台化应用实践｜QCon 上海 InfoQ-CN 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "美团企业级 Agent 的平台化应用实践｜QCon 上海 InfoQ-CN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hc0k0NWM0ZEZ1aGFmT2FqbEtHeXFKaFpXNUp0M2lHNE9KWXpROHFMM1FjU3dGTTFzTWI1VjFRWElBWHB0TnV5Q2VpV0FGUGtWZGJrOUxMdi1ZMzZ1M2c?oc=5",
+      "source": "InfoQ-CN",
+      "published_at": "2026-10-21 10:04 +0800",
+      "companies": [
+        "Meituan"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "0a093ee8a9f38b97",
+      "title": "China Humanoid Robot Production 2026 Rare Earth Impact - Rare Earth Exchanges",
+      "summary": "Rare Earth Exchanges 报道了「China Humanoid Robot Production 2026 Rare Earth Impact - Rare Earth Exchanges」相关进展。 该消息涉及AI 产品、企业应用、大模型、监管政策方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "China Humanoid Robot Production 2026 Rare Earth Impact Rare Earth Exchanges",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmpSUWQ0X3JOaEUxQW1qcDRSaU9TR2hWR21qY1FnUHJvMTBSaTZLRDBvRm5jTFc4UnpwQjk2dEpkbndmaUVtaWxoc3pGSENOZXcwSkl1MjVaNlFnVk1PZDVZbFE3WkZwb0x3aUVZYzZmUHBlZ25wYS1jUXEzWGxOWkRR?oc=5",
+      "source": "Rare Earth Exchanges",
+      "published_at": "2026-10-20 22:03 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "large_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 101.5
+    },
+    {
+      "id": "2661b29c84cb892a",
+      "title": "Enterprise work management at Elevate - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Enterprise work management at Elevate - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise work management at Elevate SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlhtY0pkUVBzUGpKcUJVNVp2c0JwbzFyS0Jva1pMVFkwYXMwR2VWbGJFM044eWd1NmZJVEFaS1lOQVpEM3RhWDF6NlVEVU5WRXhVcktvUzVIekZ1d3gwZXNWdE5zNEstbUpaemg1VkdGNlJQaTZjUGVXZWVrM29zVlA4TQ?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-10-21 04:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "e2cf33168caf0fc4",
+      "title": "Redesign how your team ships software with AI agents - GitLab",
+      "summary": "GitLab 报道了「Redesign how your team ships software with AI agents - GitLab」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Redesign how your team ships software with AI agents GitLab",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcktBVnV3Tm5obnhqNm9GMDJHUDliOGtmd0hfZEtTMk13NEFtZlJfMmVpdTBhRFdvbHU1MHRzUzFjYXk1eEVnVjNuRVZsUkNFbnlsaW5MTkppaTN1VE9oRlgwLTRITTF3Mm94ZlRYTzBDcW5NMzh0QldIeWp0MDB2SzI5dWhZeTNOeThN?oc=5",
+      "source": "GitLab",
+      "published_at": "2026-10-20 23:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "607ddaf59758634a",
+      "title": "AI Agents Writing Mexico’s Autonomous Future - Mexico Business News",
+      "summary": "Mexico Business News 报道了「AI Agents Writing Mexico’s Autonomous Future - Mexico Business News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Writing Mexico’s Autonomous Future Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3FCeF95dldEUjhabFpPZEdWUE9vNUZIY3NVWjJXV3dvT2lsLXhmbDN2SkJmZl9pMDBpdXg4SUxiTlNmaERINWEwTEpaYVZDaVROU0IxdTBFbTdXdTVpRlA5MlhSSnN0X3NmdHF0NHFzUTJOWng5RlJVZVMtelhiTW5aMHdUR29ZVWVkVUlEM0NUZVE?oc=5",
+      "source": "Mexico Business News",
+      "published_at": "2026-10-21 01:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "dc31c627b409975f",
+      "title": "AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow - PR Newswire",
+      "summary": "PR Newswire 报道了「AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow - PR Newswire」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AppZen launches specialized AI Agents to make VAT reclaim an always-on, autonomous finance workflow PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSDgycExLMEFid2VkREJEbk1wdHRfNFFmRzhDeENkRllnY0xIcnBsQ25pN1JKdkI3ODJQOHBwNjJqOUpiRDZjMUlJTUFfSGNRaUcxV1g0Q0UwQXVJdDl2N1hLWm9ReFJGS3NJektKQVhoenRnMjhJR1ZoZVhVZFZyXzVXT0pBcFM3c2U5QWdFR3hOdExUYkRfSFBGV0xzZTB3Rk5vSWh6djc1RGh1a2pvdEl3WEpFaktZSG15UkNNQUZTNUpVdE9ZZ3NYajFHTFZ5blhYdjhhM19wVkpzSDMxWkota0UxZnUxMEE?oc=5",
+      "source": "PR Newswire",
+      "published_at": "2026-10-20 19:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    }
+  ]
+}
