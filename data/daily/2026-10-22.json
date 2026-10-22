@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T14:09:10.922690+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-22/",
+  "image_path": "assets/daily/2026-10-22.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "903ba3c00c178556",
+      "title": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM",
+      "summary": "SECURITY.COM 报道了「Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks SECURITY.COM",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81QlE4WFFHTUZDem9ZUEhYRG1BUEN0RFp5N0M1bmtYN2tJdlVFbWZhOGtRZnhsVkx0aThVeTBTTzlFaXAzZU1TS29FMW5mODUxbHZBV3BVbElrcmNJY0NfMW5McTA1OVE3N29UUWktbmpKZEE?oc=5",
+      "source": "SECURITY.COM",
+      "published_at": "2026-10-21 18:19 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "210a47176e38da8b",
+      "title": "A major security flaw found using an OpenAI model is causing internet chaos - Business Insider",
+      "summary": "Business Insider 报道了「A major security flaw found using an OpenAI model is causing internet chaos - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A major security flaw found using an OpenAI model is causing internet chaos Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmZaTHdxeUVfbDk2Y1hGWGwwMW5odTlPRXVvVWJrdEhxcURnOW5QVzZ3QnVIOHRMWlBjbG5TYnNPNGxva3FWWU1QOHVGRFdOaGFiMS1rZ2xSajhFR1R1bkF4aGxPdG9UNm5oWjU1cXJGaHpDZll6SF96dWtPN0xValZXa1hQUUZmMTBDeTg4TzZnNGZJX0xiY24yVFQ1dDFTRnNBMFZXcjZjWUMxVnc?oc=5",
+      "source": "Business Insider",
+      "published_at": "2026-10-22 01:48 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "a3999735660a335f",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity - TechCrunch",
+      "summary": "TechCrunch 报道了「Meta says Muse has over 10M users, with shopping a top activity - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta says Muse has over 10M users, with shopping a top activity TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXo4RnNORUpLaWhFbUZ2NDFNR044VEg3cUNyUUpkaW94QzduLXc2amVmMjkwSXFyWXZuMnN2bjU3T2tKLWZGTHFRTDVkYXZSNVhtX1Nldktnbm1uNVBBVk1kcjJhR2RsLXlmR3M1NW5MZzV3QUk5REc3blJpejJ5TXREeUNtRDdXRlUtUjFJWG5MdDhhSmZLR1lJSkh0QQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22 05:14 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "4740ccab36b32ae1",
+      "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research",
+      "summary": "IBM Research 报道了「llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "llm-d 1.0 hardens open-source AI inference for day 2 production operations IBM Research",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-10-20 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 152.5
+    },
+    {
+      "id": "82395ebb092ddb0d",
+      "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it - ZDNET",
+      "summary": "ZDNET 报道了「OpenAI’s most powerful AI models turned off safety monitoring – then lied about it - ZDNET」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnJsSHA0SFplcmJOTE1yUnB2Y2VEWWIxc1MtbkU2NDFBd0RVQ0V3dzFrTDJkNlBUS0otWnJkNUozRGlBSVpQTWtHWDg2T25JZm00MWY4S3c0LTk3aXhLMnBNYXdpU1pIR1UwZVRmbkpMZFVtcE5wTV9tVHZ2OGRtTkFvYk5nZkp3dVpv?oc=5",
+      "source": "ZDNET",
+      "published_at": "2026-10-22 02:15 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d97b0eb547612e66",
+      "title": "百度搭子发布多项新能力，加速AI进入企业生产场景 - 新浪财经",
+      "summary": "百度搭子发布多项新能力，加速AI进入企业生产场景 新浪财经 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度搭子发布多项新能力，加速AI进入企业生产场景 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42bG5zQUlrb3hNampNUm1lYjlZLWUwd3dIZnFYQVBUajd0cjFuZTVNZHVJajBERHBsazNydGdfRjdHNVJfbFdEMnc0TUczRkV3Z3o5c3dJRnpTbWY4YlZic19LYU9OYmhQLUhvUW1kNTlRY0pKelJIRA?oc=5",
+      "source": "新浪财经",
+      "published_at": "2026-10-21 17:10 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "98a58aaffe6685e8",
+      "title": "百度一见6.0发布推进视觉AI规模化落地 - 雪球",
+      "summary": "百度一见6.0发布推进视觉AI规模化落地 雪球 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度一见6.0发布推进视觉AI规模化落地 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRmsydk43TzJwWjQ2d240cU80Skd3NWg5aGtwRHFRZ2NTRXNHZUYwVG5NOXYtZzZuSk9EbXduLTJQRlFCUDVHZU9fV0oyOUhv?oc=5",
+      "source": "雪球",
+      "published_at": "2026-10-21 15:09 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "012de769cd0eee71",
+      "title": "印度网民激动了：我爱这家中国企业！ - 新浪军事",
+      "summary": "印度网民激动了：我爱这家中国企业！ 新浪军事 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "印度网民激动了：我爱这家中国企业！ 新浪军事",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xazkwSWt4WC1VcnVWTHlMWUpRaktlY3dSdTZnTGd3NDEwU2dlMTdVVzc4YWQyNURLdjFHZDIybVNacXNJeV9mMzlUR1ctWVpnSkw0VTcyUE9MLUJRUDNsTmwwWG42c2ZnYV90Zzh5TVhVS1U?oc=5",
+      "source": "新浪军事",
+      "published_at": "2026-10-22 09:30 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "ae69c30ccefaf188",
+      "title": "深演智能(2723.HK)与华为云签约深化合作，共筑企业级AI营销解决方案 - 东方财富",
+      "summary": "深演智能(2723.HK)与华为云签约深化合作，共筑企业级AI营销解决方案 东方财富 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "深演智能(2723.HK)与华为云签约深化合作，共筑企业级AI营销解决方案 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GYTdRUjl0VVZUVUxub2l1YnBWN19mZmtPbDNwZWpXbmxNT1NwQ1drbk5NXzZ5djRrZFRTSVBIWWxyWGJJMDZoWXpRNmoybDlhMFNNYmdFOHRBd2k3bERnZ0hEU0g?oc=5",
+      "source": "东方财富",
+      "published_at": "2026-10-22 09:53 +0800",
+      "companies": [
+        "Huawei"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "394792880351d7ed",
+      "title": "启明周报｜启明创投投资企业要闻十条 Vol.32, 2026.10.21 - 启明创投",
+      "summary": "启明周报｜启明创投投资企业要闻十条 Vol.32, 2026.10.21 启明创投 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "启明周报｜启明创投投资企业要闻十条 Vol.32, 2026.10.21 启明创投",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQY2R6aXRORE9BcXlaaExCQjdhRWxjX1Y0WEJOVk9ENXJnNk4xYkNRYlVyMVNLLXlnRDZsRVAwblkwLWFkUkgydlBFNjVhaDNMZThkeWh1dzhuckxqOElpMnBVQnBlN1l5SXFVaWV3VXFaSW9NWW5XaVRjdUdnN012Y2R4d1VzaGV0ci1jV0hKcExoRGpxZTdTdGFFcGxEVjBfdXRjSUVZalZlVUNiNkROV2FXUlFKTU1ncTlkV3ZkNWt2U3BibWV3b3lxSTBfaFo4ODlMMWhHd3dkVkhGUDlUZTlYZFZvSlF5NGgwakhCaU5ZWlVyMVVudWhmdFdVWnpVeFpGZkkyZGk2ZVVPcTh3cFpVZzJxWVJnLVo5UTVkLTI2Zll3WHl4dg?oc=5",
+      "source": "启明创投",
+      "published_at": "2026-10-21 16:36 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "6e9678e85bd12709",
+      "title": "Nebius Physical AI Workbench brings agentic workflows to robotics teams - Nebius",
+      "summary": "Nebius 报道了「Nebius Physical AI Workbench brings agentic workflows to robotics teams - Nebius」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、机器人方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Nebius Physical AI Workbench brings agentic workflows to robotics teams Nebius",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWldhQ0JEYk8zNVpMRHVROW91OXRHUlpsMUpXZjA1cFEzUFNUdXBiMlc0cUFhUUNBYkI5WWFyTFVGWlZOTHl2QVl2ZGpadXRncmVCRTVKdmNjYjdjamZKWQ?oc=5",
+      "source": "Nebius",
+      "published_at": "2026-10-21 19:41 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "robotics"
+      ],
+      "importance": 102.0
+    },
+    {
+      "id": "f038ca6dafdda5f9",
+      "title": "Notion Launches Gen-6 Agent Harness to Enable 24-Hour Autonomous Workflows - Forkast News",
+      "summary": "Forkast News 报道了「Notion Launches Gen-6 Agent Harness to Enable 24-Hour Autonomous Workflows - Forkast News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Notion Launches Gen-6 Agent Harness to Enable 24-Hour Autonomous Workflows Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWlYRW02eUdYUlFzMk05U3BOOEJnZjlRYl9KMzFxTUtjTDdwRVlaN3BEV2N2cE9ibHdWcUxmcmk2TmlOUHR5RkJOUzQ0WEtkOVBZSV91MUZHNFBIWXVnXzdiRE1kX3M5VEoybXhOak5UQlhjU1VKblUwOFNLVVVrWnFVeG4tWFUzN2tVXzdOSGUydzFLdndmMGRzRjI?oc=5",
+      "source": "Forkast News",
+      "published_at": "2026-10-22 08:00 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "0552367c237e2e65",
+      "title": "Siemens Adds Self-Verification for Long-Running EDA Agents - www.embedded.com",
+      "summary": "www.embedded.com 报道了「Siemens Adds Self-Verification for Long-Running EDA Agents - www.embedded.com」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Siemens Adds Self-Verification for Long-Running EDA Agents www.embedded.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUttNFdBTXQ4MmhDRzhIcFlydGRJM0hZWlh1V0pMVXBpcjdDclIxblpJT3hQRmladnRjS1ppX0xydEN5a0tKYnpkc3kxdkZsTFZIcUZiTlZ4cXFDbmU4dmFzTHlzaDRwQTFlQURlUGV2Qkk3d241MjhIRXVLMGl2VnJJM0htTVh4Wnl5cw?oc=5",
+      "source": "www.embedded.com",
+      "published_at": "2026-10-22 00:14 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "2661b29c84cb892a",
+      "title": "Enterprise work management at Elevate - SiliconANGLE",
+      "summary": "SiliconANGLE 报道了「Enterprise work management at Elevate - SiliconANGLE」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Enterprise work management at Elevate SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlhtY0pkUVBzUGpKcUJVNVp2c0JwbzFyS0Jva1pMVFkwYXMwR2VWbGJFM044eWd1NmZJVEFaS1lOQVpEM3RhWDF6NlVEVU5WRXhVcktvUzVIekZ1d3gwZXNWdE5zNEstbUpaemg1VkdGNlJQaTZjUGVXZWVrM29zVlA4TQ?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-10-21 04:58 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "607ddaf59758634a",
+      "title": "AI Agents Writing Mexico’s Autonomous Future - Mexico Business News",
+      "summary": "Mexico Business News 报道了「AI Agents Writing Mexico’s Autonomous Future - Mexico Business News」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AI Agents Writing Mexico’s Autonomous Future Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3FCeF95dldEUjhabFpPZEdWUE9vNUZIY3NVWjJXV3dvT2lsLXhmbDN2SkJmZl9pMDBpdXg4SUxiTlNmaERINWEwTEpaYVZDaVROU0IxdTBFbTdXdTVpRlA5MlhSSnN0X3NmdHF0NHFzUTJOWng5RlJVZVMtelhiTW5aMHdUR29ZVWVkVUlEM0NUZVE?oc=5",
+      "source": "Mexico Business News",
+      "published_at": "2026-10-21 01:31 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
