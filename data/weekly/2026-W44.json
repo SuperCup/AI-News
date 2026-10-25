@@ -1,0 +1,272 @@
+{
+  "week": "2026-W44",
+  "date_range": "2026-10-20 至 2026-10-26",
+  "generated_at": "2026-10-26T00:17:54.521904+08:00",
+  "site_url": "https://supercup.github.io/AI-News/weekly/2026-W44/",
+  "image_path": "assets/weekly/2026-W44.jpg",
+  "stats": {
+    "total": 10,
+    "source_daily_count": 6
+  },
+  "items": [
+    {
+      "id": "903ba3c00c178556",
+      "title": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM",
+      "summary": "SECURITY.COM 报道了「Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks SECURITY.COM",
+      "impact_reason": "SECURITY.COM 报道了「Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Broadcom。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81QlE4WFFHTUZDem9ZUEhYRG1BUEN0RFp5N0M1bmtYN2tJdlVFbWZhOGtRZnhsVkx0aThVeTBTTzlFaXAzZU1TS29FMW5mODUxbHZBV3BVbElrcmNJY0NfMW5McTA1OVE3N29UUWktbmpKZEE?oc=5",
+      "source": "SECURITY.COM",
+      "published_at": "2026-10-21 18:19 +0800",
+      "companies": [
+        "Intel",
+        "Broadcom"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 158.5
+    },
+    {
+      "id": "4740ccab36b32ae1",
+      "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research",
+      "summary": "IBM Research 报道了「llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "llm-d 1.0 hardens open-source AI inference for day 2 production operations IBM Research",
+      "impact_reason": "IBM Research 报道了「llm-d 1.0 hardens open-source AI inference for day 2 production operations - IBM Research」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
+      "source": "IBM Research",
+      "published_at": "2026-10-20 20:00 +0800",
+      "companies": [
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "198ae75ff6c04394",
+      "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
+      "summary": "Reuters 报道了「Government websites go dark after AI-discovered flaw sparks security scramble - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Government websites go dark after AI-discovered flaw sparks security scramble Reuters",
+      "impact_reason": "Reuters 报道了「Government websites go dark after AI-discovered flaw sparks security scramble - Reuters」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-22 21:24 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 157.5
+    },
+    {
+      "id": "873f883ec973ba7a",
+      "title": "正听 | 安全借口难掩美打压中国AI企业的真实意图 - 中国科技网",
+      "summary": "正听 | 安全借口难掩美打压中国AI企业的真实意图 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "正听 | 安全借口难掩美打压中国AI企业的真实意图 中国科技网",
+      "impact_reason": "正听 | 安全借口难掩美打压中国AI企业的真实意图 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GUWwwRmRGQnVLMUYyWXQ5bWRxUmFSNndmSGxLcjdKX1lBdmJ6d1psYk5IVThvRHdrX3R0MWROeDNVVFNldWNkSzA2Uy00U19iSTdGYzFEZU9KUHRWel91UGRTY3dIRk9UOFNhV2R2THI?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-10-23 15:47 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 156.0
+    },
+    {
+      "id": "210a47176e38da8b",
+      "title": "A major security flaw found using an OpenAI model is causing internet chaos - Business Insider",
+      "summary": "Business Insider 报道了「A major security flaw found using an OpenAI model is causing internet chaos - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "A major security flaw found using an OpenAI model is causing internet chaos Business Insider",
+      "impact_reason": "Business Insider 报道了「A major security flaw found using an OpenAI model is causing internet chaos - Business Insider」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmZaTHdxeUVfbDk2Y1hGWGwwMW5odTlPRXVvVWJrdEhxcURnOW5QVzZ3QnVIOHRMWlBjbG5TYnNPNGxva3FWWU1QOHVGRFdOaGFiMS1rZ2xSajhFR1R1bkF4aGxPdG9UNm5oWjU1cXJGaHpDZll6SF96dWtPN0xValZXa1hQUUZmMTBDeTg4TzZnNGZJX0xiY24yVFQ1dDFTRnNBMFZXcjZjWUMxVnc?oc=5",
+      "source": "Business Insider",
+      "published_at": "2026-10-22 01:48 +0800",
+      "companies": [
+        "OpenAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "a3999735660a335f",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity - TechCrunch",
+      "summary": "TechCrunch 报道了「Meta says Muse has over 10M users, with shopping a top activity - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Meta says Muse has over 10M users, with shopping a top activity TechCrunch",
+      "impact_reason": "TechCrunch 报道了「Meta says Muse has over 10M users, with shopping a top activity - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXo4RnNORUpLaWhFbUZ2NDFNR044VEg3cUNyUUpkaW94QzduLXc2amVmMjkwSXFyWXZuMnN2bjU3T2tKLWZGTHFRTDVkYXZSNVhtX1Nldktnbm1uNVBBVk1kcjJhR2RsLXlmR3M1NW5MZzV3QUk5REc3blJpejJ5TXREeUNtRDdXRlUtUjFJWG5MdDhhSmZLR1lJSkh0QQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22 05:14 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "01d9bf1bf358ba22",
+      "title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready - The Verge",
+      "summary": "The Verge 报道了「Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready The Verge",
+      "impact_reason": "The Verge 报道了「Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready - The Verge」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Tesla、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFZHWXg2bEliTDNzUThETTFkc29pbWZBWVUzVmo3cl9lVDZsOXpsWnhPZU9NZ29ESGFGMG5JcGdldTlKTmNRYUw4WmxwdnhRZTl4ZjlqU0w5VTdIZi1EcXUwcTg4ZE5GNENKc1NYZGlCdkdYeXhMNWtkZW9fUGZqam1fM19IZmpEa2FmS2FSVQ?oc=5",
+      "source": "The Verge",
+      "published_at": "2026-10-22 20:53 +0800",
+      "companies": [
+        "Tesla",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "72c24825697db7d2",
+      "title": "Critical PHP flaws put millions of websites at risk as exploit attempts emerge - IBM",
+      "summary": "IBM 报道了「Critical PHP flaws put millions of websites at risk as exploit attempts emerge - IBM」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Critical PHP flaws put millions of websites at risk as exploit attempts emerge IBM",
+      "impact_reason": "IBM 报道了「Critical PHP flaws put millions of websites at risk as exploit attempts emerge - IBM」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel、IBM。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVFsZHlKQUdSZFh6S0xIQnFHUUowZ3U4eDlONjZRUzIteDRDSmw5Vm96cTBuMTFuc3NZMnBqMlFBT1E0YjVzNTBfSEpzeUVSRjZHRXVhaXVfQVJaMTZQbi1lelBxanhQdG5sZmxXZXFKTUxnZEtZWjh2MEtKS1lwb2VNY0d4dE02cWY2UjU5M1l0RHBTeWNTR29Td0g?oc=5",
+      "source": "IBM",
+      "published_at": "2026-10-23 07:52 +0800",
+      "companies": [
+        "Amazon",
+        "Intel",
+        "IBM"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "0b9b9cf999e4500e",
+      "title": "SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] - https://tech-insider.org/",
+      "summary": "https://tech-insider.org/ 报道了「SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] - https://tech-insider.org/」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] https://tech-insider.org/",
+      "impact_reason": "https://tech-insider.org/ 报道了「SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] - https://tech-insider.org/」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括NVIDIA、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEYyQ2NUS0l0ZmhQR0dfTjlVM3ZfSmh0NWJ5MnJzaC0wZTZXXzcyXzNITkYtb2ItYy1SeWluMmlGcEdVYzliWU43dGxEemlka0EyNWdnQXZwOEdYZ1ZVU0s5SnFFQ1JPT3FJZy1LMGcyTVoxc2RWQ2w0Zm5lMXdyc0ZvUlg?oc=5",
+      "source": "https://tech-insider.org/",
+      "published_at": "2026-10-23 23:47 +0800",
+      "companies": [
+        "NVIDIA",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "regulation",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 155.5
+    },
+    {
+      "id": "e4e6aa7d6641d4cf",
+      "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 - 新浪新闻_手机新浪网",
+      "summary": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 新浪新闻_手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 新浪新闻_手机新浪网",
+      "impact_reason": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 新浪新闻_手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW1XWER0WTZLa29vTmo4dWNYZWtrZGN5MlRmZ2pNbVVEVEFQYW00OWFBZ0duUXNnWVdQRXd0Q1piY3NOcGlxOVdsUkNGaFYzbFdNYmoyYkZ3MTBfM0l2bmgxVEJUWlRpWFpOcUxPRUZjRDdLMGFBRFFuT0ZwZXNSVmNxR05JenRSLW1SdW1QMkc4WWw4U0ZEejNTNEdEdm9xUmxSMmctRHNUaTk5aGIwTmZR?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published_at": "2026-10-23 21:55 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 155.0
+    }
+  ]
+}
