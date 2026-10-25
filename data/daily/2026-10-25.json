@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T14:11:53.617565+08:00",
+  "site_url": "https://supercup.github.io/AI-News/daily/2026-10-25/",
+  "image_path": "assets/daily/2026-10-25.jpg",
+  "stats": {
+    "total": 15,
+    "china_count": 5,
+    "us_count": 5,
+    "other_count": 5,
+    "priority_company_count": 10
+  },
+  "items": [
+    {
+      "id": "1ede86d4db988ca3",
+      "title": "I decided my 10-year-old mini PC hadn’t suffered enough, so I made it run a local LLM - MakeUseOf",
+      "summary": "MakeUseOf 报道了「I decided my 10-year-old mini PC hadn’t suffered enough, so I made it run a local LLM - MakeUseOf」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Meta、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "I decided my 10-year-old mini PC hadn’t suffered enough, so I made it run a local LLM MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3NZM0xmYU5SdEtOWm5wXzZGLWF3R3RpSU5MMFF1NWo2QjlvdU15U1lKaG9MWk5acUpLbzhqS0Z6N0xrR0xSdVZKbmNrTV9BeFZEMWFqd05pVExGTWZwTHI2TW9TSjIzVmVpVElrNExBZFdjb3c1RVgwcWVxVHdsQVhQOHBZYkszREJXTGtJMlJKNVlOMjhV?oc=5",
+      "source": "MakeUseOf",
+      "published_at": "2026-10-25 03:00 +0800",
+      "companies": [
+        "Meta",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 151.5
+    },
+    {
+      "id": "873f883ec973ba7a",
+      "title": "正听 | 安全借口难掩美打压中国AI企业的真实意图 - 中国科技网",
+      "summary": "正听 | 安全借口难掩美打压中国AI企业的真实意图 中国科技网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "正听 | 安全借口难掩美打压中国AI企业的真实意图 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GUWwwRmRGQnVLMUYyWXQ5bWRxUmFSNndmSGxLcjdKX1lBdmJ6d1psYk5IVThvRHdrX3R0MWROeDNVVFNldWNkSzA2Uy00U19iSTdGYzFEZU9KUHRWel91UGRTY3dIRk9UOFNhV2R2THI?oc=5",
+      "source": "中国科技网",
+      "published_at": "2026-10-23 15:47 +0800",
+      "companies": [
+        "DeepSeek"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 151.0
+    },
+    {
+      "id": "2fe53ca0a2161fdf",
+      "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 - 新浪新闻_手机新浪网",
+      "summary": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 新浪新闻_手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakRER3BibDJsOGFhVU9PS1ZXYlpjTk0zLWxyR0lidGo0emZDSS1lRXdTck9neFl0OERkeTVGQ21GejdQT0ZlMTJUeElKQ2pMYjRfY2xDU0F6TnkxV3lBWTdILWlmdlBsVDNBUDVibE0wX21fNzFRdGhfXzJ4S3dTZzBreUFKWWFtREotbTFhelhCOU1lb0ZQY29iQnV3d2NG?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "published_at": "2026-10-23 19:07 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "research_paper",
+        "robotics"
+      ],
+      "importance": 150.0
+    },
+    {
+      "id": "ce69f7768c91a79e",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
+      "summary": "TechCrunch 报道了「Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括OpenAI、xAI、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-24 23:00 +0800",
+      "companies": [
+        "OpenAI",
+        "xAI",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "f3196ca44726d6e5",
+      "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch - The New Stack",
+      "summary": "The New Stack 报道了「AWS says its AI security agent fixes 89% of bugs — but there’s a catch - The New Stack」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Amazon、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnk4WGwyemZBZm5VWjZfOElWcEVwaVA3SG9BMWJWQlpxRTdPYWpXNTB3Q0M3dm5TQldLWUM5NzdJM19aT0ktaGNSSXpBTHF1YVYtZ0JGc1BrZ2VjTU12MDFpMDROWHMwbWJUSnRQbTUwWU9FUFdpaE1neTVHY2RITU95d3lUU2E2eTZpeWlpRWlKaGRZ?oc=5",
+      "source": "The New Stack",
+      "published_at": "2026-10-24 22:34 +0800",
+      "companies": [
+        "Amazon",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics",
+        "safety_security"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "d07735803b5443fe",
+      "title": "Here are the top AI agents that can live in your text messages - TechCrunch",
+      "summary": "TechCrunch 报道了「Here are the top AI agents that can live in your text messages - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括AMD、Intel。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Here are the top AI agents that can live in your text messages TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT29aUTlNYkhPZkZvSVAteXgxa2ZkMEVmcFN1Rl9YdTJvaGdsNXRuX0w5SmJlcTNoZmcxd3JPMnR2QmFraWdxSmUta3NhX0gtNDhyWTN5RTV3ZlF4N2JmUFNwTlJQZHJ0OFh5alZnbXhaWDBhUEFYQmZMbElRVEJlOXVxeFFLNHYwTW5pVlhGWm1xUQ?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-24 22:00 +0800",
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "b1c0d2321fb5e390",
+      "title": "On-device AI Is ready to challenge cloud dominance - TechCrunch",
+      "summary": "TechCrunch 报道了「On-device AI Is ready to challenge cloud dominance - TechCrunch」相关进展。 该消息涉及AI Agent、AI 产品、AI 芯片、企业应用方向，关联主体包括Intel、Hugging Face。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "On-device AI Is ready to challenge cloud dominance TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFQyam9kX2pPMFd0RmVqRkJVYnIyNzJvOHZycm1sY3RPaUxBWEJ1LTFUVnpXbmk1Y1NuYU5mYjZsUmRXemZ0cllWVVNpb255UzZIYmpGVDNuQjhMVnBjdnlvUDVBZ2dwZW5wSWN0M2NTTFBsNUsxQzQ3UEI4YjdBbjFMeUdsMHptV1ZNUlRWTTJoXzg?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-25 04:15 +0800",
+      "companies": [
+        "Intel",
+        "Hugging Face"
+      ],
+      "country_focus": "US",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "enterprise_ai",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.5
+    },
+    {
+      "id": "1b74b004ff95b980",
+      "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振中国AI“出海”信心 - 凤凰网科技",
+      "summary": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振中国AI“出海”信心 凤凰网科技 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振中国AI“出海”信心 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kY0NaNGVVTkVkeEFKLURkdUlFaVd5REZDWFYtRUFTS00xN3lRU2RVUUtkLTE3dGlJSG1sSHdOZm96RVZXbWZMejZIcmQ?oc=5",
+      "source": "凤凰网科技",
+      "published_at": "2026-10-25 13:13 +0800",
+      "companies": [
+        "DeepSeek",
+        "MiniMax"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "9ba58e7260ab68a8",
+      "title": "拥抱AI时代，企业如何探索AI转型之道？ - 手机新浪网",
+      "summary": "拥抱AI时代，企业如何探索AI转型之道？ 手机新浪网 该事件与今日 AI 技术、产品或产业动态相关。",
+      "details": "拥抱AI时代，企业如何探索AI转型之道？ 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWxrX01vSXMxRHQ3TVFkUUZjRl9kanRIc3NZa21XWUh3d1lxZnFxRTFlaDhmMkRjMnlMV0V5aU9ja0pZOThZOFFZbnJCTExLa0NubE5neGlLZ2IzZXg4THVQYVhEUnJUWGhKMUNkVDBnYTN3UWNjSDRQVTh5dEdnb0Rn?oc=5",
+      "source": "手机新浪网",
+      "published_at": "2026-10-24 20:40 +0800",
+      "companies": [
+        "StepFun"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 149.0
+    },
+    {
+      "id": "973eaf4dd9c50679",
+      "title": "百度搭子企业用户环比增长83%：下一步瞄准生产线 - 搜狐网",
+      "summary": "百度搭子企业用户环比增长83%：下一步瞄准生产线 搜狐网 该事件与今日 AI 技术、产品或产业动态相关。 更多背景、数据和引用可查看原文。",
+      "details": "百度搭子企业用户环比增长83%：下一步瞄准生产线 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SXdRVWtRN1E5OERYanJ1Umc2VW4zenlWbFFLdEJ1Qlk3MWZNMTVMMURKVHFnQ25oT2xIaUFMc0ljMTcwZDdkM3NsYnlib0pLRWpv?oc=5",
+      "source": "搜狐网",
+      "published_at": "2026-10-23 16:37 +0800",
+      "companies": [
+        "Baidu"
+      ],
+      "country_focus": "CN",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "chips",
+        "commercial",
+        "enterprise_ai",
+        "large_model",
+        "open_source_model",
+        "robotics"
+      ],
+      "importance": 144.0
+    },
+    {
+      "id": "cac3b43f72f50768",
+      "title": "Shadow AI Puts Customer Data and CX at Risk as Agents Raise the Stakes - CX Today",
+      "summary": "CX Today 报道了「Shadow AI Puts Customer Data and CX at Risk as Agents Raise the Stakes - CX Today」相关进展。 该消息涉及AI Agent、AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Shadow AI Puts Customer Data and CX at Risk as Agents Raise the Stakes CX Today",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZGROT25RSFRqNndVWWJtRzJ4Mmh3U1ptZmpvenV6UUgxV19jY2RNMWIyN2VWN3lNd0NJc1QxblVxLXJiaFNBUjJfbW9kRHhTdVM2UDlBNnNncmJiTzZBT0VnMlFPV2FUelRwNno2YUo?oc=5",
+      "source": "CX Today",
+      "published_at": "2026-10-23 22:01 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 95.5
+    },
+    {
+      "id": "cc93f812ceec741c",
+      "title": "NandaIndex: Making AI Agents Discoverable Without Owning a Domain - MIT Media Lab",
+      "summary": "MIT Media Lab 报道了「NandaIndex: Making AI Agents Discoverable Without Owning a Domain - MIT Media Lab」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "NandaIndex: Making AI Agents Discoverable Without Owning a Domain MIT Media Lab",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkxDTG8xaDV6OHhabS1vbWFUVURYYVp4LWhMLWJEQlgtdmJwYnNRVHRvNE13RFU5Qlo1RWJ3WlB6djlsT3Q0TUVXTGJ0VGJNVEhrQ1dUZ1ZnWmh1dEx2NEdkSzJ4T3BOX3BLY2Y5OFRVUE5OWnpqOTRkdFR1aGx4SDdrM2pSYk5jYUpwWE50M3M0NEV3ZXF0N3U0YzZFZjZGWGc?oc=5",
+      "source": "MIT Media Lab",
+      "published_at": "2026-10-25 00:06 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 93.5
+    },
+    {
+      "id": "1fb4e0077d3a710b",
+      "title": "SentinelOne AI Security Expansion Gives Oppenheimer a Growth Case - remio",
+      "summary": "remio 报道了「SentinelOne AI Security Expansion Gives Oppenheimer a Growth Case - remio」相关进展。 该消息涉及AI 产品、企业应用、安全事件方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "SentinelOne AI Security Expansion Gives Oppenheimer a Growth Case remio",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVno3amJ6WjJnWndTVUUxVkFMaVp3VVFkLUc3T3psN0cwS2ZQaklGbHU1QnA2T185bG9NNFdsaGVHSTNUeEc5X0c4cy11SVBsVURxekJ4cGpFejJ5RzhXdHRXT1U3VkpKaC1EcVdrUmNjZnlLYUp4ZExpYXNTSkF5SW40VFBjTDRPblE1aW9nZklqUkZFZVE?oc=5",
+      "source": "remio",
+      "published_at": "2026-10-24 22:42 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_product",
+        "enterprise_ai",
+        "safety_security"
+      ],
+      "importance": 90.0
+    },
+    {
+      "id": "d15077926ec3607b",
+      "title": "Stop the insider threat lurking in AI agents - CIO",
+      "summary": "CIO 报道了「Stop the insider threat lurking in AI agents - CIO」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Stop the insider threat lurking in AI agents CIO",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTI3dFJBRVVnZmtIYU1kWmhNN1d0dHVyb0xtUkhTNlpGdUI5MVI1d2NNQzk4QURyWnZTbklFM2tiamxJWnduQ1BiRHZRTHYtVkZ3YWd2cUk4SnpZTHRlWEJYbUJaUlpCaVd3dDJ4aDhzT0dyRWdROXFxelNZc3p0WUllZXkyTDN0NUdPOWFB?oc=5",
+      "source": "CIO",
+      "published_at": "2026-10-23 22:39 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    },
+    {
+      "id": "4a946e8b02ca9138",
+      "title": "Sprinklr's VOC Agent Suite Targets the Agentic AI Moment - The Futurum Group",
+      "summary": "The Futurum Group 报道了「Sprinklr's VOC Agent Suite Targets the Agentic AI Moment - The Futurum Group」相关进展。 该消息涉及AI Agent、AI 产品、企业应用方向，关联主体包括相关公司/机构。 相关事实已整理为中文概览，完整背景、数据和引用以原文为准。",
+      "details": "Sprinklr's VOC Agent Suite Targets the Agentic AI Moment The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVE3NGFYYXBXZTNWZGtYeTRiQVQ4Rl9fVXVydkVaR21rVXBQeWNWMTFvTnFSLUx6bEk1M29MQzR2b1RxanU5dndhdURjYlU1OFg3ZzlDd01tU0lZNXhfNmFCRkZwcTl6U2l1Z0ZXZXFNYXJlMkt0czRYdHF1MzhiOV9ESWxQanJhWmktNUcwZDN6cHJD?oc=5",
+      "source": "The Futurum Group",
+      "published_at": "2026-10-23 20:08 +0800",
+      "companies": [],
+      "country_focus": "OTHER",
+      "topics": [
+        "ai_agent",
+        "ai_product",
+        "enterprise_ai"
+      ],
+      "importance": 88.5
+    }
+  ]
+}
